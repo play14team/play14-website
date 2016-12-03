@@ -125,7 +125,7 @@ sponsors:
     <h3>
       Our next events
       /
-      <a href='portfolio.html'>View more</a>
+      <a href='events.html'>View more</a>
     </h3>
     <div class='spacing'></div>
   </div>
@@ -133,7 +133,7 @@ sponsors:
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
       {% for event in page.events %}
         <li class='{{event.class}}'>
-          <a href='portfolio-item.html'>
+          <a href='event.html'>
             <img alt="" src="{{event.image}}" />
             <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
               <div class='thumb-info'>
@@ -170,6 +170,20 @@ sponsors:
       </div>
     </div>
   {% endfor %}
+</div>
+<div class='full no-padding' style='background: #f5f5f5'>
+  <div class='two spacing'></div>
+  <div class='mod modCallToAction'>
+    <div class='row'>
+      <div class='medium-9 large-9 columns'>
+        <p>Do you want to know more about what to expect when you join an event ?</p>
+      </div>
+      <div class='medium-3 large-3 columns'>
+        <a class='button' href='about.html'>Learn more</a>
+      </div>
+    </div>
+  </div>
+  <div class='spacing'></div>
 </div>
 <hr>
 <div class='two spacing'></div>
@@ -271,18 +285,4 @@ sponsors:
     </div>
   {% endfor %}
   <div class='two spacing'></div>
-</div>
-<div class='full no-padding' style='background: #f5f5f5'>
-  <div class='two spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-9 large-9 columns'>
-        <p>Do you want to know more about what to expect when you join an event ?</p>
-      </div>
-      <div class='medium-3 large-3 columns'>
-        <a class='button' href='event-description.html'>Learn more</a>
-      </div>
-    </div>
-  </div>
-  <div class='spacing'></div>
 </div>
