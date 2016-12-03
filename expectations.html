@@ -1,0 +1,130 @@
+---
+layout: default
+section_id: expectations
+
+price_boxes:
+  - type: free
+    desc: Perfect for freelancers
+    cost: 0
+    lines:
+      - 15 Users
+      - 10 Projects
+      - 30GB of Storage
+      - 5 Workspaces
+      - Private Forums
+      - Enhanced Security
+  - type: basic
+    desc: Perfect for small teams
+    cost: 20
+    lines:
+      - 15 Users
+      - 10 Projects
+      - 30GB of Storage
+      - 5 Workspaces
+      - Private Forums
+      - Enhanced Security
+  - type: plus
+    desc: Popular and hot selling
+    cost: 45
+    lines:
+      - 15 Users
+      - 10 Projects
+      - 30GB of Storage
+      - 5 Workspaces
+      - Private Forums
+      - Enhanced Security
+    class: featured
+  - type: Premium
+    desc: Perfect for big companies
+    cost: 99
+    lines:
+      - 15 Users
+      - 10 Projects
+      - 30GB of Storage
+      - 5 Workspaces
+      - Private Forums
+      - Enhanced Security
+
+---
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>Your main expectations</h3>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% for expectation in site.data.expectations.main %}
+      <div class='medium-3 large-3 columns'>
+        <div class='fadein mod modIconText' data-delay='{{ 200 | times:forloop.index }}'>
+          <div class='icon-text-circle'>
+            <i class='{{expectation.icon_class}}'></i>
+            <h3>{{expectation.name}}</h3>
+            <p>{{expectation.desc}}</p>
+          </div>
+          <div class='two spacing'></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <hr>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>Other expectations</h3>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% for expectation in site.data.expectations.other %}
+            <div class='box' style='background: #f9f9f9;'>
+              <i class='{{expectation.icon_class}}'></i>
+              <h4>{{expectation.title}}</h4>
+              <p>{{expectation.desc}}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='spacing'></div>
+  <hr>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>Prices</h3>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <!--<div class='row'>
+    {% for box in page.price_boxes %}
+      <div class='medium-6 large-3 columns'>
+        <div class='mod modPriceBox {{box.class}}'>
+          <div class='info'>
+            <p class='level'>{{box.type}}</p>
+            <p class='desc'>{{box.desc}}</p>
+            <p class='price'>
+              <span class='dollar'>$</span>
+              <span class='number'>{{box.cost}}</span>
+            </p>
+          </div>
+          <div class='features'>
+            <ul>
+              {% for line in box.lines %}
+                <li class="{% cycle '', 'even' %}">{{line}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <p class='start'>
+            <a class='button small' href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Start Trial</a>
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>-->
+  <div class='two spacing'></div>
+</div>

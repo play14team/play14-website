@@ -1,0 +1,35 @@
+main:
+  - icon_class: fa fa-paper-plane-o
+    title: Games
+    desc: "Any real world activity used as a metaphor for learning, sharing and understanding. Because we want to focus on the face to face nature of play and we believe it to be most relevant in the context of this event, we will not use nor create any digital or video games during the event."
+  - icon_class: fa fa-lightbulb-o
+    title: New ideas
+    desc: "Get new ideas for games and activities that you will be able to try out right away with your teams when you go back home. Play games that you already know and learn about variations, or discover completely new activities and learn how to facilitate them."
+  - icon_class: fa fa-comments-o
+    title: Conversations
+    desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR." 
+  - icon_class: fa fa-flask
+    title: Experiment
+    desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
+
+other:
+  - icon_class: fa fa-trophy
+    title: Design
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+  - icon_class: fa fa-compass
+    title: Art Direction
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+  - icon_class: fa fa-star-half-empty
+    title: Branding
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+  - icon_class: fa fa-image
+    title: Photography
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+  - icon_class: fa fa-dot-circle-o
+    title: Marketing
+    desc:
+      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.

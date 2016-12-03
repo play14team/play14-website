@@ -4,9 +4,9 @@
 - name: About
   path: about.html
   section_id: about
-- name: Services
-  path: services.html
-  section_id: services
+- name: Expectations
+  path: expectations.html
+  section_id: expectations
 - name: Events
   path: events/
   section_id: events

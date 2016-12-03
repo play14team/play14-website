@@ -20,20 +20,6 @@ slides:
     title: And tomorrow...
     tagline: the world
     
-services:
-  - icon_class: fa fa-paper-plane-o
-    title: Games
-    desc: "Any real world activity used as a metaphor for learning, sharing and understanding. Because we want to focus on the face to face nature of play and we believe it to be most relevant in the context of this event, we will not use nor create any digital or video games during the event."
-  - icon_class: fa fa-lightbulb-o
-    title: New ideas
-    desc: "Get new ideas for games and activities that you will be able to try out right away with your teams when you go back home. Play games that you already know and learn about variations, or discover completely new activities and learn how to facilitate them."
-  - icon_class: fa fa-comments-o
-    title: Conversations
-    desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR." 
-  - icon_class: fa fa-flask
-    title: Experiment
-    desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
-
 bars:
   - title: Facilitation
     percent: 84
@@ -128,18 +114,18 @@ testimonials:
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
-    <h3>What you get when attending an event</h3>
+    <h3>What can you expect when attending an event ?</h3>
     <div class='two spacing'></div>
   </div>
 </div>
 <div class='row'>
-  {% for service in page.services %}
+  {% for expectation in site.data.expectations.main %}
     <div class='medium-3 large-3 columns'>
       <div class='fadein mod modIconText' data-delay='{{ 200 | times:forloop.index0 }}'>
         <div class='icon-text-circle'>
-          <i class='{{service.icon_class}}'></i>
-          <h3>{{service.title}}</h3>
-          <p>{{service.desc}}</p>
+          <i class='{{expectation.icon_class}}'></i>
+          <h3>{{expectation.title}}</h3>
+          <p>{{expectation.desc}}</p>
         </div>
         <div class='two spacing'></div>
       </div>
