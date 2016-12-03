@@ -52,6 +52,7 @@ testimonials:
 
 ---
 
+<!--Slides-->
 <div class='full no-padding'>
   <div class='two spacing'></div>
   <div class='row'>
@@ -72,6 +73,8 @@ testimonials:
     </div>
   </div>
 </div>
+
+<!--Description-->
 <div class='full no-padding'>
   <div class='spacing'></div>
   <div class='row'>
@@ -86,6 +89,8 @@ testimonials:
   </div>
   <hr>
 </div>
+
+<!--Next events-->
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
@@ -98,16 +103,16 @@ testimonials:
   </div>
   <div class='mod modGallery'>
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% assign events = site.data.events.future | reverse %}
-      {% for event in events %}
-        <li class='{{event.class}}'>
-          <a href='event.html'>
-            <img alt="" src="{{event.image}}" />
-            <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
+      {% assign events = site.events | where_exp:"event","event.done == false" | reverse %}
+      {% for event in events reversed %}
+        <li class='{{event.category}}'>
+          <a href='{{event.url}}'>
+            <img alt="" src="{{event.images[0]}}" />
+            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
               <div class='thumb-info'>
                 <h3>{{event.title}}</h3>
                 <p>{{event.dates}}</p>
-                <p>{{event.location}}</p>
+                <p>{{site.data.locations[event.location].name}}</p>
               </div>
             </div>
           </a>
@@ -116,6 +121,8 @@ testimonials:
     </ul>
   </div>
 </div>
+
+<!--What you get-->
 <div class='two spacing'></div>
 <hr>
 <div class='two spacing'></div>
@@ -139,6 +146,8 @@ testimonials:
     </div>
   {% endfor %}
 </div>
+
+<!--Know more-->
 <div class='full no-padding' style='background: #f5f5f5'>
   <div class='two spacing'></div>
   <div class='mod modCallToAction'>
@@ -154,6 +163,8 @@ testimonials:
   <div class='spacing'></div>
 </div>
 <hr>
+
+<!--What it's about-->
 <div class='two spacing'></div>
 <div class='row'>
   <div class='medium-6 columns'>
@@ -206,6 +217,8 @@ testimonials:
   </div>
 </div>
 <hr>
+
+<!--Sponsors-->
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
@@ -230,6 +243,8 @@ testimonials:
   </div>
 </div>
 <hr>
+
+<!--Recent posts-->
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>

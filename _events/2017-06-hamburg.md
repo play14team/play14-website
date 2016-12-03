@@ -1,0 +1,14 @@
+---
+layout: event
+
+title: Hamburg 2017 is coming soon
+category: hamburg
+done: false
+dates: June 2017
+location: GoodgameStudios
+images:
+  - images/events/hamburg.jpg
+---
+
+### Description
+For the second time, #play14 will reach Hamburg for a great event.

@@ -1,0 +1,54 @@
+Technoport:
+    name: Technoport
+    area: Esch/Belval
+    address: >
+        9, avenue des Hauts-Fourneaux
+        L-4362 Esch-sur-Alzette  
+    url: http://www.technoport.lu
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20723.71349371132!2d5.964228003547424!3d49.51351172884244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe8b8bed0e26f33a!2sTechnoport+S.a.!5e0!3m2!1sen!2slu!4v1480793868583
+
+GoodgameStudios:
+    name: Goodgame Studios
+    area: Westend Village
+    address: >
+        Theodorstraße 42-90, Haus 9
+        22761 Hamburg, Germany
+    url: https://www.goodgamestudios.com
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.386461593076!2d9.897745516212382!3d53.56871908002633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b185cd2f283efb%3A0x5ff20e1640862502!2sGoodgame+Studios!5e0!3m2!1sen!2slu!4v1480794652104
+  
+Headspace:
+    name: Headspace
+    area: Farringdon
+    address: >
+        21 Hatton Garden 
+        London EC1N 8BA
+    url: http://www.headspacegroup.co.uk/
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.6780840359784!2d-0.10990538384659447!3d51.51912167963703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b4dc883add9%3A0x8f1ad3d28b043a37!2sHeadspace!5e0!3m2!1sen!2slu!4v1480798062092
+
+AmericanUniversityBeirut:
+    name: American University of Beirut
+    area: Bliss
+    address: >
+        Bliss, Beirut, Lebanon
+    url: http://www.aub.edu.lb/
+    map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13246.217330597314!2d35.4811142!3d33.90113!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6189012b4bd99908!2sAmerican+University+of+Beirut!5e0!3m2!1sen!2slu!4v1480798657116
+    
+TheAppBusiness:
+    name: The App Business
+    area: Kings Cross
+    address: >
+        The Spitfire Building 
+        71 Collier Street
+        London N1 9BE
+    url: http://www.theappbusiness.com/
+    map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9927.908804183871!2d-0.118974!3d51.531978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xddac8c198394a1dc!2sThe+App+Business!5e0!3m2!1sen!2slu!4v1480799032019
+
+SpazioMil:
+    name: Spazio Mil
+    area: Sesto San Giovanni
+    address: >
+        Via Granelli, 1
+        20099 Sesto San Giovanni 
+        Milano, Italy
+    url: http://www.spaziomil.org/
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.0775985719397!2d9.222217315990855!3d45.52864397910185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c75ed6aa39bd%3A0x1a993269ff0deaa4!2sSpazio+MIL!5e0!3m2!1sen!2slu!4v1480800255231

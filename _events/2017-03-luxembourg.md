@@ -1,0 +1,19 @@
+---
+layout: event
+
+title: Luxembourg 2017 is gonna be awesome
+category: luxembourg
+done: false
+dates: March 23-25 2017
+location: Technoport
+images:
+  - images/events/luxembourg.jpg
+  - images/events/luxembourg/technoport01.jpg
+  - images/events/luxembourg/technoport02.jpg
+  - images/events/luxembourg/allweneedisagile.jpg
+
+eventbrite: https://play14-luxembourg2017.eventbrite.com
+---
+
+### Description
+For the very first time, the Luxembourg event will be held from Thursday evening till Saturday evening.

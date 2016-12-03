@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% assign location = site.data.locations[page.location] %}
+<div class='full'>
+  <div class='row'>
+    <h2>{{page.title}}</h2>
+
+    <div class='spacing'></div>
+    {% if page.eventbrite %}
+      <a class='button small' href='{{page.eventbrite}}'>Register Now</a>
+      <div class='spacing'></div>
+    {% endif %}
+
+    <div class='spacing'></div>
+    <div>
+      {{content}}
+    </div>
+
+    <div class='large-8 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          {% for image in page.images %}
+            <div class="slide">
+              <img src="{{site.url}}/{{image}}" alt="" style="display:block; max-height:500px; width: auto;">
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class='large-4 columns'>
+      <ul class='info'>
+        <li>
+          <strong>Date:</strong>
+          {{page.dates}}
+        </li>
+        <li>
+          <strong>Location:</strong>
+          <a href="{{location.url}}" target="_blank">
+            {{location.name}}, {{location.area}}
+          </a>
+        </li>
+        <li>
+          <iframe src="{{location.map}}" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </li>
+      </ul>
+      <ul class='info'>
+        <li>
+          <div class='spacing'></div>
+          <a href='' title='previous'>
+            <i class='icon-left-open'></i>
+          </a>
+          <a href='{{site.url}}/events/' title='back to events list'>
+            <i class='icon-layout'></i>
+          </a>
+          <a href='' title='next'>
+            <i class='icon-right-open'></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>

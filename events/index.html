@@ -30,31 +30,14 @@ section_id: events
           </li>
         </ul>
       </div>
-      <h3>Future events</h3>
+
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for event in site.data.events.future %}
-          <li class='{{event.class}}'>
-            <a href='{{event.link_to}}'>
-              <img alt="" src="{{site.url}}/{{event.image}}" />
-              <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
-                <div class='thumb-info'>
-                  <h3>{{event.title}}</h3>
-                  <p>{{event.dates}}</p>
-                  <p>{{event.location}}</p>
-                </div>
-              </div>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-      <div class='two spacing'></div>
-      <h3>Passed events</h3>
-      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for event in site.data.events.past %}
-          <li class='{{event.class}}'>
-            <a href='{{event.link_to}}'>
-              <img alt="" src="{{site.url}}/{{event.image}}" />
-              <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
+        {% assign events = site.events | reverse  %}
+        {% for event in events %}
+          <li class='{{event.category}}'>
+            <a href='{{event.url}}'>
+              <img alt="" src="{{site.url}}/{{event.images[0]}}" />
+              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{event.title}}</h3>
                   <p>{{event.dates}}</p>
@@ -67,13 +50,13 @@ section_id: events
       </ul>
     </div>
   </div>
-  <div class='four spacing'></div>
+  <!--<div class='four spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
       <p class='centered-text'>
         <a class='button' href='#'>See more works</a>
       </p>
     </div>
-  </div>
+  </div>-->
   <div class='four spacing'></div>
 </div>
