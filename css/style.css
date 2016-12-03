@@ -15,7 +15,7 @@
 
 /*some basic settings */
 a {
-  color: #F9CE06;
+  color: #FF5200;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   -webkit-transition-duration: 0.3s;
@@ -77,7 +77,7 @@ ul.shortcode-list {
   margin: 0 0 20px;
 }
 ul.shortcode-list i {
-  color: #F9CE06;
+  color: #FF5200;
   margin-right: 3px;
 }
 
@@ -101,8 +101,8 @@ ul.shortcode-list i {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #f9ce06;
-  border: 3px solid #F9CE06;
+  background-color: #FF5200;
+  border: 3px solid #FF5200;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -112,7 +112,7 @@ ul.shortcode-list i {
   margin: 0;
 }
 .big-social i:hover {
-  border: 3px solid #F9CE06;
+  border: 3px solid #FF5200;
   background-color: rgba(249, 206, 6, 0);
 }
 
@@ -186,12 +186,12 @@ ul.shortcode-list i {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  background: #F9CE06;
-  border: 2px solid #F9CE06;
+  background: #FF5200;
+  border: 2px solid #FF5200;
 }
 
 .button:hover {
-  background-color: rgba(249, 206, 6, 0.8);
+  background-color: #FFC900;
 }
 
 .button.boxed {
@@ -430,7 +430,7 @@ ul.info a {
   margin-right: 5px;
 }
 ul.info i {
-  border: 1px solid #F9CE06;
+  border: 1px solid #FF5200;
   padding: 5px;
   -moz-transition: all 0.1s linear;
   -o-transition: all 0.1s linear;
@@ -438,7 +438,7 @@ ul.info i {
   transition: all 0.1s linear;
 }
 ul.info i:hover {
-  background: #F9CE06;
+  background: #FF5200;
   color: #fff;
 }
 
@@ -479,7 +479,7 @@ form input.error, form textarea.error {
   color: #999;
 }
 .pager a:hover {
-  color: #F9CE06;
+  color: #FF5200;
 }
 .pager .older {
   float: left;
@@ -584,7 +584,7 @@ form input.error, form textarea.error {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  background: #F9CE06;
+  background: #FF5200;
 }
 #footer input.email-address {
   padding: 5px 15px;
@@ -622,7 +622,7 @@ body.screenshot {
 }
 .modBarGraph .bars p.highlighted {
   width: 0;
-  background: #F9CE06;
+  background: #FFC900;
   height: 12px;
 }
 
@@ -864,7 +864,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost h4 a:hover {
-  color: #f9ce06;
+  color: #FF5200;
 }
 .modBlogPost .date {
   font-size: 0.78571rem;
@@ -919,7 +919,7 @@ body.screenshot {
   color: #333;
 }
 .modBlogPost.big h3 a:hover {
-  color: #f9ce06;
+  color: #FF5200;
 }
 .modBlogPost.big h4 {
   font-size: 1.7rem;
@@ -1200,7 +1200,7 @@ body.screenshot {
 }
 .modBoxedSlider .caption p {
   display: inline-block;
-  background: #F9CE06;
+  background: #FF5200;
   color: #fff;
   font-family: "droid serif";
   margin-bottom: 0;
@@ -1225,7 +1225,7 @@ body.screenshot {
   margin-bottom: 40px;
 }
 .modBoxedTextSlider .box i {
-  color: #F9CE06;
+  color: #FF5200;
   font-size: 36px;
   width: 48px;
   height: 48px;
@@ -2344,10 +2344,10 @@ body.screenshot {
   color: #999;
 }
 .modGallery .gallery-nav li.current {
-  border: 1px solid #F9CE06;
+  border: 1px solid #FF5200;
 }
 .modGallery .gallery-nav li.current a {
-  color: #F9CE06;
+  color: #FF5200;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -2448,7 +2448,7 @@ body.screenshot {
   margin: 0;
 }
 .modIconText .icon-text-circle:hover i {
-  color: #F9CE06;
+  color: #FFC900;
 }
 .modIconText .icon-text-simple i {
   font-size: 3.42857rem;
@@ -2481,10 +2481,10 @@ body {
   color: #999;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #F9CE06;
+  border: 1px solid #FF5200;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #F9CE06;
+  color: #FF5200;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
@@ -2571,7 +2571,7 @@ body {
 .modMilestone i {
   font-size: 36px;
   color: #333;
-  background: #F9CE06;
+  background: #FF5200;
   width: 90px;
   height: 90px;
   -moz-border-radius: 45px;
@@ -2662,7 +2662,7 @@ body {
 }
 
 .modPriceBox.featured .info {
-  border-top: 4px solid #F9CE06;
+  border-top: 4px solid #FF5200;
 }
 
 .modPriceBox:hover {
@@ -2677,7 +2677,7 @@ body {
   width: 66%;
   margin: 0 auto;
   height: 2px;
-  background: #F9CE06;
+  background: #FF5200;
   display: block;
 }
 
@@ -2777,7 +2777,7 @@ body {
   border: 1px solid #999;
 }
 .modStylePanel a#yellow {
-  background: #F9CE06;
+  background: #FF5200;
 }
 .modStylePanel a#red {
   background: #e92b05;
@@ -2865,7 +2865,7 @@ body {
   -moz-border-radius: 18px;
   -webkit-border-radius: 18px;
   border-radius: 18px;
-  background: #F9CE06;
+  background: #FF5200;
   color: #fff;
   text-align: center;
   font-size: 1.125rem;
