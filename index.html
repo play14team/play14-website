@@ -20,28 +20,6 @@ slides:
     title: And tomorrow...
     tagline: the world
     
-events:
-  - image: images/@stock/one-page-work-1.jpg
-    title: Luxembourg
-    dates: March 23-25 2017
-    location: Technoport, Esch/Belval
-    class: graphic-design
-  - image: images/@stock/one-page-work-5.jpg
-    title: Milano
-    dates: May 2017
-    location: TBD
-    class: web-design print
-  - image: images/@stock/one-page-work-3.jpg
-    title: Hamburg
-    dates: June 2017
-    location: Good Games Studio
-    class: brand
-  - image: images/@stock/one-page-work-4.jpg
-    title: London
-    dates: Sept. 2017
-    location: TBD
-    class: development
-
 services:
   - icon_class: fa fa-paper-plane-o
     title: Games
@@ -120,7 +98,8 @@ testimonials:
   </div>
   <div class='mod modGallery'>
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% for event in page.events %}
+      {% assign events = site.data.events.future | reverse %}
+      {% for event in events %}
         <li class='{{event.class}}'>
           <a href='event.html'>
             <img alt="" src="{{event.image}}" />
