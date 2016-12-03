@@ -68,13 +68,9 @@ bars:
 
 testimonials:
   - text: "I am proud of what #play14 has become. Players are happy to join our events and curious to learn new things. They go back home with tons of new ideas and games to try out with their teams. More than an event, we have created a community."
-    author: Cédric Pontet
-    position: #play14 original co-founder
-    avatar: images/pleople/Cedric_Pontet.jpg
+    author: cedric_pontet
   - text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-2.png
+    author: yann_gensollen
 
 sponsors:
   - images/@stock/client-grey-1.png
@@ -214,18 +210,19 @@ sponsors:
         <div class='small-12 columns'>
           <div class='items'>
             {% for t in page.testimonials  %}
+              {% assign author = site.data.people[t.author] %}
               <div class='item'>
                 <p class='quote'>{{t.text}}</p>
                 <div class='author'>
                   <p class='author-avatar'>
-                    <img alt="" src="{{t.avatar}}" width="80px" />
+                    <img alt="" src="{{author.avatar}}" width="80px" />
                   </p>
                   <p class='author-name'>
                     -
                     <strong>
-                      {{t.author}}
+                      {{author.name}}
                     </strong>
-                    , {{t.position}}
+                    , {{author.bio}}
                   </p>
                 </div>
               </div>
