@@ -2,9 +2,8 @@
 title: '#play14'
 email: team@play14.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  '#play14 : We believe in playfulness.
+  An international gathering for people who share the idea that playing is a great way to teach, learn and understand!'
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://play14team.github.io/play14-website" # the base hostname & protocol for your site
 twitter_username: play14team
