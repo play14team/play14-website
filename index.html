@@ -1,8 +1,12 @@
 ---
 layout: default
 section_id: home
+
 # size : 1590 x 545
 slides:
+  - bg: images/photos/play14_black_bg_1090x545.png
+    title: A community
+    tagline: We believe in playfulness
   - bg: images/photos/technoport_lunch_area.jpg
     title: Luxembourg
     tagline: Technoport
@@ -12,65 +16,67 @@ slides:
   - bg: images/photos/marketplace.jpg
     title: Hamburg
     tagline: Marketplace
-
+  - bg: images/photos/play14movement.png
+    title: And tomorrow...
+    tagline: the world
     
-works:
+events:
   - image: images/@stock/one-page-work-1.jpg
-    title: Beautiful Girl
-    desc: Design &amp; Development
+    title: Luxembourg
+    dates: March 23-25 2017
+    location: Technoport, Esch/Belval
     class: graphic-design
   - image: images/@stock/one-page-work-5.jpg
-    title: Look at me
-    desc: Design &amp; Development
+    title: Milano
+    dates: May 2017
+    location: TBD
     class: web-design print
   - image: images/@stock/one-page-work-3.jpg
-    title: Am I cute
-    desc: Design &amp; Development
+    title: Hamburg
+    dates: June 2017
+    location: Good Games Studio
     class: brand
   - image: images/@stock/one-page-work-4.jpg
-    title: Umbrella
-    desc: Design &amp; Development
+    title: London
+    dates: Sept. 2017
+    location: TBD
     class: development
 
 services:
   - icon_class: fa fa-paper-plane-o
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-  - icon_class: fa fa-tablet
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
+    title: Games
+    desc: "Any real world activity used as a metaphor for learning, sharing and understanding. Because we want to focus on the face to face nature of play and we believe it to be most relevant in the context of this event, we will not use nor create any digital or video games during the event."
+  - icon_class: fa fa-lightbulb-o
+    title: New ideas
+    desc: "Get new ideas for games and activities that you will be able to try out right away with your teams when you go back home. Play games that you already know and learn about variations, or discover completely new activities and learn how to facilitate them."
   - icon_class: fa fa-comments-o
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
+    title: Conversations
+    desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR." 
   - icon_class: fa fa-flask
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
+    title: Experiment
+    desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
 
 bars:
-  - title: Web Design
+  - title: Facilitation
     percent: 84
-  - title: Web Development
-    percent: 95
-  - title: Site Management
+  - title: Innovation
     percent: 70
-  - title: Branding
-    percent: 61
+  - title: Change Management
+    percent: 60
+  - title: Happiness
+    percent: 90
 
 testimonials:
-  - text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-1.png
+  - text: "I am proud of what #play14 has become. Players are happy to join our events and curious to learn new things. They go back home with tons of new ideas and games to try out with their teams. More than an event, we have created a community."
+    author: Cédric Pontet
+    position: #play14 original co-founder
+    avatar: images/pleople/Cedric_Pontet.jpg
   - text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
     author: David White
     position: Designer at Huglab
     avatar: images/@stock/author-avatar-2.png
-  - text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-3.png
 
-clients:
+sponsors:
   - images/@stock/client-grey-1.png
   - images/@stock/client-grey-2.png
   - images/@stock/client-grey-3.png
@@ -104,7 +110,10 @@ clients:
   <div class='row'>
     <div class='large-12 columns'>
       <p style='font-size: 1.5rem; font-style: italic;'>
-        This is the introduction of your team, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
+        #play14 is an international gathering for people who share the idea that playing is a great way to teach, learn and understand! 
+      </p>      
+      <p style='font-size: 1.5rem; font-style: italic;'>
+        Many different profiles of people are invited to share serious games, good practices, tips, knowledge, laughts and smiles in a common goal of spreading new ways to teach, learn, create or train.
       </p>
     </div>
   </div>
@@ -114,7 +123,7 @@ clients:
 <div class='row'>
   <div class='large-12 columns'>
     <h3>
-      Our recent work
+      Our next events
       /
       <a href='portfolio.html'>View more</a>
     </h3>
@@ -122,14 +131,15 @@ clients:
   </div>
   <div class='mod modGallery'>
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% for work in page.works %}
-        <li class='{{work.class}}'>
+      {% for event in page.events %}
+        <li class='{{event.class}}'>
           <a href='portfolio-item.html'>
-            <img alt="" src="{{work.image}}" />
+            <img alt="" src="{{event.image}}" />
             <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
               <div class='thumb-info'>
-                <h3>{{work.title}}</h3>
-                <p>{{work.desc}}</p>
+                <h3>{{event.title}}</h3>
+                <p>{{event.dates}}</p>
+                <p>{{event.location}}</p>
               </div>
             </div>
           </a>
@@ -143,7 +153,7 @@ clients:
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
-    <h3>Our services</h3>
+    <h3>What you get when attending an event</h3>
     <div class='two spacing'></div>
   </div>
 </div>
@@ -165,7 +175,7 @@ clients:
 <div class='two spacing'></div>
 <div class='row'>
   <div class='medium-6 columns'>
-    <h3>Our skills</h3>
+    <h3>What it's all about</h3>
     <div class='spacing'></div>
     <div class='mod modBarGraph'>
       <ul class='bars'>
@@ -183,7 +193,7 @@ clients:
     <div class='two spacing'></div>
   </div>
   <div class='medium-6 columns'>
-    <h3>What our clients say</h3>
+    <h3>What players say</h3>
     <div class='spacing'></div>
     <div class='mod modTestimonials simple'>
       <div class='row'>
@@ -194,7 +204,7 @@ clients:
                 <p class='quote'>{{t.text}}</p>
                 <div class='author'>
                   <p class='author-avatar'>
-                    <img alt="" src="{{t.avatar}}" />
+                    <img alt="" src="{{t.avatar}}" width="80px" />
                   </p>
                   <p class='author-name'>
                     -
@@ -216,12 +226,12 @@ clients:
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
-    <h3>Our clients</h3>
+    <h3>Our sponsors</h3>
     <div class='spacing'></div>
     <div class='mod modClients' data-slides_to_show='5'>
       <div class='clients'>
-        {% for client in page.clients %}
-          <div><img alt="" src="{{client}}" /></div>
+        {% for sponsor in page.sponsors %}
+          <div><img alt="" src="{{sponsor}}" /></div>
         {% endfor %}
       </div>
     </div>
@@ -244,8 +254,6 @@ clients:
     {% if forloop.index > 3 %}
       {% break %}
     {% endif %}
-
-
     <div class='large-4 medium-4 columns'>
       <div class='mod modBlogPost no_bg simple'>
         {% for image in post.images %}
@@ -261,7 +269,6 @@ clients:
         </div>
       </div>
     </div>
-
   {% endfor %}
   <div class='two spacing'></div>
 </div>
@@ -270,10 +277,10 @@ clients:
   <div class='mod modCallToAction'>
     <div class='row'>
       <div class='medium-9 large-9 columns'>
-        <p>Like what you see here? Checkout this theme and start to build your site immediately.</p>
+        <p>Do you want to know more about what to expect when you join an event ?</p>
       </div>
       <div class='medium-3 large-3 columns'>
-        <a class='button' target="_blank" href='http://themeforest.net/user/honryou/portfolio?ref=honryou'>Learn more</a>
+        <a class='button' href='event-description.html'>Learn more</a>
       </div>
     </div>
   </div>
