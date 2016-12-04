@@ -57,3 +57,155 @@ diego_de_biasio:
       url : 108857991863995315715
     - name: linkedin
       url : in/diegodebiasio
+
+chris_caswell:
+  name: Cris Caswell
+  position: London co-organizer
+  email: chris.caswell@gmail.com
+  bio: "Agile Coach"
+  avatar: images/people/ChrisCaswell.jpg
+  socials:
+    - name: google-plus
+      url : 109875105576699502125
+
+christina_ohanian:
+  name: Christina Ohanian
+  position: London co-organizer
+  web: http://www.agileandsketch.com
+  email: ohaniant@gmail.com 
+  bio: "Agile Coach"
+  avatar: images/people/ChristinaOhanian.jpg
+  socials:
+    - name: twitter
+      url : ctohanian
+    - name: google-plus
+      url : 115107648591590547734
+    - name: linkedin
+      url : in/ctohanian
+
+giovanni_puliti:
+  name: Giovanni Puliti
+  position: Milano co-organizer
+  company: http://www.agilereloaded.it/
+  email: giovanni@agilereloaded.it
+  bio: "Agile Coach"
+  avatar: images/people/GiovanniPuliti.jpg
+  socials:
+    - name: twitter
+      url : giovannipuliti
+    - name: google-plus
+      url : 112436205424108603939
+    - name: linkedin
+      url : in/giovannipuliti
+
+giulio_roggero:
+  name: Giulio Roggero
+  position: Milano co-organizer
+  company: http://www.agilereloaded.it/
+  email: giulio@agilereloaded.it
+  bio: "Entrepreneur focused on IoT, Serverless and Software Development"
+  avatar: images/people/GiulioRoggero.jpg
+  socials:
+    - name: twitter
+      url : giulioroggero
+    - name: google-plus
+      url : +GiulioRoggero
+    - name: linkedin
+      url : in/giulioroggero 
+
+fabio_ghislandi:
+  name: Fabio Ghislandi
+  position: Milano co-organizer
+  company: http://www.agilereloaded.it/
+  email: fabio@agilereloaded.it
+  bio: "Agile Coach"
+  avatar: images/people/FabioGhislandi.jpg
+  socials:
+    - name: twitter
+      url : FGhislandi
+    - name: google-plus
+      url : 117721956045839614698
+    - name: linkedin
+      url : in/fabio-ghislandi-74b736a 
+
+karsten_mueller:
+  name: Karsten Mueller
+  position: Hamburg co-organizer
+  company: http://goodgamestudios.com
+  email: kmueller@goodgamestudios.com
+  bio: "Agile Coach"
+  avatar: images/people/KarstenMueller.jpg
+  socials:
+    - name: twitter
+      url : HHKarsten
+    - name: google-plus
+      url : 112769131082715062752
+    - name: linkedin
+      url : in/karsten-mueller-269b186b 
+
+julian_kea:
+  name: Julian Kea
+  position: Hamburg co-organizer
+  company: http://www.kilearning.net/
+  email: jk@kilearning.net
+  bio: "[ki:]®Learning Business Skills. LEGO® SERIOUS PLAY® facilitator."
+  avatar: images/people/JulianKea.jpg
+  socials:
+    - name: twitter
+      url : kiLearning
+    - name: google-plus
+      url : +JulianKea
+    - name: linkedin
+      url : in/kilearning
+
+cosmin_lupu:
+  name: Leon-Cosmin Lupu
+  position: Timisoara co-organizer
+  company: Nokia
+  email: leoncosmin.lupu@gmail.com
+  bio: "R&D Group Leader"
+  avatar: images/people/LeonCosminLupu.jpg
+  socials:
+    - name: twitter
+      url : cozminelu
+    - name: google-plus
+      url : +LeonCosminLupu
+    - name: linkedin
+      url : in/leoncosminlupu
+
+dragos_jumanca:
+  name: Dragos Marius Jumanca 
+  position: Timisoara co-organizer
+  company: Nokia
+  email: jumanca_dragos_marius@yahoo.com
+  bio: "R&D Agile Manager"
+  avatar: images/people/DragosJumanca.jpg
+  socials:
+    - name: linkedin
+      url : in/dragos-marius-jumanca-7076b29
+
+karina_herman:
+  name: Karina Herman
+  position: Timisoara co-organizer
+  company: Nokia
+  email: karina.herman@nokia.com
+  bio: "Scrum Master"
+  avatar: images/people/LeonCosminLupu.jpg
+  socials:
+    - name: twitter
+      url : karinahk07
+    - name: google-plus
+      url : 108186334115635421137
+    - name: linkedin
+      url : in/karinaherman
+
+adriana_rusu:
+  name: Adriana Rusu
+  position: Timisoara co-organizer
+  company: Nokia
+  email: 
+  bio: "R&D Line Manager"
+  avatar: images/people/AdrianaRusu.jpg
+  socials:
+    - name: linkedin
+      url : in/adriana-rusu-0034139a
