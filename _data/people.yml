@@ -1,4 +1,4 @@
-cedric_pontet:
+Cédric Pontet:
   name: Cédric Pontet
   position: Founder
   company: Agile Partner
@@ -14,7 +14,7 @@ cedric_pontet:
     - name: linkedin
       url: in/cédric-pontet-4025955
 
-yann_gensollen:
+Yann Gensollen:
   name: Yann Gensollen
   position: Founder
   company: Marmelab
@@ -31,7 +31,7 @@ yann_gensollen:
     - name: linkedin
       url : in/yanngensollen
 
-pierre_neis:
+Pierre Neis:
   name: Pierre Neis
   position: Founder
   company: We&Co
@@ -47,7 +47,7 @@ pierre_neis:
     - name: linkedin
       url : in/pierreneis
 
-diego_de_biasio:
+Diego De Biasio:
   name: Diego De Biasio
   position: Founder
   company: Technoport
@@ -63,8 +63,8 @@ diego_de_biasio:
     - name: linkedin
       url : in/diegodebiasio
 
-chris_caswell:
-  name: Cris Caswell
+Chris Caswell:
+  name: Chris Caswell
   position: London co-organizer
   bio: "Agile Coach"
   avatar: images/people/ChrisCaswell.jpg
@@ -74,7 +74,7 @@ chris_caswell:
     - name: google-plus
       url : 109875105576699502125
 
-christina_ohanian:
+Christina Ohanian:
   name: Christina Ohanian
   position: London co-organizer
   web: http://www.agileandsketch.com
@@ -90,7 +90,7 @@ christina_ohanian:
     - name: linkedin
       url : in/ctohanian
 
-giovanni_puliti:
+Giovanni Puliti:
   name: Giovanni Puliti
   position: Milano co-organizer
   company: AgileReloaded
@@ -106,7 +106,7 @@ giovanni_puliti:
     - name: linkedin
       url : in/giovannipuliti
 
-giulio_roggero:
+Giulio Roggero:
   name: Giulio Roggero
   position: Milano co-organizer
   company: AgileReloaded
@@ -122,7 +122,7 @@ giulio_roggero:
     - name: linkedin
       url : in/giulioroggero 
 
-fabio_ghislandi:
+Fabio Ghislandi:
   name: Fabio Ghislandi
   position: Milano co-organizer
   company: AgileReloaded
@@ -138,7 +138,7 @@ fabio_ghislandi:
     - name: linkedin
       url : in/fabio-ghislandi-74b736a 
 
-karsten_mueller:
+Karsten Mueller:
   name: Karsten Mueller
   position: Hamburg co-organizer
   company: Goodgame Studios
@@ -154,7 +154,7 @@ karsten_mueller:
     - name: linkedin
       url : in/karsten-mueller-269b186b 
 
-julian_kea:
+Julian Kea:
   name: Julian Kea
   position: Hamburg co-organizer
   company: KiLearning
@@ -170,7 +170,7 @@ julian_kea:
     - name: linkedin
       url : in/kilearning
 
-cosmin_lupu:
+Leon-Cosmin Lupu:
   name: Leon-Cosmin Lupu
   position: Timisoara co-organizer
   company: Nokia
@@ -186,7 +186,7 @@ cosmin_lupu:
     - name: linkedin
       url : in/leoncosminlupu
 
-dragos_jumanca:
+Dragos Marius Jumanca:
   name: Dragos Marius Jumanca 
   position: Timisoara co-organizer
   company: Nokia
@@ -198,7 +198,7 @@ dragos_jumanca:
     - name: linkedin
       url : in/dragos-marius-jumanca-7076b29
 
-karina_herman:
+Karina Herman:
   name: Karina Herman
   position: Timisoara co-organizer
   company: Nokia
@@ -214,7 +214,7 @@ karina_herman:
     - name: linkedin
       url : in/karinaherman
 
-adriana_rusu:
+Adriana Rusu:
   name: Adriana Rusu
   position: Timisoara co-organizer
   company: Nokia

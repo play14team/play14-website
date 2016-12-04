@@ -7,8 +7,8 @@ tags:
   - collaboration
   - competitive
 
-author: chris_caswell
-originator: chris_caswell
+author: Chris Caswell
+originator: Chris Caswell
 firstplayed: Luxembourg 2015
 scale: Min 5, Max 60+
 timebox: 45-60 mins

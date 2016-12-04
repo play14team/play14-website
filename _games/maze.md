@@ -9,7 +9,7 @@ tags:
   - problem solving
   - team building
 
-author: chris_caswell
+author: Chris Caswell
 originator: lisa_francis_jennings
 firstplayed: Luxembourg 2015
 scale: Min 8, Max unlimited, can be played in multiple parallel groups
