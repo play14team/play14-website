@@ -26,14 +26,3 @@ gems:
 collections:
   events:
     output: true
-    permalink: :collection/:categories/:path
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "events"
-    values:
-      layout: "event"
-
-permalink: pretty
