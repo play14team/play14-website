@@ -44,7 +44,50 @@ layout: default
                     </span>
                 </p>
                 <h3><a href="{{page.url}}">{{page.title}}</a></h3>
+                <p>
+                    {{page.description}}
+                </p>
+
+                {% if page.safety %}
+                <h5>SAFETY</h5>
+                <dl>
+                    {% for item in page.safety %}
+                        <dt>{{item.title}}</dt>
+                        <dd>{{item.description}}</dd>
+                    {% endfor %}
+                </dl>
+                {% endif %}
+                
+                {% if page.materials %}
+                <h5>MATERIALS</h5>
+                <ul>
+                    {% for material in page.materials %}
+                        <li>{{material}}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+                {% if page.preparations %}
+                <h5>PREPARATION</h5>
+                <ul>
+                    {% for preparation in page.preparations %}
+                        <li>{{preparation}}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+                {% if page.tags %}
+                <h5>VALUE</h5>
+                <ul>
+                    {% for tag in page.tags %}
+                        <li>{{tag}}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+                <div class='two spacing'></div>
                 {{content}}
+
             </div>
         </div>
 
@@ -77,44 +120,3 @@ layout: default
     </div>
   </div>
 </div>
-
-<!--[GAME NAME]
-Proposed by: [Who proposed it at the event]
-Event: [Which #play14 event was it proposed]
-Prepared by: [who wrote up the game] 
-
-
-OVERVIEW
-SCALE: Min [minimum players], Max [maximum players]
-TIMEBOX: [how long do you need] mins
-DESCRIPTION: [Summary of the game]
-SAFETY: [Warnings if playing this game could cause harm]
-MATERIALS: 
-[what’s needed to play the game]
-[Links to related resources]
-PREP:
-[What does the facilitator need to prepare in advance]
-VALUE: [list of the high level value or learnings that this game will convey]
-
-
-HOW TO PLAY
-SETUP:
-[Room setup]
-[Team setup, groups, locations etc]	
-[Distribute materials]
-RULES:
-[Rules of the game]
-GOAL:
-[The goal of the game - Note: this is often different from the learnings or takeaways. How to win]
-
-
-FACILITATION
-[How to facilitate the game]
-
-
-REFLECTION
-[Example questions to ask the team post game, to facilitate reflection]
-
-
-TAKEAWAYS
-[If the game particular messages or lessons, list them here]-->
