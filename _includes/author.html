@@ -1,0 +1,21 @@
+{% assign author = site.data.people[include.variable-param] %}
+
+{% if author %}
+<div class='author'>
+    <p class='author-avatar'>
+    <img alt="" src="{{author.avatar}}" width="80px" />
+    </p>
+    <div class='author-name'>
+        <a href="mailto:{{author.email}}">
+            <strong>
+                {{author.name}}
+            </strong>
+            {% if author.position %}
+            - {{author.position}}
+            {% endif %}
+        </a>
+    </div>
+    <div>{{author.bio}}</div>
+    <div></div>
+</div>
+{% endif %}

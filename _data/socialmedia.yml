@@ -1,3 +1,7 @@
+email:
+  icon: fa fa-envelope-o
+  url: 'mailto:'
+
 twitter:
   icon: fa fa-twitter
   url: http://twitter.com/

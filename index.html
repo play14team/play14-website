@@ -132,38 +132,8 @@ testimonials:
   <!--Skills-->
   {% include skills.html %}
 
-
   <!--Testimonials-->
-  <div class='medium-6 columns'>
-    <h3>What players say</h3>
-    <div class='spacing'></div>
-    <div class='mod modTestimonials simple'>
-      <div class='row'>
-        <div class='small-12 columns'>
-          <div class='items'>
-            {% for t in page.testimonials  %}
-              {% assign author = site.data.people[t.author] %}
-              <div class='item'>
-                <p class='quote'>{{t.text}}</p>
-                <div class='author'>
-                  <p class='author-avatar'>
-                    <img alt="" src="{{author.avatar}}" width="80px" />
-                  </p>
-                  <p class='author-name'>
-                    -
-                    <strong>
-                      {{author.name}}
-                    </strong>
-                    , {{author.bio}}
-                  </p>
-                </div>
-              </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include testimonials.html %}
 </div>
 <hr>
 

@@ -11,8 +11,9 @@
       <div class='mod modTeamMember style-2'>
         <div class='member'>
           <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-          <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'> 
-            <ul class='socials'>
+          <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+            {% include socialmedia.html variable-param=member %} 
+            <!--<ul class='socials'>
               <li>
                   <a href='mailto:{{member.email}}'>
                   <i class='fa fa-envelope-o'></i>
@@ -26,10 +27,10 @@
                   </a>
                 </li>
               {% endfor %}
-            </ul>
+            </ul>-->
           </div>
         </div>
-        <h3>{{member.name}}</h3>
+        <h3>{{m}}</h3>
         <p class='position'>{{member.position}}</p>
         <p>{{member.bio}}</p>
         <div class='two spacing'></div>

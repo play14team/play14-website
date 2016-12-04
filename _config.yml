@@ -27,14 +27,21 @@ collections:
   events:
     output: true
     permalink: :collection/:categories/:path
+  games:
+    output: true
+    permalink: :collection/:path
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "games"
+    values:
+      layout: "game"
 
 permalink: pretty
 

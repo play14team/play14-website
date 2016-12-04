@@ -1,0 +1,14 @@
+{% assign person = include.variable-param %}
+
+{% if person %}
+<ul class='socials'>
+    {% for social in person.socials %}
+    {% assign media = site.data.socialmedia[social.name] %}
+    <li>
+        <a href='{{media.url}}{{social.url}}' target="_blank">
+        <i class='{{media.icon}}'></i>
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}

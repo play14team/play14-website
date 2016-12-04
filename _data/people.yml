@@ -2,10 +2,11 @@ cedric_pontet:
   name: Cédric Pontet
   position: Founder
   company: http://agilepartner.net
-  email: cedric.pontet@gmail.com
   bio: "Software architect | Agile coach"
   avatar: images/people/CedricPontet.jpg
   socials:
+    - name: email
+      url: cedric.pontet@gmail.com
     - name: twitter
       url : cpontet
     - name: google-plus
@@ -21,6 +22,8 @@ yann_gensollen:
   bio: "Agile coach"
   avatar: images/people/YannGensollen.jpg
   socials:
+    - name: email
+      url: yann.gensollen@gmail.com
     - name: twitter
       url : Yann_G
     - name: google-plus
@@ -32,10 +35,11 @@ pierre_neis:
   name: Pierre Neis
   position: Founder
   company: https://wecompany.me/
-  email: pierreneis@gmail.com
   bio: "Senior Agile Coach / Scrum Coach | Agile Digital Enterprise | Agile Coaching MBB | Agile4HR"
   avatar: images/people/PierreNeis.jpg
   socials:
+    - name: email
+      url: pierreneis@gmail.com 
     - name: twitter
       url : elPedroMajor
     - name: google-plus
@@ -47,10 +51,11 @@ diego_de_biasio:
   name: Diego De Biasio
   position: Founder
   company: http://www.technoport.lu
-  email: diego.debiasio@technoport.lu
   bio: "Support in the creation and development of technology-based and innovative companies in Luxembourg"
   avatar: images/people/DiegoDeBiasio.jpg
   socials:
+    - name: email
+      url: diego.debiasio@technoport.lu 
     - name: twitter
       url : tortorman
     - name: google-plus
@@ -61,10 +66,11 @@ diego_de_biasio:
 chris_caswell:
   name: Cris Caswell
   position: London co-organizer
-  email: chris.caswell@gmail.com
   bio: "Agile Coach"
   avatar: images/people/ChrisCaswell.jpg
   socials:
+    - name: email
+      url: chris.caswell@gmail.com 
     - name: google-plus
       url : 109875105576699502125
 
@@ -72,10 +78,11 @@ christina_ohanian:
   name: Christina Ohanian
   position: London co-organizer
   web: http://www.agileandsketch.com
-  email: ohaniant@gmail.com 
   bio: "Agile Coach"
   avatar: images/people/ChristinaOhanian.jpg
   socials:
+    - name: email
+      url: ohaniant@gmail.com
     - name: twitter
       url : ctohanian
     - name: google-plus
@@ -87,10 +94,11 @@ giovanni_puliti:
   name: Giovanni Puliti
   position: Milano co-organizer
   company: http://www.agilereloaded.it/
-  email: giovanni@agilereloaded.it
   bio: "Agile Coach"
   avatar: images/people/GiovanniPuliti.jpg
   socials:
+    - name: email
+      url: giovanni@agilereloaded.it
     - name: twitter
       url : giovannipuliti
     - name: google-plus
@@ -102,10 +110,11 @@ giulio_roggero:
   name: Giulio Roggero
   position: Milano co-organizer
   company: http://www.agilereloaded.it/
-  email: giulio@agilereloaded.it
   bio: "Entrepreneur focused on IoT, Serverless and Software Development"
   avatar: images/people/GiulioRoggero.jpg
   socials:
+    - name: email
+      url: giulio@agilereloaded.it
     - name: twitter
       url : giulioroggero
     - name: google-plus
@@ -117,10 +126,11 @@ fabio_ghislandi:
   name: Fabio Ghislandi
   position: Milano co-organizer
   company: http://www.agilereloaded.it/
-  email: fabio@agilereloaded.it
   bio: "Agile Coach"
   avatar: images/people/FabioGhislandi.jpg
   socials:
+    - name: email
+      url: fabio@agilereloaded.it
     - name: twitter
       url : FGhislandi
     - name: google-plus
@@ -132,10 +142,11 @@ karsten_mueller:
   name: Karsten Mueller
   position: Hamburg co-organizer
   company: http://goodgamestudios.com
-  email: kmueller@goodgamestudios.com
   bio: "Agile Coach"
   avatar: images/people/KarstenMueller.jpg
   socials:
+    - name: email
+      url: kmueller@goodgamestudios.com
     - name: twitter
       url : HHKarsten
     - name: google-plus
@@ -147,10 +158,11 @@ julian_kea:
   name: Julian Kea
   position: Hamburg co-organizer
   company: http://www.kilearning.net/
-  email: jk@kilearning.net
   bio: "[ki:]®Learning Business Skills. LEGO® SERIOUS PLAY® facilitator."
   avatar: images/people/JulianKea.jpg
   socials:
+    - name: email
+      url: jk@kilearning.net
     - name: twitter
       url : kiLearning
     - name: google-plus
@@ -162,10 +174,11 @@ cosmin_lupu:
   name: Leon-Cosmin Lupu
   position: Timisoara co-organizer
   company: Nokia
-  email: leoncosmin.lupu@gmail.com
   bio: "R&D Group Leader"
   avatar: images/people/LeonCosminLupu.jpg
   socials:
+    - name: email
+      url:  leoncosmin.lupu@gmail.com
     - name: twitter
       url : cozminelu
     - name: google-plus
@@ -177,10 +190,11 @@ dragos_jumanca:
   name: Dragos Marius Jumanca 
   position: Timisoara co-organizer
   company: Nokia
-  email: jumanca_dragos_marius@yahoo.com
   bio: "R&D Agile Manager"
   avatar: images/people/DragosJumanca.jpg
   socials:
+    - name: email
+      url:  jumanca_dragos_marius@yahoo.com
     - name: linkedin
       url : in/dragos-marius-jumanca-7076b29
 
@@ -188,10 +202,11 @@ karina_herman:
   name: Karina Herman
   position: Timisoara co-organizer
   company: Nokia
-  email: karina.herman@nokia.com
   bio: "Scrum Master"
   avatar: images/people/LeonCosminLupu.jpg
   socials:
+    - name: email
+      url: karina.herman@nokia.com
     - name: twitter
       url : karinahk07
     - name: google-plus
@@ -203,7 +218,6 @@ adriana_rusu:
   name: Adriana Rusu
   position: Timisoara co-organizer
   company: Nokia
-  email: 
   bio: "R&D Line Manager"
   avatar: images/people/AdrianaRusu.jpg
   socials:
