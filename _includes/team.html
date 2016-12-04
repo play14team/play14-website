@@ -13,21 +13,6 @@
           <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
           <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
             {% include socialmedia.html variable-param=member %} 
-            <!--<ul class='socials'>
-              <li>
-                  <a href='mailto:{{member.email}}'>
-                  <i class='fa fa-envelope-o'></i>
-                  </a>
-              </li>
-              {% for social in member.socials %}
-                {% assign media = site.data.socialmedia[social.name] %}
-                <li>
-                  <a href='{{media.url}}{{social.url}}' target="_blank">
-                    <i class='{{media.icon}}'></i>
-                  </a>
-                </li>
-              {% endfor %}
-            </ul>-->
           </div>
         </div>
         <h3>{{m}}</h3>
