@@ -1,7 +1,7 @@
 cedric_pontet:
   name: Cédric Pontet
   position: Founder
-  company: http://agilepartner.net
+  company: Agile Partner
   bio: "Software architect | Agile coach"
   avatar: images/people/CedricPontet.jpg
   socials:
@@ -17,7 +17,7 @@ cedric_pontet:
 yann_gensollen:
   name: Yann Gensollen
   position: Founder
-  company: http://marmelab.com
+  company: Marmelab
   email: yann.gensollen@gmail.com
   bio: "Agile coach"
   avatar: images/people/YannGensollen.jpg
@@ -34,7 +34,7 @@ yann_gensollen:
 pierre_neis:
   name: Pierre Neis
   position: Founder
-  company: https://wecompany.me/
+  company: We&Co
   bio: "Senior Agile Coach / Scrum Coach | Agile Digital Enterprise | Agile Coaching MBB | Agile4HR"
   avatar: images/people/PierreNeis.jpg
   socials:
@@ -50,7 +50,7 @@ pierre_neis:
 diego_de_biasio:
   name: Diego De Biasio
   position: Founder
-  company: http://www.technoport.lu
+  company: Technoport
   bio: "Support in the creation and development of technology-based and innovative companies in Luxembourg"
   avatar: images/people/DiegoDeBiasio.jpg
   socials:
@@ -93,7 +93,7 @@ christina_ohanian:
 giovanni_puliti:
   name: Giovanni Puliti
   position: Milano co-organizer
-  company: http://www.agilereloaded.it/
+  company: AgileReloaded
   bio: "Agile Coach"
   avatar: images/people/GiovanniPuliti.jpg
   socials:
@@ -109,7 +109,7 @@ giovanni_puliti:
 giulio_roggero:
   name: Giulio Roggero
   position: Milano co-organizer
-  company: http://www.agilereloaded.it/
+  company: AgileReloaded
   bio: "Entrepreneur focused on IoT, Serverless and Software Development"
   avatar: images/people/GiulioRoggero.jpg
   socials:
@@ -125,7 +125,7 @@ giulio_roggero:
 fabio_ghislandi:
   name: Fabio Ghislandi
   position: Milano co-organizer
-  company: http://www.agilereloaded.it/
+  company: AgileReloaded
   bio: "Agile Coach"
   avatar: images/people/FabioGhislandi.jpg
   socials:
@@ -141,7 +141,7 @@ fabio_ghislandi:
 karsten_mueller:
   name: Karsten Mueller
   position: Hamburg co-organizer
-  company: http://goodgamestudios.com
+  company: Goodgame Studios
   bio: "Agile Coach"
   avatar: images/people/KarstenMueller.jpg
   socials:
@@ -157,7 +157,7 @@ karsten_mueller:
 julian_kea:
   name: Julian Kea
   position: Hamburg co-organizer
-  company: http://www.kilearning.net/
+  company: KiLearning
   bio: "[ki:]®Learning Business Skills. LEGO® SERIOUS PLAY® facilitator."
   avatar: images/people/JulianKea.jpg
   socials:
