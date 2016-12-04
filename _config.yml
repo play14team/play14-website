@@ -36,4 +36,4 @@ defaults:
     values:
       layout: "event"
 
-# permalink: pretty
+permalink: pretty
