@@ -20,16 +20,6 @@ slides:
     title: And tomorrow...
     tagline: the world
     
-bars:
-  - title: Facilitation
-    percent: 84
-  - title: Innovation
-    percent: 70
-  - title: Change Management
-    percent: 60
-  - title: Happiness
-    percent: 90
-
 testimonials:
   - text: "I am proud of what #play14 has become. Players are happy to join our events and curious to learn new things. They go back home with tons of new ideas and games to try out with their teams. More than an event, we have created a community."
     author: cedric_pontet
@@ -153,24 +143,12 @@ testimonials:
 <!--What it's about-->
 <div class='two spacing'></div>
 <div class='row'>
-  <div class='medium-6 columns'>
-    <h3>What it's all about</h3>
-    <div class='spacing'></div>
-    <div class='mod modBarGraph'>
-      <ul class='bars'>
-        {% for bar in page.bars %}
-          <li>
-            <h4 style=''>
-              {{bar.title}}
-              <strong>{{bar.percent}}%</strong>
-            </h4>
-            <p class='highlighted' data-percent='{{bar.percent}}'></p>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class='two spacing'></div>
-  </div>
+
+  <!--Skills-->
+  {% include skills.html %}
+
+
+  <!--Testimonials-->
   <div class='medium-6 columns'>
     <h3>What players say</h3>
     <div class='spacing'></div>
@@ -237,7 +215,7 @@ testimonials:
     <h3>
       Our recent posts
       /
-      <a href='#'>View more posts</a>
+      <a href='blog/'>View more posts</a>
     </h3>
     <div class='spacing'></div>
   </div>

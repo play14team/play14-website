@@ -1,0 +1,19 @@
+twitter:
+  icon: fa fa-twitter
+  url: http://twitter.com/
+
+linkedin:
+  icon: fa fa-linkedin
+  url: https://www.linkedin.com/
+
+google-plus:
+  icon: fa fa-google-plus
+  url: https://plus.google.com/
+
+facebook:
+  icon: fa fa-facebook
+  url: https://www.facebook.com/
+
+youtube:
+  icon: fa fa-youtube
+  url: https://www.youtube.com/

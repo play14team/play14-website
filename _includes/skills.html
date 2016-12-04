@@ -1,0 +1,18 @@
+  <div class='medium-6 columns'>
+    <h3>What skills will you develop ?</h3>
+    <div class='spacing'></div>
+    <div class='mod modBarGraph'>
+      <ul class='bars'>
+        {% for skill in site.data.skills %}
+          <li>
+            <h4 style=''>
+              {{skill.title}}
+              <strong>{{skill.percent}}%</strong>
+            </h4>
+            <p class='highlighted' data-percent='{{skill.percent}}'></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class='two spacing'></div>
+  </div>

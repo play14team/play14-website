@@ -1,38 +1,59 @@
-# people
-
 cedric_pontet:
   name: Cédric Pontet
-  web: http://play14.org
+  position: Founder
+  company: http://agilepartner.net
   email: cedric.pontet@gmail.com
-  bio: "Co-founder of #play14."
+  bio: "Software architect | Agile coach"
   avatar: images/people/CedricPontet.jpg
-  twitter: cpontet
-  google:
-    plus: +CédricPontet
+  socials:
+    - name: twitter
+      url : cpontet
+    - name: google-plus
+      url: +CédricPontet
+    - name: linkedin
+      url: in/cédric-pontet-4025955
 
 yann_gensollen:
   name: Yann Gensollen
+  position: Founder
+  company: http://marmelab.com
   email: yann.gensollen@gmail.com
-  bio: "Co-founder of #play14."
+  bio: "Agile coach"
   avatar: images/people/YannGensollen.jpg
-  twitter: Yann_G
-  google:
-    plus: 115915059998416283004
+  socials:
+    - name: twitter
+      url : Yann_G
+    - name: google-plus
+      url : 115915059998416283004
+    - name: linkedin
+      url : in/yanngensollen
 
 pierre_neis:
   name: Pierre Neis
+  position: Founder
+  company: https://wecompany.me/
   email: pierreneis@gmail.com
-  bio: "Co-founder of #play14."
+  bio: "Senior Agile Coach / Scrum Coach | Agile Digital Enterprise | Agile Coaching MBB | Agile4HR"
   avatar: images/people/PierreNeis.jpg
-  twitter: elPedroMajor
-  google:
-    plus: 108857991863995315715
+  socials:
+    - name: twitter
+      url : elPedroMajor
+    - name: google-plus
+      url : 108857991863995315715
+    - name: linkedin
+      url : in/pierreneis
 
 diego_de_biasio:
   name: Diego De Biasio
+  position: Founder
+  company: http://www.technoport.lu
   email: diego.debiasio@technoport.lu
-  bio: "Co-founder of #play14."
+  bio: "Support in the creation and development of technology-based and innovative companies in Luxembourg"
   avatar: images/people/DiegoDeBiasio.jpg
-  twitter: tortorman
-  google:
-    plus: 108857991863995315715
+  socials:
+    - name: twitter
+      url : tortorman
+    - name: google-plus
+      url : 108857991863995315715
+    - name: linkedin
+      url : in/diegodebiasio
