@@ -13,23 +13,32 @@ main:
     desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
 
 other:
-  - icon_class: fa fa-trophy
-    title: Design
+  - icon_class: fa fa-graduation-cap
+    title: Unconference
+    desc: >
+      <p>An unconference is a conference format where attendees are also session contributors.</p> 
+      <p>There are some simple <a href='http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law' target='_blank'>rules for participants</a>. 
+      They will be explained during the first evening plenary welcome speech, but usually, participants create the schedule during a marketplace session taking place at the beginning of each day.</p> 
+      <p>Anyone who wants to initiate a topic can claim a time slot in the agenda.</p>
+  - icon_class: fa fa-calendar
+    title: Schedule
+    desc: 
+      "#play14 usually takes course over two and a half days. It starts at 6 P.M. on the first day with some ice breakers and warm up games, and then a nice get-to-know-each-other dinner.
+      <p>On the second day, we start at 9 A.M. with the marketplace. Then, the sessions start. Lunch is usually served around 1 P.M. and a short debrief will take place at the end of the day, around 6 P.M.. Then it's pizza & beer time.</p>
+      <p>On the third day, the rhythm is almost the same except that we finish a little bit earlier because some people need to catch a flight and get back home.</p>"
+  - icon_class: fa fa-money
+    title: Non profit
     desc:
-      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-  - icon_class: fa fa-compass
-    title: Art Direction
-    desc:
-      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-  - icon_class: fa fa-star-half-empty
-    title: Branding
-    desc:
-      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+      "#play14 is completely non-profit. We ask you for money to pay for your food, drinks, welcome kit and game material during the event.
+      <p>Any profit that is made on a given event is automatically reinvested in the next event.</p>"
   - icon_class: fa fa-image
     title: Photography
     desc:
-      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+      "We usually try to take a lot of pictures and videos during the event. We usually publish them on Twitter, Google Photo, Youtube, and our website. 
+      <p>By participating to a #play14 event you tacitly agree to appear in any photo or video. However, if you find any one of them inconvenient or degrading, feel free to ask us, and we will remove the photo or video when possible.</p>" 
   - icon_class: fa fa-dot-circle-o
-    title: Marketing
+    title: Sessions
     desc:
-      Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
+      "Gather with like-minded people on the unconference format. This means no slideshows, no rockstar sessions in push mode, but collaborative sessions where people get the opportunity to learn and practice but also discuss and challenge. 
+      <p>So, bring the materials you need to organize and facilitate the learning activities you already know in order to share them actively with your peers in a learning-by-doing and collaborative mindset.</p>
+      <p>English will be used in all general communications, but we would like to let the session leaders decide which language to use in their session.</p>"
