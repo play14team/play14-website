@@ -880,7 +880,10 @@ body.screenshot {
   font-style: italic;
 }
 .modBlogPost img {
-  width: 100%;
+  display:block;
+  max-height:500px;
+  width:auto;
+  margin: 0 auto;
 }
 .modBlogPost a:hover img {
   -moz-transition-duration: 0.5s;
@@ -1469,6 +1472,37 @@ body.screenshot {
 .modClients .slick-slider {
   margin-bottom: 10px;
 }
+.modClients ul {
+  margin: 0;
+}
+.modClients ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 8px;
+}
+.modClients ul i {
+  width: 36px;
+  height: 36px;
+  -moz-border-radius: 18px;
+  -webkit-border-radius: 18px;
+  border-radius: 18px;
+  background: #FF5200;
+  color: #fff;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 2.5rem;
+}
+.modClients .client {
+  text-align: center
+}
+.modClients img {
+  display:block; 
+  width:auto; 
+  max-height:200px; 
+  padding:5px;
+  margin: 0 auto;
+}
+
 .modDefaultSlider .sequence {
   height: 650px;
   position: relative;

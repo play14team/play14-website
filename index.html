@@ -146,15 +146,10 @@ testimonials:
     <div class='mod modClients' data-slides_to_show='4'>
       <div class='clients'>
         {% for sponsor in site.data.sponsors %}
-          <div>
-            <img alt="" src="{{sponsor.logo}}" style="width:auto; max-height:200px; padding:10px" />
-            <a href="{{sponsor.url}}" target="_blank"><strong>{{sponsor.name}}</strong></a>
-            <a href='http://twitter.com/{{sponsor.twitter}}' target="_blank">
-              <i class='fa fa-twitter'></i>
-            </a>
-            <a href='mailto:{{sponsor.email}}'>
-              <i class='fa fa-envelope-o'></i>
-            </a>
+          <div class='client'>
+            <h4>{{sponsor.name}}</h4>
+            <img class="avatar" alt="" src="{{sponsor.logo}}" />
+            {% include socialmedia.html variable-param=sponsor.socials %} 
           </div>
         {% endfor %}
       </div>
