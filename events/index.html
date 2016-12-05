@@ -35,8 +35,8 @@ section_id: events
         {% assign events = site.events | reverse  %}
         {% for event in events %}
           <li class='{{event.category}}'>
-            <a href='{{event.url}}'>
-              <img alt="" src="{{site.url}}/{{event.images[0]}}" />
+            <a href='{{event.url | prepend: site.baseurl | prepend: site.url}}'>
+              <img alt="" src="{{event.images[0] | prepend: site.baseurl | prepend: site.url}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{event.title}}</h3>

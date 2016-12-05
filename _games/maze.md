@@ -30,9 +30,9 @@ safety:
       description: It’s possible to make mistakes which will prevent the team from progressing. This can lead to a situation where the team feel they’ve tried all available options are are stuck. If frustration and stress is high, and they believe they’ve exhausted all options, give them a hint to unblock them.
 
 images:
-    - images/games/maze/01.jpg
-    - images/games/maze/02.jpg
-    - images/games/maze/03.jpg
+    - /images/games/maze/01.jpg
+    - /images/games/maze/02.jpg
+    - /images/games/maze/03.jpg
 ---
 
 #### HOW TO PLAY

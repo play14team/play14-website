@@ -23,13 +23,13 @@ materials:
     - Blue tack
 
 images:
-    - images/games/postcards/01.jpg
-    - images/games/postcards/02.jpg
-    - images/games/postcards/03.jpg
-    - images/games/postcards/04.jpg
-    - images/games/postcards/05.jpg
-    - images/games/postcards/06.jpg
-    - images/games/postcards/07.jpg
+    - /images/games/postcards/01.jpg
+    - /images/games/postcards/02.jpg
+    - /images/games/postcards/03.jpg
+    - /images/games/postcards/04.jpg
+    - /images/games/postcards/05.jpg
+    - /images/games/postcards/06.jpg
+    - /images/games/postcards/07.jpg
 ---
 
 
