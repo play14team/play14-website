@@ -42,7 +42,7 @@ Space: You will need a large, empty space to play.
 Maze Plan:
 - Draw a grid that is 5 squares, by (team's size - 2). E.G. for a team of 9, that would be a 5x7 grid.
 - Plot a path by numbering consecutive connected squares from one end of the grid to another. This is an example grid for a team of 9-12 people. Note how it snakes forwards and backwards to increase complexity.
-![Maze design]({{site.url}}/images/games/maze/maze.png "Maze design")
+![Maze design]({{site.github.url}}/images/games/maze/maze.png "Maze design")
 
 Recreate the grid on the floor with masking tape (squares only). Make each square about 50cm by 50 cm (big enough for a person to stand in).   
 Position a chair at the finishing end of the labyrinth for the facilitator to stand on.  

@@ -23,7 +23,7 @@ layout: default
         <div class='slides'>
           {% for image in page.images %}
             <div class="slide">
-              <img src="{{site.url}}/{{image}}" alt="" style="display:block; max-height:500px; width: auto;">
+              <img src="{{site.github.url}}/{{image}}" alt="" style="display:block; max-height:500px; width: auto;">
             </div>
           {% endfor %}
         </div>
@@ -51,7 +51,7 @@ layout: default
           <a href='' title='previous'>
             <i class='icon-left-open'></i>
           </a>
-          <a href='{{site.url}}/events/' title='back to events list'>
+          <a href='{{site.github.url}}/events/' title='back to events list'>
             <i class='icon-layout'></i>
           </a>
           <a href='' title='next'>

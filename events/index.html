@@ -36,7 +36,7 @@ section_id: events
         {% for event in events %}
           <li class='{{event.category}}'>
             <a href='{{event.url}}'>
-              <img alt="" src="{{site.url}}/{{event.images[0]}}" />
+              <img alt="" src="{{site.github.url}}/{{event.images[0]}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{event.title}}</h3>
