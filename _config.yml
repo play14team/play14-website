@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   '#play14 : We believe in playfulness.
   An international gathering for people who share the idea that playing is a great way to teach, learn and understand!'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://play14team.github.io" # the base hostname & protocol for your site
+url: "https://play14team.github.io/play14-website" # the base hostname & protocol for your site
 twitter_username: play14team
 github_username:  play14team
 
