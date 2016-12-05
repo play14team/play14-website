@@ -35,7 +35,7 @@ section_id: games
         {% for game in site.games %}
           <li class='{{game.categories}}'>
             <a href='{{game.url}}'>
-              <img alt="" src="{{site.github.url}}/{{game.images[0]}}" />
+              <img alt="" src="{{site.url}}/{{game.images[0]}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{game.title}}</h3>
