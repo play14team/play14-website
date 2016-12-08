@@ -158,6 +158,43 @@ testimonials:
 </div>
 <hr>
 
+<!--Recent games-->
+<div class='two spacing'></div>
+<div class='row'>
+  <div class='large-12 columns'>
+    <h3>
+      Our recent games
+      /
+      <a href='games/'>View more games</a>
+    </h3>
+    <div class='spacing'></div>
+  </div>
+</div>
+<div class='row'>
+  {% for game in site.games %}
+    {% if forloop.index > 3 %}
+      {% break %}
+    {% endif %}
+    <div class='large-4 medium-4 columns'>
+      <div class='mod modBlogPost no_bg simple'>
+        {% for image in game.images %}
+          {% if forloop.index > 1 %}
+            {% break %}
+          {% endif %}
+          <a href="{{game.url}}"><img alt="" src="{{image}}" /></a>
+        {% endfor %}
+        <div class='content'>
+          <h4><a href="{{game.url}}">{{game.title}}</a></h4>
+          <p>{{game.description | truncatewords: 25 }}</p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+  <div class='two spacing'></div>
+</div>
+<hr>
+
+
 <!--Recent posts-->
 <div class='two spacing'></div>
 <div class='row'>
