@@ -57,19 +57,23 @@ Read out the rules
 Begin the game and the timer  
 
 15 mins in  
-- By this point the team should have worked out that there are 5 of each element (farmer, house, location, fruit, animal and vehicle). 
-- They should also have worked out that having 5 people play the roles of each farmer, and standing in the their relative locations it useful
-- Give clues if necessary  
+
+* By this point the team should have worked out that there are 5 of each element (farmer, house, location, fruit, animal and vehicle). 
+* They should also have worked out that having 5 people play the roles of each farmer, and standing in the their relative locations it useful
+* Give clues if necessary  
 
 30 mins in  
-- If the team has yet to solve the puzzle remove both rules from the game
-- They are now able to use the board, pens etc to help
+
+* If the team has yet to solve the puzzle remove both rules from the game
+* They are now able to use the board, pens etc to help
 
 45 mins in
-- Warn the team that there is only 5 mins remaining.
+
+* Warn the team that there is only 5 mins remaining.
 
 50 mins 
-- stop the game, reveal the solution and ask everyone to have a seat. 
+
+* stop the game, reveal the solution and ask everyone to have a seat. 
 
 Celebrate either way
 

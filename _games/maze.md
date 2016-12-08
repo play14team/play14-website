@@ -41,8 +41,9 @@ images:
 Space: You will need a large, empty space to play.  
 
 Maze Plan:
-- Draw a grid that is 5 squares, by (team's size - 2). E.G. for a team of 9, that would be a 5x7 grid.
-- Plot a path by numbering consecutive connected squares from one end of the grid to another. This is an example grid for a team of 9-12 people. Note how it snakes forwards and backwards to increase complexity.
+
+* Draw a grid that is 5 squares, by (team's size - 2). E.G. for a team of 9, that would be a 5x7 grid.
+* Plot a path by numbering consecutive connected squares from one end of the grid to another. This is an example grid for a team of 9-12 people. Note how it snakes forwards and backwards to increase complexity.
 ![Maze design]({{site.url}}/images/games/maze/maze.png "Maze design")
 
 Recreate the grid on the floor with masking tape (squares only). Make each square about 50cm by 50 cm (big enough for a person to stand in).   
@@ -79,10 +80,11 @@ You will need several copies of the same grid plan. The grid size must work for 
 You will need one “Grid Master” (additional facilitator) per grid.  
 
 The game will play out the same as above, other than:
-- Everyone will begin at the same time
-- The time needed for the discussion before solving is now flexible, they team can choose to start when they are ready. (This is now a race competition, so there’s an interesting pressure to begin)
-- Record the times of each team.
-- When a team has completed, invite them to watch how other teams are doing.
+
+* Everyone will begin at the same time
+* The time needed for the discussion before solving is now flexible, they team can choose to start when they are ready. (This is now a race competition, so there’s an interesting pressure to begin)
+* Record the times of each team.
+* When a team has completed, invite them to watch how other teams are doing.
 
 #### REFLECTION
 What was your strategy and how did you create it?  
