@@ -6,6 +6,7 @@ layout: default
   <div class="row">
     <div class="large-9 columns">
         <div class='mod modBlogPost big no_bg'>
+            <h3><a href="{{page.url}}">{{page.title}}</a></h3>
             <div class='images'>
                 {% for image in page.images %}
                 <div class='image'>
@@ -17,9 +18,19 @@ layout: default
                 <p class='info'>
                     <span>
                         proposed by
-                        <a href="">{{site.data.people[page.originator].name}}</a>
+                        {% for player in page.originator %}
+                            {% if site.data.people[player] %}
+                                <a href="">{{site.data.people[player].name}}</a>
+                            {% else %}
+                                <a href="">{{player}}</a>
+                            {% endif %}
+                            {% unless forloop.last %}
+                            &amp;
+                            {% endunless %}
+                        {% endfor %}
                     </span>
-                    /
+                </p>
+                <p class='info'>
                     <span>
                         preparded by
                         <a href="">{{site.data.people[page.author].name}}</a>
@@ -30,7 +41,8 @@ layout: default
                         first played in
                         <a href="">{{page.firstplayed}}</a>
                     </span>
-                    /
+                </p>
+                <p class='info'>
                     <span>
                         In
                         {% for cat in page.categories %}
@@ -45,7 +57,6 @@ layout: default
                         <a href="#">4 comments</a>
                     </span>
                 </p>
-                <h3><a href="{{page.url}}">{{page.title}}</a></h3>
                 <p>
                     {{page.description}}
                 </p>
@@ -92,32 +103,6 @@ layout: default
 
             </div>
         </div>
-
-        <!--<div class='two spacing'></div>
-        <a id='comments'></a>
-        {% include comments.html %}
-        <div class='four spacing'></div>
-        <div id='comment-form'>
-        <h3>Your comment</h3>
-        <form accept-charset='UTF-8' action='#' method='post'>
-            <p class='name'>
-            <label for='name'>Your Name</label>
-            <input class='input-text required' id='name' name='name' type='text'>
-            </p>
-            <p class='email'>
-            <label for='email'>Your Email</label>
-            <input class='input-text required' id='email' name='email' type='text'>
-            </p>
-            <p class='message'>
-            <label for='message'>Your Message</label>
-            <textarea class='required' cols='80' id='message' name='message' rows='5'></textarea>
-            </p>
-            <div class='spacing'></div>
-            <p>
-            <input class='button' type='submit' value='Send Message'>
-            </p>
-        </form>
-        </div>-->
         <div class='four spacing'></div>
     </div>
   </div>
