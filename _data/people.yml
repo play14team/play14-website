@@ -223,3 +223,35 @@ Adriana Rusu:
   socials:
     - name: linkedin
       url : in/adriana-rusu-0034139a
+
+Lisa Francis-Jennings:
+  name: Lisa Francis-Jennings
+  position: Serial player
+  company: StratAffect
+  bio: "Managing Partner"
+  avatar: images/people/ListFrancisJennings.jpg
+  socials:
+    - name: email
+      url: 	l.francisjennings@strataffect.com
+    - name: twitter
+      url : LFranJenn
+    - name: google-plus
+      url : +LisaFrancisJennings
+    - name: linkedin
+      url : in/francisjenningslisa
+
+Lloyd Jones:
+  name: Lloyd Jones
+  position: Player
+  company: Adventures With Agile
+  bio: "Agile Coach"
+  avatar: images/people/ListFrancisJennings.jpg
+  socials:
+    - name: email
+      url: lloyd.t.jones@gmail.com
+    - name: twitter
+      url : l0p3zj0n3s
+    - name: google-plus
+      url : +LloydJones1983
+    - name: linkedin
+      url : in/lloyd-jones-a82ab721

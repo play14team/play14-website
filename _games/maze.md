@@ -11,7 +11,7 @@ tags:
 
 author: Chris Caswell
 originator: 
-  - Lisa Francis Jennings
+  - Lisa Francis-Jennings
 firstplayed: Luxembourg 2015
 scale: Min 8, Max unlimited, can be played in multiple parallel groups
 timebox: 30-45 mins
