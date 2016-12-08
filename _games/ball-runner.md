@@ -58,31 +58,31 @@ Between each round you will have 2 minutes to improve
 Set up the space and read out the rules  
 
 Demonstrate the workflow  
-- Take a ball from hopper 1
-- Throw the ball high,catch it and put it into hopper 2
-- Take the ball from hopper 2, throw it to a person, ask them to throw it back and put it into hopper 3
-- Take the ball from hopper 3, walk around one of the teams & hoppers and put it into hopper 4
-- State: “If I am the designated putter, I can..”
-- Take the ball from hopper 4 and put into hopper 5
+* Take a ball from hopper 1
+* Throw the ball high,catch it and put it into hopper 2
+* Take the ball from hopper 2, throw it to a person, ask them to throw it back and put it into hopper 3
+* Take the ball from hopper 3, walk around one of the teams & hoppers and put it into hopper 4
+* State: “If I am the designated putter, I can..”
+* Take the ball from hopper 4 and put into hopper 5
 
 Get ready to play
-- Check the team understand and qualify any questions
-- Give the team 2 mins to organise themselves
-- Within that 2 mins, ask the team for an estimate of how many balls they can get through the system
+* Check the team understand and qualify any questions
+* Give the team 2 mins to organise themselves
+* Within that 2 mins, ask the team for an estimate of how many balls they can get through the system
 
 Round 1
-- Begin the round, time 2 mins
-- TIP: Watch for dropped balls and collect them (saves time)
-- Count the balls delivered 
-- TIP: Even if they’ve counted already, count anyway - This gives the team a few moments of pause to catch their breath. Otherwise the improvement time will be less effective
-- Record the time on the score sheet 
-- Record waste on the board - All balls removed from the starting hopper but not in the done hopper
-- Challenge the team to do better! Give them 1 min to improve and to give you a new estimate
+* Begin the round, time 2 mins
+* TIP: Watch for dropped balls and collect them (saves time)
+* Count the balls delivered 
+* TIP: Even if they’ve counted already, count anyway - This gives the team a few moments of pause to catch their breath. Otherwise the improvement time will be less effective
+* Record the time on the score sheet 
+* Record waste on the board - All balls removed from the starting hopper but not in the done hopper
+* Challenge the team to do better! Give them 1 min to improve and to give you a new estimate
 
 Round 2 - 5
-- These rounds are essentially the same as the first
-- TIP: The interim hoppers are not required by the rules. It should become obvious that one or more are serving no purpose (essentially the WIP will already be 0. Ask the team why it’s still there?
-- TIP: If playing with multiple teams, announce the leaders and their score - This generates and invigorates competition
+* These rounds are essentially the same as the first
+* TIP: The interim hoppers are not required by the rules. It should become obvious that one or more are serving no purpose (essentially the WIP will already be 0. Ask the team why it’s still there?
+* TIP: If playing with multiple teams, announce the leaders and their score - This generates and invigorates competition
 
 #### REFLECTION
 Ask the team how it felt to play.   
