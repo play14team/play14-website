@@ -3,7 +3,7 @@ Cédric Pontet:
   position: Founder
   company: Agile Partner
   bio: "Software architect | Agile coach"
-  avatar: images/people/CedricPontet.jpg
+  avatar: /images/players/CedricPontet.jpg
   socials:
     - name: email
       url: cedric.pontet@gmail.com
@@ -18,9 +18,8 @@ Yann Gensollen:
   name: Yann Gensollen
   position: Founder
   company: Marmelab
-  email: yann.gensollen@gmail.com
   bio: "Agile coach"
-  avatar: images/people/YannGensollen.jpg
+  avatar: /images/players/YannGensollen.jpg
   socials:
     - name: email
       url: yann.gensollen@gmail.com
@@ -36,7 +35,7 @@ Pierre Neis:
   position: Founder
   company: We&Co
   bio: "Senior Agile Coach / Scrum Coach | Agile Digital Enterprise | Agile Coaching MBB | Agile4HR"
-  avatar: images/people/PierreNeis.jpg
+  avatar: /images/players/PierreNeis.jpg
   socials:
     - name: email
       url: pierreneis@gmail.com 
@@ -52,7 +51,7 @@ Diego De Biasio:
   position: Founder
   company: Technoport
   bio: "Support in the creation and development of technology-based and innovative companies in Luxembourg"
-  avatar: images/people/DiegoDeBiasio.jpg
+  avatar: /images/players/DiegoDeBiasio.jpg
   socials:
     - name: email
       url: diego.debiasio@technoport.lu 
@@ -67,7 +66,7 @@ Chris Caswell:
   name: Chris Caswell
   position: London co-organizer
   bio: "Agile Coach"
-  avatar: images/people/ChrisCaswell.jpg
+  avatar: /images/players/ChrisCaswell.jpg
   socials:
     - name: email
       url: chris.caswell@gmail.com 
@@ -79,7 +78,7 @@ Christina Ohanian:
   position: London co-organizer
   web: http://www.agileandsketch.com
   bio: "Agile Coach"
-  avatar: images/people/ChristinaOhanian.jpg
+  avatar: /images/players/ChristinaOhanian.jpg
   socials:
     - name: email
       url: ohaniant@gmail.com
@@ -94,7 +93,7 @@ Mark Webb:
   name: Mark Webb
   position: London co-organizer
   bio: "Agile Coach"
-  avatar: images/people/MarkWebb.jpg
+  avatar: /images/players/MarkWebb.jpg
   socials:
     - name: email
       url: 	mawebb65@gmail.com
@@ -108,7 +107,7 @@ Giovanni Puliti:
   position: Milano co-organizer
   company: AgileReloaded
   bio: "Agile Coach"
-  avatar: images/people/GiovanniPuliti.jpg
+  avatar: /images/players/GiovanniPuliti.jpg
   socials:
     - name: email
       url: giovanni@agilereloaded.it
@@ -124,7 +123,7 @@ Giulio Roggero:
   position: Milano co-organizer
   company: AgileReloaded
   bio: "Entrepreneur focused on IoT, Serverless and Software Development"
-  avatar: images/people/GiulioRoggero.jpg
+  avatar: /images/players/GiulioRoggero.jpg
   socials:
     - name: email
       url: giulio@agilereloaded.it
@@ -140,7 +139,7 @@ Fabio Ghislandi:
   position: Milano co-organizer
   company: AgileReloaded
   bio: "Agile Coach"
-  avatar: images/people/FabioGhislandi.jpg
+  avatar: /images/players/FabioGhislandi.jpg
   socials:
     - name: email
       url: fabio@agilereloaded.it
@@ -156,7 +155,7 @@ Karsten Mueller:
   position: Hamburg co-organizer
   company: Goodgame Studios
   bio: "Agile Coach"
-  avatar: images/people/KarstenMueller.jpg
+  avatar: /images/players/KarstenMueller.jpg
   socials:
     - name: email
       url: kmueller@goodgamestudios.com
@@ -172,7 +171,7 @@ Julian Kea:
   position: Hamburg co-organizer
   company: KiLearning
   bio: "[ki:]®Learning Business Skills. LEGO® SERIOUS PLAY® facilitator."
-  avatar: images/people/JulianKea.jpg
+  avatar: /images/players/JulianKea.jpg
   socials:
     - name: email
       url: jk@kilearning.net
@@ -188,7 +187,7 @@ Leon-Cosmin Lupu:
   position: Timisoara co-organizer
   company: Nokia
   bio: "R&D Group Leader"
-  avatar: images/people/LeonCosminLupu.jpg
+  avatar: /images/players/LeonCosminLupu.jpg
   socials:
     - name: email
       url:  leoncosmin.lupu@gmail.com
@@ -204,7 +203,7 @@ Dragos Marius Jumanca:
   position: Timisoara co-organizer
   company: Nokia
   bio: "R&D Agile Manager"
-  avatar: images/people/DragosJumanca.jpg
+  avatar: /images/players/DragosJumanca.jpg
   socials:
     - name: email
       url:  jumanca_dragos_marius@yahoo.com
@@ -216,7 +215,7 @@ Karina Herman:
   position: Timisoara co-organizer
   company: Nokia
   bio: "Scrum Master"
-  avatar: images/people/LeonCosminLupu.jpg
+  avatar: /images/players/LeonCosminLupu.jpg
   socials:
     - name: email
       url: karina.herman@nokia.com
@@ -232,7 +231,7 @@ Adriana Rusu:
   position: Timisoara co-organizer
   company: Nokia
   bio: "R&D Line Manager"
-  avatar: images/people/AdrianaRusu.jpg
+  avatar: /images/players/AdrianaRusu.jpg
   socials:
     - name: linkedin
       url : in/adriana-rusu-0034139a
@@ -242,7 +241,7 @@ Lisa Francis-Jennings:
   position: Serial player
   company: StratAffect
   bio: "Managing Partner"
-  avatar: images/people/ListFrancisJennings.jpg
+  avatar: /images/players/ListFrancisJennings.jpg
   socials:
     - name: email
       url: 	l.francisjennings@strataffect.com
@@ -258,7 +257,7 @@ Lloyd Jones:
   position: Player
   company: Adventures With Agile
   bio: "Agile Coach"
-  avatar: images/people/ListFrancisJennings.jpg
+  avatar: /images/players/ListFrancisJennings.jpg
   socials:
     - name: email
       url: lloyd.t.jones@gmail.com

@@ -13,6 +13,9 @@
 - name: Games
   path: games/
   section_id: games
+- name: Players
+  path: players/
+  section_id: players
 - name: Blog
   path: blog/
   section_id: blog

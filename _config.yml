@@ -28,6 +28,10 @@ whitelist:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
+#  - jekyll-mentions
+
+#jekyll-mentions:
+#  base_url: https://twitter.com
 
 collections:
   events:
@@ -36,18 +40,26 @@ collections:
   games:
     output: true
     permalink: :collection/:path
+  players:
+    output: true
+    permalink: :collection/:path
 
 defaults:
   - scope:
-      path: ""
+      path: "/events"
       type: "events"
     values:
       layout: "event"
   - scope:
-      path: ""
+      path: "/games"
       type: "games"
     values:
       layout: "game"
+  - scope:
+      path: "/players"
+      type: "players"
+    values:
+      layout: "player"
 
 permalink: pretty
 
