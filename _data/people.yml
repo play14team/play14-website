@@ -89,6 +89,19 @@ Christina Ohanian:
       url : 115107648591590547734
     - name: linkedin
       url : in/ctohanian
+      
+Mark Webb:
+  name: Mark Webb
+  position: London co-organizer
+  bio: "Agile Coach"
+  avatar: images/people/MarkWebb.jpg
+  socials:
+    - name: email
+      url: 	mawebb65@gmail.com
+    - name: google-plus
+      url : 117276810262479615476
+    - name: linkedin
+      url : in/webby
 
 Giovanni Puliti:
   name: Giovanni Puliti

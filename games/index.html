@@ -8,32 +8,23 @@ section_id: games
 <div class='full'>
   <div class='row'>
     <div class='mod modGallery'>
-      <!--<div class='gallery-nav'>
+      <div class='gallery-nav'>
         <ul>
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
           <li>
-            <a data-cat='luxembourg' href='#'>Luxembourg</a>
+            <a data-cat='game' href='#'>Game</a>
           </li>
           <li>
-            <a data-cat='milano' href='#'>Milano</a>
-          </li>
-          <li>
-            <a data-cat='hamburg' href='#'>Hamburg</a>
-          </li>
-          <li>
-            <a data-cat='london' href='#'>London</a>
-          </li>
-          <li>
-            <a data-cat='other' href='#'>Other</a>
+            <a data-cat='icebreaker' href='#'>Ice Breaker</a>
           </li>
         </ul>
-      </div>-->
+      </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
         {% for game in site.games %}
-          <li class='{{game.categories}}'>
+          <li class='{{game.categories[0]}}'>
             <a href='{{game.url | prepend: site.baseurl | prepend: site.url}}'>
               {% if game.images %}
                 <img alt="" src="{{game.images[0] | prepend: site.baseurl | prepend: site.url}}" />
