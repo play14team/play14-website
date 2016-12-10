@@ -5,7 +5,7 @@
       <div class='row'>
         <div class='small-12 columns'>
           <div class='items'>
-            {% for t in page.testimonials  %}
+            {% for t in site.data.testimonials  %}
               <div class='item'>
                 <p class='quote'>{{t.text}}</p>
                 {% include author.html variable-param=t.author %} 
