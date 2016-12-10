@@ -9,6 +9,8 @@ images:
   - images/@stock/blog-2.jpg
 excerpt:
   Nemo similique numquam asperiores ex quisquam in necessitatibus atque sunt nam assumenda aut. est voluptate necessitatibus et quaerat quo adipisci aliquid dicta maxime rerum quia. sit velit sit aut culpa qui et est repellendus sunt et qui blanditiis illo. quia non odit rerum dolorum nesciunt totam labore et quis aut nesciunt. eius dolorem autem aut aliquam eos dolor corrupti earum blanditiis ab. quia rerum aperiam voluptatem facilis voluptas quis eligendi sit
+
+published: false
 ---
 
 Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
