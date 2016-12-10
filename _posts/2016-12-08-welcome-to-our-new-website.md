@@ -8,7 +8,7 @@ tags:
   - website
 author: Cédric Pontet
 
-excerpt: Announcing the brand new #play14 website, powered by Jekyll, hosted on GitHub Pages.
+excerpt: Announcing our brand new website, powered by Jekyll, hosted on GitHub Pages.
 
 ---
 
