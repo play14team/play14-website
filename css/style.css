@@ -145,6 +145,19 @@ ul.shortcode-list i {
   width: 100%;
 }
 
+.manifesto p {
+  font-size: 1.2rem;
+}
+.manifesto ul li {
+  font-size: 1.2rem;
+}
+
+.coc p {
+  font-size: 1.2rem;
+}
+.coc ul li {
+  font-size: 1.2rem;
+}
 
 /*smart appear */
 .fadein {

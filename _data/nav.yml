@@ -4,9 +4,13 @@
 - name: About
   path: about/
   section_id: about
-- name: Expectations
-  path: expectations/
-  section_id: expectations
+  children:
+    - name: Learning & experience
+      path: learning/
+    - name: Format & schedule
+      path: schedule/
+    - name: Our history
+      path: history/
 - name: Events
   path: events/
   section_id: events
@@ -22,10 +26,3 @@
 - name: Contact
   path: contact/
   section_id: contact
-
-
-  # children:
-  #   - name: Events
-  #     path: events.html
-  #   - name: Event
-  #     path: event.html

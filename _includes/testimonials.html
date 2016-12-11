@@ -1,18 +1,16 @@
-<div class='medium-6 columns'>
-    <h3>What players say</h3>
-    <div class='spacing'></div>
-    <div class='mod modTestimonials simple'>
-      <div class='row'>
-        <div class='small-12 columns'>
-          <div class='items'>
-            {% for t in site.data.testimonials  %}
-              <div class='item'>
-                <p class='quote'>{{t.text}}</p>
-                {% include author.html variable-param=t.author %} 
-              </div>
-            {% endfor %}
+<h3>What players say</h3>
+<div class='spacing'></div>
+<div class='mod modTestimonials simple'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='items'>
+        {% for t in site.data.testimonials  %}
+          <div class='item'>
+            <p class='quote'>{{t.text}}</p>
+            {% include author.html variable-param=t.author %} 
           </div>
-        </div>
+        {% endfor %}
       </div>
     </div>
+  </div>
 </div>

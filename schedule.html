@@ -1,0 +1,123 @@
+---
+layout: default
+section_id: schedule
+
+schedule:
+    - day: Friday
+      desc: Friday is the day where we learn to know one another and enjoy meeting old friends again.
+      times:
+        - time: 6 PM
+          desc: Ice breakers
+        - time: 7 PM
+          desc: Rules of the marketplace
+        - time: 8 PM
+          desc: Get to know each other dinner
+        - time: 9 PM
+          desc: Games all together
+        - time: 10 PM
+          desc: Pub for the most courageous
+    - day: Saturday
+      desc: Saturday is the day where it all start. Lots of games, lots of fun.
+      times:
+        - time: 8:30 AM
+          desc: Breakfast
+        - time: 9 AM
+          desc: Warm-ups
+        - time: 9:30 AM
+          desc: Marketplace
+        - time: 10 AM
+          desc: Game sessions
+        - time: 12:30 PM
+          desc: Lunch
+        - time: 1:30 PM
+          desc: Game sessions
+        - time: 6 PM
+          desc: Retrospective
+        - time: 7 PM
+          desc: Pizza &amp; Beers
+    - day: Sunday
+      desc: Sunday is often more relaxed and ends earlier, since most people have to go back home.
+      times:
+        - time: 8:30 AM
+          desc: Breakfast
+        - time: 9 AM
+          desc: Warm-ups
+        - time: 9:30 AM
+          desc: Marketplace
+        - time: 10 AM
+          desc: Game sessions
+        - time: 12:30 PM
+          desc: Lunch
+        - time: 1:30 PM
+          desc: Game sessions
+        - time: 4 PM
+          desc: Retrospective
+        - time: 5 PM
+          desc: Goodbye &amp; see you next time
+
+---
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>Unconference</h3>
+      <p><strong>#play14</strong> is organized as an unconference. An unconference is a conference format where attendees are also session contributors.</p> 
+      <p>Anyone who wants to initiate a topic can claim a time slot in the agenda.</p>
+      <p>There are some simple <a href='http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law' target='_blank'>rules for participants</a>.
+      </p>
+      <h5>Principles</h5>
+      <ul>
+          <li>Whoever comes is the right people</li>
+          <li>Whenever it starts is the right time</li>
+          <li>Wherever it is, is the right place</li>
+          <li>Whatever happens is the only thing that could have, be prepared to be surprised!</li>
+          <li>When it's over, it's over</li>
+      </ul>
+
+      <h5>The Law of Two Feet</h5>
+      <p>Any time a person feels a session is not contributing to their learning needs they have the responsibility to themselves to get up and move, that is use their two feet or four wheels to move to a more interesting place.<p>
+
+      <h5>Bumblebees and Butterflies</h5>
+      <p>Bumblebees fly from group to group cross-pollinating the discussions.</p>
+      <p>Butterflies sit around looking relaxed and interesting discussions may emerge around them as people find them and pause to chat.</p>
+
+    </div>
+  </div>
+</div>
+
+
+<div class='full'>
+  <div class='row'>
+      <div class='large-12 columns'>
+          <h3>Here is a #play14 event typical schedule</h3> 
+          <p><strong>#play14</strong> usually take course over a weekend, but the schedule would pretty similar if it is not the case.</p> 
+          <p>Every event also has its own specifics and the schedule may vary a bit. The general timing should stay pretty much the same though.</p>
+      </div>
+  </div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+    {% for s in page.schedule %}
+      <div class='medium-6 large-4 columns'>
+        <div class='mod modPriceBox {{box.class}}'>
+          <div class='info'>
+            <p class='level'>{{s.day}}</p>
+            <p class='desc'>{{s.desc}}</p>
+          </div>
+          <div class='features'>
+            <ul>
+              {% for t in s.times %}
+                <li class="{% cycle '', 'even' %}">
+                    <strong>{{t.time}}</strong>
+                    <br>
+                    {{t.desc}}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
