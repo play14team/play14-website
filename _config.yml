@@ -5,33 +5,32 @@ description: > # this means to ignore newlines until "baseurl:"
   '#play14 : We believe in playfulness.
   An international gathering for people who share the idea that playing is a great way to teach, learn and understand!'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://play14team.github.io/play14-website" # the base hostname & protocol for your site
+url: "http://new.play14.org" # the base hostname & protocol for your site
 twitter_username: play14team
 github_username:  play14team
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 
 paginate: 4
 paginate_path: "blog/page:num"
 
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-#   - jekyll-mentions
-#   - jemoji
 
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-#  - jekyll-mentions
-
-#jekyll-mentions:
-#  base_url: https://twitter.com
 
 collections:
   events:
@@ -46,17 +45,17 @@ collections:
 
 defaults:
   - scope:
-      path: "/events"
+      path: ""
       type: "events"
     values:
       layout: "event"
   - scope:
-      path: "/games"
+      path: "s"
       type: "games"
     values:
       layout: "game"
   - scope:
-      path: "/players"
+      path: ""
       type: "players"
     values:
       layout: "player"
