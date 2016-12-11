@@ -30,6 +30,10 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
 }
 
+h1 {
+  color: #393939;
+}
+
 .centered-text {
   text-align: center;
 }
@@ -115,6 +119,32 @@ ul.shortcode-list i {
   border: 3px solid #FF5200;
   background-color: rgba(249, 206, 6, 0);
 }
+
+/*social media*/
+.socialmedia ul {
+  margin: 0;
+}
+.socialmedia ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 8px;
+}
+.socialmedia ul i {
+  width: 36px;
+  height: 36px;
+  -moz-border-radius: 18px;
+  -webkit-border-radius: 18px;
+  border-radius: 18px;
+  background: #FF5200;
+  color: #fff;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 2.5rem;
+}
+.socialmedia img {
+  width: 100%;
+}
+
 
 /*smart appear */
 .fadein {

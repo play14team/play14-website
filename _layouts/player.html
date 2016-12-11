@@ -2,25 +2,31 @@
 layout: default
 ---
 
+{% assign player = site.data.players | where:"name",page.player | first %}
 <div class='full'>
   <div class='row'>
-    <div class='medium-8 columns'>
-        {% if page.avatar %}
-            <img alt="" src="{{page.avatar}}" />
-        {% else %}
-            <img alt="" src="/images/players/default.png" />
-        {% endif %}
-      <div class='two spacing'></div>
-    </div>
-    <div class='medium-4 columns'>
-      <div class='contact-details'>
-          <h4>{{page.name}}</h4>
-          <p>{{page.position}}</p>
-          <p>{{page.company}}</p>
-          <p>{{page.bio}}</p>
-          <p>{% include socialmedia.html variable-param=page.socials %}</p>
+    <div class='mod modBlogPost big no_bg'>
+      <h3>{{player.name}}</h3>
+      <div class='medium-8 columns'>
+        <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
+        <div class='two spacing'></div>
+      </div>
+      <div class='medium-4 columns'>
+        <div class='contact-details'>
+            <p>{{player.position}}</p>
+            <p>{{player.company}}</p>
+            <p>{{player.bio}}</p>
+            <div class="socialmedia">
+              {% include socialmedia.html variable-param=player.socials %}
+            </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
+<div class='full'>
+  <div class='row'>
+    {{ content }}
+  </div>
 <div class='four spacing'></div>
+</div>

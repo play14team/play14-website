@@ -1,4 +1,4 @@
-Cédric Pontet:
+- id: cedric-pontet
   name: Cédric Pontet
   position: Founder
   company: Agile Partner
@@ -14,7 +14,7 @@ Cédric Pontet:
     - name: linkedin
       url: in/cédric-pontet-4025955
 
-Yann Gensollen:
+- id: yann-gensollen
   name: Yann Gensollen
   position: Founder
   company: Marmelab
@@ -30,7 +30,7 @@ Yann Gensollen:
     - name: linkedin
       url : in/yanngensollen
 
-Pierre Neis:
+- id: pierre-neis
   name: Pierre Neis
   position: Founder
   company: We&Co
@@ -46,7 +46,7 @@ Pierre Neis:
     - name: linkedin
       url : in/pierreneis
 
-Diego De Biasio:
+- id: diego-de-biasio
   name: Diego De Biasio
   position: Founder
   company: Technoport
@@ -62,7 +62,7 @@ Diego De Biasio:
     - name: linkedin
       url : in/diegodebiasio
 
-Chris Caswell:
+- id: chris-caswell
   name: Chris Caswell
   position: London co-organizer
   bio: "Agile Coach"
@@ -73,7 +73,7 @@ Chris Caswell:
     - name: google-plus
       url : 109875105576699502125
 
-Christina Ohanian:
+- id: christina-ohanian
   name: Christina Ohanian
   position: London co-organizer
   web: http://www.agileandsketch.com
@@ -89,7 +89,7 @@ Christina Ohanian:
     - name: linkedin
       url : in/ctohanian
       
-Mark Webb:
+- id: mark-webb
   name: Mark Webb
   position: London co-organizer
   bio: "Agile Coach"
@@ -102,7 +102,7 @@ Mark Webb:
     - name: linkedin
       url : in/webby
 
-Giovanni Puliti:
+- id: giovanni-puliti
   name: Giovanni Puliti
   position: Milano co-organizer
   company: AgileReloaded
@@ -118,7 +118,7 @@ Giovanni Puliti:
     - name: linkedin
       url : in/giovannipuliti
 
-Giulio Roggero:
+- id: giulio-roggero
   name: Giulio Roggero
   position: Milano co-organizer
   company: AgileReloaded
@@ -134,7 +134,7 @@ Giulio Roggero:
     - name: linkedin
       url : in/giulioroggero 
 
-Fabio Ghislandi:
+- id : fabio-ghislandi
   name: Fabio Ghislandi
   position: Milano co-organizer
   company: AgileReloaded
@@ -150,7 +150,7 @@ Fabio Ghislandi:
     - name: linkedin
       url : in/fabio-ghislandi-74b736a 
 
-Karsten Mueller:
+- id: karsten-mueller
   name: Karsten Mueller
   position: Hamburg co-organizer
   company: Goodgame Studios
@@ -166,7 +166,7 @@ Karsten Mueller:
     - name: linkedin
       url : in/karsten-mueller-269b186b 
 
-Julian Kea:
+- id: julian-kea
   name: Julian Kea
   position: Hamburg co-organizer
   company: KiLearning
@@ -182,7 +182,7 @@ Julian Kea:
     - name: linkedin
       url : in/kilearning
 
-Leon-Cosmin Lupu:
+- id: leon-cosmin-lupu
   name: Leon-Cosmin Lupu
   position: Timisoara co-organizer
   company: Nokia
@@ -198,7 +198,7 @@ Leon-Cosmin Lupu:
     - name: linkedin
       url : in/leoncosminlupu
 
-Dragos Marius Jumanca:
+- id: dragos-marius-jumanca
   name: Dragos Marius Jumanca 
   position: Timisoara co-organizer
   company: Nokia
@@ -210,12 +210,12 @@ Dragos Marius Jumanca:
     - name: linkedin
       url : in/dragos-marius-jumanca-7076b29
 
-Karina Herman:
+- id: karina-herman
   name: Karina Herman
   position: Timisoara co-organizer
   company: Nokia
   bio: "Scrum Master"
-  avatar: /images/players/LeonCosminLupu.jpg
+  avatar: /images/players/KarinaHerman.jpg
   socials:
     - name: email
       url: karina.herman@nokia.com
@@ -226,7 +226,7 @@ Karina Herman:
     - name: linkedin
       url : in/karinaherman
 
-Adriana Rusu:
+- id: adriana-rusu
   name: Adriana Rusu
   position: Timisoara co-organizer
   company: Nokia
@@ -236,12 +236,12 @@ Adriana Rusu:
     - name: linkedin
       url : in/adriana-rusu-0034139a
 
-Lisa Francis-Jennings:
+- id: lisa-francis-jennings
   name: Lisa Francis-Jennings
   position: Serial player
   company: StratAffect
   bio: "Managing Partner"
-  avatar: /images/players/ListFrancisJennings.jpg
+  avatar: /images/players/LisaFrancisJennings.jpg
   socials:
     - name: email
       url: 	l.francisjennings@strataffect.com
@@ -252,12 +252,12 @@ Lisa Francis-Jennings:
     - name: linkedin
       url : in/francisjenningslisa
 
-Lloyd Jones:
+- id: lloyd-jones
   name: Lloyd Jones
   position: Player
   company: Adventures With Agile
   bio: "Agile Coach"
-  avatar: /images/players/ListFrancisJennings.jpg
+  avatar: /images/players/LloydJones.jpg
   socials:
     - name: email
       url: lloyd.t.jones@gmail.com

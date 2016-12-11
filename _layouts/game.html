@@ -17,13 +17,16 @@ layout: default
             <div class='content'>
                 <p class='info'>
                     <span>
+                        preparded by
+                        {% assign player = site.data.players | where:'name',page.author | first %}
+                        <a href="/players/{{player.id}}">{{player.name | default:'Unknown'}}</a>
+                    </span>
+                    /
+                    <span>
                         proposed by
-                        {% for player in page.originator %}
-                            {% if site.data.people[player] %}
-                                <a href="">{{site.data.people[player].name}}</a>
-                            {% else %}
-                                <a href="">{{player}}</a>
-                            {% endif %}
+                        {% for originator in page.originator %}
+                            {% assign player = site.data.players | where:'name',originator | first %}
+                            <a href="/players/{{player.id}}">{{player.name | default:originator}}</a>
                             {% unless forloop.last %}
                             &amp;
                             {% endunless %}
@@ -32,19 +35,12 @@ layout: default
                 </p>
                 <p class='info'>
                     <span>
-                        preparded by
-                        <a href="">{{site.data.people[page.author].name}}</a>
-                    </span>
-                </p>
-                <p class='info'>
-                    <span>
                         first played in
                         <a href="">{{page.firstplayed}}</a>
                     </span>
-                </p>
-                <p class='info'>
+                    /
                     <span>
-                        In
+                        Type
                         {% for cat in page.categories %}
                         <a href="#">{{cat}}</a>
                         {% unless forloop.last %}
@@ -52,10 +48,10 @@ layout: default
                         {% endunless %}
                         {% endfor %}
                     </span>
-                    /
+                    <!--/
                     <span>
                         <a href="#">4 comments</a>
-                    </span>
+                    </span>-->
                 </p>
                 <p>
                     {{page.description}}

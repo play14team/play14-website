@@ -1,11 +1,12 @@
-{% assign author = site.data.people[include.variable-param] %}
+{% assign author = site.data.players | where:"name",include.variable-param | first %}
+
 
 {% if author %}
 <div class='author'>
     <p class='author-avatar'>
         <img alt="" src="{{author.avatar}}" width="80px" />
     </p>
-    <a href="">
+    <a href="/players/{{author.id}}">
         <strong>
             {{author.name}}
         </strong>

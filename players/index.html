@@ -8,32 +8,30 @@ section_id: players
 <div class='full'>
   <div class='row'>
     <div class='mod modGallery'>
-      <!--<div class='gallery-nav'>
+      <div class='gallery-nav'>
         <ul>
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          <li>
-            <a data-cat='game' href='#'>Game</a>
-          </li>
-          <li>
-            <a data-cat='icebreaker' href='#'>Ice Breaker</a>
-          </li>
+          {% assign positions = site.data.players | group_by:"position" %}
+          {% for position in positions %}
+            <li>
+              <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
+            </li>
+          {% endfor %}
         </ul>
-      </div>-->
+      </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for player in site.players %}
-          <li class='{{game.categories[0]}}'>
-            <a href='{{player.url | prepend: site.baseurl | prepend: site.url}}'>
-              {% if player.avatar %}
-                <img alt="" src="{{player.avatar | prepend: site.baseurl | prepend: site.url}}" />
-              {% else %}
-                <img alt="" src="/images/players/default.png" />
-              {% endif %} 
+        {% assign players = site.data.players | sort:'name' %}
+        {% for player in players %}
+          <li class='{{player.position}}'>
+            <a href='/players/{{player.id}}'>
+              <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{player.name}}</h3>
+                  <h4>{{player.position}}</h4>
                   <p>{{player.bio}}</p>
                 </div>
               </div>
