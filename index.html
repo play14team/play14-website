@@ -25,7 +25,7 @@ slides:
     
 ---
 
-<div class='full no-padding'>
+<div class='full no-padding' style='background: #f5f5f5'>
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns' style='text-align:center'>
@@ -65,7 +65,7 @@ slides:
         “Tell me and I forget, teach me and I may remember, involve me and I learn.”
         <br>Benjamin Franklin 
       </blockquote>
-      <hr>
+      <div class='two spacing'></div>
       <p style='font-size: 1.5rem; font-style: italic;'>
         #play14 is an international gathering for people who share the idea that playing is a great way to teach, learn and understand! 
       </p>      
@@ -111,7 +111,8 @@ slides:
 <div class='two spacing'></div>
 
 <!--Manifesto & CoC-->
-<div class='full' style='background: #f5f5f5'>
+<div class='full no-padding' style='background: #f5f5f5'>
+  <div class='two spacing'></div>
   <div class='row'>
     <div class='large-5 columns'>
       {% include manifesto.html %}
@@ -125,8 +126,6 @@ slides:
 </div>
 
 <!--What you get-->
-<div class='two spacing'></div>
-<hr>
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
@@ -167,28 +166,28 @@ slides:
     {% include testimonials.html %}
   </div>
 </div>
-<hr>
 
 <!--Sponsors-->
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>Our sponsors</h3>
-    <div class='spacing'></div>
-    <div class='mod modClients' data-slides_to_show='4'>
-      <div class='clients'>
-        {% for sponsor in site.data.sponsors %}
-          <div class='client'>
-            <h4>{{sponsor.name}}</h4>
-            <img class="avatar" alt="" src="{{sponsor.logo}}" />
-            {% include socialmedia.html variable-param=sponsor.socials %} 
-          </div>
-        {% endfor %}
+<div class='full no-padding' style='background: #f5f5f5'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>Our sponsors</h3>
+      <div class='spacing'></div>
+      <div class='mod modClients' data-slides_to_show='4'>
+        <div class='clients'>
+          {% for sponsor in site.data.sponsors %}
+            <div class='client'>
+              <h4>{{sponsor.name}}</h4>
+              <img class="avatar" alt="" src="{{sponsor.logo}}" />
+              {% include socialmedia.html variable-param=sponsor.socials %} 
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
 </div>
-<hr>
 
 <!--Recent games-->
 <div class='two spacing'></div>
