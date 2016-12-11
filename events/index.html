@@ -13,21 +13,12 @@ section_id: events
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          <li>
-            <a data-cat='luxembourg' href='#'>Luxembourg</a>
-          </li>
-          <li>
-            <a data-cat='milano' href='#'>Milano</a>
-          </li>
-          <li>
-            <a data-cat='hamburg' href='#'>Hamburg</a>
-          </li>
-          <li>
-            <a data-cat='london' href='#'>London</a>
-          </li>
-          <li>
-            <a data-cat='other' href='#'>Other</a>
-          </li>
+          {% assign categories = site.events | group_by:"category" %}
+          {% for category in categories %}
+            <li>
+              <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
 
@@ -35,13 +26,25 @@ section_id: events
         {% assign events = site.events | reverse  %}
         {% for event in events %}
           <li class='{{event.category}}'>
-            <a href='{{event.url | prepend: site.baseurl | prepend: site.url}}'>
-              <img alt="" src="{{event.images[0] | prepend: site.baseurl | prepend: site.url}}" />
+            <a href='{{event.url}}'>
+              <img alt="" src="{{event.images.first}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                   <h3>{{event.title}}</h3>
-                  <p>{{event.dates}}</p>
-                  <p>{{event.location}}</p>
+                  <h4>
+                    {% if event.done %}
+                      Event over
+                    {% elsif event.eventbrite %}
+                      Registation Open
+                    {% else %}
+                      Coming soon
+                    {% endif %}
+                  </h4>
+                  <p>
+                    {{event.dates}}
+                    <br>
+                    {{site.data.locations[event.location].name | default: event.location}}
+                  </p>
                 </div>
               </div>
             </a>
