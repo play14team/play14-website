@@ -60,5 +60,5 @@ defaults:
     values:
       layout: "player"
 
-permalink: pretty
+permalink: none
 
