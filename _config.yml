@@ -11,26 +11,27 @@ github_username:  play14team
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
 
 paginate: 4
 paginate_path: "blog/page:num"
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
+#   - jekyll-mentions
+#   - jemoji
 
 whitelist:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
+#  - jekyll-mentions
+
+#jekyll-mentions:
+#  base_url: https://twitter.com
 
 collections:
   events:
@@ -45,17 +46,17 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "/events"
       type: "events"
     values:
       layout: "event"
   - scope:
-      path: "s"
+      path: "/games"
       type: "games"
     values:
       layout: "game"
   - scope:
-      path: ""
+      path: "/players"
       type: "players"
     values:
       layout: "player"
