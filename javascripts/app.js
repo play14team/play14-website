@@ -281,7 +281,7 @@ jQuery(document).foundation();
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 3000,
-        pauseOnHover: false,
+        pauseOnHover: true,
         responsive: [
           {
             breakpoint: 1024,
@@ -329,14 +329,13 @@ jQuery(document).foundation();
 
       var slides_to_show = $ctx.data('slides_to_show');
       var speed = $ctx.data('speed');
-      var pauseOnHover = $ctx.data('pauseOnHover');
 
       $('.clients', $ctx).slick({
         slidesToShow: slides_to_show,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: speed || 2000,
-        pauseOnHover: pauseOnHover || true,
+        pauseOnHover: true,
         responsive: [
           {
             breakpoint: 767,

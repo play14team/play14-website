@@ -1,14 +1,12 @@
-<div class='row'>
-  {% for expectation in site.data.expectations.main %}
-    <div class='medium-3 large-3 columns'>
-      <div class='fadein mod modIconText' data-delay='{{ 200 | times:forloop.index0 }}'>
-        <div class='icon-text-circle'>
-          <i class='{{expectation.icon_class}}'></i>
-          <h3>{{expectation.title}}</h3>
-          <p>{{expectation.desc}}</p>
-        </div>
-        <div class='two spacing'></div>
+{% for expectation in site.data.expectations.main %}
+  <div class='medium-3 large-3 columns'>
+    <div class='fadein mod modIconText' data-delay='{{ 200 | times:forloop.index0 }}'>
+      <div class='icon-text-circle'>
+        <i class='{{expectation.icon_class}}'></i>
+        <h3>{{expectation.title}}</h3>
+        <p>{{expectation.desc}}</p>
       </div>
+      <div class='two spacing'></div>
     </div>
-  {% endfor %}
-</div>
+  </div>
+{% endfor %}
