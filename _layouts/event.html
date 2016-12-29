@@ -6,8 +6,8 @@ layout: default
 <div class='full'>
   <div class='row'>
     <div class='large-10 columns'>
-      <h2>{{page.title}}</h2>
-      <h3>{{page.dates}}</h3>
+      <h1 class="fadeinright">{{page.title}}</h1>
+      <h2 class="">{{page.dates}}</h2>
       {% if page.done %}
         <a class='button small' href='#'>Event over</a>
       {% elsif page.eventbrite %}
@@ -59,13 +59,19 @@ layout: default
         </li>
       </ul>
     </div>
+  </div>
 
+  <div class='row'>
     <div class='large-12 columns'>
       <div>
         {{content}}
       </div>
     </div>
-
   </div>
+
+  <div class='two spacing'></div>
+
+  {% include team.html %}
+
   <div class='four spacing'></div>
 </div>

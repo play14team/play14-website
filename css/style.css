@@ -13,7 +13,37 @@
   font-weight: bold;
 }
 
+/* 
+mods
+- modBarGraph 
+- modBlogPost
+- modBoxedSlider
+- modCallToAction
+- modClients
+- modDefaultSlider
+- modFullscreenSlider
+- modGallery
+- modIconText
+- modMasonryGallery
+- modMilestone
+- modPriceBox
+- modSectionHeader
+- modStylePanel
+- modTeamMember
+- modTestimonials
+
+*/
+
 /*some basic settings */
+
+body {
+  overflow-y: scroll;
+}
+
+body.screenshot {
+  display: block;
+}
+
 a {
   color: #FF5200;
   -moz-transition-duration: 0.3s;
@@ -125,7 +155,9 @@ ul.shortcode-list i {
   background-color: rgba(249, 206, 6, 0);
 }
 
-/*social media*/
+
+/* social media */
+
 .socialmedia ul {
   margin: 0;
 }
@@ -150,6 +182,8 @@ ul.shortcode-list i {
   width: 100%;
 }
 
+
+/* manifesto */
 .manifesto p {
   font-size: 1.2rem;
 }
@@ -157,6 +191,8 @@ ul.shortcode-list i {
   font-size: 1.2rem;
 }
 
+
+/* coc */
 .coc p {
   font-size: 1.2rem;
 }
@@ -164,7 +200,7 @@ ul.shortcode-list i {
   font-size: 1.2rem;
 }
 
-/*smart appear */
+/* smart appear */
 .fadein {
   opacity: 0;
   -moz-transition: all 0.8s linear;
@@ -261,6 +297,9 @@ ul.shortcode-list i {
   font-size: 2.57143rem;
   color: #333;
 }
+
+
+/* contain-to-grid */
 
 .contain-to-grid {
   -moz-box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.1);
@@ -653,9 +692,10 @@ form input.error, form textarea.error {
   margin-right: 10px;
 }
 
-body.screenshot {
-  display: block;
-}
+
+
+/* modBarGraph */
+
 .modBarGraph .bars {
   margin: 0;
   list-style: none;
@@ -901,6 +941,8 @@ body.screenshot {
   opacity: 0.75;
 }
 
+
+/* modBlogPost */
 .modBlogPost {
   margin-bottom: 40px;
   background: #fff;
@@ -1237,6 +1279,9 @@ body.screenshot {
   opacity: 0.75;
 }
 
+
+/* modBoxedSlider */
+
 .modBoxedSlider .slick-dots li button:before {
   font-size: 30px;
   top: -40px;
@@ -1283,6 +1328,8 @@ body.screenshot {
   line-height: 48px;
   margin-bottom: 30px;
 }
+
+/* modCallToAction */
 .modCallToAction p {
   font-size: 1.28571rem;
   letter-spacing: 1px;
@@ -1517,6 +1564,9 @@ body.screenshot {
   opacity: 0.75;
 }
 
+
+/* modClients */
+
 .modClients .slick-slider {
   margin-bottom: 10px;
 }
@@ -1550,6 +1600,10 @@ body.screenshot {
   padding:5px;
   margin: 0 auto;
 }
+
+
+
+/* modDefaultSlider */
 
 .modDefaultSlider .sequence {
   height: 650px;
@@ -2113,6 +2167,11 @@ body.screenshot {
   letter-spacing: 4px;
   font-size: 4.28571rem;
 }
+
+
+
+/* modFullscreenSlider */
+
 .modFullscreenSlider .fullscreen_slideshow {
   height: 700px;
   position: relative;
@@ -2410,6 +2469,11 @@ body.screenshot {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
+
+
+
+/* modGallery */
+
 .modGallery .gallery-nav {
   margin: 0 auto 30px;
   text-align: center;
@@ -2504,6 +2568,10 @@ body.screenshot {
 .modGallery ul.gallery.seperated li {
   padding: 10px;
 }
+
+
+/* modIconText */
+
 .modIconText .icon-text-circle {
   text-align: center;
 }
@@ -2543,9 +2611,10 @@ body.screenshot {
 .modIconText .icon-text-simple h3, .modIconText .icon-text-simple p {
   margin-left: 73px;
 }
-body {
-  overflow-y: scroll;
-}
+
+
+
+/* modMasonryGallery */
 
 .modMasonryGallery .gallery-nav {
   margin: 0 auto 30px;
@@ -2647,6 +2716,10 @@ body {
 .modMasonryGallery ul.gallery li.hidden {
   opacity: 0.1;
 }
+
+
+/* modMilestone */
+
 .modMilestone {
   text-align: center;
 }
@@ -2680,6 +2753,10 @@ body {
 .modMilestone.no-icon strong {
   font-size: 4.28571rem;
 }
+
+
+/* modPriceBox */
+
 .modPriceBox {
   border: 1px solid #e0e0e0;
   padding: 0 15px 15px;
@@ -2750,6 +2827,10 @@ body {
 .modPriceBox:hover {
   background-color: rgba(255, 255, 255, 0.7);
 }
+
+
+/* modSectionHeader */
+
 .modSectionHeader .special-title h2 {
   text-transform: uppercase;
   display: inline-block;
@@ -2783,6 +2864,10 @@ body {
   background: currentColor;
   display: block;
 }
+
+
+/* modStylePanel */
+
 .modStylePanel {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
@@ -2928,6 +3013,10 @@ body {
 .modStylePanel a#pattern-10 {
   background: url(../images/pattern-10.png) left top no-repeat;
 }
+
+
+/* modTeamMember */
+
 .modTeamMember .member {
   position: relative;
   overflow: hidden;
@@ -3231,6 +3320,9 @@ body {
   opacity: 0.75;
 }
 
+
+/* modTestimonials */
+
 .modTestimonials {
   padding: 0 60px;
 }
@@ -3262,6 +3354,8 @@ body {
 .modTestimonials.simple .slick-slider {
   margin-bottom: 10px;
 }
+
+
 @media only screen and (max-width: 60em) {
   .modTeamMember .overlay {
     opacity: 1;
@@ -3407,6 +3501,8 @@ body {
     width: auto;
   }
 }
+
+
 @media only screen and (max-width: 767px) {
   .modDefaultSlider .sequence .title h2 {
     font-size: 3.85714rem;
@@ -3444,6 +3540,9 @@ body {
     font-size: 1.8rem;
   }
 }
+
+
+
 @media only screen and (max-width: 480px) {
   .modDefaultSlider .sequence .title h2 {
     font-size: 3.14286rem;

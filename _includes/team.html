@@ -1,3 +1,5 @@
+{% if page.members %}
+
 <div class='row'>
   <div class='large-12 columns'>
     <h3>The team</h3>
@@ -7,19 +9,23 @@
 <div class='row'>
   {% for m in page.members %}
     {% assign member = site.data.players | where:"name",m | first %}
-    <div class='small-6 medium-3 large-3 columns'>
-      <div class='mod modTeamMember style-2'>
-        <div class='member'>
-          <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-          <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-            {% include socialmedia.html variable-param=member.socials %} 
+      {% if member %}
+      <div class='small-6 medium-3 large-3 columns'>
+        <div class='mod modTeamMember style-2'>
+          <div class='member'>
+            <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+              {% include socialmedia.html variable-param=member.socials %} 
+            </div>
           </div>
+          <h3>{{m}}</h3>
+          <p class='position'>{{member.position}}</p>
+          <p>{{member.bio}}</p>
+          <div class='two spacing'></div>
         </div>
-        <h3>{{m}}</h3>
-        <p class='position'>{{member.position}}</p>
-        <p>{{member.bio}}</p>
-        <div class='two spacing'></div>
       </div>
-    </div>
+    {% endif %}
   {% endfor %}
 </div>
+
+{% endif %}
