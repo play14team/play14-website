@@ -3,21 +3,25 @@ layout: default
 ---
 
 {% assign location = site.data.locations[page.location] %}
-<div class='full'>
+
+<div class='full no-padding'>
   <div class='row'>
     <div class='large-10 columns'>
-      <h1 class="fadeinright">{{page.title}}</h1>
-      <h2 class="">{{page.dates}}</h2>
+      <!-- Title & date -->
+      <h1 class="fadeinright"><a href="{{page.url}}">{{page.title}}</a></h1>
+      <h2 class="fadeinleft">{{page.dates}}</h2>
+
+      <!-- Button -->
       {% if page.done %}
-        <a class='button small' href='#'>Event over</a>
+        <a class='button small'>Event over</a>
       {% elsif page.eventbrite %}
-        <a class='button small' href='{{page.eventbrite}}' target="_blank">Register Now</a>
-        <div class='spacing'></div>
+        <a class='button small' href='#register'>Register Now</a>
       {% else %}
-        <a class='button small' href='#'>Coming soon</a>
+        <a class='button small'>Coming soon</a>
       {% endif %}
     </div>
 
+    <!-- Nav -->
     <div class='large-2 columns'>
       <ul class='info'>
         <li>
@@ -34,7 +38,14 @@ layout: default
         </li>
       </ul>
     </div>
+  </div>
+</div>
 
+<!-- Location -->
+<div class='full no-padding'>
+  <div class='row'>
+    <h3>Location</h3>
+    <!-- Images -->
     <div class='large-6 columns'>
       <div class='mod modBoxedSlider'>
         <div class='slides'>
@@ -47,6 +58,7 @@ layout: default
       </div>
     </div>
 
+    <!-- Map -->
     <div class='large-4 columns'>
       <ul class='info'>
         <li>
@@ -60,18 +72,56 @@ layout: default
       </ul>
     </div>
   </div>
+</div>
 
+<!-- Content -->
+<div class='full no-padding'>
+  <div class='two spacing'></div>
   <div class='row'>
-    <div class='large-12 columns'>
-      <div>
-        {{content}}
+    {{content}}
+  </div>
+</div>
+
+<!-- Register -->
+{% if page.eventbrite %}
+<div class='full no-padding'>
+  <a name="register"></a>
+  <div class='spacing'></div>
+  <div class='row'>
+    <h3>Register</h3>
+    {% if page.eventbrite.tickets-widget %}
+    <div class='large-10 columns'>
+      <div style="width:100%; text-align:left;">
+        <iframe src="{{page.eventbrite.tickets-widget}}" frameborder="0" height="475" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
       </div>
     </div>
+    {% endif %}
+    {% if page.eventbrite.countdown-widget %}
+    <div class='large-2 columns'>
+      <div style="width:195px; text-align:center;" >
+        <iframe  src="{{page.eventbrite.countdown-widget}}" frameborder="0" height="291" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
+      </div>
+    </div>
+    {% endif %}
   </div>
-
-  <div class='two spacing'></div>
-
-  {% include team.html %}
-
-  <div class='four spacing'></div>
 </div>
+{% endif %}
+
+<!--Team -->
+<div class='two spacing'></div>
+<div class='full no-padding alternate-background'>
+  <div class='two spacing'></div>
+  {% include team.html %}
+</div>
+
+<!--Sponsors-->
+<div class='full no-padding'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+        {% include sponsors.html %}
+    </div>
+  </div>
+</div>
+
+<div class='four spacing'></div>

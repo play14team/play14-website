@@ -22,7 +22,7 @@ slides:
   - bg: images/slides/marketplace.jpg
     title: In Hamburg
     tagline: The Marketplace
-    
+
 ---
 
 <div class='full no-padding alternate-background'>
@@ -172,19 +172,7 @@ slides:
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
-      <h3>Our sponsors</h3>
-      <div class='spacing'></div>
-      <div class='mod modClients' data-slides_to_show='4'>
-        <div class='clients'>
-          {% for sponsor in site.data.sponsors %}
-            <div class='client'>
-              <h4>{{sponsor.name}}</h4>
-              <img class="avatar" alt="" src="{{sponsor.logo}}" />
-              {% include socialmedia.html variable-param=sponsor.socials %} 
-            </div>
-          {% endfor %}
-        </div>
-      </div>
+      {% include sponsors.html %}
     </div>
   </div>
 </div>

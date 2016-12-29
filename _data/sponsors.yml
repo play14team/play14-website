@@ -1,7 +1,7 @@
 #sponsors
 - name: AIGLU
   url: http://aiglu.org/
-  logo: images/sponsors/aiglu.jpg
+  logo: /images/sponsors/aiglu.jpg
   socials:
     - name: email
       url : info@aiglu.org
@@ -10,7 +10,7 @@
 
 - name: Technoport
   url: http://www.technoport.lu
-  logo: images/sponsors/Technoport.jpg
+  logo: /images/sponsors/Technoport.jpg
   socials:
     - name: email
       url : incubator@technoport.lu
@@ -19,7 +19,7 @@
 
 - name: Agile Partner
   url: http://agilepartner.net/
-  logo: images/sponsors/AgilePartner.png
+  logo: /images/sponsors/AgilePartner.png
   socials:
     - name: email
       url : contact@agilepartner.net
@@ -28,7 +28,7 @@
 
 - name: Marmelab
   url: http://marmelab.com/
-  logo: images/sponsors/marmelab.png
+  logo: /images/sponsors/marmelab.png
   socials:
     - name: email
       url : info@marmelab.com
@@ -37,4 +37,4 @@
 
 - name: We&Co
   url: https://wecompany.me/
-  logo: images/sponsors/WeCo.png
+  logo: /images/sponsors/WeCo.png
