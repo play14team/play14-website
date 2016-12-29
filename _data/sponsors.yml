@@ -37,3 +37,12 @@
 - name: We&Co
   url: https://wecompany.me/
   logo: /images/sponsors/WeCo.png
+
+- name: Agile Reloaded
+  url: http://www.agilereloaded.it/
+  logo: /images/sponsors/AgileReloaded.png
+  socials:
+    - name: email
+      url : info@agilereloaded.it
+    - name: twitter
+      url: agilereloaded
