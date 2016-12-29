@@ -60,58 +60,64 @@ slides:
 <div class='full no-padding'>
   <div class='spacing'></div>
   <div class='row'>
-    <div class='large-12 columns'>
-      <blockquote style='font-size: 1.5rem;'>
+    <h3>What is #play14 ?</h3>
+    <div class='large-12 columns' style='font-size: 1.5rem;'>
+      <blockquote>
         Tell me and I forget, teach me and I may remember, involve me and I learn.
       </blockquote>
       <em>Benjamin Franklin</em>
       <div class='two spacing'></div>
-      <p style='font-size: 1.5rem; font-style: italic;'>
-        #play14 is an international gathering for people who share the idea that playing is a great way to teach, learn and understand! 
+      <p style='font-size: 1.5rem;'>
+        <strong>#play14</strong> is an international gathering for people who share the idea that playing is a great way to teach, learn and understand! 
       </p>      
-      <p style='font-size: 1.5rem; font-style: italic;'>
+      <p style='font-size: 1.5rem;'>
         Many different profiles of people are invited to share serious games, good practices, tips, knowledge, laughts and smiles in a common goal of spreading new ways to teach, learn, create or train.
+      </p>
+      <p style='font-size: 1.5rem;'>
+        <strong>#play14</strong> is run as an unconference, where all attendees are also contributors. All you need is show up, and you will be given the opportunity to propose some games, or play the games proposed by the others.
       </p>
     </div>
   </div>
-  <hr>
+  <div class='two spacing'></div>
 </div>
 
 <!--Next events-->
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Our next events
-      /
-      <a href='events/'>View more</a>
-    </h3>
-    <div class='spacing'></div>
-  </div>
-  <div class='mod modGallery'>
-    <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% assign events = site.events | where_exp:"event","event.done == false" | reverse %}
-      {% for event in events reversed %}
-        <li class='{{event.category}}'>
-          <a href='{{event.url}}'>
-            <img alt="" src="{{event.images[0]}}" />
-            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-              <div class='thumb-info'>
-                <h3>{{event.title}}</h3>
-                <p>{{event.dates}}</p>
-                <p>{{site.data.locations[event.location].name}}</p>
+<div class='full no-padding alternate-background'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>
+        Our next events
+        /
+        <a href='events/'>View more</a>
+      </h3>
+      <div class='spacing'></div>
+    </div>
+    <div class='mod modGallery'>
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+        {% assign events = site.events | where_exp:"event","event.done == false" | reverse %}
+        {% for event in events reversed %}
+          <li class='{{event.category}}'>
+            <a href='{{event.url}}'>
+              <img alt="" src="{{event.images[0]}}" />
+              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                <div class='thumb-info'>
+                  <h3>{{event.title}}</h3>
+                  <p>{{event.dates}}</p>
+                  <p>{{site.data.locations[event.location].name}}</p>
+                </div>
               </div>
-            </div>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
+  <div class='two spacing'></div>
 </div>
-<div class='two spacing'></div>
 
 <!--Manifesto & CoC-->
-<div class='full no-padding alternate-background'>
+<div class='full no-padding'>
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-5 columns'>
@@ -126,7 +132,6 @@ slides:
 </div>
 
 <!--What you get-->
-<div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
     <h3>What can you expect when attending an event ?</h3>
@@ -134,22 +139,6 @@ slides:
   </div>
 </div>
 {% include main-expectations.html %}
-
-<!--Know more-->
-<div class='full no-padding alternate-background'>
-  <div class='two spacing'></div>
-  <div class='mod modCallToAction'>
-    <div class='row'>
-      <div class='medium-9 large-9 columns'>
-        <p>Do you want to know more about what to expect when you join an event ?</p>
-      </div>
-      <div class='medium-3 large-3 columns'>
-        <a class='button' href='/learning/'>Learn more</a>
-      </div>
-    </div>
-  </div>
-  <div class='spacing'></div>
-</div>
 
 <!--What it's about-->
 <div class='two spacing'></div>
@@ -167,85 +156,104 @@ slides:
   </div>
 </div>
 
-<!--Sponsors-->
+<!--Know more-->
 <div class='full no-padding alternate-background'>
+  <div class='two spacing'></div>
+  <div class='mod modCallToAction'>
+    <div class='row'>
+      <div class='medium-9 large-9 columns'>
+        <p>Do you want to know more about what to expect when you join an event ?</p>
+      </div>
+      <div class='medium-3 large-3 columns'>
+        <a class='button' href='/learning/'>Learn more</a>
+      </div>
+    </div>
+  </div>
+  <div class='spacing'></div>
+</div>
+
+<!--Sponsors-->
+<div class='full no-padding'>
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
       {% include sponsors.html %}
     </div>
   </div>
+  <div class='two spacing'></div>
 </div>
 
 <!--Recent games-->
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Our recent games
-      /
-      <a href='games/'>View more games</a>
-    </h3>
-    <div class='spacing'></div>
+<div class='full no-padding alternate-background'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>
+        Our recent games
+        /
+        <a href='games/'>View more games</a>
+      </h3>
+      <div class='spacing'></div>
+    </div>
   </div>
-</div>
-<div class='row'>
-  {% for game in site.games %}
-    {% if forloop.index > 3 %}
-      {% break %}
-    {% endif %}
-    <div class='large-4 medium-4 columns'>
-      <div class='mod modBlogPost no_bg simple'>
-        {% for image in game.images %}
-          {% if forloop.index > 1 %}
-            {% break %}
-          {% endif %}
-          <a href="{{game.url}}"><img alt="" src="{{image}}" /></a>
-        {% endfor %}
-        <div class='content'>
-          <h4><a href="{{game.url}}">{{game.title}}</a></h4>
-          <p>{{game.description | truncatewords: 25 }}</p>
+  <div class='row'>
+    {% for game in site.games %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+      <div class='large-4 medium-4 columns'>
+        <div class='mod modBlogPost no_bg simple'>
+          {% for image in game.images %}
+            {% if forloop.index > 1 %}
+              {% break %}
+            {% endif %}
+            <a href="{{game.url}}"><img alt="" src="{{image}}" /></a>
+          {% endfor %}
+          <div class='content'>
+            <h4><a href="{{game.url}}">{{game.title}}</a></h4>
+            <p>{{game.description | truncatewords: 25 }}</p>
+          </div>
         </div>
       </div>
-    </div>
-  {% endfor %}
-  <div class='two spacing'></div>
+    {% endfor %}
+    <div class='two spacing'></div>
+  </div>
 </div>
-<hr>
-
 
 <!--Recent posts-->
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Our recent posts
-      /
-      <a href='blog/'>View more posts</a>
-    </h3>
-    <div class='spacing'></div>
+<div class='full no-padding'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h3>
+        Our recent posts
+        /
+        <a href='blog/'>View more posts</a>
+      </h3>
+      <div class='spacing'></div>
+    </div>
   </div>
-</div>
-<div class='row'>
-  {% for post in site.posts %}
-    {% if forloop.index > 3 %}
-      {% break %}
-    {% endif %}
-    <div class='large-4 medium-4 columns'>
-      <div class='mod modBlogPost no_bg simple'>
-        {% for image in post.images %}
-          {% if forloop.index > 1 %}
-            {% break %}
-          {% endif %}
-          <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
-        {% endfor %}
-        <div class='content'>
-          <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-          <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-          <p>{{post.excerpt | truncatewords: 25 }}</p>
+  <div class='row'>
+    {% for post in site.posts %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+      <div class='large-4 medium-4 columns'>
+        <div class='mod modBlogPost no_bg simple'>
+          {% for image in post.images %}
+            {% if forloop.index > 1 %}
+              {% break %}
+            {% endif %}
+            <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
+          {% endfor %}
+          <div class='content'>
+            <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+            <p>{{post.excerpt | truncatewords: 25 }}</p>
+          </div>
         </div>
       </div>
-    </div>
-  {% endfor %}
-  <div class='two spacing'></div>
+    {% endfor %}
+    <div class='two spacing'></div>
+  </div>
 </div>
