@@ -1,15 +1,20 @@
-<h3>Our sponsors</h3>
-<div class='spacing'></div>
-<div class='mod modClients' data-slides_to_show='4' data-speed='2000'>
-    <div class='clients'>
-        {% for sponsor in site.data.sponsors %}
-        <div class='client'>
-            <a href="{{sponsor.url}}" target="_blank">
-                <h4>{{sponsor.name}}</h4>
-                <img class="avatar" alt="" src="{{sponsor.logo | prepend: site.baseurl | prepend: site.url}}" />
-            </a>
-            {% include socialmedia.html variable-param=sponsor.socials %} 
+{% assign sponsorGroups = page.sponsors | group_by:"type" %}
+{% for sponsorGroup in sponsorGroups %}
+    <div class='two spacing'></div>
+    <h3>{{sponsorGroup.name}}</h3>
+    <div class='spacing'></div>
+    <div class='mod modClients' data-slides_to_show='4' data-speed='2000'>
+        <div class='clients'>
+                {% for s in sponsorGroup.items %}
+                    {% assign sponsor = site.data.sponsors | where:"name",s.name | first %}
+                    <div class='client'>
+                        <a href="{{sponsor.url}}" target="_blank">
+                            <h4>{{sponsor.name}}</h4>
+                            <img class="avatar" alt="" src="{{sponsor.logo | prepend: site.baseurl | prepend: site.url}}" />
+                        </a>
+                        {% include socialmedia.html variable-param=sponsor.socials %} 
+                    </div>
+                {% endfor %}
         </div>
-        {% endfor %}
     </div>
-</div>
+{% endfor %}
