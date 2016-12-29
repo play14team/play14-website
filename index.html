@@ -106,19 +106,19 @@ sponsors:
     </div>
     <div class='mod modGallery'>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% assign events = site.events | where_exp:"event","event.done == false" | reverse %}
+        {% assign events = site.events | where_exp:"event","event.schedule.isOver == false" | reverse %}
         {% for event in events reversed %}
           <li class='{{event.category}}'>
             <a href='{{event.url}}'>
               <img alt="" src="{{event.images[0]}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{event.title}}</h3>
-                  <p>{{event.dates}}</p>
-                  <p>{{site.data.locations[event.location].name}}</p>
+                  <h3>{{event.schedule.dates}}</h3>
+                  <h3>{{site.data.locations[event.location].name}}</h3>
                 </div>
               </div>
             </a>
+            <h3>{{event.title}}</h3>
           </li>
         {% endfor %}
       </ul>

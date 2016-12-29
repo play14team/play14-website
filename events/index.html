@@ -30,9 +30,10 @@ section_id: events
               <img alt="" src="{{event.images.first}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{event.title}}</h3>
+                  <h3>{{event.schedule.dates}}</h3>
+                  <h3>{{site.data.locations[event.location].name | default: event.location}}</h3>
                   <h4>
-                    {% if event.done %}
+                    {% if event.schedule.isOver %}
                       Event over
                     {% elsif event.eventbrite %}
                       Registation Open
@@ -40,14 +41,10 @@ section_id: events
                       Coming soon
                     {% endif %}
                   </h4>
-                  <p>
-                    {{event.dates}}
-                    <br>
-                    {{site.data.locations[event.location].name | default: event.location}}
-                  </p>
                 </div>
               </div>
             </a>
+            <h3>{{event.title}}</h3>
           </li>
         {% endfor %}
       </ul>

@@ -9,16 +9,9 @@ layout: default
     <div class='large-10 columns'>
       <!-- Title & date -->
       <h1 class="fadeinright"><a href="{{page.url}}">{{page.title}}</a></h1>
-      <h2 class="fadeinleft">{{page.dates}}</h2>
+      <h2 class="fadeinleft">{{page.schedule.dates}}</h2>
 
       <!-- Button -->
-      {% if page.done %}
-        <a class='button small'>Event over</a>
-      {% elsif page.eventbrite %}
-        <a class='button small' href='#register'>Register Now</a>
-      {% else %}
-        <a class='button small'>Coming soon</a>
-      {% endif %}
     </div>
 
     <!-- Nav -->
@@ -46,7 +39,7 @@ layout: default
   <div class='row'>
     <h3>Location</h3>
     <!-- Images -->
-    <div class='large-6 columns'>
+    <div class='large-5 columns'>
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           {% for image in page.images %}
@@ -59,18 +52,61 @@ layout: default
     </div>
 
     <!-- Map -->
-    <div class='large-4 columns'>
+    <div class='large-3 columns'>
+      <iframe src="{{location.map}}" width="350" height="370" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    
+    <!-- Details -->
+    <div class='large-3 columns'>
       <ul class='info'>
+        <li>
+          {% if page.schedule.isOver %}
+            <a class='button small'>Event over</a>
+          {% elsif page.eventbrite %}
+            <a class='button small' href='#register'>Register</a>
+          {% else %}
+            <a class='button small'>Coming soon</a>
+          {% endif %}
+        </li>
         <li>
           <a href="{{location.url}}" target="_blank">
             {{location.name}}, {{location.area}}
           </a>
         </li>
         <li>
-          <iframe src="{{location.map}}" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <div class='spacing'></div>
+          <strong>Address</strong>
         </li>
+        <li>
+          {{location.address}}
+        </li>
+        {% if page.schedule.start %}
+          <li>
+            <div class='spacing'></div>
+            <strong>Start</strong>
+          </li>
+          <li>
+            {{page.schedule.start | date: "%A, %B %-d %Y"}}
+          </li>
+          <li>
+            {{page.schedule.start | date: "%R"}}
+          </li>
+        {% endif %}
+        {% if page.schedule.finish %}
+          <li>
+            <div class='spacing'></div>
+            <strong>Finish</strong>
+          </li>
+          <li>
+            {{page.schedule.finish | date: "%A, %B %-d %Y"}}
+          </li>
+          <li>
+            {{page.schedule.finish | date: "%R"}}
+          </li>
+        {% endif %}
       </ul>
     </div>
+
   </div>
 </div>
 
