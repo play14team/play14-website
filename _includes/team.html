@@ -18,7 +18,7 @@
               {% include socialmedia.html variable-param=member.socials %} 
             </div>
           </div>
-          <h3>{{m}}</h3>
+          <h3><a href="{{member.id | prepend: '/players/' | prepend: site.url}}">{{m}}</a></h3>
           <p class='position'>{{member.position}}</p>
           <p>{{member.bio}}</p>
           <div class='two spacing'></div>

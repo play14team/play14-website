@@ -19,14 +19,14 @@ layout: default
                     <span>
                         preparded by
                         {% assign player = site.data.players | where:'name',page.author | first %}
-                        <a href="/players/{{player.id}}">{{player.name | default:'Unknown'}}</a>
+                        <a href="{{player.id | prepend: '/players/'}}">{{player.name | default:'Unknown'}}</a>
                     </span>
                     /
                     <span>
                         proposed by
                         {% for originator in page.originator %}
                             {% assign player = site.data.players | where:'name',originator | first %}
-                            <a href="/players/{{player.id}}">{{player.name | default:originator}}</a>
+                            <a href="{{player.id | prepend: '/players/'}}">{{player.name | default:originator}}</a>
                             {% unless forloop.last %}
                             &amp;
                             {% endunless %}
