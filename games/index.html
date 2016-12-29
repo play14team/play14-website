@@ -13,12 +13,19 @@ section_id: games
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          <li>
+          {% assign categories = site.games | group_by:"category" %}
+          {% for category in categories %}
+            <li>
+              <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }}</a>
+            </li>
+          {% endfor %}
+
+          <!--<li>
             <a data-cat='game' href='#'>Game</a>
           </li>
           <li>
             <a data-cat='icebreaker' href='#'>Ice Breaker</a>
-          </li>
+          </li>-->
         </ul>
       </div>
 
@@ -27,17 +34,19 @@ section_id: games
           <li class='{{game.categories[0]}}'>
             <a href='{{game.url | prepend: site.baseurl | prepend: site.url}}'>
               {% if game.images %}
-                <img alt="" src="{{game.images[0] | prepend: site.baseurl | prepend: site.url}}" />
+                <img alt="" src="{{game.images | first | prepend: site.baseurl | prepend: site.url}}" />
               {% else %}
                 <img alt="" src="/images/games/default.jpg" />
               {% endif %} 
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{game.title}}</h3>
-                  <p>{{game.author}}</p>
+                  <h3>{{game.author}}</h3>
+                  <h4>{{game.timebox}}</h4>
+                  <h4>{{game.scale}}</h4>
                 </div>
               </div>
             </a>
+            <h3>{{game.title}}</h3>
           </li>
         {% endfor %}
       </ul>

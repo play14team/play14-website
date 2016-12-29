@@ -1,7 +1,7 @@
 ---
 layout: game
 title:  "The Maze"
-categories: game
+category: game
 tags:
   - collaboration
   - cooperation
@@ -36,8 +36,8 @@ images:
     - /images/games/maze/03.jpg
 ---
 
-#### HOW TO PLAY
-##### SETUP
+### HOW TO PLAY
+#### SETUP
 Space: You will need a large, empty space to play.  
 
 Maze Plan:
@@ -49,7 +49,7 @@ Maze Plan:
 Recreate the grid on the floor with masking tape (squares only). Make each square about 50cm by 50 cm (big enough for a person to stand in).   
 Position a chair at the finishing end of the labyrinth for the facilitator to stand on.  
 
-##### RULES
+#### RULES
 The team will have time before starting to solve the labyrinth to collaborate and produce a strategy.  
 When the team begin to solve the labyrinth, no further talking is allowed.  
 The team may not use any tools or implements to solve the maze (E.G. no breadcrumbs).   
@@ -58,11 +58,11 @@ When a team member steps on an incorrect square, they must return to the beginni
 When a team member exits the grid at the beginning (following stepping on an incorrect square) they are not allowed to be the next person to enter grid.  
 When a team member successfully completes the labyrinth, there is no longer a restriction of how many team members can be on the grid at once.  
 
-##### GOAL
+#### GOAL
 The game is won when EVERY team member completes the hidden path.  
 
 
-#### FACILITATION
+### FACILITATION
 Position the team at the start end of the grid.  
 Read out the rules of the game.  
 Give the team 10 minutes to discuss and collaborate on a plan to solve the labyrinth.  
@@ -74,7 +74,7 @@ When a team member steps on an incorrect square, state: “STOP, GO BACK”.
 When a team member is going back and steps on an incorrect square, state: “STOP, GO BACK”.  
 When a team member attempts to enter the grid two times in a row state: “STOP, GO BACK”.  
 
-#### FACILITATION - MULTIPLE TEAM VARIANTS
+### FACILITATION - MULTIPLE TEAM VARIANTS
 Break the group into even teams of 8-15 people.  
 You will need several copies of the same grid plan. The grid size must work for the smallest team.  
 You will need one “Grid Master” (additional facilitator) per grid.  
@@ -86,7 +86,7 @@ The game will play out the same as above, other than:
 * Record the times of each team.
 * When a team has completed, invite them to watch how other teams are doing.
 
-#### REFLECTION
+### REFLECTION
 What was your strategy and how did you create it?  
 How did it feed when you were told to stop and to go back?  
 What was it like working in silence?  
@@ -94,14 +94,14 @@ What was it like to be in the labyrinth?
 How supported did you feel from the team?  
 What did it feel like to complete the labyrinth?  
 
-#### MAKING THE GAME EASIER
+### MAKING THE GAME EASIER
 A team of adults should be able to complete this game, but if you feel the need to make it easier, you can try:
 - Simplify the path
 - Reduce the grid size
 - Allow talking
 
 
-#### VIDEOS
+### VIDEOS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/je-DWQzu4A4" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbBK8heiJkQ" frameborder="0" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: game
 title:  "Farmers Challenge"
-categories: game
+category: game
 tags:
   - active listening
   - leadership
@@ -31,26 +31,32 @@ safety:
   - title: Stress
     description: This game is highly valuable and educational, but to achieve this it creates an environment of stress, frustration and conflict. Be sure that is it safe for your team to experience these emotions and take the to follow this game with a team building exercise.
 
+resources:
+  - name: Game cards
+    url: /files/farmers-challenge/farmers-challenge-cards.pdf
+  - name: Solution
+    url: /files/farmers-challenge/farmers-challenge-solution.xlsx
+
 images:
   - /images/games/farmers-challenge/01.png
 ---
 
 
-#### HOW TO PLAY
+### HOW TO PLAY
 
-##### SETUP
+#### SETUP
 Get everyone into circle  
 Hand out all of the game cards as evenly as possible  
 
-##### RULES
+#### RULES
 You must hold on to your own cards. No sharing them or putting them down.  
 You may not use pens, paper or electronic devices to help you   
 
-##### GOAL
+#### GOAL
 Solve the puzzle as quickly as possible.  
 
 
-#### FACILITATION
+### FACILITATION
 
 Set the scene: “Expressed in the 30 cards that I’ve given you, is a puzzle. The objective of this game is to solve that puzzle.”  
 Read out the rules  
@@ -78,7 +84,7 @@ Begin the game and the timer
 Celebrate either way
 
 
-#### REFLECTION
+### REFLECTION
 How the game make you feel? Why?  
 What could you have done to make the game easier?  
 What antipatterns did you notice?  
@@ -86,11 +92,5 @@ Did any of you disengage? Why?
 Was anyone leading? How did it go?  
 
 
-#### TAKEAWAYS
+### TAKEAWAYS
 Visualization is powerful  
-
-
-#### RESOURCES
-
-- [Game cards](/files/farmers-challenge/farmers-challenge-cards.pdf)
-- [Solution](/files/farmers-challenge/farmers-challenge-solution.xlsx)

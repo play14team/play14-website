@@ -1,7 +1,7 @@
 ---
 layout: game
 title:  "Ball Runner (AKA Lloyd's balls)"
-categories: game
+category: game
 tags:
   - continuous improvement
   - self organising teams
@@ -29,20 +29,25 @@ preparations:
   - A flip chart / board with the rules
   - A flip chart / board with a score table (Round / Estimate / Actual)
 
+images:
+  - /images/games/ball-runner/01.jpg
+  - /images/games/ball-runner/02.jpg
+  - /images/games/ball-runner/03.jpg
+
 ---
 
-#### HOW TO PLAY
+### HOW TO PLAY
 
-##### SETUP
+#### SETUP
 Divide the group into small equal teams, 4 - 5 ppl per team works best  
 If you are playing with multiple teams, ask each team to name themselves  
 Arrange the hoppers on the floor in a sequential line (workflow), leaving room between them for people to move  
 Put all of the balls into hopper 1  
 
-##### GOAL
+#### GOAL
 Get as many balls from hopper 1 to hopper 5 in 2 mins.  
 
-##### RULES
+#### RULES
 Each ball must be thrown high and caught by the same person  
 Hopper 2 can only contain balls that have been thrown high and caught  
 Each ball must be thrown between two people  
@@ -54,7 +59,7 @@ Dropped balls are considered defects and cannot be retrieved
 We will play 5 rounds  
 Between each round you will have 2 minutes to improve  
 
-#### FACILITATION
+### FACILITATION
 Set up the space and read out the rules  
 
 Demonstrate the workflow  
@@ -88,19 +93,19 @@ Round 2 - 5
 * TIP: The interim hoppers are not required by the rules. It should become obvious that one or more are serving no purpose (essentially the WIP will already be 0. Ask the team why it’s still there?
 * TIP: If playing with multiple teams, announce the leaders and their score - This generates and invigorates competition
 
-#### REFLECTION
+### REFLECTION
 Ask the team how it felt to play.   
 Reflect on the scores, what was interesting?, was there improvement?  
 Did anyone try things that didn’t work?  
 Did anyone innovate? how?  
 
 
-#### TAKEAWAYS
+### TAKEAWAYS
 Power of continuous improvement  
 Power of self organising teams  
 Pull vs Push  
 Hack the system! Don’t let the rules of the system constrain you without first qualifying and challenging them  
 
-#### VIDEOS
+### VIDEOS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYssyqTkTIw" frameborder="0" allowfullscreen></iframe>

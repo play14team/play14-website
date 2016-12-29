@@ -1,7 +1,7 @@
 ---
 layout: game
 title:  "Postcards"
-categories: game
+category: game
 tags:
   - face-to-face communication
   - collaboration
@@ -34,8 +34,8 @@ images:
 ---
 
 
-#### HOW TO PLAY
-##### SETUP
+### HOW TO PLAY
+#### SETUP
 Ask the group to self organise into even teams (5-10 people).  
 Ask for one volunteer per team, someone creative with a good imagination.  
 Gather the volunteers, tell the teams to pick table, sit down, make themselves comfortable and  introduce each other.  
@@ -52,7 +52,7 @@ Meanwhile with the volunteers, brief them:
 
 Send the volunteers back to the teams.
 
-##### CONCEPT
+#### CONCEPT
 This game has three rounds.
 
 * In round 1, the teams will create a picture with complete collaboration.  
@@ -63,13 +63,13 @@ The teams will experience a wide variety of emotions as this game plays out.
 The teams will discover that the written language is very prohibitive when attempting to give instructions.   
 The teams will discover that using written instructions to create something will involve large amounts of assumptions and interpretations, causing them to ultimately to fail.  
 
-##### RULES
+#### RULES
 In round 1, the customer cannot touch the pens.  
 Teams may not see what other teams are producing.  
 No photographing! :)  
 
 
-##### Round 1
+#### Round 1
 Announce:
 
 * In this game, you all are artists.
@@ -84,14 +84,14 @@ Look out for teams that haven’t put pen to paper after 3 or 4 mins, remind the
 Look out for people who are not drawing, remind them there’s more than one pen  
 
 
-##### Round 1 - Reflection (example questions)
+#### Round 1 - Reflection (example questions)
 Artists: How did that feel?  
 Customers: How did you find that experience?  
 Customers - do you like your pictures?  
 How accurate are the results?  
 
 
-##### Round 2
+#### Round 2
 Announce:
 
 * Customers: Thank you for playing customers - For this round and the next, please just be team members.  
@@ -107,14 +107,14 @@ Keep an eye out for teams who aren’t writing stuff yet. Remind them of the tim
 Keep an eye out for teams who are making one person write. Suggest they could could share the load.  
 
 
-##### Round 2 - Reflection (example questions)
+#### Round 2 - Reflection (example questions)
 How did that feel? 
 Why was it hard?  
 Why wasn’t it much fun?  
 How accurate do you feel your emails are?  
 
 
-##### Round 3 
+#### Round 3 
 Announce:  
 
 * Ok, just for fun, lets see how accurate they were =D  
@@ -130,7 +130,7 @@ Look out for teams that haven’t put pen to paper after 3 or 4 mins, remind the
 Look out for people who are not drawing, remind them there’s more than one pen.  
 
 
-##### Round 3 - Reflection (example questions)
+#### Round 3 - Reflection (example questions)
 How did that feel?  
 Why was it hard?  
 Why wasn’t it much fun?  
@@ -138,7 +138,7 @@ What was missing?
 How accurate do you feel your picture are?  
 
 
-##### Wrap up
+#### Wrap up
 Compare the before and after pictures  
 
 * Make it a laugh  
@@ -154,7 +154,7 @@ Reflection (example questions)
 * Ask who here has ever given instruction via email?  
 
 
-#### TAKEAWAYS
+### TAKEAWAYS
 
 * It’s impossible to accurately convey requirements, instruction, need via the written word.  
 * Filling in the gaps  
