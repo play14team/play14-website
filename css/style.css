@@ -266,6 +266,11 @@ ul.shortcode-list i {
 }
 
 /*Button styles */
+
+button:hover, button:focus, .button:hover, .button:focus {
+  background-color: #FF5200;
+}
+
 .button {
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -275,7 +280,7 @@ ul.shortcode-list i {
 }
 
 .button:hover {
-  background-color: #FFC900;
+  border: 2px solid #0098DD;
 }
 
 .button.boxed {
