@@ -13,7 +13,7 @@ section_id: players
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          {% assign positions = site.data.players | group_by:"position" %}
+          {% assign positions = site.players | sort:'position' | group_by:'position' %}
           {% for position in positions %}
             <li>
               <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
@@ -23,22 +23,23 @@ section_id: players
       </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% assign players = site.data.players | sort:'id' %}
+        {% assign players = site.players | sort:'id' %}
         {% for player in players %}
           <li class='{{player.position}}'>
-            <a href='/players/{{player.id}}'>
+            <a href='{{player.id}}'>
               <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{player.name}}</h3>
-                  <h4>{{player.position}}</h4>
-                  <p>{{player.bio}}</p>
+                  <h3>{{player.position}}</h3>
+                  <h4>{{player.bio}}</h4>
                 </div>
               </div>
             </a>
+            <h3>{{player.name}}</h3>
           </li>
         {% endfor %}
       </ul>
+
     </div>
   </div>
   <!--<div class='four spacing'></div>

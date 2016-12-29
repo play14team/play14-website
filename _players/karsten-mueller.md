@@ -1,4 +1,19 @@
 ---
 layout: player
-player: Karsten Mueller
+
+name: Karsten Mueller
+position: Hamburg co-organizer
+company: Goodgame Studios
+bio: "Agile Coach"
+avatar: /images/players/KarstenMueller.jpg
+socials:
+  - name: email
+    url: kmueller@goodgamestudios.com
+  - name: twitter
+    url : HHKarsten
+  - name: google-plus
+    url : 112769131082715062752
+  - name: linkedin
+    url : in/karsten-mueller-269b186b 
+
 ---
