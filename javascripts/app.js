@@ -328,12 +328,13 @@ jQuery(document).foundation();
       var $ctx = this.$ctx;
 
       var slides_to_show = $ctx.data('slides_to_show');
+      var speed = $ctx.data('speed');
 
       $('.clients', $ctx).slick({
         slidesToShow: slides_to_show,
         slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: speed || 2000,
         pauseOnHover: false,
         responsive: [
           {
