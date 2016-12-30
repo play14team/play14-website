@@ -10,8 +10,9 @@ tags:
   - kanban
   - competitive
 
-author: Chris Caswell
-originator: 
+authors: 
+  - Chris Caswell
+originators: 
   - Lloyd Jones
 firstplayed: London 2015
 scale: Min 4, Max 20

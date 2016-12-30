@@ -7,8 +7,9 @@ tags:
   - collaboration
   - competitive
 
-author: Chris Caswell
-originator: 
+authors: 
+  - Chris Caswell
+originators: 
   - Chris Caswell
 firstplayed: Luxembourg 2015
 scale: Min 5, Max 60+

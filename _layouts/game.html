@@ -45,20 +45,22 @@ layout: default
                 <li>
                     Proposed by
                 </li>
-                    {% for originator in page.originator %}
-                        {% assign player = site.players | where:'name',originator | first %}
-                        <li>
-                            <a href="{{player.url}}">{{player.name | default:originator}}</a>
-                        </li>
-                    {% endfor %}
+                {% for originator in page.originators %}
+                    {% assign player = site.players | where:'name',originator | first %}
+                    <li>
+                        <a href="{{player.url}}">{{player.name | default:originator}}</a>
+                    </li>
+                {% endfor %}
                 <li>
                     <div class='spacing'></div>
                     Preparded by
                 </li>
-                <li>
-                    {% assign player = site.players | where:'name',page.author | first %}
-                    <a href="{{player.url}}">{{player.name | default:'Unknown'}}</a>
-                </li>
+                {% for author in page.authors %}
+                    {% assign player = site.players | where:'name',author | first %}
+                    <li>
+                        <a href="{{player.url}}">{{player.name | default:author}}</a>
+                    </li>
+                {% endfor %}
                 <li>
                     <div class='spacing'></div>
                     First played in

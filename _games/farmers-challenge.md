@@ -8,8 +8,9 @@ tags:
   - conflict
   - cooperation
 
-author: Chris Caswell
-originator: 
+authors: 
+  - Chris Caswell
+originators: 
   - Leon-Cosmin Lupu 
   - Dragos Marius Jumanca
 firstplayed: Luxembourg 2015

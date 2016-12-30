@@ -9,8 +9,9 @@ tags:
   - problem solving
   - team building
 
-author: Chris Caswell
-originator: 
+authors: 
+  - Chris Caswell
+originators: 
   - Lisa Francis-Jennings
 firstplayed: Luxembourg 2015
 scale: Min 8, Max unlimited, can be played in multiple parallel groups
