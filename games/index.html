@@ -36,7 +36,7 @@ section_id: games
                   {% for originator in game.originators %}
                     <h3>{{originator}}</h3>
                   {% endfor %}
-                  <h4>{{game.timebox}}</h4>
+                  <h4>{{game.timebox | truncatewords:4}}</h4>
                   <h4>{{game.scale | truncatewords:4}}</h4>
                 </div>
               </div>
@@ -47,13 +47,5 @@ section_id: games
       </ul>
     </div>
   </div>
-  <!--<div class='four spacing'></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <p class='centered-text'>
-        <a class='button' href='#'>See more works</a>
-      </p>
-    </div>
-  </div>-->
   <div class='four spacing'></div>
 </div>
