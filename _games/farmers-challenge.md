@@ -25,18 +25,18 @@ materials:
   - Timer
   - TV or Projector or handout of the solution
 
+resources:
+  - name: Game cards
+    url: /files/farmers-challenge/farmers-challenge-cards.pdf
+  - name: Solution
+    url: /files/farmers-challenge/farmers-challenge-solution.xlsx
+
 preparations:
   - Print and cut out the game cards
 
 safety:
   - title: Stress
     description: This game is highly valuable and educational, but to achieve this it creates an environment of stress, frustration and conflict. Be sure that is it safe for your team to experience these emotions and take the to follow this game with a team building exercise.
-
-resources:
-  - name: Game cards
-    url: /files/farmers-challenge/farmers-challenge-cards.pdf
-  - name: Solution
-    url: /files/farmers-challenge/farmers-challenge-solution.xlsx
 
 images:
   - /images/games/farmers-challenge/01.png

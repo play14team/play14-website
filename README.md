@@ -1,5 +1,14 @@
 # play14-website
-Main website for #play14 www.play14.org
+Main website for play14.org  
+This site contains all the information about what **#play14** is and is not, past and future **#play14** events, players, games played and much more.  
+This website is powered by [Jekyll](https://jekyllrb.com/).  
+
+You can find more information on Jekyll and the different syntaxes/technologies it uses in the following list
+- [Jekyll Tips](http://jekyll.tips/)
+- [Front Matter](https://jekyllrb.com/docs/frontmatter/)
+- [YAML](http://yaml.org/)
+- [Liquid template engine](https://github.com/Shopify/liquid)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Providing content
 
@@ -9,36 +18,37 @@ Blog posts, Games and Events are all written in [Markdown](https://daringfirebal
 
 Directory structure
 
-- Events markdown files should be placed into the `_events` directory. 
+- Events markdown files should be placed into the [_events](_events)  directory. 
   - The file name should respect the template `<yyyy-mm>.md`.
   - Events images should be placed into the `images/events/<event-name>` sub-directory. Their size should be 600x500.
-- Games markdown files should be placed into the `_games` directory.
+- Games markdown files should be placed into the [_games](_games) directory.
   - The file name should respect the template `<game-name>.md`.
   - Game images should be placed into the `images/games/<game-name>` sub-directory. Their size should be 800x533.
   - Game files should be placed into the `files/<game-name>` sub-directory. 
-- Players makrdown files should be placed into `_players` directory.
+- Players makrdown files should be placed into [_players](_players) directory.
   - The file name should respect the template `<firstname>-<lastname>.md`
   - Player picture should be placed into the `images/players` sub-directory. Their it's size should be 500x500.
-- Posts markdown files should be placed into the `_posts` directory.
+- Posts markdown files should be placed into the [_posts](_posts) directory.
   - The file name should respect the template `<yyyy-mm-dd-post-title>.md`.
   - Post images should be placed into the `images/posts` sub-directory. Their size should be 800x533.
 
-You might need to add extra data in one of the following YAML files in the `_data` directory.
-- `location.yml` contains the list of all event locations
-- `sponsors.yml` contains the list of all sponsors
+You might need to add extra data in one of the following YAML files in the [_data](_data) directory.
+- [location.yml](_data/locations.yml) contains the list of all event locations
+- [sponsors.yml](_data/sponsors.yml) contains the list of all sponsors
 
 You should NOT have to modify any other directory or file.
 You can find more information on how to write a blog post with Jekyll [here](https://jekyllrb.com/docs/posts/)
 
 ## Event Front Matter metadata
 
-Here is an example of metadata you can add in the Front Matter of an event
+Here is an example of the metadata you can provide in the [Front Matter](https://jekyllrb.com/docs/frontmatter/) part of an event file using [YAML](http://yaml.org/).
+
 
 ```yaml
 layout: event # layout should always be 'event'
 
 title: Luxembourg 2017 # default is location and year of the event
-category: luxembourg # the location of the event in lowercase (used to filter on the list)
+category: luxembourg # the location of the event in lowercase, used to filter on the events list
 
 schedule:
   dates: March 23-25 2017 # dates that are displayed on the site
@@ -48,7 +58,7 @@ schedule:
 
 location: Technoport # location of the event, should match the name of a location in _data/locations.yml (if your location does not exist, you need to add it in the yaml file)
 
-images: # images of the location or any other image of the event
+images: # images of the location or any other image of the event (size 600x500)
   - /images/events/luxembourg/01.jpg
   - /images/events/luxembourg/02.jpg
 
@@ -79,3 +89,75 @@ sponsors: # sponsors of your event
     type: Organization & Support
 
 ```
+
+The rest of the file is written as plain [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Game Front Matter metadata
+
+Here is an example of the metadata you can provide in the [Front Matter](https://jekyllrb.com/docs/frontmatter/) part of an event file using [YAML](http://yaml.org/).
+
+
+```yaml
+
+layout: game # layout should always be 'game'
+
+title:  "X + Y game" # the title of the game
+category: game # the type of game in lowercase (game, icebreaker, warmup), used to filter on the games list
+tags: # some of the values / learning objectives of the game
+    - trust
+    - empathy
+    - zoom out
+    - collaboration
+    - competitive
+
+authors: # the list of people who wrote the game documentation down (should match the 'name' of a player in the directory _players)
+    - Chris Caswell
+originators: # the list of people who originally proposed the game (should match the 'name' of a player in the directory _players)
+    - Leon-Cosmin Lupu 
+    - Dragos Marius Jumanca
+firstplayed: Luxembourg 2015 # the first event the game was played at (should match the 'title' of an event in the directory _events)
+scale: Min 6, Max 16 # indicates the min/max number of people for the game
+timebox: 30-45 mins # indicates the min/max timebox for the game
+
+# a description for the game, that will appear as a summary
+description: We have a natural tendency to optimise the world immediately around us and focus on personal or team success. Often this can be to the detriment of others  and the wider organisation which ultimately affects their success. This game exploits this aspect of human nature to demonstrate that localised sub-optimisation can have a dramatic effect when we look at the bigger picture. 
+
+materials: # materials that are necessary to play the game
+    - TV or Projector
+    - Board or Flipchart and pens
+    - Post it notes
+    - Timer
+    - Game board and scoring chart
+
+resources: # internal / external resources needed to play the game
+  - name: Game board # name of the resource
+    url: /files/x-y-game/x-y-game-board.xlsx # url to the resource 
+
+preparations: # preparations you should do before you can play the game
+    - Print copies of the scoring chart
+    - Make a simple decision board for each department to indicate the option they’ve chosen (E.G. | Team name | Decision X or Y | )
+    - Two post its per team, one with X and the other with Y
+
+safety: # some safety warnings for some games that can trigger mixed feelings/reactions amongst participants
+  - title: Stress
+    description: This game is highly valuable and educational, but to achieve this it creates an environment of stress, frustration and conflict. Be sure that is it safe for your team to experience these emotions and take the time to follow this game with a team building exercise.
+  - title: Christmas Bonus
+    description: Use a box of chocolates as the “Christmas Bonus” in this game, and when nobody actually wins (company has failed) at the end of game, share the chocolates during the reflection to begin to defuse.
+
+images: # images illustrating the game (size 800x533)
+    - /images/games/x-y-game/01.png
+
+``` 
+
+The rest of the file is written as plain [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
+
+Common headers should be
+- HOW TO PLAY
+  - SETUP
+  - GOAL
+  - RULES
+- FACILITATION
+- REFLECTIONS
+- TAKEAWAYS
+
+

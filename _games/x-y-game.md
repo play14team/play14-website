@@ -28,6 +28,10 @@ materials:
     - Timer
     - Game board and scoring chart
 
+resources:
+  - name: Game board
+    url: /files/x-y-game/x-y-game-board.xlsx
+
 preparations:
     - Print copies of the scoring chart
     - Make a simple decision board for each department to indicate the option they’ve chosen (E.G. | Team name | Decision X or Y | )
@@ -38,10 +42,6 @@ safety:
     description: This game is highly valuable and educational, but to achieve this it creates an environment of stress, frustration and conflict. Be sure that is it safe for your team to experience these emotions and take the time to follow this game with a team building exercise.
   - title: Christmas Bonus
     description: Use a box of chocolates as the “Christmas Bonus” in this game, and when nobody actually wins (company has failed) at the end of game, share the chocolates during the reflection to begin to defuse.
-
-resources:
-  - name: Game board
-    url: /files/x-y-game/x-y-game-board.xlsx
 
 images:
     - /images/games/x-y-game/01.png

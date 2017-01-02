@@ -26,12 +26,12 @@ materials:
   - Folding models
   - White paper sheets
 
-preparations:
-  - Print and cut out the folding models
-
 resources:
   - name: Folding models
     url: http://www.shmula.com/paper-airplane-game-pull-systems-push-systems/8280/
+
+preparations:
+  - Print and cut out the folding models
 
 images:
   - /images/games/airplane-factory/01.jpg
