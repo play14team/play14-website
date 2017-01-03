@@ -6,22 +6,29 @@ section_id: contact
 <div class='full'>
   <div class='row'>
     <div class='medium-8 columns'>
-      <h3>This page is currently under construction.</h3>
-      <p>The form is not working for now. Please, send us an email instead.</p>
       <div class='form'>
         <div class='row'>
-          <form id='contact_form' method='POST'>
+          <form action="//play14.us10.list-manage.com/subscribe/post?u=33135ec01a90cbba286645018&amp;id=334e09e88a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div class='large-12 columns'>
-              <p id='thanks' style='display: none;'>
-                Thanks for contacting us, we'll be in touch soon!
-              </p>
-            </div>
-            <div class='medium-12 columns'>
-              <input class='required' name='name' placeholder='NAME' type='text'>
-              <input class='required email' name='email' placeholder='EMAIL' type='text'>
-              <input class='required' name='subject' placeholder='SUBJECT' type='text'>
-              <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
-              <input class='button white' type='submit'>
+              <h3>Subscribe to our mailing list</h3>
+              <div class="mc-field-group">
+                <label for="mce-EMAIL">Email Address </label>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-FNAME">First Name </label>
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-LNAME">Last Name </label>
+                <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_33135ec01a90cbba286645018_334e09e88a" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
           </form>
         </div>
@@ -30,10 +37,11 @@ section_id: contact
     </div>
     <div class='medium-4 columns'>
       <div class='contact-details'>
-        <h4>Our Email:</h4>
-        <p><a href="mailto:{{site.email}}" >{{site.email}}</a></p>
-        <h4>Our Twitter:</h4>
-        <p><a href="{{site.data.socialmedia.twitter.url}}play14team" target="_blank">@play14team</a></p>
+        <h3>Our Email</h3>
+        <a href="mailto:{{site.email}}" >{{site.email}}</a>
+        <div class='two spacing'></div>
+        <h3>Our Twitter</h3>
+        <a href="{{site.data.socialmedia.twitter.url}}play14team" target="_blank">@play14team</a>
       </div>
     </div>
   </div>
