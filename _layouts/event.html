@@ -4,7 +4,8 @@ layout: default
 
 {% assign location = site.data.locations[page.location] %}
 
-<div class='full'>
+<div class='full no-padding alternate-background'>
+  <div class='spacing'></div>
   <div class='row'>
     <div class='large-10 columns'>
       <!-- Title & date -->
@@ -32,12 +33,14 @@ layout: default
       </ul>
     </div>
   </div>
+  <div class='spacing'></div>
 </div>
 
 <!-- Location -->
 <div class='full no-padding'>
+  <div class='two spacing'></div>
   <div class='row'>
-    <h3>Location</h3>
+    <h2>Location</h2>
     <!-- Images -->
     <div class='large-5 columns'>
       <div class='mod modBoxedSlider'>
@@ -124,7 +127,7 @@ layout: default
   <a name="register"></a>
   <div class='spacing'></div>
   <div class='row'>
-    <h3>Register</h3>
+    <h2>Register</h2>
     {% if page.eventbrite.tickets-widget %}
     <div class='large-10 columns'>
       <div style="width:100%; text-align:left;">

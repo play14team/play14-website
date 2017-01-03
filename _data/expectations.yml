@@ -9,7 +9,7 @@ main:
     title: Conversations
     desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR." 
   - icon_class: fa fa-flask
-    title: Experiment
+    title: Experiments
     desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
 
 other:

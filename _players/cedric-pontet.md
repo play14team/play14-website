@@ -18,5 +18,10 @@ socials:
 
 ---
 
-#### Happy to be a player
-I am very happy to count myself as a **#play14** player.
+I am very proud of being one of the original **#play14** founders.  
+
+Since it started, it has been nothing but joy and an extraordinary human adventure. 
+I am so happy to see all the local organizers and participants getting so involved.
+
+#play14 belongs to them now. 
+It's out in the world and that's a great feeling.
