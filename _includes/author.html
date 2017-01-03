@@ -1,20 +1,26 @@
 {% assign author = site.players | where:"name",include.variable-param | first %}
 
-
-{% if author %}
 <div class='author'>
-    <p class='author-avatar'>
-        <img alt="" src="{{author.avatar}}" width="80px" />
-    </p>
-    <a href="{{author.url}}">
+    {% if author %}
+        <p class='author-avatar'>
+            <img alt="" src="{{author.avatar}}" width="80px" />
+        </p>
+        <a href="{{author.url}}">
+            <strong>
+                {{author.name}}
+            </strong>
+            {% if author.position %}
+                - {{author.position}}
+            {% endif %}
+        </a>
+        <br/>{{author.bio}}
+        <br/>{{author.company}}
+    {% else %}
+        <p class='author-avatar'>
+            <img alt="" src="/images/players/default.png" width="80px" />
+        </p>
         <strong>
-            {{author.name}}
+            Anonymous
         </strong>
-        {% if author.position %}
-            - {{author.position}}
-        {% endif %}
-    </a>
-    <br/>{{author.bio}}
-    <br/>{{author.company}}
+    {% endif %}
 </div>
-{% endif %}
