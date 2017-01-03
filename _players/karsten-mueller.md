@@ -2,7 +2,7 @@
 layout: player
 
 name: Karsten Mueller
-position: Hamburg co-organizer
+position: Hamburg organizer
 company: Goodgame Studios
 bio: "Agile Coach"
 avatar: /images/players/KarstenMueller.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Leon-Cosmin Lupu
-position: Timisoara co-organizer
+position: Timisoara organizer
 company: Nokia
 bio: "R&D Group Leader"
 avatar: /images/players/LeonCosminLupu.jpg

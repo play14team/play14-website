@@ -2,7 +2,7 @@
 layout: player
 
 name: Dragos Marius Jumanca 
-position: Timisoara co-organizer
+position: Timisoara organizer
 company: Nokia
 bio: "R&D Agile Manager"
 avatar: /images/players/DragosJumanca.jpg

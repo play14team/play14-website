@@ -2,7 +2,7 @@
 layout: player
 
 name: Chris Caswell
-position: London co-organizer
+position: London organizer
 bio: "Agile Coach"
 avatar: /images/players/ChrisCaswell.jpg
 socials:

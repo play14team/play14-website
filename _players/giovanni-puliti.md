@@ -2,7 +2,7 @@
 layout: player
 
 name: Giovanni Puliti
-position: Milano co-organizer
+position: Milano organizer
 company: AgileReloaded
 bio: "Agile Coach"
 avatar: /images/players/GiovanniPuliti.jpg
