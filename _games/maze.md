@@ -104,6 +104,10 @@ A team of adults should be able to complete this game, but if you feel the need 
 
 ### VIDEOS
 
+#### Luxembourg 2015
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ayWZafDEkZA" frameborder="0" allowfullscreen></iframe>
+
+#### London 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/je-DWQzu4A4" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbBK8heiJkQ" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bg1JfmGjN3Q" frameborder="0" allowfullscreen></iframe>
