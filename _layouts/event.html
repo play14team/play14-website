@@ -65,10 +65,10 @@ layout: default
         <li>
           {% if page.schedule.isOver %}
             <a class='button small'>Event over</a>
-          {% elsif page.eventbrite %}
-            <a class='button small' href='#register'>Register</a>
           {% elsif page.regisrtrationUrl %}
             <a class='button small' href={{page.regisrtrationUrl}} target="_blank">Register</a>
+          {% elsif page.eventbrite %}
+            <a class='button small' href='#register'>Register</a>
           {% else %}
             <a class='button small'>Coming soon</a>
           {% endif %}
