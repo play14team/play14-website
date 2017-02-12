@@ -11,6 +11,8 @@
       path: schedule/
     - name: Our history
       path: history/
+    - name: Organizing an event
+      path: organizing/
 - name: Events
   path: events/
   section_id: events
