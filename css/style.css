@@ -34,6 +34,15 @@ mods
 
 */
 
+/* Fixing html anchor offset */
+:target:before {
+  content:"";
+  display:block;
+  height:80px; /* fixed header height*/
+  margin:-80px 0 0; /* negative fixed header height */
+}
+
+
 /*some basic settings */
 
 body {
