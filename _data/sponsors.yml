@@ -50,3 +50,12 @@
       url : info@agilereloaded.it
     - name: twitter
       url: agilereloaded
+
+- name: Nokia
+  url: http://www.nokia.com/ro_ro
+  logo: /images/sponsors/nokia.png
+  socials:
+    - name: twitter
+      url: nokia
+    - name: linkedin
+      url: company-beta/1070/?pathWildcard=1070
