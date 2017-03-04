@@ -59,3 +59,21 @@
       url: nokia
     - name: linkedin
       url: company-beta/1070/?pathWildcard=1070
+
+- name: The Extraordinaires
+  url: https://www.extraordinaires.com
+  logo: /images/sponsors/TheExtraordinairesDesignStudio.jpg
+  socials:
+    - name: email
+      url : hello@extraordinaires.com
+    - name: twitter
+      url: extraordinaires
+
+- name: Stattys
+  url: http://www.stattys.com
+  logo: /images/sponsors/Stattys.png
+  socials:
+    - name: twitter
+      url: stattys_world
+    - name: facebook
+      url : Stattys
