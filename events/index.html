@@ -22,41 +22,15 @@ section_id: events
         </ul>
       </div>
 
-      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% assign events = site.events | reverse  %}
-        {% for event in events %}
-          <li class='{{event.category}}'>
-            <a href='{{event.url}}'>
-              <img alt="" src="{{event.images.first}}" />
-              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-                <div class='thumb-info'>
-                  <h3>{{event.schedule.dates}}</h3>
-                  <h3>{{site.data.locations[event.location].name | default: event.location}}</h3>
-                  <h4>
-                    {% if event.schedule.isOver %}
-                      Event over
-                    {% elsif event.eventbrite or event.regisrtrationUrl %}
-                      Registration Open
-                    {% else %}
-                      Coming soon
-                    {% endif %}
-                  </h4>
-                </div>
-              </div>
-            </a>
-            <h3>{{event.title}}</h3>
-          </li>
-        {% endfor %}
-      </ul>
+      <h2>Upcoming events</h2>
+      {% assign events = site.events | where_exp:"event","event.schedule.isOver == false"  %}
+      {% include eventgallery.html variable-param=events %} 
+
+      <div class='two spacing'></div>
+      <h2>Passed events</h2>
+      {% assign events = site.events | where_exp:"event","event.schedule.isOver == true" | reverse  %}
+      {% include eventgallery.html variable-param=events %} 
     </div>
   </div>
-  <!--<div class='four spacing'></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <p class='centered-text'>
-        <a class='button' href='#'>See more works</a>
-      </p>
-    </div>
-  </div>-->
   <div class='four spacing'></div>
 </div>
