@@ -2,7 +2,7 @@
 layout: default
 section_id: schedule
 
-schedule:
+timetable:
     - day: Friday
       desc: Friday is the day where we learn to know one another and enjoy meeting old friends again.
       times:
@@ -96,28 +96,5 @@ schedule:
   </div>
 </div>
 
-<div class='full'>
-  <div class='row'>
-    {% for s in page.schedule %}
-      <div class='medium-6 large-4 columns'>
-        <div class='mod modPriceBox {{box.class}}'>
-          <div class='info'>
-            <h3 class='level'>{{s.day}}</h3>
-            <p class='desc'>{{s.desc}}</p>
-          </div>
-          <div class='features'>
-            <ul>
-              {% for t in s.times %}
-                <li class="{% cycle '', 'even' %}">
-                    <strong>{{t.time}}</strong>
-                    <br>
-                    {{t.desc}}
-                </li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
+<div class='two spacing'></div>
+{% include timetable.html %}

@@ -165,4 +165,14 @@ layout: default
   </div>
 </div>
 
+<!--Time table-->
+{% if page.timetable %}
+  <div class='full'>
+    <div class='row'>
+      <h2>Schedule</h2>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+  {% include timetable.html %}
+{% endif %}
 <div class='four spacing'></div>

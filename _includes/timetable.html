@@ -1,0 +1,25 @@
+<div class='full no-padding'>
+  <div class='row'>
+    {% for s in page.timetable %}
+      <div class='medium-6 large-4 columns'>
+        <div class='mod modPriceBox {{box.class}}'>
+          <div class='info'>
+            <h3 class='level'>{{s.day}}</h3>
+            <p class='desc'>{{s.desc}}</p>
+          </div>
+          <div class='features'>
+            <ul>
+              {% for t in s.times %}
+                <li class="{% cycle '', 'even' %}">
+                    <strong>{{t.time}}</strong>
+                    <br>
+                    {{t.desc}}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
