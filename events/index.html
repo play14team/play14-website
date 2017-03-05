@@ -35,7 +35,7 @@ section_id: events
                   <h4>
                     {% if event.schedule.isOver %}
                       Event over
-                    {% elsif event.eventbrite %}
+                    {% elsif event.eventbrite or event.regisrtrationUrl %}
                       Registration Open
                     {% else %}
                       Coming soon
