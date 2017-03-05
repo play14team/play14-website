@@ -2,7 +2,7 @@
   path: 
   section_id: home
 - name: About
-  path: about/
+  path: learning/
   section_id: about
   children:
     - name: Learning & experience
@@ -16,6 +16,9 @@
 - name: Events
   path: events/
   section_id: events
+- name: Media
+  path: media/
+  section_id: media
 - name: Games
   path: games/
   section_id: games
