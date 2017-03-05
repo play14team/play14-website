@@ -74,17 +74,30 @@ layout: default
           {% endif %}
         </li>
         <li>
-          <a href="{{location.url}}" target="_blank">
-            {{location.name}}, {{location.area}}
-          </a>
+          <h3>
+          {% if location.name %}
+            <a href="{{location.url}}" target="_blank">
+              {{location.name}}
+            </a>
+            <br>
+            {{location.area}}
+          {% else %}
+            Location
+            <br>
+            {{page.location}}
+          {% endif %}
+          </h3>
         </li>
-        <li>
-          <div class='spacing'></div>
-          <strong>Address</strong>
-        </li>
-        <li>
-          {{location.address}}
-        </li>
+
+        {%if location.address %}
+          <li>
+            <div class='spacing'></div>
+            <strong>Address</strong>
+          </li>
+          <li>
+            {{location.address}}
+          </li>
+        {% endif %}
         {% if page.schedule.start %}
           <li>
             <div class='spacing'></div>
@@ -128,7 +141,7 @@ layout: default
 
 <!-- Content -->
 <div class='full no-padding'>
-  <div class='two spacing'></div>
+  <div class='spacing'></div>
   <div class='row'>
     {{content}}
   </div>
