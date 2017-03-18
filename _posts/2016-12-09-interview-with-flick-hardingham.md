@@ -10,6 +10,9 @@ author: Cédric Pontet
 
 excerpt: Our friend Mark Webb publish an interview of Flick Hardingham, who has been using games extensively to foster creativity.   
 
+images:
+  - /images/players/FlickHardingham.jpg
+  
 ---
 
 Our friend [Mark Webb](https://www.linkedin.com/in/webby) publish an interview of [Flick Hardingham](https://twitter.com/chasingdots), who has been using games extensively to foster creativity.

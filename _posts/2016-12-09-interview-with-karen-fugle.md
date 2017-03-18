@@ -10,6 +10,9 @@ author: Cédric Pontet
 
 excerpt: Our friend Mark Webb publish an interview of Karen Fugle, who is an Executive Coach and LSP facilitator. 
 
+images:
+  - /images/players/KarenFugle.jpg
+
 ---
 
 Our friend [Mark Webb](https://www.linkedin.com/in/webby) publish an interview of [Karen Fugle](https://twitter.com/KarenFugle). 

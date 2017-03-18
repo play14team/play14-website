@@ -10,6 +10,9 @@ author: Cédric Pontet
 
 excerpt: Announcing our brand new website, powered by Jekyll, hosted on GitHub Pages.
 
+images:
+  - /images/play14_500x500_black_bg.png
+
 ---
 
 Our brand new **#play14** website is awesome, fully responsive and fast.  
