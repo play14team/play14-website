@@ -2,7 +2,7 @@
 layout: player
 
 name: Benoît Abribat
-position: Player
+position: Serial player
 company: Société Générale Bank & Trust
 bio: "Agile learder"
 avatar: /images/players/BenoitAbribat.jpg
