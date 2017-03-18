@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/quinto-bellini-26333584/
 
+events:
+  - Milano 2016
+
 ---

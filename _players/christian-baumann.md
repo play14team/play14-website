@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/christianbaumann/
 
+events:
+  - Luxembourg 2017
+
 ---

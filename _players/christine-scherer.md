@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/christine-scherer-a8132846/
 
+events:
+  - Luxembourg 2017
+
 ---

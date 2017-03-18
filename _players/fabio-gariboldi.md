@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fabiogariboldi/
 
+events:
+  - Milano 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/lydiagrawunder/
 
+events:
+  - Hamburg 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/silvia-toth-94352215/
 
+events:
+  - Luxembourg 2017
+
 ---

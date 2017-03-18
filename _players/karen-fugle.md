@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/karenfugle/
 
+events:
+  - London 2016
+
 ---

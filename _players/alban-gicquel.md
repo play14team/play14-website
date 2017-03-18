@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/alban-gicquel-546a1932/
 
+events:
+  - Luxembourg 2014
+  
 ---

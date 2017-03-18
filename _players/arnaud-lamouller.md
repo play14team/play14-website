@@ -10,4 +10,8 @@ socials:
   - name: linkedin
     url : in/arnaudlamouller/
     
+events:
+  - Luxembourg 2015
+  - Luxembourg 2017
+
 ---

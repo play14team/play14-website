@@ -12,4 +12,7 @@ socials:
   - name: twitter
     url: agabrillagues
 
+events:
+  - Luxembourg 2017
+
 ---

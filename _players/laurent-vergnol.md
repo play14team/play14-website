@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/laurentvergnol/
 
+events:
+  - Luxembourg 2014
+
 ---

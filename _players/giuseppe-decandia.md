@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/pdecandia/
 
+events:
+  - Milano 2016
+
 ---

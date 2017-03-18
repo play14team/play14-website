@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/florent-bennani-36277873/
 
+events:
+  - Luxembourg 2017
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/christophe-bodelet-2921765/
 
+events:
+  - Luxembourg 2015
+
 ---

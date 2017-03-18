@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/paulapescar/
 
+events:
+  - London 2016
+
 ---

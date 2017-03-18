@@ -9,5 +9,8 @@ avatar: /images/players/SebastianSanitz.jpg
 socials:
   - name: linkedin
     url : in/sanitz/
-    
+
+events:
+  - Luxembourg 2014
+
 ---

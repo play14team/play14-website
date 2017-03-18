@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/htewis/
 
+events:
+  - Hamburg 2016
+
 ---

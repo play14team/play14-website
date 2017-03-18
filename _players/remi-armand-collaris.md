@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/racollaris/
 
+events:
+  - Luxembourg 2014
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/davidebellettini/
 
+events:
+  - Milano 2016
+
 ---

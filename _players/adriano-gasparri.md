@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/adrianogasparri/
 
+events:
+  - Milano 2016
+
 ---

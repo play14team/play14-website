@@ -11,4 +11,7 @@ socials:
   - name: linkedin
     url : in/natasha-hill-9b2278b4
 
+events:
+  - London 2015
+
 ---

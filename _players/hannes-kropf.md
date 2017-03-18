@@ -9,5 +9,8 @@ avatar: /images/players/HannesKropf.jpg
 socials:
   - name: linkedin
     url : in/hanneskropf/
-    
+
+events:
+  - Hamburg 2016
+
 ---

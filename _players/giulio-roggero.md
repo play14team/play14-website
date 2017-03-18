@@ -16,4 +16,8 @@ socials:
   - name: linkedin
     url : in/giulioroggero 
 
+events:
+  - Milano 2016
+  - Milano 2017
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/cecile-roquain-318978124/
 
+events:
+  - London 2016
+
 ---

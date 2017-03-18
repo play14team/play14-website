@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/elisabettacalza/
 
+events:
+  - Milano 2016
+
 ---

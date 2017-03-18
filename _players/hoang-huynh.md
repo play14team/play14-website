@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/hchuynh/
 
+events:
+  - Milano 2016
+
 ---

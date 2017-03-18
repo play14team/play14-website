@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/dennis-esser-62aaaa109/
 
+events:
+  - Hamburg 2016
+
 ---

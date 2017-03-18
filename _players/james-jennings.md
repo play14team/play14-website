@@ -12,4 +12,8 @@ socials:
   - name: linkedin
     url : in/james-jennings-7b25b1/
     
+events:
+  - Luxembourg 2015
+  - Luxembourg 2016
+
 ---

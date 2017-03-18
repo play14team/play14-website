@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/andrea-grijalba-a2514b9/
 
+events:
+  - Milano 2016
+
 ---

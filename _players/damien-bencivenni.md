@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/damien-bencivenni-85790785/
 
+events:
+  - Luxembourg 2017
+
 ---

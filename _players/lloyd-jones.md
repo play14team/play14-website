@@ -16,4 +16,7 @@ socials:
   - name: linkedin
     url : in/lloyd-jones-a82ab721
 
+events:
+  - London 2015
+
 ---

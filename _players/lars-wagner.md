@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/larswagner/
 
+events:
+  - Luxembourg 2017
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mediation20/
 
+events:
+  - Luxembourg 2017
+
 ---

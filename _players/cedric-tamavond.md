@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/cedric-tamavond-b30ab917/
 
+events:
+  - Luxembourg 2017
+
 ---

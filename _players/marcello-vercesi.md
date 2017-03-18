@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/marcellovercesi/
 
+events:
+  - Milano 2016
+
 ---

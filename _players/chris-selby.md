@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/chrisselby/
 
+events:
+  - London 2015
+
 ---

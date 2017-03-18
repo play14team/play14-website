@@ -16,6 +16,15 @@ socials:
   - name: linkedin
     url: in/cédric-pontet-4025955
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - London 2015
+  - Luxembourg 2016
+  - Hamburg 2016
+  - London 2016
+  - Luxembourg 2017
+
 ---
 
 I am very proud of being one of the original **#play14** founders.  

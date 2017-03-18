@@ -12,4 +12,7 @@ socials:
   - name: twitter
     url: KentBeck
 
+events:
+  - Luxembourg 2017
+
 ---

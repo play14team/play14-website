@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/akmaheshwari/
 
+events:
+  - London 2016
+
 ---

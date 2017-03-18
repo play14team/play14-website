@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/vincent-marqué-3152701a/
 
+events:
+  - Luxembourg 2017
+
 ---

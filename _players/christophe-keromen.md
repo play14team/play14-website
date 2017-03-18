@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/christophekeromen/
 
+events:
+  - Luxembourg 2014
+
 ---

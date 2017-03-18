@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/marco-broglia-b2a70827/
 
+events:
+  - Milano 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/johannes-schartau/
 
+events:
+  - Hamburg 2016
+
 ---

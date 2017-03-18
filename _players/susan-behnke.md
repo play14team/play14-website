@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/susan-j-behnke-aa9a83a9/
     
+events:
+  - Hamburg 2016
+
 ---

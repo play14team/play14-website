@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fzaninotto/
 
+events:
+  - Luxembourg 2017
+
 ---

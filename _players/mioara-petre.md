@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mioara-petre-2a903932/
 
+events:
+  - Milano 2014
+
 ---

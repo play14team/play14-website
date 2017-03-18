@@ -10,4 +10,8 @@ socials:
   - name: linkedin
     url : in/oswaldderiemaecker/
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2016
+
 ---

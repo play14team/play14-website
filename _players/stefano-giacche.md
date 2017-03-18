@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/stefano-giacchè-5467564a/
 
+events:
+  - Milano 2016
+
 ---

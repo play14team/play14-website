@@ -14,4 +14,8 @@ socials:
   - name: linkedin
     url : in/mariluzgarcia
 
+events:
+  - Hamburg 2016
+  - Madrid 2017
+  
 ---

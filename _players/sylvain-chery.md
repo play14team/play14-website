@@ -15,5 +15,11 @@ socials:
     url : +SylvainCHERY
   - name: linkedin
     url : in/schery
-    
+
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - Luxembourg 2016
+  - Luxembourg 2017
+ 
 ---

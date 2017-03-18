@@ -12,4 +12,7 @@ socials:
   - name: linkedin
     url : in/brando/
     
+events:
+  - Luxembourg 2014
+
 ---

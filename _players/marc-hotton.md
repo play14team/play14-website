@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/marchotton/
 
+events:
+  - Luxembourg 2017
+
 ---

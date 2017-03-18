@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/phillirose/
 
+events:
+  - London 2016
+
 ---

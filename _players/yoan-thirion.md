@@ -12,4 +12,8 @@ socials:
   - name: twitter
     url : yot88
 
+events:
+  - Luxembourg 2016
+  - Luxembourg 2017
+
 ---

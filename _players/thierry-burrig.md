@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/thierryburrig/
 
+events:
+  - Luxembourg 2017
+
 ---

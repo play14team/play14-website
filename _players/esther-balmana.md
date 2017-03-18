@@ -14,4 +14,8 @@ socials:
   - name: linkedin
     url : in/estherbalmana
 
+events:
+  - Milano 2017
+  - Barcelona 2017
+
 ---

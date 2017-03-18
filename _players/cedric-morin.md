@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/cedricmorin/
 
+events:
+  - Luxembourg 2016
+
 ---

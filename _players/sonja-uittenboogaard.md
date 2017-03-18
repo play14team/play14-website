@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/sonjauittenboogaard/
 
+events:
+  - Luxembourg 2017
+
 ---

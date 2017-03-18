@@ -16,4 +16,11 @@ socials:
   - name: linkedin
     url : in/giovannipuliti
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - Luxembourg 2016
+  - Milano 2016
+  - Milano 2017
+
 ---

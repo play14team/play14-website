@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/peterlie/
     
+events:
+  - Luxembourg 2016
+
 ---

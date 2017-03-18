@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/cristina-borghi-249762a/
 
+events:
+  - Milano 2016
+
 ---

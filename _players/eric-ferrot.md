@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/eferrot/
 
+events:
+  - Luxembourg 2017
+
 ---

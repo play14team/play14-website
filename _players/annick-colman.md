@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/annickcolman/
 
+events:
+  - Luxembourg 2014
+
 ---

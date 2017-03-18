@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mlavelli/
 
+events:
+  - Milano 2016
+
 ---

@@ -16,4 +16,8 @@ socials:
   - name: linkedin
     url : in/karsten-mueller-269b186b 
 
+events:
+  - London 2015
+  - Hamburg 2016
+
 ---

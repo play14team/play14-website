@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/armani/
 
+events:
+  - Milano 2016
+
 ---

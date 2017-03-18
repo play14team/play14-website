@@ -16,4 +16,8 @@ socials:
   - name: linkedin
     url : in/francisjenningslisa
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+
 ---

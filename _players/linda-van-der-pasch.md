@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/julynell/
 
+events:
+  - Luxembourg 2017
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/moira2g/
 
+events:
+  - Luxembourg 2017
+
 ---

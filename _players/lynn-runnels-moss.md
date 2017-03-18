@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/lynn-runnels-moss-9485767/
 
+events:
+  - London 2016
+
 ---

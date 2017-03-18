@@ -15,5 +15,12 @@ socials:
     url : 115915059998416283004
   - name: linkedin
     url : in/yanngensollen
-    
+
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - Luxembourg 2016
+  - Milano 2016
+  - Luxembourg 2017
+ 
 ---

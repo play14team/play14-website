@@ -16,4 +16,10 @@ socials:
   - name: linkedin
     url : in/ctohanian
 
+events:
+  - Luxembourg 2015
+  - London 2015
+  - Milano 2016
+  - London 2016
+
 ---

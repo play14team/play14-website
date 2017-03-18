@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fabiofabbrucci/
 
+events:
+  - Luxebembourg 2014
+
 ---

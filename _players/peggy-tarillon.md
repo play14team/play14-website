@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/ptarillon/
 
+events:
+  - Luxembourg 2017
+
 ---

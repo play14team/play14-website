@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/paolosammicheli/
 
+events:
+  - Milano 2016
+
 ---

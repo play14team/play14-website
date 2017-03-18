@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/ferdinandosantacroce/
 
+events:
+  - Milano 2016
+
 ---

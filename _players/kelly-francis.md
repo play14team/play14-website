@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/bournekelly/
 
+events:
+  - Milano 2016
+
 ---

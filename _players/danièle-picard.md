@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/danielepicard/
 
+events:
+  - Luxembourg 2014
+
 ---

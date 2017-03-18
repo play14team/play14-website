@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mickaelgandecki/
 
+events:
+  - Luxembourg 2015
+
 ---

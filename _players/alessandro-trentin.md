@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/alessandrotrentin/
 
+events:
+  - Milano 2016
+
 ---

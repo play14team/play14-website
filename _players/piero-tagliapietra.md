@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/pierotaglia/
 
+events:
+  - Milano 2016
+
 ---

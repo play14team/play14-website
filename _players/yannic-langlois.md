@@ -11,5 +11,9 @@ socials:
     url: ylanglois@agilepartner.net
   - name: linkedin
     url : in/yanniclanglois/
-    
+
+events:
+  - Luxembourg 2015
+  - Luxembourg 2017
+
 ---

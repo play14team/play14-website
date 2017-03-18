@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/agilefrankie/
     
+events:
+  - London 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/geetharamachandran/
 
+events:
+  - London 2015
+
 ---

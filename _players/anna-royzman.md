@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : anna-royzman-2676b63/
 
+events:
+  - London 2015
+
 ---

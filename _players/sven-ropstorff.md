@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/svenroepstorff/
 
+events:
+  - Hamburg 2016
+
 ---

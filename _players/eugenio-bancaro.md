@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/eugenio-bancaro-a63a8b49/
 
+events:
+  - Milano 2016
+
 ---

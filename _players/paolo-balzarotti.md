@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/balza/
 
+events:
+  - Milano 2016
+
 ---

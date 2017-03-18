@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/gregory-nguyen-75a92a8/
 
+events:
+  - Luxembourg 2017
+
 ---

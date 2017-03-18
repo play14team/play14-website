@@ -13,4 +13,8 @@ socials:
   - name: linkedin
     url : in/webby
 
+events:
+  - London 2015
+  - London 2016
+
 ---

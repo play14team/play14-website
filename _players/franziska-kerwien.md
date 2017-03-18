@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/franziskakerwien/
 
+events:
+  - Hamburg 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/jean-michaël-lopez-04715419/
 
+events:
+  - Luxembourg 2017
+
 ---

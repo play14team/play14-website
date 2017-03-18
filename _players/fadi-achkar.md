@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fadi-achkar-87899837/
 
+events:
+  - Milano 2016
+
 ---

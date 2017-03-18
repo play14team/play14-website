@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/roberto-buono-31964721/
 
+events:
+  - Milano 2016
+
 ---

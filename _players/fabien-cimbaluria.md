@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fabiencimbauria/
 
+events:
+  - Luxembourg 2015
+
 ---

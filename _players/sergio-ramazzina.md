@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/sramazzina/
 
+events:
+  - Milano 2016
+
 ---

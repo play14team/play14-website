@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/elisabeth-grimaud-0aa69750/
 
+events:
+  - Luxembourg 2017
+
 ---

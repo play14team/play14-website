@@ -10,4 +10,7 @@ socials:
   - name: twitter
     url : cdenhartigh
 
+events:
+  - Luxembourg 2017
+
 ---

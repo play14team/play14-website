@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/luciano-correa-a7a14125/
 
+events:
+  - London 2016
+
 ---

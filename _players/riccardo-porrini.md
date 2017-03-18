@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/riccardoporrini/
 
+events:
+  - Milano 2016
+
 ---

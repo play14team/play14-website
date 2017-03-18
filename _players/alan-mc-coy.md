@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/alan-mccoy-0a255b1/
 
+events:
+  - London 2016
+
 ---

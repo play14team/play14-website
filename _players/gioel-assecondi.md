@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/gioel-assecondi-76042725/
 
+events:
+  - Milano 2016
+
 ---

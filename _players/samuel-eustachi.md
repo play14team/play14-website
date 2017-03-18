@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/samuel-eustachi-4784692/
 
+events:
+  - Luxembourg 2016
+
 ---

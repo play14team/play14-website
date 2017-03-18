@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/enricodario/
 
+events:
+  - Milano 2016
+
 ---

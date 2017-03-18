@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/maurosarchi/
 
+events:
+  - Milano 2016
+
 ---

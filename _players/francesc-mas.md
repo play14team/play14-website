@@ -14,4 +14,7 @@ socials:
   - name: linkedin
     url : in/francescmas
 
+events:
+  - Barcelona 2017
+
 ---

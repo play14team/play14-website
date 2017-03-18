@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/jansakekruis/
 
+events:
+  - Luxembourg 2014
+
 ---

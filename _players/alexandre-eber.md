@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/alexandre-eber-4a284020/
 
+events:
+  - Luxembourg 2017
+
 ---

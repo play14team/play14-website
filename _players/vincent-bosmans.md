@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/vincent-bosmans-57767a/
 
+events:
+  - Luxembourg 2015
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/jean-michel-didier-29156528/
 
+events:
+  - Luxembourg 2017
+
 ---

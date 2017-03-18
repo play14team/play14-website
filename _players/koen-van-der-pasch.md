@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/agilista/
 
+events:
+  - Luxembourg 2017
+
 ---

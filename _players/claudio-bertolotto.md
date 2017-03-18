@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/claudio-bertolotto-6a64a524/
 
+events:
+  - Milano 2016
+
 ---

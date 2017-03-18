@@ -16,4 +16,8 @@ socials:
   - name: linkedin
     url : in/fabio-ghislandi-74b736a
 
+events:
+  - Milano 2016
+  - Milano 2017
+
 ---

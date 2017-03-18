@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/thorsten-sturm-agixp/
 
+events:
+  - Hamburg 2016
+
 ---

@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/elaine-tittanegro/
 
+events:
+  - London 2016
+
 ---

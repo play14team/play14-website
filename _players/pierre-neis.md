@@ -16,4 +16,13 @@ socials:
   - name: linkedin
     url : in/pierreneis
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - London 2015
+  - Beirut 2015
+  - Luxembourg 2016
+  - London 2016
+  - Luxembourg 2017
+
 ---

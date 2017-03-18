@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/roberta-trucco-4145b031/
 
+events:
+  - Milano 2016
+
 ---

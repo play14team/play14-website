@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/annabuffart/
 
+events:
+  - Luxembourg 2015
+
 ---

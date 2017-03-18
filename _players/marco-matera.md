@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/marcomatera/
 
+events:
+  - Milano 2016
+
 ---

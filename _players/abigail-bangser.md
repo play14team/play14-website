@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/abbybangser/
 
+events:
+  - London 2016
+
 ---

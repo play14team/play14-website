@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mariafriedrich/
 
+events:
+  - Milano 2016
+
 ---

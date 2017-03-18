@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/daniele-cursi-09b18b64/
 
+events:
+  - Milano 2016
+
 ---

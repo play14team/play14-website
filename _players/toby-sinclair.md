@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/tobysinclair/
 
+events:
+  - London 2016
+
 ---

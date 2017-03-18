@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/elia-miraldi-3b4974124/
 
+events:
+  - Milano 2016
+
 ---

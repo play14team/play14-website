@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/sylviataylor/
 
+events:
+  - Hamburg 2016
+
 ---

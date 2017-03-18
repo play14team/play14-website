@@ -10,4 +10,8 @@ socials:
   - name: linkedin
     url : in/talip-ozkeles-b651382/
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+
 ---

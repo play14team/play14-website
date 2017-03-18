@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/devender-verma/
 
+events:
+  - Milano 2016
+
 ---

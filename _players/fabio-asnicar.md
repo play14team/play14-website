@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/fabioasnicar/
 
+events:
+  - Milano 2016
+
 ---

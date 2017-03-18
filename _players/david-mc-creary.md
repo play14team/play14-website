@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/dvdmmc/
 
+events:
+  - Luxembourg 2017
+
 ---

@@ -13,4 +13,11 @@ socials:
     url : vividbreeze
   - name: linkedin
     url : in/christophmoser
+
+events:
+  - London 2015
+  - Luxembourg 2016
+  - Hamburg 2016
+  - London 2016
+
 ---

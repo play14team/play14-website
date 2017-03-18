@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/roussetjeremy/
 
+events:
+  - Luxembourg 2017
+
 ---

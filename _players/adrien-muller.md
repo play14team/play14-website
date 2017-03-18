@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/adrien-muller-566373a/
 
+events:
+  - Luxembourg 2015
+  
 ---

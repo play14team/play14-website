@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/luca-vettorello-5158b960/
 
+events:
+  - Milano 2016
+
 ---

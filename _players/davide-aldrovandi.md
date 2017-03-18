@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/daldrovandi/
 
+events:
+  - London 2016
+
 ---

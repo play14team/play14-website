@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/cédric-boyer-0272405a/
 
+events:
+  - Luxembourg 2017
+
 ---

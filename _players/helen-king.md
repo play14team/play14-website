@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/helenkinguk/
 
+events:
+  - London 2016
+
 ---

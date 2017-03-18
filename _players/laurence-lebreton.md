@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/laurence-lebreton-96894613/
 
+events:
+  - Luxembourg 2017
+
 ---

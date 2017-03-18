@@ -9,5 +9,8 @@ avatar: /images/players/ArieVanBennekum.jpg
 socials:
   - name: linkedin
     url : in/ariev3/
+
+events:
+  - Luxembourg 2015
     
 ---

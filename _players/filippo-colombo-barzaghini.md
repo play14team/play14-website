@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/filippo-colombo-barzaghini-0115b521/
 
+events:
+  - Milano 2016
+
 ---

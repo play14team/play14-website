@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/nicolas-denis-8a26219/
 
+events:
+  - Luxembourg 2017
+
 ---

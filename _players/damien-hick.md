@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/hickdamien/
 
+events:
+  - Luxembourg 2016
+
 ---

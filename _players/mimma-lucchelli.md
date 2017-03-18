@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/mimma-lucchelli-95a8b945/
 
+events:
+  - Milano 2016
+
 ---

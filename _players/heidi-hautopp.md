@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/heidi-hautopp-95943b63/
 
+events:
+  - Hamburg 2016
+
 ---

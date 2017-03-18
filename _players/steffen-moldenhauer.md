@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/steffen-moldenhauer-82481211/
 
+events:
+  - Hamburg 2016
+
 ---

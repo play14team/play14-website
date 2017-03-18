@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/brahim-bendali-515a3658/
 
+events:
+  - Luxembourg 2017
+
 ---

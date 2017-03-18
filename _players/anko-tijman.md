@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/ankotijman/
 
+events:
+  - Luxembourg 2014
+
 ---

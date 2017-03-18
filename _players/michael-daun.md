@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/michaeldaun/
 
+events:
+  - Luxembourg 2014
+
 ---

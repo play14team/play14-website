@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/robaston/
 
+events:
+  - London 2016
+
 ---

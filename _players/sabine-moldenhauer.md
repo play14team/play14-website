@@ -11,5 +11,9 @@ socials:
     url: sabine.moldenhauer@moldenhauer-partner.de
   - name: linkedin
     url : in/sabine-moldenhauer-235bb681/
-    
+
+events:
+  - Luxembourg 2015
+  - Hamburg 2016
+ 
 ---

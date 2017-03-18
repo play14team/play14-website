@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/munirremahl/
 
+events:
+  - London 2016
+
 ---

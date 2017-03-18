@@ -12,4 +12,9 @@ socials:
   - name: linkedin
     url: in/bernard-muller-68bb8137
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - Luxembourg 2016
+
 ---

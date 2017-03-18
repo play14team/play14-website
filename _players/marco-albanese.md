@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/albanesemarco/
 
+events:
+  - Milano 2016
+
 ---

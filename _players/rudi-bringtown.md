@@ -13,5 +13,11 @@ socials:
     url : RudiBringtown
   - name: linkedin
     url : in/rudibringtown/
-    
+
+events:
+  - Luxembourg 2015
+  - London 2015
+  - Luxembourg 2016
+  - Luxembourg 2017
+
 ---

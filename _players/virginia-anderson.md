@@ -10,4 +10,8 @@ socials:
   - name: linkedin
     url : in/virginia-anderson-acc-cpcc-68804811/
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+
 ---

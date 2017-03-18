@@ -16,4 +16,11 @@ socials:
   - name: linkedin
     url : in/kilearning
 
+events:
+  - Luxembourg 2014
+  - Luxembourg 2015
+  - Luxembourg 2016
+  - Hamburg 2016
+  - Luxembourg 2017
+
 ---

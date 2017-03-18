@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/daniela-d-rinaldi-22506425/
 
+events:
+  - Milano 2016
+
 ---

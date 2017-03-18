@@ -13,5 +13,10 @@ socials:
     url : Pierre_Hervouet
   - name: linkedin
     url : in/pierrehervouet
-    
+
+events:
+  - Luxembourg 2014
+  - Beirut 2015
+  - Luxembourg 2017
+  
 ---

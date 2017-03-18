@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/andrea-broglia-0836b2/
 
+events:
+  - Milano 2016
+
 ---

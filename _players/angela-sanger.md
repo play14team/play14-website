@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/angelasanger/
 
+events:
+  - Milano 2016
+
 ---

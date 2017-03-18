@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/marcosantonocito/
 
+events:
+  - Milano 2016
+
 ---

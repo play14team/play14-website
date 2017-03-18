@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/massimoazzolini/
 
+events:
+  - Milano 2016
+
 ---

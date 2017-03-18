@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/robynbackhouse/
 
+events:
+  - London 2016
+
 ---

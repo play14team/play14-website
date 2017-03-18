@@ -10,4 +10,7 @@ socials:
   - name: linkedin
     url : in/jimmyfischer/
 
+events:
+  - Luxembourg 2014
+
 ---
