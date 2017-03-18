@@ -5,12 +5,12 @@
   path: learning/
   section_id: about
   children:
+    - name: Our history
+      path: history/
     - name: Learning & experience
       path: learning/
     - name: Format & schedule
       path: schedule/
-    - name: Our history
-      path: history/
     - name: Organizing an event
       path: organizing/
 - name: Events
