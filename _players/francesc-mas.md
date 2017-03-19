@@ -15,6 +15,7 @@ socials:
     url : in/francescmas
 
 events:
+  - Milano 2017
   - Barcelona 2017
 
 ---

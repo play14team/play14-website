@@ -62,15 +62,17 @@ layout: default
   </div>
 </div>
 
+
+{% assign events = site.emptyArray %}
+{% for eventTitle in page.events %}
+  {% assign event = site.events | where:"title", eventTitle | first %}
+  {% assign events = events | push: event %}
+{% endfor %}
+
 <div class='full no-padding'>
   <div class='row'>
     <div class='mod modGallery'>
-      <h2>Events attended</h2>
-      {% assign events = site.emptyArray %}
-      {% for eventTitle in page.events %}
-        {% assign event = site.events | where:"title", eventTitle | first %}
-        {% assign events = events | push: event %}
-      {% endfor %}
+      <h2>Events attended ({{events.size}})</h2>
       {% include eventgallery.html variable-param=events %} 
     </div>
   </div>

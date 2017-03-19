@@ -198,35 +198,40 @@ layout: default
 </div>
 
 <!--Players-->
+{% assign players = site.emptyArray %}
+{% for player in site.players %}
+  {% if player.events contains page.title %}
+    {% assign players = players | push: player %}
+  {% endif %}
+{% endfor %}
+
+{% if players.size > 0 %}
 <div class='two spacing'></div>
 <div class='full no-padding alternate-background'>
   <div class='row'>
     <div class='mod modGallery'>
       <div class='two spacing'></div>
-      <h2>Players</h2>
-
+      <h2>Players ({{players.size}})</h2>
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% for player in site.players %}
-        {% if player.events contains page.title %}
-
-          <li class='{{player.position}}'>
-            <a href='{{player.id}}'>
-              <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
-              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-                <div class='thumb-info'>
-                  <h3>{{player.position}}</h3>
-                  <h4>{{player.company}}</h4>
-                  <h4>{{player.bio}}</h4>
-                </div>
+      {% for player in players %}
+        <li class='{{player.position}}'>
+          <a href='{{player.id}}'>
+            <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
+            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+              <div class='thumb-info'>
+                <h3>{{player.position}}</h3>
+                <h4>{{player.company}}</h4>
+                <h4>{{player.bio}}</h4>
               </div>
-            </a>
-            <h3>{{player.name}}</h3>
-          </li>
-        {% endif %}
+            </div>
+          </a>
+          <h3>{{player.name}}</h3>
+        </li>
       {% endfor %}
       </ul>
     </div>
   </div>
 </div>
+{% endif %}
 
 <div class='four spacing'></div>
