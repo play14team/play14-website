@@ -35,6 +35,8 @@ preparations:
 
 images:
   - /images/games/airplane-factory/01.jpg
+
+enableComments: true
 ---
 
 ### HOW TO PLAY

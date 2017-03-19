@@ -28,10 +28,6 @@ section_id: blog
             {% endunless %}
           {% endfor %}
         </span>
-        <!--/
-        <span>
-          <a href="#">4 comments</a>
-        </span>-->
       </p>
       <h3><a href="{{post.url | prepend: site.baseurl | prepend: site.url}}">{{post.title}}</a></h3>
       <p>{{post.excerpt}}</p>
@@ -45,6 +41,3 @@ section_id: blog
 
 
 {% include pagination.html root="blog" %}
-
-
-<div class='four spacing'></div>

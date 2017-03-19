@@ -16,6 +16,7 @@ description: The ball point game is one of the oldest games, but it is very effi
 
 published: false
 
+enableComments: true
 ---
 
 Setup

@@ -32,6 +32,8 @@ images:
     - /images/games/postcards/05.jpg
     - /images/games/postcards/06.jpg
     - /images/games/postcards/07.jpg
+
+enableComments: true
 ---
 
 

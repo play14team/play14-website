@@ -35,6 +35,8 @@ images:
     - /images/games/maze/01.jpg
     - /images/games/maze/02.jpg
     - /images/games/maze/03.jpg
+
+enableComments: true
 ---
 
 ### HOW TO PLAY

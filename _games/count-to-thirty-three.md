@@ -16,6 +16,7 @@ description: This game might be simple, it is actually trickier than it seems. I
 
 published: false
 
+enableComments: true
 ---
 
 

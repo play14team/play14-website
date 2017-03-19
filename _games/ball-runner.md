@@ -36,6 +36,7 @@ images:
   - /images/games/ball-runner/02.jpg
   - /images/games/ball-runner/03.jpg
 
+enableComments: true
 ---
 
 ### HOW TO PLAY

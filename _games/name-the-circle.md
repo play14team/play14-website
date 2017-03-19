@@ -17,6 +17,10 @@ timebox: 5 - 15 mins, depending on the size of the group
 
 description: This ice breaker is ideal when you start an event or a meeting and people don't really know one another. It is very useful to learn all the names of the participants.
 
+images:
+    - /images/games/name-the-circle/01.png
+
+enableComments: true
 ---
 
 ### Setup

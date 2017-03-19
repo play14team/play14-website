@@ -16,6 +16,7 @@ description: This is a nice ice breaker or warm up game. It’s fun and very sim
 
 published: false
 
+enableComments: true
 ---
 
 Setup

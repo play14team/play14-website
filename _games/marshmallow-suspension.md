@@ -22,6 +22,7 @@ description: This is a fun game that can be played with many teams in a competit
 images:
     - /images/games/marshmallow-suspention/01.jpg
 
+enableComments: true
 ---
 
 #### Materials

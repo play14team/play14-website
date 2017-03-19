@@ -25,6 +25,7 @@ materials:
 images:
   - /images/games/3-cans/01.jpg
 
+enableComments: true
 ---
 
 ### HOW TO PLAY

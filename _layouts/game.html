@@ -12,15 +12,23 @@ layout: default
       <ul class='info'>
         <li>
           <div class='spacing'></div>
-          <a href='{{page.previous.url}}' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
+          {% if page.previous.url %}
+            <a href='{{page.previous.url}}' title='previous'>
+                <i class='icon-left-open'></i>
+            </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
           <a href='{{site.url}}/games/' title='back to events list'>
             <i class='icon-layout'></i>
           </a>
-          <a href='{{page.next.url}}' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
+          {% if page.next.url %}
+            <a href='{{page.next.url}}' title='next'>
+                <i class='icon-right-open'></i>
+            </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
         </li>
       </ul>
     </div>
@@ -150,7 +158,6 @@ layout: default
         <div class='mod modBlogPost big no_bg'>
             {{content}}
         </div>
-        <div class='four spacing'></div>
     </div>
   </div>
 </div>

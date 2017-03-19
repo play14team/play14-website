@@ -13,6 +13,7 @@ excerpt: Our friend Mark Webb publish an interview of Flick Hardingham, who has 
 images:
   - /images/players/FlickHardingham.jpg
   
+enableComments: true
 ---
 
 Our friend [Mark Webb](https://www.linkedin.com/in/webby) publish an interview of [Flick Hardingham](https://twitter.com/chasingdots), who has been using games extensively to foster creativity.

@@ -46,6 +46,8 @@ safety:
 images:
     - /images/games/x-y-game/01.png
 
+enableComments: true
+
 ---
 
 ### HOW TO PLAY

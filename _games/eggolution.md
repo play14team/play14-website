@@ -17,6 +17,7 @@ description: Evolution on rock, paper, scissors. Fun, easy and just the right am
 
 published: false
 
+enableComments: true
 ---
 
 

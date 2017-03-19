@@ -13,6 +13,7 @@ excerpt: Our friend Mark Webb publish an interview of Karen Fugle, who is an Exe
 images:
   - /images/players/KarenFugle.jpg
 
+enableComments: true
 ---
 
 Our friend [Mark Webb](https://www.linkedin.com/in/webby) publish an interview of [Karen Fugle](https://twitter.com/KarenFugle). 

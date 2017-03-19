@@ -40,6 +40,8 @@ safety:
 
 images:
   - /images/games/farmers-challenge/01.png
+
+enableComments: true
 ---
 
 

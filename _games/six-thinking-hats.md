@@ -5,6 +5,8 @@ title:  "Six thinking hats"
 category: facilitation
 
 published: false
+
+enableComments: true
 ---
 
 Proposed by: Rudi Bringtown
