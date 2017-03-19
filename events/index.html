@@ -22,13 +22,13 @@ section_id: events
         </ul>
       </div>
 
-      <h2>Upcoming events</h2>
       {% assign events = site.events | where_exp:"event","event.schedule.isOver == false"  %}
+      <h2>Upcoming events ({{events.size}})</h2>
       {% include eventgallery.html variable-param=events %} 
 
       <div class='two spacing'></div>
-      <h2>Past events</h2>
       {% assign events = site.events | where_exp:"event","event.schedule.isOver == true" | reverse  %}
+      <h2>Past events ({{events.size}})</h2>
       {% include eventgallery.html variable-param=events %} 
     </div>
   </div>
