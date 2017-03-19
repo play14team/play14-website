@@ -13,15 +13,23 @@ layout: default
       <ul class='info'>
         <li>
           <div class='spacing'></div>
-          <a href='{{page.previous.url}}' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
+          {% if page.previous.url %}
+            <a href='{{page.previous.url}}' title='previous'>
+              <i class='icon-left-open'></i>
+            </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
           <a href='{{site.url}}/players/' title='back to players list'>
             <i class='icon-layout'></i>
           </a>
-          <a href='{{page.next.url}}' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
+          {% if page.next.url %}
+            <a href='{{page.next.url}}' title='next'>
+              <i class='icon-right-open'></i>
+            </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
         </li>
       </ul>
     </div>
@@ -54,7 +62,7 @@ layout: default
   </div>
 </div>
 
-<div class='full'>
+<div class='full no-padding'>
   <div class='row'>
     <div class='mod modGallery'>
       <h2>Events attended</h2>

@@ -20,15 +20,23 @@ layout: default
       <ul class='info'>
         <li>
           <div class='spacing'></div>
-          <a href='{{page.next.url}}' title='previous'>
+          {% if page.next.url %}
+          <a href='{{page.next.url}}' title='next'>
             <i class='icon-left-open'></i>
           </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
           <a href='{{site.url}}/events/' title='back to events list'>
             <i class='icon-layout'></i>
           </a>
-          <a href='{{page.previous.url}}' title='next'>
+          {% if page.previous.url %}
+          <a href='{{page.previous.url}}' title='previous'>
             <i class='icon-right-open'></i>
           </a>
+          {% else %}
+            <i class='icon-cancel' style="color: gray"></i>
+          {% endif %}
         </li>
       </ul>
     </div>
@@ -185,6 +193,38 @@ layout: default
   <div class='row'>
     <div class='large-12 columns'>
         {% include sponsors.html %}
+    </div>
+  </div>
+</div>
+
+<!--Players-->
+<div class='two spacing'></div>
+<div class='full no-padding alternate-background'>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='two spacing'></div>
+      <h2>Players</h2>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+      {% for player in site.players %}
+        {% if player.events contains page.title %}
+
+          <li class='{{player.position}}'>
+            <a href='{{player.id}}'>
+              <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
+              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                <div class='thumb-info'>
+                  <h3>{{player.position}}</h3>
+                  <h4>{{player.company}}</h4>
+                  <h4>{{player.bio}}</h4>
+                </div>
+              </div>
+            </a>
+            <h3>{{player.name}}</h3>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
     </div>
   </div>
 </div>

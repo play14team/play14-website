@@ -23,7 +23,7 @@ section_id: players
       </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% assign players = site.players | sort:'id' %}
+        {% assign players = site.players %}
         {% for player in players %}
           <li class='{{player.position}}'>
             <a href='{{player.id}}'>
