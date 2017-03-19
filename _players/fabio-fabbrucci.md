@@ -11,6 +11,6 @@ socials:
     url : in/fabiofabbrucci/
 
 events:
-  - Luxebembourg 2014
+  - Luxembourg 2014
 
 ---

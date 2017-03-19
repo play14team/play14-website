@@ -11,6 +11,6 @@ socials:
     url : in/mioara-petre-2a903932/
 
 events:
-  - Milano 2014
+  - Luxembourg 2014
 
 ---

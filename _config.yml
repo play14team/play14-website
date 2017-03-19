@@ -63,3 +63,4 @@ defaults:
 
 permalink: pretty
 
+emptyArray: []
