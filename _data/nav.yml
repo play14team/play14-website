@@ -16,15 +16,15 @@
 - name: Events
   path: events/
   section_id: events
-- name: Media
-  path: media/
-  section_id: media
 - name: Games
   path: games/
   section_id: games
 - name: Players
   path: players/
   section_id: players
+- name: Media
+  path: media/
+  section_id: media
 - name: Blog
   path: blog/
   section_id: blog
