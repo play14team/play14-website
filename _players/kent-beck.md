@@ -11,6 +11,8 @@ socials:
     url : in/kentbeck/
   - name: twitter
     url: KentBeck
+  - name: wikipedia
+    url: Kent_Beck
 
 events:
   - Luxembourg 2017

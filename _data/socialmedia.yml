@@ -21,3 +21,7 @@ facebook:
 youtube:
   icon: fa fa-youtube
   url: https://www.youtube.com/
+
+wikipedia:
+  icon: fa  fa-wikipedia-w
+  url: https://en.wikipedia.org/wiki/
