@@ -3,7 +3,7 @@ layout: player
 
 name: Julian Kea
 position: Hamburg organizer
-company: [ki:]®Learning
+company: kiLearning
 bio: "Business Skills Trainer. Trained facilitator of LEGO® SERIOUS PLAY®"
 avatar: /images/players/JulianKea.jpg
 socials:
