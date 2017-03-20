@@ -20,7 +20,6 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-  - octopress-paginate
 #   - jekyll-mentions
 #   - jemoji
 
@@ -29,7 +28,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-  - octopress-paginate
 #  - jekyll-mentions
 
 #jekyll-mentions:
