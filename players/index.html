@@ -3,62 +3,36 @@
 layout: default
 section_id: players
 
-pagination: 
-  enabled: true
-  collection: players
-  per_page: 20
-  sort_field: 'name'
-  sort_reverse: false
-
 ---
 
 <div class='full'>
   <div class='row'>
-    <div class='large-9 columns'>
-      <h2>Players ({{site.players.size}}) - Page {{paginator.page}} on {{paginator.total_pages}}</h2>
-    </div>
-    <div class='large-3 columns' align="right">
-      <ul class='info'>
-        <li>
-          <a href='/players' title='first'>
-            <i class='icon-left-bold'></i>
-          </a>
-          <a href='{{paginator.previous_page_path }}' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
-          <a href='{{paginator.next_page_path}}' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
-          <a href='/players/page/{{paginator.total_pages}}' title='last'>
-            <i class='icon-right-bold'></i>
-          </a>
-        </li>
-      </ul>
-      <!--<ul class='info'>
-          {% if paginator.page_trail %}
-            {% for trail in paginator.page_trail %}
-              <li {% if page.url == trail.path %}class="selected"{% endif %}>
-                  <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
-              </li>
-            {% endfor %}
-          {% endif %}
-      </ul>-->
-    </div>
-  </div>
-  <div class='two spacing'></div>
-  <div class='row'>
+    <h2>Players ({{site.players.size}})</h2>
     <div class='mod modMasonryGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          {% assign positions = site.players | sort:'position' | group_by:'position' %}
+          {% for position in positions %}
+            <li>
+              <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% for player in paginator.posts %}
+        {% assign players = site.players %}
+        {% for player in players %}
           <li class='{{player.position}}'>
-            <div style="text-align: left; font-weight: bold">
-              {{player.position}}
-            </div>
             <a href='{{player.id}}'>
               <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{player.company}}</h3>
+                  <h3>{{player.position}}</h3>
+                  <h4>{{player.company}}</h4>
                   <h4>{{player.bio}}</h4>
                 </div>
               </div>
@@ -67,6 +41,7 @@ pagination:
           </li>
         {% endfor %}
       </ul>
+
     </div>
   </div>
 </div>
