@@ -1,6 +1,14 @@
 ---
 layout: blog
 section_id: blog
+
+pagination: 
+  enabled: true
+  collection: posts
+  per_page: 5
+  sort_field: 'date'
+  sort_reverse: true
+
 ---
 
 {% for post in paginator.posts %}
