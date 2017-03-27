@@ -5,7 +5,7 @@ name: Matthew Murphy
 position: Player
 company: Talan
 bio: "Agile Facilitator"
-avatar: /images/players/default.png
+avatar: /images/players/MatthewMurphy.jpg
 socials:
   - name: linkedin
     url : in/matthew-murphy-937b718/
