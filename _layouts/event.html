@@ -156,7 +156,7 @@ layout: default
 </div>
 
 <!-- Register -->
-{% if !page.isOver and page.eventbrite %}
+{% if page.schedule.isOver == false and page.eventbrite %}
 <div class='full no-padding'>
   <a name="register"></a>
   <div class='spacing'></div>

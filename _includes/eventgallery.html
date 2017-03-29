@@ -7,7 +7,7 @@
             <div class='small-8 columns' style="text-align: left; font-weight: bold">
             {{event.schedule.dates}}
             </div>
-            {% if !event.isOver %}
+            {% if event.schedule.isOver == false %}
                 <div class='small-4 columns' style="text-align: right; font-weight: bold">
                 {% if event.eventbrite %}
                     <a href="{{event.url}}#register">Register</a>
