@@ -6,7 +6,14 @@
       <div class='items'>
         {% for t in site.data.testimonials  %}
           <div class='item'>
-            <p class='quote'>{{t.text}}</p>
+            {% if t.text %}
+              <p class='quote'>{{t.text}}</p>
+            {% elsif t.audio %}
+              <audio controls>
+                <source src="{{t.audio}}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+              </audio>
+            {% endif %}
             {% include author.html variable-param=t.author %} 
           </div>
         {% endfor %}
