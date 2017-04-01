@@ -12,6 +12,7 @@ author: Julian Kea
 excerpt: >
     From the very start playing is important for our development: with dolls, building blocks and other toys we re-enact happenings, relationships and ideas. If you have ever tried to disturb children during playing, you know, how focused they can get. With lots of emotional closeness and ambition, with own rules and clear judgment they are fixated on the scene. When they play, they speak with themselves – even when there is no one around. Playing supports logical thinking and communication. On top it has the power to make us self-confident and happy.
 
+cannonical: https://www.microtool.de/en/project-management/lego-is-not-a-game/
 
 images:
   - /images/posts/lego-is-not-a-game/01.jpg
