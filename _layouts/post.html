@@ -14,7 +14,12 @@ layout: blog
       /
       <span>
         by
-        <a href="">{{page.author}}</a>
+        {% assign player = site.players | where:'name',page.author | first %}
+        {% if player %}
+          <a href="{{player.url}}">{{player.name}}</a>
+        {% else %}
+          <a href="">{{page.author}}</a>
+        {% endif %}
       </span>
       /
       <span>

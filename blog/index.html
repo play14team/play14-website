@@ -16,7 +16,12 @@ section_id: blog
         /
         <span>
           by
-          <a href="">{{post.author}}</a>
+          {% assign player = site.players | where:'name',post.author | first %}
+          {% if player %}
+            <a href="{{player.url}}">{{player.name}}</a>
+          {% else %}
+            <a href="">{{post.author}}</a>
+        {% endif %}
         </span>
         /
         <span>
