@@ -50,8 +50,8 @@ As a facilitator explains the game from the rules,  then:
 * Separate physically the Dev and Ops teams
 * Put the “Dev” environment on the dev table
 *	Put the “Pre-production” and “Production” environments on the ops table
-*	Add the base the basic structure for tower bases on each environment. The base must be as in this image:
-
+*	Add the base structure for tower bases on each environment. The base must be as in the image below : (base structure represents the environments (DB, Frameworks, Languages, ...))
+![Bases]({{site.url}}/images/games/yata/base.png "Bases")
 
 #### RULES
 Sprints: There will be 4 sprints during this game. Each sprint will be organized as described in the sprint image. For each sprint, the facilitator must distribute the cards corresponding (# sprint number). 
@@ -67,12 +67,12 @@ The goal is to aim a maximum number of points by delivering features to producti
 
 ### SPRINT 1.
 #### Documentation approach vs collaboration
-*	DEV: 3 minutes for building and deliver to pre-prod
+*	DEV: 3 minutes to build and deliver to pre-prod
 *	OPS: Refuse any non-documented tower
 
 ##### RETROSPECTIVE
-*	Stop starting, start finishing / WIP limits
-*	KISS
+*	Stop starting, start finishing / Work In Progress (W.I.P) limits
+*	Keep It Simple & Stupid (K.I.S.S)
 *	Production deployment requires collaboration and reveals problems.
 *	**Silo breaks the collaboration**
 
