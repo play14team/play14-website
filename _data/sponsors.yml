@@ -77,3 +77,21 @@
       url: stattys_world
     - name: facebook
       url : Stattys
+
+- name: '[ki:]®Learning'
+  url: http://www.kilearning.net
+  logo: /images/sponsors/kiLearning.jpg
+  socials:
+    - name: email
+      url: frageE@kilearning.net
+    - name: twitter
+      url: kiLearning
+
+- name: DaWanda Snuggery
+  url: https://de.dawanda.com/mkt/dawanda-snuggery
+  logo: /images/sponsors/snuggery.png
+  socials:
+    - name: email
+      url: snuggery@dawanda.com
+    - name: twitter
+      url: dawanda_de

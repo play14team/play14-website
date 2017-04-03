@@ -7,13 +7,15 @@
             <div class='small-8 columns' style="text-align: left; font-weight: bold">
             {{event.schedule.dates}}
             </div>
-            <div class='small-4 columns' style="text-align: right; font-weight: bold">
-            {% if event.eventbrite %}
-                <a href="{{event.url}}#register">Register</a>
-            {% elsif  event.regisrtrationUrl %}
-                <a href="{{event.regisrtrationUrl}}" target="_blank">Register</a>
+            {% if event.schedule.isOver == false %}
+                <div class='small-4 columns' style="text-align: right; font-weight: bold">
+                {% if event.eventbrite %}
+                    <a href="{{event.url}}#register">Register</a>
+                {% elsif  event.regisrtrationUrl %}
+                    <a href="{{event.regisrtrationUrl}}" target="_blank">Register</a>
+                {% endif %}
+                </div>
             {% endif %}
-            </div>
         </div>
         <a href='{{event.url}}'>
             <img alt="" src="{{event.images.first}}" />

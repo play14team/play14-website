@@ -6,7 +6,7 @@ slides:
   - bg: images/slides/play14_white_bg_1090x545.png
     title: A community
     tagline: of like minded people
-  - bg: images/slides/play14movement02.png
+  - bg: images/slides/play14movement.png
     title: Gather regularly
     tagline: Around Europe
   - bg: images/slides/pink_space_cat.jpg
@@ -28,6 +28,8 @@ sponsors:
   - name: Stattys
     type: Our global sponsors
   - name: Marmelab
+    type: Our global sponsors
+  - name: Agile²
     type: Our global sponsors
 
 ---
@@ -207,7 +209,8 @@ sponsors:
     </div>
   </div>
   <div class='row'>
-    {% for game in site.games %}
+    {% assign recentGames = site.games | reverse | limit:3 %}
+    {% for game in recentGames %}
       {% if forloop.index > 3 %}
         {% break %}
       {% endif %}

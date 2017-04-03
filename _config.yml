@@ -36,7 +36,6 @@ whitelist:
 collections:
   events:
     output: true
-    permalink: :collection/:categories/:path
   games:
     output: true
     permalink: :collection/:path
