@@ -111,6 +111,15 @@ layout: default
                 {{page.description}}
             </p>
 
+            {% if page.learning-objectives %}
+                <h4>Learning objectives</h4>
+                <ul>
+                    {% for learning-objective in page.learning-objectives %}
+                        <li>{{learning-objective}}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+
             {% if page.preparations %}
                 <h4>Preparation</h4>
                 <ul>
