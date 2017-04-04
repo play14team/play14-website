@@ -15,10 +15,10 @@ excerpt: >
 cannonical: https://www.microtool.de/en/project-management/lego-is-not-a-game/
 
 images:
-  - /images/posts/lego-is-not-a-game/01.jpg
-  - /images/posts/lego-is-not-a-game/02.jpg
-  - /images/posts/lego-is-not-a-game/03.jpg
-  - /images/posts/lego-is-not-a-game/04.jpg
+  - /files/lego-is-not-a-game/01.jpg
+  - /files/lego-is-not-a-game/02.jpg
+  - /files/lego-is-not-a-game/03.jpg
+  - /files/lego-is-not-a-game/04.jpg
 
 enableComments: true
 ---
