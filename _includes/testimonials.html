@@ -8,7 +8,8 @@
           <div class='item'>
             {% if t.text %}
               <p class='quote'>{{t.text}}</p>
-            {% elsif t.audio %}
+            {% endif %}
+            {% if t.audio %}
               <audio controls>
                 <source src="{{t.audio}}" type="audio/mpeg">
                 Your browser does not support the audio tag.
