@@ -4,11 +4,11 @@ layout: player
 name: Mari Luz Garcia 
 position: Madrid organizer
 company: ESCP Europe
-bio: "Helping organisations deal with their challenges using Creative Thinking"
+bio: "Executive Director Chair of Entrepreneurship at ESCP Europe & Creative (Lego® Serious Play®) facilitator"
 avatar: /images/players/MariLuzGarcia.jpg
 socials:
   - name: email
-    url:  archidona@gmail.com
+    url:  mgarcia@escpeurope.eu
   - name: twitter
     url : LumiereMarie
   - name: linkedin
