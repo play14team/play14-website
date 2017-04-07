@@ -21,5 +21,6 @@ events:
   - London 2015
   - Milano 2016
   - London 2016
+  - London 2017
 
 ---

@@ -16,5 +16,6 @@ socials:
 events:
   - London 2015
   - London 2016
+  - London 2017
 
 ---
