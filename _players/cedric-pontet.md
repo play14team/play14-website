@@ -24,6 +24,7 @@ events:
   - Hamburg 2016
   - London 2016
   - Luxembourg 2017
+  - Madrid 2017
 
 ---
 
