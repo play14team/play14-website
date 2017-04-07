@@ -95,3 +95,16 @@
       url: snuggery@dawanda.com
     - name: twitter
       url: dawanda_de
+
+- name: PlanetExpat
+  url: http://planetexpat.org/
+  logo: /images/sponsors/PlanetExpat.png
+  socials:
+    - name: email
+      url: info@planetexpat.org
+    - name: twitter
+      url: PlanetExpat
+    - name: linkedin
+      url: company/2949016
+    - name: facebook
+      url: PlanetExpat
