@@ -108,3 +108,12 @@
       url: company/2949016
     - name: facebook
       url: PlanetExpat
+
+- name: Legamaster
+  url: http://www.legamaster.com/home/
+  logo: /images/sponsors/Legamaster.jpg
+  socials:
+    - name: twitter
+      url: hashtag/legamaster
+    - name: youtube
+      url: user/LegamasterBV
