@@ -117,3 +117,12 @@
       url: hashtag/legamaster
     - name: youtube
       url: user/LegamasterBV
+
+- name: Neuland
+  url: http://www.neuland.com/
+  logo: /images/sponsors/Neuland.jpg
+  socials:
+    - name: email
+      url: info@neuland.com
+    - name: facebook
+      url: neuland
