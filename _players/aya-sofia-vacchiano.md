@@ -5,7 +5,7 @@ name: Aya Sofia Vacchiano
 position: Madrid organizer
 company: 
 bio: "Events organizer"
-avatar: /images/players/AyaSofiaVacchiano.png
+avatar: /images/players/AyaSofiaVacchiano.jpg
 socials:
   - name: linkedin
     url : in/ayasofiavacchiano
