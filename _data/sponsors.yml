@@ -120,7 +120,7 @@
 
 - name: Neuland
   url: http://www.neuland.com/
-  logo: /images/sponsors/Neuland.jpg
+  logo: /images/sponsors/neuland.jpg
   socials:
     - name: email
       url: info@neuland.com
