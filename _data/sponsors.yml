@@ -126,3 +126,13 @@
       url: info@neuland.com
     - name: facebook
       url: neuland
+
+- name: 7Pixel
+  url: http://www.7pixel.it/
+  logo: /images/sponsors/SevenPixel.png
+  socials:
+    - name: linkedin
+      url: company/361906/
+    - name: twitter
+      url: hashtag/7pixel?src=hash
+  
