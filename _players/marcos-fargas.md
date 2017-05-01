@@ -1,7 +1,7 @@
 ---
 layout: player
 
-name: Marcos Fargas Francois-Sigrand
+name: Marcos Fargas
 position: Player
 company: Parclick
 bio: "CMO I Parclick, the Leading European Online Parking Network"
