@@ -2,7 +2,7 @@
 layout: player
 
 name: Anko Tijman
-position: Player
+position: Netherlands organizer
 company: 
 bio: "Delivering Agile results ✪ Empowering digital teams ✪ DevOps visionary ✪ Seasoned Agile trainer"
 avatar: /images/players/AnkoTijman.jpg
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2014
+  - Netherlands 2017
 
 ---

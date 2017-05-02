@@ -2,7 +2,7 @@
 layout: player
 
 name: Sonja Uittenboogaard
-position: Player
+position: Netherlands organizer
 company: Valori
 bio: "Training specialist"
 avatar: /images/players/SonjaUittenboogaard.jpg
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Netherlands 2017
 
 ---

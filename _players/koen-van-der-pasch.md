@@ -2,7 +2,7 @@
 layout: player
 
 name: Koen van der Pasch
-position: Player
+position: Netherlands organizer
 company: Cegeka
 bio: "Management consultant"
 avatar: /images/players/KoenVanDerPasch.jpg
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Netherlands 2017
 
 ---
