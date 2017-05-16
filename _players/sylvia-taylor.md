@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2016
+  - Berlin 2017
 
 ---
