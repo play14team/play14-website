@@ -136,3 +136,42 @@
     - name: twitter
       url: hashtag/7pixel?src=hash
   
+- name: TEAMLABS/
+  url: http://www.teamlabs.es/es
+  logo: /images/sponsors/madrid/teamlabs.png
+  socials:
+    - name: linkedin
+      url: school/3321408/
+    - name: twitter
+      url: teamlabs
+
+- name: The Robot Museum
+  url: http://www.therobotmuseum.eu/
+  logo: /images/sponsors/madrid/robot-museum.jpg
+  socials:
+    - name: facebook
+      url: therobotmuseum.eu
+    - name: twitter
+      url: therobotmuseum
+
+- name: Linda
+  url: http://lindalimon.com/
+  logo: /images/sponsors/madrid/linda.png
+  socials:
+    - name: facebook
+      url: tomalindalimon
+    - name: twitter
+      url: tomalindalimon
+
+- name: Catering Anmama
+  url: http://inwayprojects.com/portfolio-item/585-2/
+  logo: /images/sponsors/madrid/catering-anmama.png
+
+- name: Societal Entrepreneurship
+  url: http://www.entrepreneurship-escpeurope.com/
+  logo: /images/sponsors/madrid/societal-entrepreneurship.png
+  socials:
+    - name: facebook
+      url: OptionEMadrid
+    - name: twitter
+      url: OptionEMadrid
