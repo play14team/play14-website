@@ -44,7 +44,7 @@
 
 - name: Agile Reloaded
   url: http://www.agilereloaded.it/
-  logo: /images/sponsors/AgileReloaded.png
+  logo: /images/sponsors/milano/AgileReloaded.png
   socials:
     - name: email
       url : info@agilereloaded.it
@@ -53,7 +53,7 @@
 
 - name: Nokia
   url: http://www.nokia.com/ro_ro
-  logo: /images/sponsors/nokia.png
+  logo: /images/sponsors/timisoara/nokia.png
   socials:
     - name: twitter
       url: nokia
@@ -80,7 +80,7 @@
 
 - name: '[ki:]®Learning'
   url: http://www.kilearning.net
-  logo: /images/sponsors/kiLearning.jpg
+  logo: /images/sponsors/berlin/kiLearning.jpg
   socials:
     - name: email
       url: frageE@kilearning.net
@@ -89,7 +89,7 @@
 
 - name: DaWanda Snuggery
   url: https://de.dawanda.com/mkt/dawanda-snuggery
-  logo: /images/sponsors/snuggery.png
+  logo: /images/sponsors/berlin/snuggery.png
   socials:
     - name: email
       url: snuggery@dawanda.com
@@ -98,7 +98,7 @@
 
 - name: PlanetExpat
   url: http://planetexpat.org/
-  logo: /images/sponsors/PlanetExpat.png
+  logo: /images/sponsors/madrid/PlanetExpat.png
   socials:
     - name: email
       url: info@planetexpat.org
@@ -111,7 +111,7 @@
 
 - name: Legamaster
   url: http://www.legamaster.com/home/
-  logo: /images/sponsors/Legamaster.jpg
+  logo: /images/sponsors/berlin/Legamaster.jpg
   socials:
     - name: twitter
       url: hashtag/legamaster
@@ -120,7 +120,7 @@
 
 - name: Neuland
   url: http://www.neuland.com/
-  logo: /images/sponsors/neuland.jpg
+  logo: /images/sponsors/berlin/neuland.jpg
   socials:
     - name: email
       url: info@neuland.com
@@ -129,7 +129,7 @@
 
 - name: 7Pixel
   url: http://www.7pixel.it/
-  logo: /images/sponsors/SevenPixel.png
+  logo: /images/sponsors/milano/SevenPixel.png
   socials:
     - name: linkedin
       url: company/361906/
