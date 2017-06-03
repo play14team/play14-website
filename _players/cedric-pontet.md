@@ -25,6 +25,11 @@ events:
   - London 2016
   - Luxembourg 2017
   - Madrid 2017
+  - Timisoara 2017
+  - London 2017
+  - Barcelona 2017
+  - Netherlands 2017
+  - Luxembourg 2018
 
 ---
 

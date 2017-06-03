@@ -24,5 +24,8 @@ events:
   - Luxembourg 2016
   - London 2016
   - Luxembourg 2017
+  - Milano 2017
+  - Berlin 2017
+  - Luxembourg 2018
 
 ---
