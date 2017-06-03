@@ -16,6 +16,21 @@
 - name: Events
   path: events/
   section_id: events
+  children:
+    - name: All events
+      path: events/
+    - name: Madrid 2017
+      path: events/madrid/2017-06
+    - name: Berlin 2017
+      path: events/berlin/2017-06
+    - name: Timisoara 2017
+      path: events/timisoara/2017-07
+    - name: London 2017
+      path: events/london/2017-09
+    - name: Barcelona 2017
+      path: events/barcelona/2017-10
+    - name: The Netherland 2017
+      path: events/netherlands/2017-11
 - name: Games
   path: games/
   section_id: games
