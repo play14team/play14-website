@@ -175,3 +175,12 @@
       url: OptionEMadrid
     - name: twitter
       url: OptionEMadrid
+
+- name: Artefact
+  url: https://artefactshop.com/
+  logo: /images/sponsors/berlin/artefact.jpg
+  socials:
+    - name: twitter
+      url: Artefact_Cards
+    - name: youtube
+      url: user/ArtefactCards
