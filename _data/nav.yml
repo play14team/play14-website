@@ -19,8 +19,6 @@
   children:
     - name: All events
       path: events/
-    - name: Madrid 2017
-      path: events/madrid/2017-06
     - name: Berlin 2017
       path: events/berlin/2017-06
     - name: Timisoara 2017
@@ -31,6 +29,8 @@
       path: events/barcelona/2017-10
     - name: The Netherland 2017
       path: events/netherlands/2017-11
+    - name: Luxembourg 2018
+      path: events/luxembourg/2018-03
 - name: Games
   path: games/
   section_id: games
