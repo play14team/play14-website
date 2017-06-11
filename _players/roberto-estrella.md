@@ -11,6 +11,5 @@ socials:
     url : in/robertoestrella/
 
 events:
-  - Madrid 2017
 
 ---
