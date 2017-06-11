@@ -13,6 +13,5 @@ socials:
     url : in/charlottehente
 
 events:
-  - Madrid 2017
   
 ---
