@@ -184,3 +184,12 @@
       url: Artefact_Cards
     - name: youtube
       url: user/ArtefactCards
+
+- name: emetriq
+  url: https://www.emetriq.com/en/
+  logo: /images/sponsors/berlin/emetriq.jpg
+  socials:
+    - name: twitter
+      url: emetriq
+    - name: facebook
+      url: emetriq
