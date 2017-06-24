@@ -11,6 +11,5 @@ socials:
     url : in/ant-gardiner-9521796/
 
 events:
-  - London 2017
 
 ---
