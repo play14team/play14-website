@@ -19,8 +19,6 @@
   children:
     - name: All events
       path: events/
-    - name: Berlin 2017
-      path: events/berlin/2017-06
     - name: Timisoara 2017
       path: events/timisoara/2017-07
     - name: London 2017
