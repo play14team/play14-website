@@ -3,7 +3,7 @@ layout: player
 
 name: Elsa Wormeck
 position: Player
-company: Rasmussen Consulting
+company: www.corecreate.de
 bio: "corecreate | communications"
 avatar: /images/players/ElsaWormeck.jpg
 socials:
