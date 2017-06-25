@@ -2,7 +2,7 @@
 layout: player
 
 name: Ant Gardiner
-position: London organizer
+position: Player
 company: 
 bio: "Agile Coach | LEGO® SERIOUS PLAY facilitator"
 avatar: /images/players/AntGardiner.jpg
