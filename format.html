@@ -1,10 +1,11 @@
 ---
 layout: default
-section_id: schedule
+section_id: unconference
+
 
 timetable:
-    - day: Friday
-      desc: Friday is the day where we learn to know one another and enjoy meeting old friends again.
+    - day: Welcome evening
+      desc: The welcome evening is the day where we learn to know one another and enjoy meeting old friends again.
       times:
         - time: 6 PM
           desc: Ice breakers
@@ -16,8 +17,8 @@ timetable:
           desc: Game(s) all together
         - time: 10 PM
           desc: Beer at the pub
-    - day: Saturday
-      desc: Saturday is the day where it really starts. Lots of games and fun. People are free to satisfy their cravings for games, or take a break if they need.'
+    - day: First day
+      desc: This is the day where it really starts. Lots of games and fun. People are free to satisfy their cravings for games, or take a break if they need.'
       times:
         - time: 8:30 AM
           desc: Breakfast
@@ -35,8 +36,8 @@ timetable:
           desc: Retrospective
         - time: 7 PM
           desc: Pizza &amp; Beers
-    - day: Sunday
-      desc: Sunday is often a bit more relaxed. It usually ends earlier, so people can go back home. But hard-core gamers can still get their lot.
+    - day: Second day
+      desc: This day is often a bit more relaxed. It usually ends earlier, so people can go back home. But hard-core gamers can still get their lot.
       times:
         - time: 8:30 AM
           desc: Breakfast
@@ -56,6 +57,14 @@ timetable:
           desc: Goodbye &amp; see you next time
 
 ---
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h1>Our event format</h1>
+    </div>
+  </div>
+</div>
 
 <div class='full'>
   <div class='row'>
@@ -87,6 +96,21 @@ timetable:
     </div>
   </div>
 </div>
+<div class='two spacing'></div>
+
+<div class='full alternate-background'>
+  <div class='row'>
+    <div class='large-6 columns'>
+      {% include code-of-conduct.html %}
+      <div class='two spacing'></div>
+    </div>
+
+    <div class='large-5 columns'>
+      {% include skills.html %}
+    </div>
+
+  </div>
+</div>
 
 
 <div class='full'>
@@ -101,3 +125,42 @@ timetable:
 
 <div class='two spacing'></div>
 {% include timetable.html %}
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Your main take aways</h2>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% include main-expectations.html %}
+  </div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Know more...</h2>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedTextSlider'>
+        <div class='boxes'>
+          {% for expectation in site.data.expectations.other %}
+            <div class='box' style='background: #f9f9f9;'>
+              <i class='{{expectation.icon_class}}'></i>
+              <h4>{{expectation.title}}</h4>
+              <p>{{expectation.desc}}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+

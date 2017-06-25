@@ -1,24 +1,24 @@
 - name: Home
   path: 
   section_id: home
-- name: About
+- name: About us
   path: learning/
   section_id: about
   children:
     - name: Our history
       path: history/
-    - name: Learning & experience
-      path: learning/
-    - name: Format & schedule
-      path: schedule/
-    - name: Organizing an event
-      path: organizing/
+    - name: Our values
+      path: values/
+    - name: Our format
+      path: format/
 - name: Events
   path: events/
   section_id: events
   children:
     - name: All events
       path: events/
+    - name: All media
+      path: media/
     - name: Timisoara 2017
       path: events/timisoara/2017-07
     - name: London 2017
@@ -32,12 +32,20 @@
 - name: Games
   path: games/
   section_id: games
+  children:
+    - name: All games
+      path: games/
+    - name: Document your game
+      path: documenting/
 - name: Players
   path: players/
   section_id: players
-- name: Media
-  path: media/
-  section_id: media
+- name: Organizers
+  path: organizing/
+  section_id: organizing
+  children:
+  - name: Become an organizer
+    path: organizing/
 - name: Blog
   path: blog/
   section_id: blog
