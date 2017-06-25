@@ -17,6 +17,8 @@
   children:
     - name: All events
       path: events/
+    - name: All players
+      path: players/
     - name: All media
       path: media/
     - name: Timisoara 2017
@@ -37,9 +39,6 @@
       path: games/
     - name: Document your game
       path: documenting/
-- name: Players
-  path: players/
-  section_id: players
 - name: Organizers
   path: organizing/
   section_id: organizing
