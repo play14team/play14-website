@@ -2,7 +2,7 @@
 layout: player
 
 name: Nina Neef
-position: Berlin organizer
+position: Player
 company: ACT e.V.
 bio: "Management of the Resonanz Lab"
 avatar: /images/players/NinaNeef.jpg
