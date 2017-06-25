@@ -9,7 +9,7 @@
       path: history/
     - name: Our values
       path: values/
-    - name: Our format
+    - name: Our event format
       path: format/
 - name: Events
   path: events/
