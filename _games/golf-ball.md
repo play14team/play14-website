@@ -2,7 +2,7 @@
 layout: game
 
 title: The golf ball
-category: ice breaker
+category: game
 tags:
     - Motivation
 
