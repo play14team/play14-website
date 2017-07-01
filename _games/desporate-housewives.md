@@ -1,6 +1,6 @@
 ---
 layout: game
-title:  "Deses’po’rate housewives"
+title:  "Des’po’rate housewives"
 category: game
 tags:
   - Product ownership
