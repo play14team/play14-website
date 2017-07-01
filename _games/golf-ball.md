@@ -1,7 +1,7 @@
 ---
 layout: game
 
-title: The gold ball
+title: The golf ball
 category: ice breaker
 tags:
     - Motivation
@@ -73,11 +73,11 @@ The expressions used are for example
 
 ### Debrief
 
-After the game, ask each of the volunteers to tell about what they felt.
+After the game, ask each of the volunteers to tell about what they felt.  
 Also give a chance to the other participants to express how they were feeling, especially when not helping or providing only negative feedback.
 
 ### TAKE AWAYS
 
-Learn how to provide useful feedback.
-Feedback can be either positive or negative. 
-The important thing is to provide it in a benevolent manner.
+Learn how to provide useful feedback.  
+Feedback can be either positive or negative.  
+The important thing is to provide it in a benevolent manner.  
