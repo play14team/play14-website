@@ -20,7 +20,7 @@ firstplayed: Luxembourg 2015
 scale: Min 8, Max 16
 timebox: 30 - 60 mins
 
-description: In this game, a team must produce as many folded paper planes as possible. It is a competition between teams to be as productive as possible.
+excerpt: In this game, a team must produce as many folded paper planes as possible. It is a competition between teams to be as productive as possible.
 
 materials:
   - Folding models

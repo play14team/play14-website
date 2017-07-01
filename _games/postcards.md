@@ -15,7 +15,7 @@ firstplayed: Luxembourg 2015
 scale: Min 5, Max 60+
 timebox: 45-60 mins
 
-description: Technology has introduced to us many new forms of communication. Ultimately though none of them can replace the value of a simple face to face conversation, but still we seem to prefer them. It’s easier to write an email or send a text. I feel more conformable writing down my requirement and sending it over. This game is designed to demonstrate the value lost by avoiding face to face conversation.
+excerpt: Technology has introduced to us many new forms of communication. Ultimately though none of them can replace the value of a simple face to face conversation, but still we seem to prefer them. It’s easier to write an email or send a text. I feel more conformable writing down my requirement and sending it over. This game is designed to demonstrate the value lost by avoiding face to face conversation.
 
 materials:
     - Tables (1 per team)

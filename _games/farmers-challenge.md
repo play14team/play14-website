@@ -17,7 +17,7 @@ firstplayed: Luxembourg 2015
 scale: Min 8, Max 15
 timebox: 30 - 60 mins
 
-description: "This is a team puzzle that introduces a few constraints to emphasise the need to cooperate, to collaborate and most importantly to listen. It can be used to assess a team's dynamic, to identify current or potential leaders and to simply build culture within a team."
+excerpt: "This is a team puzzle that introduces a few constraints to emphasise the need to cooperate, to collaborate and most importantly to listen. It can be used to assess a team's dynamic, to identify current or potential leaders and to simply build culture within a team."
 
 materials:
   - Board or Flipchart and pens

@@ -16,7 +16,7 @@ firstplayed: Luxembourg 2015
 scale: Min 6, Max unlimited, you need an even number
 timebox: 10-15 mins
 
-description: This is a nice warm up game. It’s fun and very simple to setup.
+excerpt: This is a nice warm up game. It’s fun and very simple to setup.
 
 images:
     - /images/games/one-two-three-gesture/01.png

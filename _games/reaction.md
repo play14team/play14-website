@@ -18,7 +18,7 @@ firstplayed: Luxembourg 2017
 scale: 9 to 24
 timebox: 40 mins
 
-description: This game is designed to allow participants to experience and reflect on what it's like when two cultures merge. 
+excerpt: This game is designed to allow participants to experience and reflect on what it's like when two cultures merge. 
 
 learning-objectives:
     - Be mindful of the difficulty and awkwardness of changing cultures, changing teams and so that they can act accordingly.

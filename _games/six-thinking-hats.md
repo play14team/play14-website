@@ -4,6 +4,8 @@ layout: game
 title:  "Six thinking hats"
 category: facilitation
 
+excerpt: 
+
 published: false
 
 enableComments: true

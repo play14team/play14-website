@@ -16,7 +16,7 @@ firstplayed: Madrid 2017
 scale: Min 15, Max 20
 timebox: 10 mins
 
-description: Learn to know each other and create connections. 
+excerpt: Learn to know each other and create connections. 
 
 materials:
   - Large room

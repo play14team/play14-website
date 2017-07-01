@@ -13,7 +13,7 @@ firstplayed: Luxembourg 2016
 scale: 
 timebox: 
 
-description: Evolution on rock, paper, scissors. Fun, easy and just the right amount of silly.
+excerpt: Evolution on rock, paper, scissors. Fun, easy and just the right amount of silly.
 
 published: false
 

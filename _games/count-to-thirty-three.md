@@ -14,7 +14,7 @@ firstplayed: Luxembourg 2015
 scale: Min 5, Max 25
 timebox: Depends on the size of the group and the ability of the people
 
-description: This game may be simple, but it is actually trickier than it seems. It is a very good game for fun, that you can use as an ice breaker, warm up or energizer.
+excerpt: This game may be simple, but it is actually trickier than it seems. It is a very good game for fun, that you can use as an ice breaker, warm up or energizer.
 
 images:
     - /images/games/count-to-thirty-three/01.png

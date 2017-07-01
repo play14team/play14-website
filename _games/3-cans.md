@@ -16,7 +16,7 @@ firstplayed: London 2015
 scale: Min 6, Max 16
 timebox: 5 – 15 mins
 
-description: This simple game is a collaboration games. A team must collaborate to solve a physical enigma.
+excerpt: This simple game is a collaboration games. A team must collaborate to solve a physical enigma.
 
 materials:
   - 4 soda cans per team

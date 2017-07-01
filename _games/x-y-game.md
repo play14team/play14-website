@@ -19,7 +19,7 @@ firstplayed: Luxembourg 2015
 scale: Min 6, Max 16
 timebox: 30-45 mins
 
-description: We have a natural tendency to optimise the world immediately around us and focus on personal or team success. Often this can be to the detriment of others  and the wider organisation which ultimately affects their success. This game exploits this aspect of human nature to demonstrate that localised sub-optimisation can have a dramatic effect when we look at the bigger picture. 
+excerpt: We have a natural tendency to optimise the world immediately around us and focus on personal or team success. Often this can be to the detriment of others  and the wider organisation which ultimately affects their success. This game exploits this aspect of human nature to demonstrate that localised sub-optimisation can have a dramatic effect when we look at the bigger picture. 
 
 materials:
     - TV or Projector

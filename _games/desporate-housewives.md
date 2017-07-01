@@ -20,7 +20,7 @@ firstplayed: Luxembourg 2017
 scale: Min 3, Max 12
 timebox: 15'
 
-description: Demonstrate how important it is for a delivery team to interact with its Product Owner.
+excerpt: Demonstrate how important it is for a delivery team to interact with its Product Owner.
 
 materials:
     - Colour pencils

@@ -17,7 +17,7 @@ firstplayed: London 2015
 scale: Min 2, Max 40 (at least two teams with 4-6 each is ideal)
 timebox: 45 - 60 mins
 
-description: This is a fun game that can be played with many teams in a competition. Teams build a structure with a limited array of materials and are challenged to make a number of decisions, measuring their success not by performance but rather by return on investment. 
+excerpt: This is a fun game that can be played with many teams in a competition. Teams build a structure with a limited array of materials and are challenged to make a number of decisions, measuring their success not by performance but rather by return on investment. 
 
 images:
     - /images/games/marshmallow-suspention/01.jpg

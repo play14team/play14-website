@@ -17,7 +17,7 @@ firstplayed: Luxembourg 2015
 scale: Min 8, Max unlimited, can be played in multiple parallel groups
 timebox: 30-45 mins
 
-description: This is a team building game that that challenges teams solve a problem very collaboratively. The team need to discover a path through a labyrinth, the path is hidden.The labyrinth is represented by a grid on the floor. The path is a series connected squares travelling from one end  of the grid to the other.  When a team member steps off the path, they will need to start again. To make this suitability challenging, the labyrinth is solved in silence. It requires the team to support each other in order to succeed. Ultimately it will create feelings of euphoric success demonstrating what the team can achieve when they work together. The game can be scaled by having multiple teams play simultaneously, creating a competition.
+excerpt: This is a team building game that that challenges teams solve a problem very collaboratively. The team need to discover a path through a labyrinth, the path is hidden.The labyrinth is represented by a grid on the floor. The path is a series connected squares travelling from one end  of the grid to the other.  When a team member steps off the path, they will need to start again. To make this suitability challenging, the labyrinth is solved in silence. It requires the team to support each other in order to succeed. Ultimately it will create feelings of euphoric success demonstrating what the team can achieve when they work together. The game can be scaled by having multiple teams play simultaneously, creating a competition.
 
 materials:
     - LOTS of masking tape - 3-4 reels per team.

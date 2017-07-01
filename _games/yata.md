@@ -16,7 +16,7 @@ firstplayed: Luxembourg 2017
 scale: Min 6, Max 10, can be played in multiple parallel groups
 timebox: 45-60 mins
 
-description: This game will demonstrate major principles behind DevOps.
+excerpt: This game will demonstrate major principles behind DevOps.
 
 materials:
     - 1 set of 150-200 bricks/caplas
