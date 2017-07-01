@@ -18,8 +18,7 @@ timebox: 25 mins
 excerpt: Point out how important empathy is when creating any commercial offer for a customer
 
 materials:
-  - Post-it notes
-  - Paper in two different colors (white and orange)
+  - Post-it notes or pieces of paper in two different colors (white and orange)
 
 images:
     - /images/games/empathy/01.png
