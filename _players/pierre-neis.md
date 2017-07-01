@@ -26,6 +26,7 @@ events:
   - Luxembourg 2017
   - Milano 2017
   - Berlin 2017
+  - Timisoara 2017
   - Luxembourg 2018
 
 ---
