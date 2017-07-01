@@ -2,7 +2,7 @@
 layout: game
 
 title: Newspaper
-category: Game
+category: Warmup
 tags:
     - Team-building
     - Trust
