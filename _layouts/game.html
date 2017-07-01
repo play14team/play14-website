@@ -120,15 +120,6 @@ layout: default
                 </ul>
             {% endif %}
 
-            {% if page.preparations %}
-                <h4>Preparation</h4>
-                <ul>
-                    {% for preparation in page.preparations %}
-                        <li>{{preparation}}</li>
-                    {% endfor %}
-                </ul>
-            {% endif %}
-            
             {% if page.materials %}
                 <h4>Materials</h4>
                 <ul>
@@ -138,6 +129,15 @@ layout: default
                 </ul>
             {% endif %}
 
+            {% if page.preparations %}
+                <h4>Preparation</h4>
+                <ul>
+                    {% for preparation in page.preparations %}
+                        <li>{{preparation}}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            
             {% if page.resources %}
                 <h4>Resources</h4>
                 <ul>
