@@ -2,7 +2,7 @@
 layout: game
 
 title: Empathy
-category: Game
+category: game
 tags:
     - Empathy
     - Kotler-approach
