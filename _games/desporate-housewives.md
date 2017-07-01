@@ -31,16 +31,16 @@ preparation:
     - Print the ubiquitous language
 
 images:
-    - /images/games/desesporate-housewives/00.jpg
-    - /images/games/desesporate-housewives/01.jpg
-    - /images/games/desesporate-housewives/02.jpg
+    - /images/games/desporate-housewives/00.jpg
+    - /images/games/desporate-housewives/01.jpg
+    - /images/games/desporate-housewives/02.jpg
 
 enableComments: true
 ---
 
 ### HOW TO PLAY
 #### SETUP
-Print the [facilitator notes]({{site.url}}/files/desesporate-housewives/desesporate-housewives.pdf "Facilitator Notes")
+Print the [facilitator notes]({{site.url}}/files/desporate-housewives/desporate-housewives.pdf "Facilitator Notes")
 
 #### RULES
 Sprints: There will be 2 sprints during this game. <br/> For each sprint, the facilitator must distribute the card corresponding (# sprint number). 
@@ -73,4 +73,4 @@ The delivery team must deliver and present the house drawing at the end of each 
 *	Just in Time 
 
 #### Ubiquitous language
-![ubiquitous language]({{site.url}}/images/games/desesporate-housewives/ubiquitous_language.jpg "ubiquitous language")
+![ubiquitous language]({{site.url}}/images/games/desporate-housewives/ubiquitous_language.jpg "ubiquitous language")
