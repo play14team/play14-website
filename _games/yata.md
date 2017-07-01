@@ -25,7 +25,7 @@ materials:
     - Whiteboard
     - Space
 
-preparations:
+preparation:
     - Print the rules
     - Distribute the equipment as described below for each team
     - Explain the roles described below
