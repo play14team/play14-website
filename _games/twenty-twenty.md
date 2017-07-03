@@ -2,7 +2,7 @@
 layout: game
 
 title: 20-20
-category: Game
+category: game
 tags:
     - Creativity
     - Ideation
