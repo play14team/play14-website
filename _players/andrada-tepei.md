@@ -1,14 +1,14 @@
 ---
 layout: player
 
-name: Iulia Tabacu
+name: Andrada Tepei
 position: Player
 company: 3Pillar Global
-bio: "iOS Software Developer"
-avatar: /images/players/IuliaTabacu.jpg
+bio: "Talent Engagement Partner"
+avatar: /images/players/AndradaTepei.jpg
 socials:
   - name: linkedin
-    url : in/iuliatabacu/
+    url : in/andradatepei/
 
 events:
   - Timisoara 2017
