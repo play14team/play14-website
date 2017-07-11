@@ -3,7 +3,7 @@ layout: player
 
 name: Karina Herman
 position: Timisoara organizer
-company: Nokia
+company: Haufe-Lexware
 bio: "Scrum Master"
 avatar: /images/players/KarinaHerman.jpg
 socials:
