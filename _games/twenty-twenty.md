@@ -28,6 +28,8 @@ images:
     - /images/games/twenty-twenty/01.jpg
     - /images/games/twenty-twenty/02.jpg
     - /images/games/twenty-twenty/03.jpg
+    - /images/games/twenty-twenty/04.jpg
+    - /images/games/twenty-twenty/05.jpg
 
 enableComments: true
 ---
