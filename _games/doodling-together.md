@@ -36,6 +36,8 @@ images:
     - /images/games/doodling-together/01.jpg
     - /images/games/doodling-together/02.jpg
 
+cannonical: http://akanto.de/post/103202054449/visual-improvisation-eva-lotta-lamm-hosted-an
+
 enableComments: true
 
 ---
@@ -94,3 +96,8 @@ Answers could be: "Continue in that spirit (inclusive, everyone contributes, wor
 ### Take aways
 
 Creative confidence; Creation of objects to share; Trust in the group & in collaboration
+
+
+### More details
+
+[Anja's blog](http://akanto.de/post/103202054449/visual-improvisation-eva-lotta-lamm-hosted-an)
