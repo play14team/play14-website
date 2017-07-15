@@ -2,7 +2,7 @@
 layout: game
 
 title: Visuals 101
-category: Game
+category: facilitation
 tags:
     - Visual-management
     - Graphic-facilitation
@@ -15,7 +15,7 @@ firstplayed: Berlin 2017
 scale: Min 4, Max 8
 timebox: 2 hours
 
-excerpt: Visuals 101 is for those who want to impact their workshop with a touch of drawing the right expressions in a message. Learn to draw using basic lines & shapes so you can beef up your presentations on flipchart
+excerpt: Learn to draw using basic lines & shapes so you can beef up your presentations on flipchart
 
 materials:
   - Neuland markers
@@ -27,15 +27,22 @@ preparations:
 
 images:
     - /images/games/visuals-101/01.jpg
+    - /images/games/visuals-101/02.jpg
+    - /images/games/visuals-101/03.jpg
+    - /images/games/visuals-101/04.jpg
+    - /images/games/visuals-101/05.jpg
 
 enableComments: true
-
-published: false
 
 ---
 
 ### How to play
 
+Visuals 101 is for those who want to impact their workshop with a touch of drawing the right expressions in a message. 
 
-### Debrief
+Approx 10 drawing techniques are told, shared and showed. Participants will exercise hands-on by applying the examples.
+Super short introduction. Focus on the hands-on do it yourself.
+
+| ![Containers](/images/games/visuals-101/06.jpg "Containers") | ![Banners](/images/games/visuals-101/07.jpg "Banners") |
+| ![Emotions](/images/games/visuals-101/08.jpg "Emotions") | ![Lines](/images/games/visuals-101/09.jpg "Lines") |
 
