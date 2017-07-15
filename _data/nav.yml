@@ -31,6 +31,8 @@
       path: events/netherlands/2017-11
     - name: Luxembourg 2018
       path: events/luxembourg/2018-03
+    - name: Hamburg 2018
+      path: events/hamburg/2018-06
 - name: Games
   path: games/
   section_id: games
