@@ -72,4 +72,4 @@ After that give the team 2 minutes for planning, ask for a new estimate and star
 
  [Nancy Van Schooenderwoert](https://www.linkedin.com/in/nancy-van-schooenderwoert-37882) introduced and facilitated this interesting exercise at the [Play4Agile 2011](http://p4a11.pbworks.com/w/page/29184741/Home) Conference in Rückersbach, Germany.
 
- [Original blog post](http://agiletransparency.com/lean-workflow-design-game/)
+ [Original blog post](http://agiletransparency.com/lean-workflow-design-game/) by [Sven Röpstorff](/players/sven-ropstorff)
