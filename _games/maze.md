@@ -54,28 +54,28 @@ Position a chair at the finishing end of the labyrinth for the facilitator to st
 
 #### RULES
 The team will have time before starting to solve the labyrinth to collaborate and produce a strategy.  
-When the team begin to solve the labyrinth, no further talking is allowed.  
-The team may not use any tools or implements to solve the maze (E.G. no breadcrumbs).   
-While the labyrinth is being solved, only one team member may enter at a time.  
-When a team member steps on an incorrect square, they must return to the beginning by FOLLOWING THE PATH that they have discovered so far. Should they go wrong, they must stop and try again to retrace their steps to the beginning.  
-When a team member exits the grid at the beginning (following stepping on an incorrect square) they are not allowed to be the next person to enter grid.  
-When a team member successfully completes the labyrinth, there is no longer a restriction of how many team members can be on the grid at once.  
+* When the team begin to solve the labyrinth, no further talking is allowed.  
+* The team may not use any tools or implements to solve the maze (E.G. no breadcrumbs).   
+* While the labyrinth is being solved, only one team member may enter at a time.  
+* When a team member steps on an incorrect square, they must return to the beginning by FOLLOWING THE PATH that they have discovered so far. Should they go wrong, they must stop and try again to retrace their steps to the beginning.  
+* When a team member exits the grid at the beginning (following stepping on an incorrect square) they are not allowed to be the next person to enter grid.  
+* When a team member successfully completes the labyrinth, everyone from the team has to go through one at a time.  
 
 #### GOAL
 The game is won when EVERY team member completes the hidden path.  
 
 
 ### FACILITATION
-Position the team at the start end of the grid.  
-Read out the rules of the game.  
-Give the team 10 minutes to discuss and collaborate on a plan to solve the labyrinth.  
-When this time up, remind the team that game will now be played in silence.  
-Stand on a chair at the finishing end of the grid, facing the grid and the team.  
-Tell the team they may begin to solve it.  
-When a team member steps on a correct square, state: “CONTINUE”.  
-When a team member steps on an incorrect square, state: “STOP, GO BACK”.   
-When a team member is going back and steps on an incorrect square, state: “STOP, GO BACK”.  
-When a team member attempts to enter the grid two times in a row state: “STOP, GO BACK”.  
+* Position the team at the start end of the grid.  
+* Read out the rules of the game.  
+* Give the team 10 minutes to discuss and collaborate on a plan to solve the labyrinth.  
+* When this time up, remind the team that game will now be played in silence.  
+* Stand on a chair at the finishing end of the grid, facing the grid and the team.  
+* Tell the team they may begin to solve it.  
+* When a team member steps on a correct square, state: “CONTINUE”.  
+* When a team member steps on an incorrect square, state: “STOP, GO BACK”.   
+* When a team member is going back and steps on an incorrect square, state: “STOP, GO BACK”.  
+* When a team member attempts to enter the grid two times in a row state: “STOP, GO BACK”.  
 
 ### FACILITATION - MULTIPLE TEAM VARIANTS
 Break the group into even teams of 8-15 people.  
