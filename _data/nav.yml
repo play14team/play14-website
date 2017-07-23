@@ -21,8 +21,6 @@
       path: players/
     - name: All media
       path: media/
-    - name: Timisoara 2017
-      path: events/timisoara/2017-07
     - name: London 2017
       path: events/london/2017-09
     - name: Barcelona 2017
