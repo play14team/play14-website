@@ -17,7 +17,7 @@ timebox: 10-15 mins
 excerpt: This is a very funny variation of the traditional rock, paper, scissors.
 
 images:
-    - /images/games/giants-trolls-witches/01.png
+    - /images/games/giants-trolls-witches/01.jpg
 
 enableComments: true
 ---
