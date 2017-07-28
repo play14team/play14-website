@@ -20,5 +20,6 @@ events:
   - Hamburg 2016
   - London 2016
   - Berlin 2017
+  - London 2017
 
 ---
