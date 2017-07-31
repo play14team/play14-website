@@ -17,5 +17,9 @@ images:
 enableComments: true
 ---
 
+<a class='button small' href='http://play14.org/events/london/2017-09#register'>Register Now</a>
 
- <img src="/images/posts/london-third-edition/infographic_body.png" alt="London 2017" style="width: 100%; max-height: 6000px;"/> 
+<img src="/images/posts/london-third-edition/infographic_body.png" alt="London 2017" style="width: 100%; max-height: 6000px;"/> 
+
+<div class='two spacing'></div>
+ <a class='button small' href='http://play14.org/events/london/2017-09#register'>Register Now</a>
