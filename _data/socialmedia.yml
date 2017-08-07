@@ -23,5 +23,9 @@ youtube:
   url: https://www.youtube.com/
 
 wikipedia:
-  icon: fa  fa-wikipedia-w
+  icon: fa fa-wikipedia-w
   url: https://en.wikipedia.org/wiki/
+
+instagram:
+  icon: fa fa-instagram
+  url: https://www.instagram.com/

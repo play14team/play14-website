@@ -193,3 +193,16 @@
       url: emetriq
     - name: facebook
       url: emetriq
+
+- name: Herman Miller
+  url: http://www.hermanmiller.com/
+  logo: /images/sponsors/london/HermanMiller.png
+  socials:
+    - name: twitter
+      url: hermanmillerltd
+    - name: facebook
+      url: hermanmiller.europe
+    - name: linkedin
+      url: showcase/15217829/
+    - name: instagram
+      url: hermanmillerltd/
