@@ -12,5 +12,6 @@ socials:
 
 events:
   - Berlin 2017
+  - Netherlands 2017
 
 ---
