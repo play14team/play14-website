@@ -206,3 +206,12 @@
       url: showcase/15217829/
     - name: instagram
       url: hermanmillerltd/
+
+- name: Adventure With Agile
+  url: https://www.adventureswithagile.com/
+  logo: /images/sponsors/london/AWA.gif
+  socials:
+    - name: twitter
+      url: agileadventures
+    - name: linkedin
+      url: company/10490967/
