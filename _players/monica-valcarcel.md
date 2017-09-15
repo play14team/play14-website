@@ -2,7 +2,7 @@
 layout: player
 
 name: Mònica Valcárcel
-position: Player
+position: Barcelona Organizer
 company: Creativialab
 bio: "Digital Project Manager"
 avatar: /images/players/monica-valcarcel.jpg
