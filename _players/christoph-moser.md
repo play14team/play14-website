@@ -2,7 +2,7 @@
 layout: player
 
 name: Christoph Moser
-position: Serial player
+position: Hamburg organizer
 company : vividbreeze.com
 bio: Agile Coach
 avatar: /images/players/ChristophMoser.jpg
@@ -21,5 +21,6 @@ events:
   - London 2016
   - Berlin 2017
   - London 2017
+  - Hamburg 2018
 
 ---
