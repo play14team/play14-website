@@ -10,7 +10,7 @@ tags:
 authors: 
   - Cédric Pontet
 originators: 
-  - Alexander Schaaf
+  - Gábor Kőhalmi
 firstplayed: Berlin 2017
 scale: Min 20, Max 35
 timebox: 30 mins
