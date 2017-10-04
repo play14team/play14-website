@@ -27,6 +27,8 @@
       path: events/netherlands/2017-11
     - name: Luxembourg 2018
       path: events/luxembourg/2018-03
+    - name: Basel 2018
+      path: events/basel/2018-04
     - name: Hamburg 2018
       path: events/hamburg/2018-06
 - name: Games

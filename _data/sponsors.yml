@@ -215,3 +215,12 @@
       url: agileadventures
     - name: linkedin
       url: company/10490967/
+
+- name: Launchlabs
+  url: http://launchlabs.ch/
+  logo: /images/sponsors/basel/launchlabs.png
+  socials:
+    - name: twitter
+      url: launchlabsbasel
+    - name: facebook
+      url: launchlabs.ch
