@@ -224,3 +224,12 @@
       url: launchlabsbasel
     - name: facebook
       url: launchlabs.ch
+
+- name: Xebia
+  url: https://xebia.com
+  logo: /images/sponsors/amsterdam/xebia.png
+  socials:
+    - name: twitter
+      url: xebia
+    - name: email
+      url: info@xebia.com
