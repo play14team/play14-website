@@ -233,3 +233,14 @@
       url: xebia
     - name: email
       url: info@xebia.com
+
+- name: Vichy Catalan
+  url: http://www.vichy-catalan.com/
+  logo: /images/sponsors/barcelona/vichy-catalan.png
+  socials:
+    - name: instagram
+      url: VichyCatalan
+    - name: facebook
+      url: /pages/Vichy-Catalan/461772270556544?fref=ts
+    
+  
