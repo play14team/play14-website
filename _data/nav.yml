@@ -22,7 +22,7 @@
     - name: All media
       path: media/
     - name: Amsterdam 2017
-      path: events/netherlands/2017-11
+      path: events/amsterdam/2017-11
     - name: Luxembourg 2018
       path: events/luxembourg/2018-03
     - name: Basel 2018
