@@ -12,6 +12,6 @@ socials:
 
 events:
   - Luxembourg 2014
-  - Netherlands 2017
+  - Amsterdam 2017
 
 ---

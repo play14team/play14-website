@@ -11,6 +11,6 @@ socials:
     url : in/stanika/
 
 events:
-  - Netherlands 2017
+  - Amsterdam 2017
 
 ---

@@ -11,6 +11,6 @@ socials:
     url : in/juancastillo79/
 
 events:
-  - Netherlands 2017
+  - Amsterdam 2017
 
 ---

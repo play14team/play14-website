@@ -11,6 +11,6 @@ socials:
     url : in/arjen-de-vries-748aa0110/
     
 events:
-  - Netherlands 2017
+  - Amsterdam 2017
 
 ---

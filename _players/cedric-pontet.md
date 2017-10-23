@@ -27,7 +27,7 @@ events:
   - Madrid 2017
   - Timisoara 2017
   - London 2017
-  - Netherlands 2017
+  - Amsterdam 2017
   - Luxembourg 2018
 
 ---

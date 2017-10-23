@@ -11,6 +11,6 @@ socials:
     url : in/ana-kyra-bekš-6b70b65b/
     
 events:
-  - Netherlands 2017
+  - Amsterdam 2017
 
 ---
