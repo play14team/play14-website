@@ -2,7 +2,7 @@
 layout: player
 
 name: Yuval Sidney Barak Azagury
-position: Barcelona Organizer
+position: Barcelona organizer
 company: Self-employed
 bio: "Management consultant. Paramedic, B.Sc. in Emergency Medicine"
 avatar: /images/players/yuval-sidney-barak-azagury.jpg

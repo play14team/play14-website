@@ -2,7 +2,7 @@
 layout: player
 
 name: Cori Moore
-position: Berlin Organizer
+position: Germany organizer
 company: The School of Life
 bio: "Freelance Innovation Facilitator"
 avatar: /images/players/CoriMoore.jpg

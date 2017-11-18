@@ -2,7 +2,7 @@
 layout: player
 
 name: Christoph Moser
-position: Hamburg organizer
+position: Germany organizer
 company : vividbreeze.com
 bio: Agile Coach
 avatar: /images/players/ChristophMoser.jpg
