@@ -47,6 +47,7 @@ mods
 
 body {
   overflow-y: scroll;
+  color: #666;
 }
 
 body.screenshot {
@@ -61,7 +62,7 @@ a {
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #999;
+  color: #666;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -476,7 +477,7 @@ button:hover, button:focus, .button:hover, .button:focus {
   background: #444;
 }
 .contain-to-grid.alt .top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
-  background: #555;
+  background: #666;
 }
 
 .contain-to-grid.transparent {
@@ -577,7 +578,7 @@ form input.error, form textarea.error {
   padding: 0 10px;
 }
 .pager a {
-  color: #999;
+  color: #666;
 }
 .pager a:hover {
   color: #FF5200;
@@ -614,7 +615,7 @@ form input.error, form textarea.error {
 }
 .comments-wrapper ul.comments .meta .datetime {
   font-size: 0.875rem;
-  color: #999;
+  color: #666;
 }
 
 #comments-form {
@@ -633,7 +634,7 @@ form input.error, form textarea.error {
   line-height: 1.8em;
 }
 .links a {
-  color: #999;
+  color: #666;
 }
 .links a:hover {
   color: #333;
@@ -642,7 +643,7 @@ form input.error, form textarea.error {
 /*Footer */
 #footer {
   background: #222;
-  color: #999;
+  color: #666;
 }
 #footer h1 {
   margin-bottom: 25px;
@@ -658,7 +659,7 @@ form input.error, form textarea.error {
   line-height: 1.875rem;
 }
 #footer ul a {
-  color: #999;
+  color: #666;
 }
 #footer ul a:hover {
   color: #eee;
@@ -720,7 +721,7 @@ form input.error, form textarea.error {
   text-transform: capitalize;
   margin-bottom: 5px;
   letter-spacing: 1px;
-  color: #999;
+  color: #666;
 }
 .modBarGraph .bars p.highlighted {
   width: 0;
@@ -2501,7 +2502,7 @@ form input.error, form textarea.error {
   margin-bottom: 0.5rem;
 }
 .modGallery .gallery-nav li a {
-  color: #999;
+  color: #666;
 }
 .modGallery .gallery-nav li.current {
   border: 1px solid #FF5200;
@@ -2643,7 +2644,7 @@ form input.error, form textarea.error {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #999;
+  color: #666;
 }
 .modMasonryGallery .gallery-nav li.current {
   border: 1px solid #FF5200;
@@ -2788,7 +2789,7 @@ form input.error, form textarea.error {
 }
 .modPriceBox li {
   background: #eee;
-  color: #999;
+  color: #666;
 }
 .modPriceBox li.even {
   background: #f7f7f7;
@@ -2802,7 +2803,7 @@ form input.error, form textarea.error {
 .modPriceBox p.desc {
   font-size: 14px;
   margin-bottom: 20px;
-  color: #999;
+  color: #666;
 }
 .modPriceBox p.price {
   font-size: 16px;
@@ -2955,7 +2956,7 @@ form input.error, form textarea.error {
   text-indent: -3000px;
 }
 .modStylePanel a.color_scheme:hover, .modStylePanel a.bg_pattern:hover {
-  border: 1px solid #999;
+  border: 1px solid #666;
 }
 .modStylePanel a#yellow {
   background: #FF5200;
@@ -3428,7 +3429,7 @@ form input.error, form textarea.error {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #999;
+    color: #666;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3442,7 +3443,7 @@ form input.error, form textarea.error {
     background: #f2f2f2;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li a {
-    color: #999;
+    color: #666;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
     background: #fff;
@@ -3461,7 +3462,7 @@ form input.error, form textarea.error {
     background-color: rgba(0, 0, 0, 0.8);
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #999;
+    color: #666;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
