@@ -1,7 +1,7 @@
 # play14-website
 Main website for play14.org  
 This site contains all the information about what **#play14** is and is not, past and future **#play14** events, players, games played and much more.  
-This website is powered by [Jekyll](https://jekyllrb.com/).  
+This website is powered by [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/).
 
 You can find more information on Jekyll and the different syntaxes/technologies it uses in the following list
 - [Jekyll Tips](http://jekyll.tips/)
@@ -10,9 +10,16 @@ You can find more information on Jekyll and the different syntaxes/technologies 
 - [Liquid template engine](https://github.com/Shopify/liquid)
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Providing content
+## Run the website in development mode
+To run the website locally in development mode, you need to 
+* Install [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/)
+* Clone or fork the [GitHub repository](https://github.com/play14team/play14-website)
+* Open a command prompt from the directory containing the clone of `play14-website`
+* Run the command `docker-compose up`
 
-You can start providing content by creating a [pull request](https://yangsu.github.io/pull-request-tutorial/) on our [GitHub repository](https://github.com/play14team/play14-website).
+## Contribute content
+
+You can start contributing content by creating a [pull request](https://yangsu.github.io/pull-request-tutorial/) on our [GitHub repository](https://github.com/play14team/play14-website).
 
 Blog posts, Games and Events are all written in [Markdown](https://daringfireball.net/projects/markdown/) using Jekyll's [YAML Front Matter](https://jekyllrb.com/docs/frontmatter/).  
 
