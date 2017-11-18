@@ -13,7 +13,7 @@ section_id: games
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          {% assign categories = site.games | group_by:"category" %}
+          {% assign categories = site.games | sort:"category" | group_by:"category" %}
           {% for category in categories %}
             <li>
               <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }}</a>

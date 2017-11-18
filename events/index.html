@@ -13,7 +13,7 @@ section_id: events
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          {% assign categories = site.events | group_by:"category" %}
+          {% assign categories = site.events | sort:"category" | group_by:"category" %}
           {% for category in categories %}
             <li>
               <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }}</a>
