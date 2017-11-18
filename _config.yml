@@ -16,6 +16,7 @@ paginate: 4
 paginate_path: "blog/page:num"
 
 plugins:
+ - jekyll-paginate
  - jekyll-feed
  - jekyll-redirect-from
  - jekyll-seo-tag
@@ -23,7 +24,7 @@ plugins:
  - jekyll-avatar
  - jemoji
  - jekyll-mentions
- - jekyll-include-cache
+# - jekyll-include-cache
 
 jekyll-mentions:
   base_url: https://twitter.com

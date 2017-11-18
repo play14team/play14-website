@@ -1,1 +1,1 @@
-docker-compose up
+jekyll serve --watch
