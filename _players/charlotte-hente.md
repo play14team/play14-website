@@ -2,7 +2,7 @@
 layout: player
 
 name: Charlotte Hente
-position: Madrid organizer
+position: Player
 company: Google
 bio: "Incoming intern"
 avatar: /images/players/CharlotteHente.jpg

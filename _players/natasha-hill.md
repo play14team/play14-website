@@ -2,7 +2,7 @@
 layout: player
 
 name: Natasha Hill
-position: London organizer
+position: Player
 bio: "Scrum Master"
 avatar: /images/players/NatashaHill.jpg
 socials:

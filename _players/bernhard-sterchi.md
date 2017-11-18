@@ -2,7 +2,7 @@
 layout: player
 
 name: Bernhard Sterchi
-position: Player
+position: Basel organizer
 company: Palladio
 bio: "Managing Partner"
 avatar: /images/players/BernhardSterchi.jpg
