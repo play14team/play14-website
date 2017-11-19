@@ -3,12 +3,12 @@ layout: player
 
 name: Karsten Mueller
 position: Germany organizer
-company: Goodgame Studios
+company: emetriq GmbH
 bio: "Agile Coach"
 avatar: /images/players/KarstenMueller.jpg
 socials:
   - name: email
-    url: kmueller@goodgamestudios.com
+    url: hhkarsten@gmail.com
   - name: twitter
     url : HHKarsten
   - name: google-plus
