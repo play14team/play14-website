@@ -73,9 +73,9 @@ layout: default
         <li>
           {% if page.schedule.isOver %}
             <a class='button small'>Event over</a>
-          {% elsif page.regisrtrationUrl %}
-            <a class='button small' href={{page.regisrtrationUrl}} target="_blank">Register</a>
-          {% elsif page.eventbrite %}
+          {% elsif page.regisrtration.type == "link" %}
+            <a class='button small' href={{page.regisrtration.url}} target="_blank">Register</a>
+          {% elsif page.registration %}
             <a class='button small' href='#register'>Register</a>
           {% else %}
             <a class='button small'>Coming soon</a>
@@ -156,23 +156,23 @@ layout: default
 </div>
 
 <!-- Register -->
-{% if page.schedule.isOver == false and page.eventbrite %}
+{% if page.schedule.isOver == false and page.registration.type == "eventbrite" %}
 <div class='full no-padding'>
   <a name="register"></a>
   <div class='spacing'></div>
   <div class='row'>
     <h2>Register</h2>
-    {% if page.eventbrite.tickets-widget %}
+    {% if page.registration.tickets-widget %}
     <div class='large-10 columns'>
       <div style="width:100%; text-align:left;">
-        <iframe src="{{page.eventbrite.tickets-widget}}" frameborder="0" height="700" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+        <iframe src="{{page.registration.tickets-widget}}" frameborder="0" height="700" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
       </div>
     </div>
     {% endif %}
-    {% if page.eventbrite.countdown-widget %}
+    {% if page.registration.countdown-widget %}
     <div class='large-2 columns'>
       <div style="width:195px; text-align:center;" >
-        <iframe  src="{{page.eventbrite.countdown-widget}}" frameborder="0" height="475" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
+        <iframe  src="{{page.registration.countdown-widget}}" frameborder="0" height="475" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
       </div>
     </div>
     {% endif %}

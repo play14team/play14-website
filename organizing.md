@@ -118,7 +118,7 @@ One of the co-founders at least will be present during the event to help you wit
 ### #play14 Website & regisrtation
 
 We will create a page for your event on the **#play14** website and provide all necessary information : location, dates, registration.
-We have an [Eventbrite](http://eventbrite.com) account and a [Paypal](http://paypal.com) account that allow us to handle registration.
+We can handle ticketing and financial aspects for you.
 
 You can also use your own registration system if you have one.
 

@@ -9,10 +9,10 @@
             </div>
             {% if event.schedule.isOver == false %}
                 <div class='small-4 columns' style="text-align: right; font-weight: bold">
-                {% if event.eventbrite %}
+                {% if  event.regisrtration.type == "link" %}
+                    <a href="{{event.regisrtration.url}}" target="_blank">Register</a>
+                {% elsif event.registration %}
                     <a href="{{event.url}}#register">Register</a>
-                {% elsif  event.regisrtrationUrl %}
-                    <a href="{{event.regisrtrationUrl}}" target="_blank">Register</a>
                 {% endif %}
                 </div>
             {% endif %}
@@ -26,7 +26,7 @@
                 <h4>
                 {% if event.schedule.isOver %}
                     Event over
-                {% elsif event.eventbrite or event.regisrtrationUrl %}
+                {% elsif event.registration %}
                     Registration Open
                 {% else %}
                     Coming soon
