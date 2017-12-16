@@ -1,1 +1,2 @@
-jekyll serve --watch --incremental
+jekyll serve --watch 
+rem --incremental
