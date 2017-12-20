@@ -20,6 +20,6 @@ events:
   - Luxembourg 2014
   - Luxembourg 2015
   - Luxembourg 2016
-  - Berlin 2017
+  - Luxembourg 2018
 
 ---
