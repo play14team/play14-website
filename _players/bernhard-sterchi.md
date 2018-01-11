@@ -3,8 +3,8 @@ layout: player
 
 name: Bernhard Sterchi
 position: Basel organizer
-company: Palladio
-bio: "Managing Partner"
+company: Palladio Trusted Advisers
+bio: "Chief Brainwave Oscillator"
 avatar: /images/players/BernhardSterchi.jpg
 socials:
   - name: linkedin
@@ -12,5 +12,6 @@ socials:
 
 events:
   - London 2017
+  - Basel 2018
 
 ---
