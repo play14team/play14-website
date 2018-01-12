@@ -2,7 +2,7 @@
 layout: player
 
 name: Laurence Lebreton
-position: Player
+position: Paris organizer
 company: Société Générale
 bio: "Responsable de l'animation de la Filière RH"
 avatar: /images/players/LaurenceLebreton.jpg

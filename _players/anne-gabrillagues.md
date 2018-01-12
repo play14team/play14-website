@@ -2,7 +2,7 @@
 layout: player
 
 name: Anne Gabrillagues
-position: Player
+position: Paris organizer
 company: Ippon Technologies
 bio: "Agile Coach & Product Owner"
 avatar: /images/players/AnneGabrillagues.png
@@ -14,6 +14,7 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Luxembourg 2018
 
 ---
 
