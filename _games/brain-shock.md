@@ -11,8 +11,8 @@ authors:
 originators: 
   - Phillippa Rose
 firstplayed: London 2016
-scale: Min 4 - Infinit
-timebox: 
+scale: Min 4, Max unlimited
+timebox: 15 mins
 
 excerpt: "Wakes up your brain, shows that multitasking is not recommended."
 
