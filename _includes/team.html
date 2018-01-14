@@ -20,7 +20,12 @@
           </div>
           <h3><a href="{{member.url}}">{{m}}</a></h3>
           <p class='position'>{{member.position}}</p>
-          <p>{{member.bio}}</p>
+          <p>
+            {{member.bio}}
+            {%if member.company %}
+              <br>at {{member.company}}
+            {% endif %}
+          </p>
           <div class='two spacing'></div>
         </div>
       </div>
