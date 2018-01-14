@@ -4,56 +4,61 @@ layout: game
 title:  Eggolution
 category: ice breaker
 tags:
+  - team-building
 
 authors: 
   - Cédric Pontet
 originators: 
   - Karina Hermann
 firstplayed: Luxembourg 2016
-scale: 
-timebox: 
+scale: Min 10, Max infinite
+timebox: 10 mins
 
 excerpt: Evolution on rock, paper, scissors. Fun, easy and just the right amount of silly.
 
-published: false
+images:
+  - /images/games/eggolution/01.jpg
 
 enableComments: true
 ---
 
 
-Setup
+## How to play
 
-Have people mix together.
+This is a classic rock-paper-scissors game, with a nice little twist of evolution.
 
- 
+#### EGG
+- All people start as eggs
+- An egg hits its head shouting *egg, egg, egg, egg, …*
+- When a egg meets another egg, they play rock, paper, scissors
+- The winner evolves into a chicken
+- In case of equality, they start over until there is a winner
 
-How to play
+#### Chicken
 
-All people start as eggs. An egg hits its head shouting “egg, egg, egg, egg…”
+- A chicken makes chicken noises while flapping its wings
+- When a chicken meets another chicken, they play rock, paper, scissors
+- The winner evolves into an elephant (because it’s the next logical thing, obviously) 
 
-When a egg meet an egg, they play rock, paper, scissors.
+#### Elephant
+- An elephant trumpets while moving its trunk
+- When an elephant meets another elephant, they play rock, paper, scissors.
+- The winner evolves into superman. 
 
-The winner becomes a chicken. A chicken makes chicken noises while flapping its wings.
+#### Superman
+- As Superman cannot be vanquished, he circles the group, flying with his arm in the air.
 
-When a chicken meets a chicken, they play rock, paper, scissors.
-
-The winner becomes an elephant (because it’s the next logical thing). An elephant trumpets while moving its trunk.
-
-When an elephant meets an elephant, they play rock, paper, scissors.
-
-The winner becomes superman. Superman circles the group, flying wit his arm in the air.
+## End of the game
 
 At the end of the game, will be left
 
-one egg
-one chicken
-one elephant
-and many supermen
+- one egg
+- one chicken
+- one elephant
+- and many supermen
  
-
-Benefits
-
+## Benefits
 Absolutely none, except the fun it provides 🙂
 
-
-https://youtu.be/m6EQejhTtmg
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6EQejhTtmg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
