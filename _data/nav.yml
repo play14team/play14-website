@@ -33,10 +33,12 @@
   path: games/
   section_id: games
   children:
-    - name: All games
+    - name: Our games
       path: games/
+    - name: Stuff we like
+      path: games/we-like/
     - name: Document your game
-      path: documenting/
+      path: games/documenting/
 - name: Organizers
   path: organizing/
   section_id: organizing
