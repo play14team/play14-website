@@ -8,7 +8,7 @@ tags:
 authors: 
   - Ana Kyra Bekš
 originators: 
-  - Ana Kyra Bekš
+  - Sonja Uittenboogaard
 firstplayed: Amsterdam 2017
 scale: Min 5, Max unlimited
 timebox: 10 mnins
