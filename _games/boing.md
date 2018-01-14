@@ -19,7 +19,7 @@ preparations:
   - Large empty room
 
 images:
-  - /images/games/boing/01.png
+  - /images/games/boing/02.png
 
 enableComments: true
 ---
@@ -34,6 +34,6 @@ enableComments: true
 ## ADD RULES GRADUALLY
 - **BOING** put your hands in a defensive position (in front of your face, elbows and wrists together, hands in fists) and say `Boing`: the clap gets *bounced* and changes direction
 - **GONG** put your hands together like you are praying and squat while saying `Gong` with a deep voice: everyone has to do the same
-- **HIGH-FIVE** shout `high five` and everyone has to go in the middle of the circle to *high five* someone
+- **HIGH-FIVE** shout `High five` and everyone has to go in the middle of the circle to *high five* someone
 - **WOOP** send the clap across the circle, followed by a sliding gesture with hands (top hand slides toward the person): clap gets transferred to a person across the circle (important: make it clear by showing with the slide and looking at that person)
 
