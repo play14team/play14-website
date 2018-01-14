@@ -19,7 +19,7 @@
       path: events/
     - name: All players
       path: players/
-    - name: All media
+    - name: Photos & videos
       path: media/
     - name: Luxembourg 2018
       path: events/luxembourg/2018-03
