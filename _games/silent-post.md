@@ -32,7 +32,7 @@ images:
 enableComments: true
 ---
 
-## The game
+## How to play
 
 - All participant should to have in front of them a white A4 paper in portrait mode and a pen
 - Ask everyone to write down at the top of the page a simple sentence, no more than one line

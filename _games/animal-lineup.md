@@ -23,7 +23,7 @@ images:
 enableComments: true
 ---
 
-## The game
+## How to play
 
 - Have everyone in the group pick an animal
 - When saying go, everyone should start miming their animal (sound, gestures)

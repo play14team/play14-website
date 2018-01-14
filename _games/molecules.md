@@ -22,7 +22,7 @@ images:
 enableComments: true
 ---
 
-## The game
+## How to play
 
 - The facilitator shouts a number between 2 and 10, depending on the size of the whole group
 - People have to form clusters with the exact number of people that was announced

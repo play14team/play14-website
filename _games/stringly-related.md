@@ -25,7 +25,7 @@ images:
 enableComments: true
 ---
 
-## THE GAME
+## How to play
 
 - Have everyone form a circle
 - Have one person start telling a story about their life, their work, their family, their hobbies, ...

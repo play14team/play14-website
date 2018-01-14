@@ -23,7 +23,7 @@ images:
 enableComments: true
 ---
 
-## The game
+## How to play
 
 The facilitator gives instructions to participants.
 

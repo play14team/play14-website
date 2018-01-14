@@ -22,7 +22,7 @@ images:
 enableComments: true
 ---
 
-## The Game
+## How to play
 
 - Find one or two volunteers who want to be a detective (depending on the size of the group)
 - Have everyone else sit in a circle or around a large table
@@ -35,7 +35,7 @@ enableComments: true
     - are allowed to ask anyone questions that can be answered by *yes* or *no*
     - cannot ask questions about the rules, except to the facilitator
 
-## The rules
+## Rules
 
 **SPOILER ALERT**
 

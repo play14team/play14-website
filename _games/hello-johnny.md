@@ -22,7 +22,7 @@ images:
 enableComments: true
 ---
 
-## Run the game
+## How to play
 
 #### 1. Johnny
 
