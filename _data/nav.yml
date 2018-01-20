@@ -25,6 +25,8 @@
       path: events/luxembourg/2018-03
     - name: Basel 2018
       path: events/basel/2018-04
+    - name: Timisoara 2018
+      path: events/timisoara/2018-06
     - name: Hamburg 2018
       path: events/hamburg/2018-06
     - name: Barcelona 2018
