@@ -4,7 +4,7 @@ layout: player
 name: Jérémy Rousset
 position: Player
 company: Agile Partner
-bio: "Consultant"
+bio: "Agile Coach"
 avatar: /images/players/JeremyRousset.jpg
 socials:
   - name: linkedin
@@ -12,6 +12,7 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Luxembourg 2018
 
 ---
 

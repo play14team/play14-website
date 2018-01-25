@@ -4,7 +4,7 @@ layout: player
 name: Adrien Muller
 position: Serial player
 company: Agile Partner
-bio: "Consultant"
+bio: "Agile Coach"
 avatar: /images/players/AdrienMuller.jpg
 socials:
   - name: linkedin
@@ -13,6 +13,7 @@ socials:
 events:
   - Luxembourg 2015
   - Luxembourg 2017
+  - Luxembourg 2018
   
 ---
 
