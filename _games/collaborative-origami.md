@@ -105,3 +105,12 @@ published: true
 * The further you are from face to face collaboration, that harder it becomes.
 * Unlimited verbal communication doesn’t really help
 * When you break down roles and begin to genuinely work together, magic happens.
+
+# MODELS
+
+Here are some models that you can use for this workshop
+
+![Duck Origami Model](/files/collaborative-origami/duck.jpg)
+![Hat Origami Model](/files/collaborative-origami/hat.png)
+![Shark Origami Model](/files/collaborative-origami/shark.jpg)
+![Waterbug Origami Model](/files/collaborative-origami/waterbug.jpg)
