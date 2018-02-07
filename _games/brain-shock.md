@@ -34,7 +34,7 @@ enableComments: true
   * 11 + 43
   * 4 * 7
   * 25 - 12
-* The person on the right of the volunteer will have to ask non invasive personal questions
+* The person on the left of the volunteer will have to ask non invasive personal questions
   * What's your favourite color ?
   * Have you ever been to Japan ?
   * Do you have a pet ?
