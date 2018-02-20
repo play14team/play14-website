@@ -12,5 +12,6 @@ socials:
     
 events:
   - Luxembourg 2017
+  - Luxembourg 2018
 
 ---
