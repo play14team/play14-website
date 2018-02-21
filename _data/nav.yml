@@ -2,7 +2,7 @@
   path: 
   section_id: home
 - name: About us
-  path: learning/
+  path: history/
   section_id: about
   children:
     - name: Our history
