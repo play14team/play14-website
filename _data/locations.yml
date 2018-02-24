@@ -62,6 +62,16 @@ NokiaElectromotor:
     url: http://www.nokia.com/ro_ro
     map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.012119475597!2d21.20887131556713!3d45.75090297910548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47455d7b2821e4ad%3A0xf9e268d2e571f326!2sBulevardul+Republicii+21%2C+Timi%C8%99oara!5e0!3m2!1sen!2sro!4v1487091980587
 
+NokiaParisSaclay:
+    name: Nokia Paris-Saclay
+    area: Nozay
+    address: >
+        Cité de l’innovation
+        7, route de Villejust
+        91620 Nozay, France
+    url: https://www.nokia.com/fr_int
+    map: https://www.google.fr/maps/place/Nokia+Paris-Saclay/@48.6678255,2.2340233,17z/data=!4m12!1m6!3m5!1s0x47e5d7bcce288823:0xaaabd271ba590712!2sAuchan+Drive+Cit%C3%A9+de+l'Innovation!8m2!3d48.667822!4d2.236212!3m4!1s0x47e5d7bcce288873:0xc80f5672fe7600e7!8m2!3d48.6673331!4d2.2375591?hl=fr
+    
 DaWandaSnuggery:
     name: DaWanda Snuggery
     area: Charlottenburg
