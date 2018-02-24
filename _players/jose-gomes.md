@@ -2,10 +2,10 @@
 layout: player
 
 name: José Gomes Correia
-position: Player
+position: Paris organizer
 company: Nokia
 bio: "Technical Project Manager"
-avatar: /images/players/JoseGomes.jpg
+avatar: /images/players/jose-gomes.jpg
 socials:
   - name: linkedin
     url : in/josé-gomes-correia-ba183245/

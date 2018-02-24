@@ -2,10 +2,10 @@
 layout: player
 
 name: Nathalie Aladenise
-position: Player
+position: Paris organizer
 company: Nokia
 bio: "Project Manager & Innovator"
-avatar: /images/players/NathalieAladenise.jpg
+avatar: /images/players/nathalie-aladenise.jpg
 socials:
   - name: linkedin
     url : in/nathalie-aladenise-29bb4961/
