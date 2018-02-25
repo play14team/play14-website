@@ -8,6 +8,8 @@ tags:
   - iterative
   - continuous-improvement
 
+publishdate: 2017-07-16 00:00:00
+
 authors: 
   - Cédric Pontet
 originators: 

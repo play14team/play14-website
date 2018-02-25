@@ -6,6 +6,9 @@ category: warmup
 tags:
   - Fun
   - Team building
+
+publishdate: 2017-07-27 00:00:00
+  
 authors: 
   - Cédric Pontet
 originators: 

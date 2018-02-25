@@ -6,6 +6,8 @@ category: game
 tags:
     - Motivation
 
+publishdate: 2017-07-01 00:00:00
+
 authors: 
   - Cédric Pontet
 originators: 

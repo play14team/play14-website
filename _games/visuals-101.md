@@ -7,6 +7,8 @@ tags:
     - Visual-management
     - Graphic-facilitation
 
+publishdate: 2017-07-15 00:00:00
+
 authors: 
   - Cédric Pontet
 originators: 

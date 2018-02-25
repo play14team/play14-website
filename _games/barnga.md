@@ -6,6 +6,8 @@ tags:
   - cultural-differences
   - cross-cultural-team
 
+publishdate: 2017-07-16 00:00:00
+
 authors: 
   - Chris Caswell
 originators: 

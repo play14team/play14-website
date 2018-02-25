@@ -7,6 +7,8 @@ tags:
     - Creativity
     - Ideation
 
+publishdate: 2017-09-19 00:00:00
+
 authors: 
   - Cédric Pontet
 originators: 

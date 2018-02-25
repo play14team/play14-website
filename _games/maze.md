@@ -9,6 +9,8 @@ tags:
   - problem solving
   - team building
 
+publishdate: 2017-07-22 00:00:00
+
 authors: 
   - Chris Caswell
 originators: 
