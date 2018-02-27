@@ -2,10 +2,10 @@
 layout: player
 
 name: Alexandra Ramusga
-position: Player
+position: Paris organizer
 company: Nokia
 bio: "Engineer"
-avatar: /images/players/AlexandraRamusga.jpg
+avatar: /images/players/alexandra-ramusga.png
 socials:
   - name: linkedin
     url : in/alexandra-ramusga-3b3a1666/

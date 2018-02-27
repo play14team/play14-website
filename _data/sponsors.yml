@@ -51,14 +51,23 @@
     - name: twitter
       url: agilereloaded
 
-- name: Nokia
+- name: Nokia Romania
   url: http://www.nokia.com/ro_ro
   logo: /images/sponsors/timisoara/nokia.png
   socials:
     - name: twitter
       url: nokia
     - name: linkedin
-      url: company-beta/1070/?pathWildcard=1070
+      url: company/1070/
+
+- name: Nokia France
+  url: https://www.nokia.com/fr_int
+  logo: /images/sponsors/timisoara/nokia.png
+  socials:
+    - name: twitter
+      url: nokia
+    - name: linkedin
+      url: company/1070/
 
 - name: The Extraordinaires
   url: https://www.extraordinaires.com
