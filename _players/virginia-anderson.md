@@ -13,5 +13,6 @@ socials:
 events:
   - Luxembourg 2014
   - Luxembourg 2015
+  - Luxembourg 2018
 
 ---
