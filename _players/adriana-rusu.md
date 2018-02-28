@@ -14,5 +14,6 @@ events:
   - Luxembourg 2016
   - Luxembourg 2017
   - Timisoara 2017
+  - Timisoara 2018
 
 ---
