@@ -252,4 +252,12 @@
     - name: facebook
       url: /pages/Vichy-Catalan/461772270556544?fref=ts
     
+- name: Foyer
+  url: http://www.foyer.lu/
+  logo: /images/sponsors/luxembourg/foyer.png
+  socials:
+    - name: linkedin
+      url: /company/foyer-assurances
+    - name: facebook
+      url: /foyer.luxembourg/
   
