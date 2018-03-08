@@ -1,17 +1,16 @@
 ---
 layout: player
 
-name: Nancy Beers
+name: Michelle Kabel
 position: Player
 company: Vacanceselect
 bio: "Scrum Master"
-avatar: /images/players/NancyBeers.jpg
+avatar: /images/players/michelle-kabel.jpg
 socials:
   - name: linkedin
-    url : in/nancybeers/
+    url : in/michelle-kabel-91aa50b0/
 
 events:
-  - Amsterdam 2017
   - Luxembourg 2018
 
 ---

@@ -1,17 +1,16 @@
 ---
 layout: player
 
-name: Nancy Beers
+name: Daniel Keizer
 position: Player
 company: Vacanceselect
 bio: "Scrum Master"
-avatar: /images/players/NancyBeers.jpg
+avatar: /images/players/daniel-keizer.jpg
 socials:
   - name: linkedin
-    url : in/nancybeers/
+    url : in/danielkeizer/
 
 events:
-  - Amsterdam 2017
   - Luxembourg 2018
 
 ---

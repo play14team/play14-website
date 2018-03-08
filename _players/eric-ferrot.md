@@ -2,7 +2,7 @@
 layout: player
 
 name: Eric Ferrot
-position: Player
+position: Serial player
 company: Agile Partner
 bio: "Agile Coach"
 avatar: /images/players/EricFerrot.jpg
@@ -12,6 +12,7 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Luxembourg 2018
 
 ---
 
