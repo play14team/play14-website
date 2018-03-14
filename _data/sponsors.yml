@@ -260,4 +260,11 @@
       url: /company/foyer-assurances
     - name: facebook
       url: /foyer.luxembourg/
+
+- name: Lavazza
+  url: http://www.lavazza.lu/
+  logo: /images/sponsors/luxembourg/lavazza.jpg
+  socials:
+    - name: facebook
+      url: /europoint.lu/      
   
