@@ -267,4 +267,14 @@
   socials:
     - name: facebook
       url: /europoint.lu/      
-  
+
+- name: theventure.city
+  url: https://theventure.city/
+  logo: /images/sponsors/madrid/theventure.city.png
+  socials:
+    - name: twitter
+      url: /TheVentureCity
+    - name: linkedin
+      url: /company/theventurecity/
+    - name: instagram
+      url: /theventurecity/
