@@ -11,6 +11,7 @@ socials:
     url : in/nathalie-aladenise-29bb4961/
 
 events:
+  - Luxembourg 2018
   - Paris 2018
 
 ---
