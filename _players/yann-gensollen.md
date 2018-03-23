@@ -3,8 +3,8 @@ layout: player
 
 name: Yann Gensollen
 position: Founder
-company: Marmelab
-bio: "Agile coach"
+company: +Simple
+bio: "Facilitator"
 avatar: /images/players/YannGensollen.jpg
 socials:
   - name: email
