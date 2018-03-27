@@ -21,8 +21,6 @@
       path: players/
     - name: Photos & videos
       path: media/
-    - name: Luxembourg 2018
-      path: events/luxembourg/2018-03
     - name: Basel 2018
       path: events/basel/2018-04
     - name: Madrid 2018
@@ -39,6 +37,8 @@
       path: events/london/2018-09
     - name: Barcelona 2018
       path: events/barcelona/2018-10
+    - name: Luxembourg 2019
+      path: events/luxembourg/2019-03
 - name: Games
   path: games/
   section_id: games
