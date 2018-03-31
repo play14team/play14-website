@@ -233,6 +233,9 @@ sponsors:
   <div class='row'>
     {% assign recentGames = site.games | sort: 'publishdate' | reverse | limit:3 %}
     {% for game in recentGames %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
       <div class='large-4 medium-4 columns'>
         <div class='mod modBlogPost no_bg simple'>
           {% for image in game.images %}
