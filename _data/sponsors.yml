@@ -278,3 +278,18 @@
       url: /company/theventurecity/
     - name: instagram
       url: /theventurecity/
+
+- name: BBVA Open Space
+  url: https://openspace.bbva.com/madrid/en/
+  logo: /images/sponsors/madrid/bbva-openspace.png
+  socials:
+    - name: twitter
+      url: /bbvainnovation
+    - name: linkedin
+      url: /company/bbva
+    - name: facebook
+      url: /centrodeinnovacionbbva
+    - name: youtube
+      url: /user/centroinnovacionbbva
+    - name: instagram
+      url: /cibbva/
