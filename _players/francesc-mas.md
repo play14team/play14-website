@@ -17,5 +17,6 @@ socials:
 events:
   - Milano 2017
   - Barcelona 2017
+  - Madrid 2018
 
 ---
