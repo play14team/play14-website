@@ -43,7 +43,7 @@ enableComments: true
 
 ### HOW TO PLAY
 #### SETUP
-Print the [rules]({{site.url}}/files/troublemakers/Troublemakers.pdf "Troublemakers rules")
+Print the [cards]({{site.url}}/files/troublemakers/Troublemakers.pdf "Troublemakers cards")
 
 ![Setup]({{site.url}}/images/games/troublemakers/troublemakers-rules.png "Setup")
 
