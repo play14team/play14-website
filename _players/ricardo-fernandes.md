@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2018
+  - Madrid 2018
 
 ---

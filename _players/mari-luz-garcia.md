@@ -17,5 +17,6 @@ socials:
 events:
   - Hamburg 2016
   - Madrid 2017
+  - Madrid 2018
   
 ---
