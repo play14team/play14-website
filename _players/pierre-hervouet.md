@@ -2,7 +2,7 @@
 layout: player
 
 name: Pierre Hervouet
-position: Beirut organizer
+position: Brussels organizer
 company: Upward Consulting
 bio: "Agile Catalyst"
 avatar: /images/players/PierreHervouet.jpg
