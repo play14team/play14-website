@@ -179,6 +179,17 @@ layout: default
   </div>
 </div>
 {% endif %}
+{% if page.schedule.isOver == false and page.registration.type == "weezevent" %}
+<div class='full no-padding'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    <h2 id="register">Register</h2>
+    <a title="Registration" href="https://www.weezevent.com/?c=sys_widget" class="weezevent-widget-integration" target="_blank" 
+      data-src="https://www.weezevent.com/widget_billeterie.php?id_evenement={{page.registration.eventid}}&lg_billetterie=2&code={{page.registration.code}}&resize=1&width_auto=1&color_primary=92c900" 
+      data-width="650" data-height="600" data-id="{{page.registration.eventid}}" data-resize="1" data-width_auto="1" data-noscroll="0" data-nopb="0">Registration</a><script type="text/javascript" src="https://www.weezevent.com/js/widget/min/widget.min.js"></script>
+  </div>
+</div>
+{% endif %}
 
 <!--Team -->
 <div class='two spacing'></div>
