@@ -11,6 +11,6 @@ socials:
     url : in/josé-gomes-correia-ba183245/
 
 events:
-  - Paris 2018
+  - Paris-Saclay 2018
 
 ---

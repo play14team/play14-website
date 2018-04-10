@@ -12,6 +12,6 @@ socials:
 
 events:
   - Luxembourg 2018
-  - Paris 2018
+  - Paris-Saclay 2018
 
 ---

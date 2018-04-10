@@ -11,6 +11,6 @@ socials:
     url : in/clément-niot-ba988570/
 
 events:
-  - Paris 2018
+  - Paris-Saclay 2018
 
 ---

@@ -11,6 +11,6 @@ socials:
     url : in/alexandra-ramusga-3b3a1666/
 
 events:
-  - Paris 2018
+  - Paris-Saclay 2018
 
 ---
