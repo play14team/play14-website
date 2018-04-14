@@ -59,7 +59,7 @@ This following is a non exhaustive list of all sorts of things you should forese
     * Paperboard markers
     * Whiteboard markers
   * Large paper roll for the market place
-  * Marking tape
+  * Masking tape
   * Scissors
   * Mesureing tape
   * Paper (white & color)
