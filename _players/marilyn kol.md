@@ -11,7 +11,6 @@ socials:
     url : in/marilyn-kol-933878b0/
 
 events:
-  - Basel 2018
   - Paris-Saclay 2018
 
 ---
