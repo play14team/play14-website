@@ -21,8 +21,6 @@
       path: players/
     - name: Photos & videos
       path: media/
-    - name: Basel 2018
-      path: events/basel/2018-04
     - name: Madrid 2018
       path: events/madrid/2018-06
     - name: Paris 2018
