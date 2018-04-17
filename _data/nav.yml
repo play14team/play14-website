@@ -35,6 +35,8 @@
       path: events/london/2018-09
     - name: Brussels 2018
       path: events/brussels/2018-09
+    - name: Porto 2018
+      path: events/porto/2018-09
     - name: Barcelona 2018
       path: events/barcelona/2018-10
     - name: Luxembourg 2019
