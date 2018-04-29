@@ -2,7 +2,7 @@
 layout: player
 
 name: Nancy Beers
-position: Player
+position: Serial player
 company: Vacanceselect
 bio: "Scrum Master"
 avatar: /images/players/NancyBeers.jpg
@@ -13,5 +13,6 @@ socials:
 events:
   - Amsterdam 2017
   - Luxembourg 2018
+  - Hamburg 2018
 
 ---
