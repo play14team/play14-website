@@ -4,7 +4,7 @@ layout: player
 name: Leon-Cosmin Lupu
 position: Timisoara organizer
 company: Nokia
-bio: "R&D Group Leader"
+bio: "Innovation Program Manager"
 avatar: /images/players/LeonCosminLupu.jpg
 socials:
   - name: email
