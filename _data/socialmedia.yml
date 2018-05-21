@@ -29,3 +29,7 @@ wikipedia:
 instagram:
   icon: fa fa-instagram
   url: https://www.instagram.com/
+
+vimeo:
+  icon: fa fa-vimeo
+  url: https://vimeo.com/

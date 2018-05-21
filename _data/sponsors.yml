@@ -250,46 +250,55 @@
     - name: instagram
       url: VichyCatalan
     - name: facebook
-      url: /pages/Vichy-Catalan/461772270556544?fref=ts
+      url: pages/Vichy-Catalan/461772270556544?fref=ts
     
 - name: Foyer
   url: http://www.foyer.lu/
   logo: /images/sponsors/luxembourg/foyer.png
   socials:
     - name: linkedin
-      url: /company/foyer-assurances
+      url: company/foyer-assurances
     - name: facebook
-      url: /foyer.luxembourg/
+      url: foyer.luxembourg/
 
 - name: Lavazza
   url: http://www.lavazza.lu/
   logo: /images/sponsors/luxembourg/lavazza.jpg
   socials:
     - name: facebook
-      url: /europoint.lu/      
+      url: europoint.lu/      
 
 - name: theventure.city
   url: https://theventure.city/
   logo: /images/sponsors/madrid/theventure.city.png
   socials:
     - name: twitter
-      url: /TheVentureCity
+      url: TheVentureCity
     - name: linkedin
-      url: /company/theventurecity/
+      url: company/theventurecity/
     - name: instagram
-      url: /theventurecity/
+      url: theventurecity/
 
 - name: BBVA Open Space
   url: https://openspace.bbva.com/madrid/en/
   logo: /images/sponsors/madrid/bbva-openspace.png
   socials:
     - name: twitter
-      url: /bbvainnovation
+      url: bbvainnovation
     - name: linkedin
-      url: /company/bbva
+      url: company/bbva
     - name: facebook
-      url: /centrodeinnovacionbbva
+      url: centrodeinnovacionbbva
     - name: youtube
-      url: /user/centroinnovacionbbva
+      url: user/centroinnovacionbbva
     - name: instagram
-      url: /cibbva/
+      url: cibbva/
+
+- name: digital.mente//
+  url: http://digitalmente.es/
+  logo: /images/sponsors/madrid/digitalmente.png
+  socials:
+    - name: instagram
+      url: digitalmentefotovideo/
+    - name: vimeo
+      url: user434261
