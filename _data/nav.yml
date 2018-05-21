@@ -17,8 +17,6 @@
   children:
     - name: All events
       path: events/
-    - name: All players
-      path: players/
     - name: Photos & videos
       path: media/
     - name: Madrid 2018
@@ -41,6 +39,14 @@
       path: events/barcelona/2018-10
     - name: Luxembourg 2019
       path: events/luxembourg/2019-03
+- name: Players
+  path: players/
+  section_id: players
+  children:
+    - name: All players
+      path: players/
+    - name: Update your profile
+      path: profile/
 - name: Games
   path: games/
   section_id: games
