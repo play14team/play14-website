@@ -11,7 +11,6 @@ layout: default
       <!-- Title & date -->
       <h1 class="fadeinright"><a href="{{page.url}}">{{page.title}}</a></h1>
       <h2 class="fadeinleft">{{page.schedule.dates}}</h2>
-
       <!-- Button -->
     </div>
 
@@ -196,6 +195,14 @@ layout: default
 <div class='full no-padding alternate-background'>
   <div class='two spacing'></div>
   {% include team.html %}
+
+  {% if page.contact %}
+  <div class='row'>
+    <a class='button small' href="mailto:{{page.contact}}">Contact us</a>
+  </div>
+  <div class='two spacing'></div>
+  {% endif %}
+
 </div>
 
 <!--Sponsors-->
