@@ -11,7 +11,9 @@ layout: default
       <!-- Title & date -->
       <h1 class="fadeinright"><a href="{{page.url}}">{{page.title}}</a></h1>
       <h2 class="fadeinleft">{{page.schedule.dates}}</h2>
-      <!-- Button -->
+      {% if page.schedule.isCancelled %}
+        <h2 class="fadeinright"><a href="#EventCancelled">CANCELLED</a></h2>
+      {% endif %}
     </div>
 
     <!-- Nav -->
