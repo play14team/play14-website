@@ -302,3 +302,9 @@
       url: digitalmentefotovideo/
     - name: vimeo
       url: user434261
+- name: Angler Film
+  url: https://vimeo.com/anglerfilm
+  logo: /images/sponsors/madrid/AnglerFilm.jpg
+  socials:
+    - name: vimeo
+      url: anglerfilm
