@@ -302,9 +302,58 @@
       url: digitalmentefotovideo/
     - name: vimeo
       url: user434261
+
 - name: Angler Film
   url: https://vimeo.com/anglerfilm
   logo: /images/sponsors/madrid/AnglerFilm.jpg
   socials:
     - name: vimeo
       url: anglerfilm
+
+- name: Jugacetamol
+  url: http://juegacetamol.es/
+  logo: /images/sponsors/madrid/logojuegacetamol.jpg
+  socials:
+    - name: twitter
+      url: juegacetamol
+    - name: facebook
+      url: juegacetamol/
+    - name: instagram
+      url: juegacetamol/
+
+- name: Agile Taste
+  url: http://agiletaste.com/
+  logo: /images/sponsors/madrid/AgileTaste.jpg
+  socials:
+    - name: twitter
+      url: AgileTaste
+    - name: linkedin
+      url: company/agile-taste/?originalSubdomain=es
+    - name: instagram
+      url: agile.taste/
+
+- name: Detuatu Formacion
+  url: http://www.detuatuformacion.es/
+  logo: /images/sponsors/madrid/detuatu_formacion.png
+  socials:
+    - name: twitter
+      url: detuatuform
+    - name: facebook
+      url: detuatuformacion
+    - name: google-plus
+      url: +DetuatuformacionEs
+
+- name: Utopic School
+  url: https://www.utopicus.es/es/events/index/205126922/formacion
+  logo: /images/sponsors/madrid/Utopic_School.png
+  socials:
+    - name: twitter
+      url: utopic_us
+    - name: youtube
+      url: user/UtopicUsTV
+    - name: linkedin
+      url: company/utopic_us/
+    - name: facebook
+      url: utopicschool/
+    - name: instagram
+      url: utopic_us/
