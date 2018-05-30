@@ -3,8 +3,8 @@ layout: player
 
 name: Sonja Uittenboogaard
 position: Netherlands organizer
-company: Valori
-bio: "Training specialist"
+company: Capgemini
+bio: "Change Consultant"
 avatar: /images/players/SonjaUittenboogaard.jpg
 socials:
   - name: linkedin
