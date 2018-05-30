@@ -3,9 +3,9 @@ layout: player
 
 name: Marcos Fargas
 position: Player
-company: Parclick
-bio: "CMO I Parclick, the Leading European Online Parking Network"
-avatar: /images/players/MarcosFargasFrancoisSigrand.jpg
+company: Parclick, the Leading European Online Parking Network
+bio: "CMO"
+avatar: /images/players/marcos-fargas.jpg
 socials:
   - name: linkedin
     url : in/mfargas/

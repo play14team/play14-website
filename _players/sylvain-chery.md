@@ -4,7 +4,7 @@ layout: player
 name: Sylvain Chery
 position: Serial player
 company: Agile Partner
-bio: "Agile coach"
+bio: "Co-founder, Director"
 avatar: /images/players/SylvainChery.jpg
 socials:
   - name: email

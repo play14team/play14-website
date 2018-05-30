@@ -3,8 +3,8 @@ layout: player
 
 name: Federico Casabianca
 position: Player
-company: Grupo GFT
-bio: "Agile Practitioner & MBA"
+company: GFT Group
+bio: "Agile Coach"
 avatar: /images/players/federico-casabianca.jpg
 socials:
   - name: linkedin

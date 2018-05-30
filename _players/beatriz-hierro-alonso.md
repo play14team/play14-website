@@ -4,11 +4,13 @@ layout: player
 name: Beatriz Hierro Alonso
 position: player
 company: INECO
-bio: "★Civil Engineer ★Project Manager★Quality and Environment Manager★Engineering Consulting★SCRUM"
+bio: "Gestor de proyectos / Scrum Master"
 avatar: /images/players/beatriz-hierro-alonso.jpg
 socials:
   - name: linkedin
     url : in/beatrizhierroalonso/
+  - name: twitter
+    url: Bettalonso 
 
 events:
   - Madrid 2018
