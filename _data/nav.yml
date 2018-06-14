@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Madrid 2018
-      path: events/madrid/2018-06
     - name: Timisoara 2018
       path: events/timisoara/2018-06
     - name: Milano 2018

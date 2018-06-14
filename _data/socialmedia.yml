@@ -33,3 +33,7 @@ instagram:
 vimeo:
   icon: fa fa-vimeo
   url: https://vimeo.com/
+
+xing:
+  icon: fa fa-xing
+  url: https://www.xing.com/

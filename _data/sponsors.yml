@@ -357,3 +357,16 @@
       url: utopicschool/
     - name: instagram
       url: utopic_us/
+
+- name: Everis LivingLab
+  url: https://www.everis.com/spain/es/everis-living-lab
+  logo: /images/sponsors/barcelona/everis.jpg
+  socials:
+    - name: twitter
+      url: everis
+    - name: youtube
+      url: user/everisgroup
+    - name: linkedin
+      url: company/everis
+    - name: facebook
+      url: everis

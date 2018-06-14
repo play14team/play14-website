@@ -3,8 +3,8 @@ layout: player
 
 name: Jesús Hijas
 position: Player
-company: McAfee
-bio: "Digital Business Consultant. Inspirational Leader and Facilitator. Entrepreneur. People | Business | Technology"
+company: essence
+bio: "Founder"
 avatar: /images/players/jesus-hijas.jpg
 socials:
   - name: linkedin

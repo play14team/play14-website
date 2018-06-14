@@ -8,9 +8,10 @@ bio: "Scrum Master"
 avatar: /images/players/MimmaLucchelli.jpg
 socials:
   - name: linkedin
-    url : in/mimma-lucchelli-95a8b945/
+    url : in/mimma-lucchelli-95a8b945
 
 events:
   - Milano 2016
+  - Milano 2017
 
 ---

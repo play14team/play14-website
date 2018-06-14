@@ -4,7 +4,7 @@ layout: player
 name: Nathalie Aladenise
 position: Paris organizer
 company: Nokia
-bio: "Project Manager & Innovator"
+bio: "Innovation Officier"
 avatar: /images/players/nathalie-aladenise.jpg
 socials:
   - name: linkedin

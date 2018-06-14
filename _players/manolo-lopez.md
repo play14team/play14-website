@@ -5,7 +5,7 @@ name: Manolo Lopez
 position: Barcelona organizer
 company: Schibsted Spain
 bio: "Scrum Master - Agile coach"
-avatar: /images/players/ManoloLopez.jpg
+avatar: /images/players/manolo-lopez.png
 socials:
   - name: linkedin
     url : in/manololopez/
