@@ -370,3 +370,16 @@
       url: company/everis
     - name: facebook
       url: everis
+
+- name: Critical Software
+  url: https://www.criticalsoftware.com
+  logo: /images/sponsors/porto/critical-software.png
+  socials:
+    - name: twitter
+      url: CriticalSftware
+    - name: youtube
+      url: user/criticalsoftware
+    - name: linkedin
+      url: company/critical-software
+    - name: facebook
+      url: criticalsoftware
