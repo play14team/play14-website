@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Hamburg 2018
-      path: events/hamburg/2018-06
     - name: London 2018
       path: events/london/2018-09
     - name: Brussels 2018
