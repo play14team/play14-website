@@ -383,3 +383,15 @@
       url: company/critical-software
     - name: facebook
       url: criticalsoftware
+
+- name: Scopphu
+  url: https://scopphu.com/
+  logo: /images/sponsors/porto/scopphu.png
+  socials:
+    - name: facebook
+      url: scopphu
+    - name: youtube
+      url: c/Scopphupeopleandprojects
+    - name: linkedin
+      url: company/scopphu
+      
