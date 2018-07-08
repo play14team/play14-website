@@ -3,8 +3,8 @@ layout: player
 
 name: Elvira López Rubio
 position: Player
-company: Grupo GFT
-bio: "Scrum Master | CSM | Management 3.0"
+company: UST-GLOBAL
+bio: "Agile Coach"
 avatar: /images/players/elvira-lopez-rubio.jpg
 socials:
   - name: linkedin

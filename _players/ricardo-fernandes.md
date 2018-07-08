@@ -2,7 +2,7 @@
 layout: player
 
 name: Ricardo Fernandes
-position: player
+position: Porto organizer
 company: Nokia
 bio: "R&D Line Manager at Nokia/Scrum Master/Agile Coach/Management 3.0"
 avatar: /images/players/ricardo-fernandes.jpg

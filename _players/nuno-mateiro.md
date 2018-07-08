@@ -2,7 +2,7 @@
 layout: player
 
 name: Nuno Mateiro
-position: Player
+position: Porto organizer
 company: 
 bio: "Freelance trainer and facilitator"
 avatar: /images/players/NunoMateiro.jpg

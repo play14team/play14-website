@@ -2,7 +2,7 @@
 layout: player
 
 name: Raquel Pedrouso
-position: Player
+position: Porto organizer
 company: Evolutia Consulting
 bio: "Facilitadora de procesos de aprendizaje. Coaching & Gamificacion & Linkedin"
 avatar: /images/players/RaquelPedrouso.jpg
