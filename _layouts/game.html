@@ -36,6 +36,7 @@ layout: default
   <div class='spacing'></div>
 </div>
 
+        
 <div class="full no-padding">
   <div class='spacing'></div>
   <div class="row">
@@ -98,8 +99,28 @@ layout: default
                 {% endif %}
             </ul>
         </div>
+        <div class='mod modBarGraph'>
+            <ul class='bars'>
+              {% for rating in page.ratings %}
+                <li>
+                  <h4 style=''>
+                    {{rating.title}}
+                    <strong>{{rating.percent}}%</strong>
+                  </h4>
+                  <p class='highlighted' data-percent='{{rating.percent}}'></p>
+                </li>
+              {% endfor %}
+            </ul>
+        </div>
     </div>
   </div>
+</div>
+
+<div class="full no-padding">
+    <div class='spacing'></div>
+    <div class="row">
+      <div class="large-6 columns">
+    </div>
 </div>
 
 <div class="full no-padding">

@@ -23,6 +23,14 @@ preparations:
 images:
   - /images/games/boing/02.png
 
+ratings:
+  - title: Silliness
+    percent: 100
+  - title: Energy
+    percent: 100
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 

@@ -24,6 +24,14 @@ preparations:
 images:
   - /images/games/brain-shock/01.jpg
 
+ratings:
+  - title: Silliness
+    percent: 80
+  - title: Energy
+    percent: 100
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 

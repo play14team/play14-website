@@ -22,6 +22,14 @@ excerpt: This game may be simple, but it is actually trickier than it seems. It 
 images:
     - /images/games/count-to-thirty-three/01.png
 
+ratings:
+  - title: Silliness
+    percent: 40
+  - title: Energy
+    percent: 40
+  - title: Connection
+    percent: 40
+
 enableComments: true
 ---
 
