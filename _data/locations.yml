@@ -173,3 +173,12 @@ CriticalSoftware:
         4000-060 Porto
     url: https://www.criticalsoftware.com
     map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.1674849461683!2d-8.610559484581461!3d41.152696579286385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464fbb058fff9%3A0x54ec224423309633!2sCritical+Software+S.A.!5e0!3m2!1sen!2slu!4v1529954855467
+
+MicroMarche:
+    name: Micro Marché
+    area: Metro Jacques Brel
+    address: >
+        Quai Fernand Demets 55,
+        1070 Anderlecht
+    url: http://www.micromarche.com
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.2630760843217!2d4.322100251514493!3d50.84481247943118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf559bf48bb0c70b1!2sMicro+March%C3%A9!5e0!3m2!1sen!2sbe!4v1531590271662
