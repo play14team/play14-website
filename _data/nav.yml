@@ -27,6 +27,8 @@
       path: events/brussels/2018-10
     - name: Barcelona 2018
       path: events/barcelona/2018-10
+    - name: Amsterdam 2018
+      path: events/amsterdam/2018-11
     - name: Luxembourg 2019
       path: events/luxembourg/2019-03
 - name: Players
