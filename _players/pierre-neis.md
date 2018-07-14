@@ -29,5 +29,9 @@ events:
   - Timisoara 2017
   - Amsterdam 2017
   - Luxembourg 2018
+  - Basel 2018
+  - Hamburg 2018
+  - London 2018
+  - Brussels 2018
 
 ---
