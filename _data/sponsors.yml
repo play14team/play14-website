@@ -403,3 +403,19 @@
       url: micromarche/
     - name: instagram
       url: micromarche/
+
+- name: DarkHorse
+  url: https://www.thedarkhorse.de/
+  logo: /images/sponsors/berlin/dark-horse.png
+  socials:
+    - name: facebook
+      url: thedarkhorse.de
+    - name: twitter
+      url: darkhorseberlin
+    - name: linkedin
+      url: company/dark-horse-gmbh/?originalSubdomain=de
+    - name: xing
+      url: companies/darkhorsegmbh%26co.kg
+
+
+      
