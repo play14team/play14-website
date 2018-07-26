@@ -360,7 +360,7 @@
 
 - name: Everis LivingLab
   url: https://www.everis.com/spain/es/everis-living-lab
-  logo: /images/sponsors/barcelona/everis.jpg
+  logo: /images/sponsors/barcelona/everis.png
   socials:
     - name: twitter
       url: everis
