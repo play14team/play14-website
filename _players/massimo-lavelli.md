@@ -12,5 +12,6 @@ socials:
 
 events:
   - Milano 2016
+  - London 2018
 
 ---

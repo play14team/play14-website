@@ -23,5 +23,6 @@ events:
   - Amsterdam 2017
   - Luxembourg 2018
   - Hamburg 2018
+  - London 2018
 
 ---
