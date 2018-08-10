@@ -2,7 +2,7 @@
 layout: player
 
 name: Mari Luz Garcia 
-position: Madrid organizer
+position: Madrid host
 company: ESCP Europe
 bio: "Executive Director Chair of Entrepreneurship at ESCP Europe & Creative (Lego® Serious Play®) facilitator"
 avatar: /images/players/MariLuzGarcia.jpg

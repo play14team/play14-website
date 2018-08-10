@@ -2,7 +2,7 @@
 layout: player
 
 name: Lisa Francis-Jennings
-position: Serial player
+position: Player
 company: StratAffect
 bio: "Managing Partner"
 avatar: /images/players/LisaFrancisJennings.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Vladimir Eske
-position: Serial player
+position: Player
 company: LogicalDesign
 bio: "Software architect"
 avatar: /images/players/VladimirEske.jpg

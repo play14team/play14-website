@@ -2,7 +2,7 @@
 layout: player
 
 name: Anne Gabrillagues
-position: Paris organizer
+position: Paris host
 company: Ippon Technologies
 bio: "Agile Coach & Product Owner"
 avatar: /images/players/AnneGabrillagues.png

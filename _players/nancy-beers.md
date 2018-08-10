@@ -2,7 +2,7 @@
 layout: player
 
 name: Nancy Beers
-position: Serial player
+position: Player
 company: Vacanceselect
 bio: "Scrum Master"
 avatar: /images/players/NancyBeers.jpg

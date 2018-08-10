@@ -2,7 +2,7 @@
 layout: player
 
 name: Sabine Moldenhauer
-position: Serial player
+position: Player
 company: moldenhauer-partner.de
 bio: "Partner, Business & Executive Coach / Consultant"
 avatar: /images/players/SabineMoldenhauer.jpg

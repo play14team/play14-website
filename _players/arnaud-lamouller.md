@@ -2,7 +2,7 @@
 layout: player
 
 name: Arnaud Lamouller
-position: Serial player
+position: Player
 company: 
 bio: "Agile Coach/Trainer, Executive Coach"
 avatar: /images/players/ArnaudLamouller.jpg

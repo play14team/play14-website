@@ -2,7 +2,7 @@
 layout: player
 
 name: Manolo Lopez
-position: Barcelona organizer
+position: Barcelona host
 company: Schibsted Spain
 bio: "Agile coach"
 avatar: /images/players/manolo-lopez.png

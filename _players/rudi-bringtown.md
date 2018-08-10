@@ -2,7 +2,7 @@
 layout: player
 
 name: Rudi Bringtown
-position: Serial player
+position: Player
 company: cx-first.com
 bio: "Customer Experience and Co-innovation specialist with 10+ years experience leading and working among international teams globally."
 avatar: /images/players/RudiBringtown.jpg

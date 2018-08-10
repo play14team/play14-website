@@ -2,7 +2,7 @@
 layout: player
 
 name: Esther Balmaña 
-position: Barcelona organizer
+position: Barcelona host
 company: TraiCo Projects
 bio: "Co-Founder, Consultant and Trainer"
 avatar: /images/players/EstherBalmana.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Sophie Vurpillot
-position: Madrid organizer
+position: Madrid host
 company: Planet Expat
 bio: "Executive Director"
 avatar: /images/players/SophieVurpillot.jpg

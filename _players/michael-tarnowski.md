@@ -2,7 +2,7 @@
 layout: player
 
 name: Michael Tarnowski
-position: Serial player
+position: Player
 company: Plays-in-Business
 bio: "Agile coach | Process Improvement Consultant"
 avatar: /images/players/MichaelTarnowski.jpg

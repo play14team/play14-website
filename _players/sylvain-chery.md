@@ -2,7 +2,7 @@
 layout: player
 
 name: Sylvain Chery
-position: Serial player
+position: Player
 company: Agile Partner
 bio: "Co-founder, Director"
 avatar: /images/players/SylvainChery.jpg

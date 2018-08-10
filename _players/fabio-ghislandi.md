@@ -2,7 +2,7 @@
 layout: player
 
 name: Fabio Ghislandi
-position: Milano organizer
+position: Milano host
 company: AgileReloaded
 bio: "Agile Coach"
 avatar: /images/players/FabioGhislandi.jpg

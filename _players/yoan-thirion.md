@@ -2,7 +2,7 @@
 layout: player
 
 name: Yoan Thirion
-position: Serial player
+position: Player
 company: Agile Partner
 bio: "Agile Coach"
 avatar: /images/players/YoanThirion.jpg

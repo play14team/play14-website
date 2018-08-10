@@ -2,7 +2,7 @@
 layout: player
 
 name: Andreas Erbe
-position: Basel organizer
+position: Basel host
 company: Launchlabs 
 bio: "Design Thinker, Workspace Designer, Founder and Owner"
 avatar: /images/players/andreas-erbe.jpg

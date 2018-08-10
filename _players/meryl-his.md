@@ -2,7 +2,7 @@
 layout: player
 
 name: Meryl His
-position: Madrid organizer
+position: Madrid host
 company: Planet Expat
 bio: "Project Coordinator"
 avatar: /images/players/MerylHis.jpg

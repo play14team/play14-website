@@ -2,7 +2,7 @@
 layout: player
 
 name: James Jennings
-position: Serial player
+position: Player
 company: StratAffect S.A.
 bio: "Independent Advisor"
 avatar: /images/players/JamesJennings.jpg

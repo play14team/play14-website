@@ -2,7 +2,7 @@
 layout: player
 
 name: Koen van der Pasch
-position: Netherlands organizer
+position: Netherlands host
 company: Cegeka
 bio: "Management consultant"
 avatar: /images/players/KoenVanDerPasch.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Beatriz Hierro Alonso
-position: player
+position: Player
 company: INECO
 bio: "Gestor de proyectos / Scrum Master"
 avatar: /images/players/beatriz-hierro-alonso.jpg

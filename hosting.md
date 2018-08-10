@@ -1,17 +1,20 @@
 ---
 layout: page
-section_id: organizing
+section_id: hosting
+
+redirect_from:
+  - /organizing
 
 ---
 
-## How do I become a #play14 event organizer ?
+## How do I become a #play14 event host ?
 
-The main condition to become a **#play14** organizer, is that you have participated to **at least one** event as an attendee.
-The reason for that is that we want you to feel what it is like to be part of the family, and comprehend the mindset that we are looking for, before you can to become an organizer.
+The main condition to become a **#play14** host, is that you have participated to **at least one** event as an attendee.
+The reason for that is that we want you to feel what it is like to be part of the family, and comprehend the mindset that we are looking for, before you can to become an host.
 
-As an organizer, you will commit to carry on the philosophy of the original event and provide a rich experience to your future attendees.
+As an host, you will commit to carry on the philosophy of the original event and provide a rich experience to your future attendees.
 
-Most of what you will have to do as an organizer is provide
+Most of what you will have to do as an host is provide
   * A venue
   * A date
   * Food & drinks
@@ -72,7 +75,7 @@ This following is a non exhaustive list of all sorts of things you should forese
 ## What about food & drinks ?
 
 If you want people to maintain a hight level of energy troughout the event, you need to feed them, and get them drinks.
-This is one of the major responsibilities of an organizer.
+This is one of the major responsibilities of a host.
 
 ### Lunch & Dinner
 
@@ -95,7 +98,7 @@ Always have hot and fresh drinks at the ready. Everyone should be able to serve 
   * Beer
   * Wine
 
-It's your decision as an organizer to serve alcoholic beverages during the meals or not.
+It's your decision as a host to serve alcoholic beverages during the meals or not.
 We usally recommend it for the dinners at least, to make things a bit more cheerful.
 People are responsible enough to pay attention to their consumption and not get hammered.
 
@@ -110,7 +113,7 @@ It's always a good thing to have snacks around, for breakfast and during the day
 
 ## What can I expect from #play14 Global Organization ?
 
-**#play14** global organization will provide you with some shared resources and the co-founders will help you organizer your event.
+**#play14** global organization will provide you with some shared resources and the co-founders will help you host your event.
 You won't be alone in this adventure. We have a Slack account that helps us keep in touch with all local organizers and we keep ourselves available for video conferencing if need be.
 
 One of the co-founders at least will be present during the event to help you with the organization and to make sure that the spirit of **#play14** is respected.
@@ -181,7 +184,7 @@ Sponsoring can take many forms
   * Materials
   * Games
 
-It's up to you as a local event organizer to find some sponsors for your event.
+It's up to you as a local event host to find some sponsors for your event.
 
 
 ### Presence of one of the co-founders

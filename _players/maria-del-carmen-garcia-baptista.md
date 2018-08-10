@@ -1,7 +1,7 @@
 ---
 layout: player
 
-name: Maria del Carmen García Baptista
+name: Maria García Baptista
 position: Player
 company: Enciende la Luz
 bio: "Organizational development cosultant and talent management"

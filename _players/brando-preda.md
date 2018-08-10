@@ -2,7 +2,7 @@
 layout: player
 
 name: Brando Preda
-position: Serial player
+position: Player
 company: 7pixel
 bio: "Software Developer"
 avatar: /images/players/brando-preda.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Christina Ohanian
-position: London organizer
+position: London host
 web: http://www.agileandsketch.com
 bio: "Agile Coach"
 avatar: /images/players/ChristinaOhanian.jpg

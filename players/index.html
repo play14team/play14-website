@@ -31,8 +31,20 @@ section_id: players
               <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{player.position}}</h3>
-                  <h4>{{player.company}}</h4>
+                    <h3>
+                        {% if player.position == 'Player' %}
+                          {% if player.events.size > 4 %}
+                            Unicorn player
+                          {% elsif player.events.size > 2 %}
+                            Serial player
+                          {% else %}
+                            {{player.position}}  
+                          {% endif %}
+                        {% else %}
+                          {{player.position}}
+                        {% endif %}
+                      </h3>
+                      <h4>{{player.company}}</h4>
                   <h4>{{player.bio}}</h4>
                 </div>
               </div>

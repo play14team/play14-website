@@ -51,12 +51,12 @@
       path: games/we-like/
     - name: Document your game
       path: games/documenting/
-- name: Organizers
-  path: organizing/
-  section_id: organizing
+- name: Hosting
+  path: hosting/
+  section_id: hosting
   children:
-  - name: Become an organizer
-    path: organizing/
+  - name: Host an event
+    path: hosting/
 - name: Blog
   path: blog/
   section_id: blog

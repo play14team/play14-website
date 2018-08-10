@@ -2,7 +2,7 @@
 layout: player
 
 name: Talip Ozkeles
-position: Serial player
+position: Player
 company: GROUP9
 bio: "Consultant"
 avatar: /images/players/TalipOzkeles.jpg

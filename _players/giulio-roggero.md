@@ -2,7 +2,7 @@
 layout: player
 
 name: Giulio Roggero
-position: Milano organizer
+position: Milano host
 company: AgileReloaded
 bio: "Entrepreneur focused on IoT, Serverless and Software Development"
 avatar: /images/players/GiulioRoggero.jpg

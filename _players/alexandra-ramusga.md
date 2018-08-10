@@ -2,7 +2,7 @@
 layout: player
 
 name: Alexandra Ramusga
-position: Paris organizer
+position: Paris host
 company: Nokia
 bio: "Engineer"
 avatar: /images/players/alexandra-ramusga.png

@@ -2,7 +2,7 @@
 layout: player
 
 name: Szergej Nemcsenko
-position: Serial player
+position: Player
 company: Agile Partner
 bio: "Scrum Master (Scrumban, Kanban), Agile coach"
 avatar: /images/players/szergej-nemcsenko.jpg

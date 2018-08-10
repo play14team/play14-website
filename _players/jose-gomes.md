@@ -2,7 +2,7 @@
 layout: player
 
 name: José Gomes Correia
-position: Paris organizer
+position: Paris host
 company: Nokia
 bio: "Technical Project Manager"
 avatar: /images/players/jose-gomes.jpg

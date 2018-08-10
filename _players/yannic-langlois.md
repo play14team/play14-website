@@ -2,7 +2,7 @@
 layout: player
 
 name: Yannic Langlois
-position: Serial player
+position: Player
 company: Agile Partner
 bio: "Scrum Master/Agile Coach"
 avatar: /images/players/YannicLanglois.jpg

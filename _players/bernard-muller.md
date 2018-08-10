@@ -2,7 +2,7 @@
 layout: player
 
 name: Bernard Muller
-position: Serial player
+position: Player
 company: Agile Partner
 bio: Project Director
 avatar: /images/players/BernardMuller.jpg

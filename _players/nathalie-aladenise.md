@@ -2,7 +2,7 @@
 layout: player
 
 name: Nathalie Aladenise
-position: Paris organizer
+position: Paris host
 company: Nokia
 bio: "Innovation Officier"
 avatar: /images/players/nathalie-aladenise.jpg

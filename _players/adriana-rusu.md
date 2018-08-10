@@ -2,7 +2,7 @@
 layout: player
 
 name: Adriana Rusu
-position: Timisoara organizer
+position: Timisoara host
 company: 3Pillar Global Romania
 bio: "Engineering Manager"
 avatar: /images/players/AdrianaRusu.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Beatriz Gortazar
-position: Madrid organizer
+position: Madrid host
 company: Hewlett-Packard Enterprise
 bio: "Project Manager & Marketing Specialist"
 avatar: /images/players/BeatrizGortazar.jpg

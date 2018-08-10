@@ -2,7 +2,7 @@
 layout: player
 
 name: Simon Claes
-position: Brussels organizer
+position: Brussels host
 company: EDF Lumius
 bio: "Agile Coach & Transformation consultant"
 avatar: /images/players/simon-claes.jpg

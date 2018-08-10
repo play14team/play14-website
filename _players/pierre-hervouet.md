@@ -2,7 +2,7 @@
 layout: player
 
 name: Pierre Hervouet
-position: Brussels organizer
+position: Brussels host
 company: Upward Consulting
 bio: "Agile Catalyst"
 avatar: /images/players/PierreHervouet.jpg

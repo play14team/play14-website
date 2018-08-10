@@ -2,7 +2,7 @@
 layout: player
 
 name: Jordann Gross
-position: Netherlands organizer
+position: Netherlands host
 company: Xebia Group International
 bio: "Agile Athlete - are your people fit for the future?"
 avatar: /images/players/JordannGross.jpg

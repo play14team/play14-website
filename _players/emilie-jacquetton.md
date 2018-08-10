@@ -2,7 +2,7 @@
 layout: player
 
 name: Emilie Jacquetton
-position: Barcelona organizer
+position: Barcelona host
 company: ouiwin
 bio: "Founder"
 avatar: /images/players/emilie-jacquetton.jpg

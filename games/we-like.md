@@ -1,6 +1,6 @@
 ---
 layout: page
-section_id: organizing
+section_id: games
 
 ---
 
