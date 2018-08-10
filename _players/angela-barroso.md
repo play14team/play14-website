@@ -1,0 +1,16 @@
+---
+layout: player
+
+name: Angela Barroso
+position: Player
+company: 
+bio: "Creative Empower/ Team Leader - helping teams to learn, grow, and develop"
+avatar: /images/players/angela-barroso.jpg
+socials:
+  - name: linkedin
+    url : in/angelabarroso/
+
+events:
+  - Porto 2018
+
+---

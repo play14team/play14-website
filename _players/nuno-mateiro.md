@@ -12,5 +12,6 @@ socials:
 
 events:
   - Barcelona 2017
+  - Porto 2018
 
 ---
