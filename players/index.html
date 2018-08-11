@@ -12,39 +12,50 @@ section_id: players
       <div class='gallery-nav'>
         <ul>
           <li class='current'>
-            <a data-cat='all' href='#'>All</a>
+              <a data-cat='all' href='#'>All</a>
+          </li>
+          <li>
+            <a data-cat='Unicorn player' href='#'>Unicorn player</a>
+          </li>
+          <li>
+            <a data-cat='Serial player' href='#'>Serial player</a>
+          </li>
+          <li>
+            <a data-cat='Player' href='#'>Player</a>
+          </li>
+          <li>
+            <a data-cat='Founder' href='#'>Founder</a>
           </li>
           {% assign positions = site.players | sort:'position' | group_by:'position' %}
           {% for position in positions %}
-            <li>
-              <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
-            </li>
+            {% if position.name != 'Player' and position.name != 'Founder' %}
+              <li>
+                <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-        {% assign players = site.players %}
-        {% for player in players %}
-          <li class='{{player.position}}'>
+          {% assign players = site.players %}
+          {% for player in players %}
+            {% assign position = player.position %}
+            {% if player.position == 'Player' %}
+              {% if player.events.size > 4 %}
+                {% assign position = 'Unicorn player' %}
+              {% elsif player.events.size > 2 %}
+                {% assign position = 'Serial player' %}
+              {% endif %}
+          {% endif %}
+
+          <li class='{{position}}'>
             <a href='{{player.id}}'>
               <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                    <h3>
-                        {% if player.position == 'Player' %}
-                          {% if player.events.size > 4 %}
-                            Unicorn player
-                          {% elsif player.events.size > 2 %}
-                            Serial player
-                          {% else %}
-                            {{player.position}}  
-                          {% endif %}
-                        {% else %}
-                          {{player.position}}
-                        {% endif %}
-                      </h3>
-                      <h4>{{player.company}}</h4>
+                    <h3>{{position}}</h3>
+                    <h4>{{player.company}}</h4>
                   <h4>{{player.bio}}</h4>
                 </div>
               </div>
