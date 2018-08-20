@@ -4,7 +4,7 @@ layout: player
 name: Karsten Mueller
 position: Germany host
 company: emetriq GmbH
-bio: "Agile Coach"
+bio: "Agilist"
 avatar: /images/players/KarstenMueller.jpg
 socials:
   - name: email
