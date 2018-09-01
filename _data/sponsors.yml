@@ -417,5 +417,15 @@
     - name: xing
       url: companies/darkhorsegmbh%26co.kg
 
+- name: EqualExperts
+  url: https://www.equalexperts.com/
+  logo: /images/sponsors/porto/equal-experts.png
+  socials:
+    - name: twitter
+      url: equalexperts
+    - name: linkedin
+      url: company/equal-experts?originalSubdomain=pt
+    - name: youtube
+      url: user/EqualExperts
 
       
