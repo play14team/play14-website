@@ -32,6 +32,7 @@ events:
   - Basel 2018
   - Madrid 2018
   - Hamburg 2018
+  - London 2018
   - Porto 2018
 
 ---
