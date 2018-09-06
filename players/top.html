@@ -1,0 +1,34 @@
+---
+
+layout: default
+section_id: players
+
+---
+
+<div class='full'>
+  <div class='row'>
+    <h2>Top 20 players</h2>
+    <div class='mod modMasonryGallery'>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
+        {% assign players = site.players | sort:'events' %}
+        {% for player in players limit:20 %}
+          <li>
+            <a href='{{player.id}}'>
+              <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
+              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                <div class='thumb-info'>
+                    <h3>{{player.events.size}}</h3>
+                    <h4>{{player.company}}</h4>
+                  <h4>{{player.bio}}</h4>
+                </div>
+              </div>
+            </a>
+            <h3>{{player.name | truncatewords: 25}}</h3>
+          </li>
+        {% endfor %}
+      </ul>
+
+    </div>
+  </div>
+</div>

@@ -2,7 +2,7 @@
 layout: player
 
 name: Ana Umbelino
-position: Porto host
+position: Portugal host
 company: Mindsurfing - Consultoria, Formação e Eventos
 bio: "CEO"
 avatar: /images/players/ana-umbelino.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Nuno Mateiro
-position: Porto host
+position: Portugal host
 company: 
 bio: "Freelance trainer and facilitator"
 avatar: /images/players/NunoMateiro.jpg
