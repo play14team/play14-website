@@ -2,7 +2,7 @@
 layout: player
 
 name: Hanna Karlsson
-position: Player
+position: Sydney host
 company: 
 bio: "Agilista and Skillseeker"
 avatar: /images/players/hanna-karlsson.jpg

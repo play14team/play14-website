@@ -29,6 +29,8 @@
       path: events/barcelona/2018-10
     - name: Amsterdam 2018
       path: events/amsterdam/2018-11
+    - name: Sydney 2019
+      path: events/sydney/2019-03
     - name: Luxembourg 2019
       path: events/luxembourg/2019-03
     - name: Berlin 2019
