@@ -11,6 +11,8 @@ socials:
     url : in/hanna-karlsson/
 
 events:
+  - Madrid 2018
   - Hamburg 2018
+  - Sydney 2019
 
 ---

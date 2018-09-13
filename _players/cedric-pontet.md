@@ -34,6 +34,9 @@ events:
   - Hamburg 2018
   - London 2018
   - Porto 2018
+  - Amsterdam 2018
+  - Sydney 2019
+  - Luxembourg 2019
 
 ---
 
