@@ -428,4 +428,11 @@
     - name: youtube
       url: user/EqualExperts
 
+- name: Xing Porto
+  url: http://www.xing.careers/helloporto
+  logo: /images/sponsors/porto/xing.png
+  socials:
+    - name: twitter
+      url: XING_pt
+
       
