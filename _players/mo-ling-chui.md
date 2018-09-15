@@ -4,7 +4,7 @@ layout: player
 name: Mo-Ling Chui
 position: Player
 company: 
-bio: "Creative Director, Course Leader, Design Management & Cultures at LCC, UAL, Consultant, Strategist, R&D, faciltator"
+bio: "Creative Director, Course Leader, Design Management & Cultures at LCC, UAL, Consultant, Strategist, R&D, facilitator"
 avatar: /images/players/mo-ling-chui.jpg
 socials:
   - name: linkedin
