@@ -1,11 +1,11 @@
 ---
 layout: player
 
-name: Paul Nunesdea
+name: Paulo Nunes de Abreu
 position: Player
 company: 
 bio: "Get the collaborative touch"
-avatar: /images/players/paul-nunesdea.jpg
+avatar: /images/players/paulo-nunes-de-abreu.jpg
 socials:
   - name: linkedin
     url : in/nunesdea/
