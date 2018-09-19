@@ -435,4 +435,11 @@
     - name: twitter
       url: XING_pt
 
-      
+- name: Farfetch
+  url: http://www.farfetch.com/careers
+  logo: /images/sponsors/porto/farfetch.jpg
+  socials:
+    - name: linkedin
+      url: company/farfetch.com/
+    - name: instagram
+      url: farfetchpeople
