@@ -21,6 +21,14 @@ excerpt: "Form molecules of people"
 images:
   - /images/games/molecules/01.png
 
+ratings:
+  - title: Silliness
+    percent: 40
+  - title: Energy
+    percent: 80
+  - title: Connection
+    percent: 100
+
 enableComments: true
 ---
 
