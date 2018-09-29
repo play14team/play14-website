@@ -32,7 +32,7 @@ ratings:
   - title: Silliness
     percent: 100
   - title: Energy
-    percent: 100
+    percent: 80
   - title: Connection
     percent: 40
 
