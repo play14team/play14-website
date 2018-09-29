@@ -35,7 +35,7 @@ ratings:
 enableComments: true
 ---
 
-## RULES
+## HOW TO PLAY
 
 * Have people walk around the room
 * Have them pair-up and introduce themselves
