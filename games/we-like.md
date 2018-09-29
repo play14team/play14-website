@@ -4,6 +4,18 @@ section_id: games
 
 ---
 
+## The Debriefing Cube
+
+The most important part of a game, except the fun of playing, is the debrief. Unfortunately, most of the time facilitators are not so great at debriefing the game they proposed.
+
+The [Debriefing Cube](http://thedebriefingcube.com/) will help you improve your debriefs by using the six lenses
+* Goal
+* Process
+* Group dynamics
+* Communication
+* Emotions
+* Take-away
+
 ## Rory's Story Cubes®
 
 Imagine telling stories that are dynamic, interactive, fun and randomly generated. Imagine never being stuck for an idea ever again.
@@ -35,3 +47,13 @@ Actions including the classic "High 5", the unifying "Pound It", the frantic "Sw
 <a href="https://www.northstargames.com/products/happy-salmon">
 ![Happy Salmon](https://cdn.shopify.com/s/files/1/0283/4324/products/HS_Blue-and-Green-smaller_4ff6a1cf-d498-4c84-bb3f-8326e6dc04be_1024x1024.jpg?v=1506362107)
 </a>
+
+## Meeting Spicers
+
+Looking for a great way to improve the quality of your meetings ? Try the Meeting Spicer cards.
+
+<a href="https://www.facebook.com/MeetingSpicer">
+![Meeting Spicer](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,h_506,w_726/epkdea9ublnwd9capbq0.webp)
+</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9GKoj-NMfY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
