@@ -22,6 +22,14 @@ excerpt: This is a mix between a counting and gesturing the next move, with some
 images:
     - /images/games/count-to-seven/01.png
 
+ratings:
+  - title: Silliness
+    percent: 80
+  - title: Energy
+    percent: 80
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 
