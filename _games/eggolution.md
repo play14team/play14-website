@@ -21,6 +21,14 @@ excerpt: Evolution on rock, paper, scissors. Fun, easy and just the right amount
 images:
   - /images/games/eggolution/01.jpg
 
+ratings:
+  - title: Silliness
+    percent: 100
+  - title: Energy
+    percent: 100
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 
