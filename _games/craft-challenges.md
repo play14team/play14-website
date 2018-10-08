@@ -41,10 +41,13 @@ You can find more explanation about this game [here](https://agilepartner.github
 Print the [cards](https://agilepartner.github.io/craft-challenges/craft-challenges-cards.pdf "Craft cards")
 
 #### RULES
-* Each participant takes 1 card
-* He/she has to browse the related page on the dedicated website through the QR code
-* Take some time to deep dive into the topic
-* Do the challenge as explained on the website in the given time box (at the top left of the card)
+We propose 2 game modes : 
+
+### Competitive mode
+![Competitive mode]({{site.url}}/images/games/craft-challenges/competitive-mode.png "Competitive mode")
+
+### Mob mode
+![Mob mode]({{site.url}}/images/games/craft-challenges/mob-mode.png "Mob mode")
 
 #### OR use it as you want :
 * Topics for retrospectives
