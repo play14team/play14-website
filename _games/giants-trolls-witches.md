@@ -22,6 +22,14 @@ excerpt: This is a very funny variation of the traditional rock, paper, scissors
 images:
     - /images/games/giants-trolls-witches/01.jpg
 
+ratings:
+  - title: Silliness
+    percent: 80
+  - title: Energy
+    percent: 60
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 

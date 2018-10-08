@@ -24,6 +24,14 @@ materials:
 images:
   - /images/games/ball-fight/01.jpg
 
+ratings:
+  - title: Silliness
+    percent: 80
+  - title: Energy
+    percent: 80
+  - title: Connection
+    percent: 60
+
 enableComments: true
 ---
 
