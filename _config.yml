@@ -22,8 +22,8 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-avatar
- - jemoji
- - jekyll-mentions
+# - jekyll-mentions
+# - jemoji
 # - jekyll-include-cache
 
 jekyll-mentions:
