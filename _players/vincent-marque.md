@@ -3,8 +3,8 @@ layout: player
 
 name: Vincent Marqué
 position: Player
-company: Banque Accord
-bio: "Test Manager"
+company: Quakecorp
+bio: "Coach et Formateur ITIL, DevOps, Agile"
 avatar: /images/players/VincentMarque.jpg
 socials:
   - name: linkedin
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Amsterdam 2018
 
 ---
