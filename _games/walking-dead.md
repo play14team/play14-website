@@ -11,8 +11,8 @@ publishdate: 2018-09-30 00:00:00
 authors: 
   - Cédric Pontet
 originators: 
-  - Unknown
-firstplayed: Luxembourg 2018
+  - Ricardo Fernandes
+firstplayed: Porto 2018
 scale: Min 10, Max unlimited
 timebox: 5 mins
 
