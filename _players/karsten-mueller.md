@@ -12,7 +12,7 @@ socials:
   - name: twitter
     url : HHKarsten
   - name: google-plus
-    url : 112769131082715062752
+    url : +KarstenM
   - name: linkedin
     url : in/karsten-mueller-269b186b 
   - name: xing
