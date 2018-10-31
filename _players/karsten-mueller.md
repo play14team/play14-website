@@ -16,7 +16,7 @@ socials:
   - name: linkedin
     url : in/karsten-mueller-269b186b 
   - name: xing
-    url : /profile/Karsten_Mueller36/cv
+    url : profile/Karsten_Mueller36
 
 events:
   - London 2015
