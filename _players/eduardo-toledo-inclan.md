@@ -3,9 +3,9 @@ layout: player
 
 name: Eduardo Toledo Inclán
 position: Player
-company: Correos Express
-bio: "Comunicación"
-avatar: /images/players/EduardoToledoInclan.jpg
+company: 9Brains.es
+bio: "Founder, Agile Coach & Trainer"
+avatar: /images/players/eduardo-toledo-inclan.jpg
 socials:
   - name: linkedin
     url : in/eduardotoledoinclan/

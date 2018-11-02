@@ -3,8 +3,8 @@ layout: player
 
 name: Pierre Neis
 position: Founder
-company: We&Co
-bio: "Senior Agile Coach / Scrum Coach | Agile Digital Enterprise | Agile Coaching MBB | Agile4HR"
+company: agile² l yunikon l agile revolution group
+bio: "Senior Agile Coach"
 avatar: /images/players/PierreNeis.jpg
 socials:
   - name: email
@@ -32,6 +32,5 @@ events:
   - Basel 2018
   - Hamburg 2018
   - London 2018
-  - Brussels 2018
 
 ---

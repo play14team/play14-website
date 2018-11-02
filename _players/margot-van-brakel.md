@@ -11,6 +11,5 @@ socials:
     url : in/margotvanbrakel/
 
 events:
-  - Amsterdam 2018
 
 ---

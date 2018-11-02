@@ -3,9 +3,9 @@ layout: player
 
 name: Diana Muñoz Leira
 position: Player
-company: ASOCIACION OTRO TIEMPO
-bio: "Formadora. Orientadora laboral y Coach. Experta en gestión de ONG"
-avatar: /images/players/DianaMunozLeira.jpg
+company: 
+bio: "Psicóloga Social. Coach. Docente. Inteligencia emocional I Orientación laboral & Tics I Igualdad"
+avatar: /images/players/diana-munoz-leira.jpg
 socials:
   - name: linkedin
     url : in/dianaleira/

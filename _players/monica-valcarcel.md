@@ -3,8 +3,8 @@ layout: player
 
 name: Mònica Valcárcel
 position: Barcelona host
-company: Creativialab
-bio: "Digital Project Manager"
+company: HIPS [Human Inspiring People]
+bio: "CEO & Partner"
 avatar: /images/players/monica-valcarcel.jpg
 socials:
   - name: linkedin

@@ -3,9 +3,9 @@ layout: player
 
 name: Gioel Assecondi
 position: Player
-company: Bticino
+company: BTicino S.p.A.
 bio: "Project Manager"
-avatar: /images/players/GioelAssecondi.jpg
+avatar: /images/players/gioel-assecondi.jpg
 socials:
   - name: linkedin
     url : in/gioel-assecondi-76042725/

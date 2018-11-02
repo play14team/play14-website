@@ -3,12 +3,16 @@ layout: player
 
 name: Dani Diéguez
 position: Player
-company: 
-bio: "Entrepreneurship in Social and Circular Economy | Innovative trainings & mentoring | Lego® Serious Play®"
+company: Apoio.coop
+bio: "Falicitator & Mentor"
 avatar: /images/players/dani-dieguez.jpg
 socials:
   - name: linkedin
     url : in/danidieguez/
+  - name: facebook
+    url: danidieguez
+  - name: twitter
+    url: danidieguez
 events:
   - Porto 2018
 
