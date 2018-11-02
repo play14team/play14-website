@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Amsterdam 2018
-      path: events/amsterdam/2018-11
     - name: Bari 2018
       path: events/bari/2018-12
     - name: Sydney 2019
@@ -29,6 +27,8 @@
       path: events/luxembourg/2019-03
     - name: Berlin 2019
       path: events/berlin/2019-06
+    - name: Lison 2019
+      path: events/lisbon/2019-06
 - name: Players
   path: players/
   section_id: players
