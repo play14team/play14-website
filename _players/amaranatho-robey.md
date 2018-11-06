@@ -9,6 +9,8 @@ avatar: /images/players/amaranatho-robey.jpg
 socials:
   - name: linkedin
     url : in/amaranatho/
+  - name: twitter
+    url: PlayfulMonk
 
 events:
   - Amsterdam 2018
