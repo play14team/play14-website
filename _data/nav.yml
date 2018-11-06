@@ -27,7 +27,7 @@
       path: events/luxembourg/2019-03
     - name: Berlin 2019
       path: events/berlin/2019-06
-    - name: Lison 2019
+    - name: Lisbon 2019
       path: events/lisbon/2019-06
 - name: Players
   path: players/
