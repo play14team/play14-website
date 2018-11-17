@@ -25,6 +25,8 @@
       path: events/sydney/2019-03
     - name: Luxembourg 2019
       path: events/luxembourg/2019-03
+    - name: Timisoara 2019
+      path: events/timisoara/2019-05
     - name: Berlin 2019
       path: events/berlin/2019-06
     - name: Lisbon 2019
