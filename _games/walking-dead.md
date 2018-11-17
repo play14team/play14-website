@@ -2,7 +2,7 @@
 layout: game
 
 title: Walking dead
-category: warm up
+category: warmup
 tags:
   - Fun
 
