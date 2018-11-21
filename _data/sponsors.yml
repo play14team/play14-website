@@ -443,3 +443,10 @@
       url: company/farfetch.com/
     - name: instagram
       url: farfetchpeople
+
+- name: INS
+  url: https://inscm.com.au/
+  logo: /images/sponsors/sydney/ins.svg
+  socials:
+    - name: email
+      url: enquiry@inscm.com.au
