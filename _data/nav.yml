@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Bari 2018
-      path: events/bari/2018-12
     - name: Sydney 2019
       path: events/sydney/2019-03
     - name: Luxembourg 2019
