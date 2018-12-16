@@ -33,5 +33,6 @@ events:
   - Hamburg 2018
   - London 2018
   - Luxembourg 2019
+  - Vienna 2019
 
 ---

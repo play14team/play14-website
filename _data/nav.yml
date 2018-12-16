@@ -31,6 +31,8 @@
       path: events/berlin/2019-06
     - name: Lisbon 2019
       path: events/lisbon/2019-06
+    - name: Vienna 2019
+      path: events/vienna/2019-09
 - name: Players
   path: players/
   section_id: players

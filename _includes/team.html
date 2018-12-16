@@ -33,4 +33,41 @@
   {% endfor %}
 </div>
 
+  {% if page.mentors %}
+
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Mentors</h2>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% for m in page.mentors %}
+      {% assign member = site.players | where:"name",m | first %}
+        {% if member %}
+        <div class='small-6 medium-3 large-3 columns'>
+          <div class='mod modTeamMember style-2'>
+            <div class='member'>
+              <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                {% include socialmedia.html variable-param=member.socials %} 
+              </div>
+            </div>
+            <h3><a href="{{member.url}}">{{m}}</a></h3>
+            <p class='position'>{{member.position}}</p>
+            <p>
+              {{member.bio}}
+              {%if member.company %}
+                <br>at {{member.company}}
+              {% endif %}
+            </p>
+            <div class='two spacing'></div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% endif %}
+
 {% endif %}
