@@ -2,7 +2,7 @@
 layout: player
 
 name: Ulises Aguila
-position: Player
+position: Mexico host
 company: 
 bio: ""
 avatar: /images/players/ulises-aguila.jpg
@@ -12,5 +12,6 @@ socials:
 
 events:
   - London 2018
+  - Mexico 2019
 
 ---
