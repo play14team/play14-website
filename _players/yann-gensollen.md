@@ -25,5 +25,6 @@ events:
   - Milano 2017
   - Barcelona 2017
   - Luxembourg 2018
+  - Luxembourg 2019
  
 ---
