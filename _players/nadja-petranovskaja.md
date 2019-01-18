@@ -3,7 +3,7 @@ layout: player
 
 name: Nadja Petranovskaja
 position: Player
-company: University of Applied Sciences Europe
+company: Nadja Petranovskaja
 bio: "Endlich Montag!"
 avatar: /images/players/nadja-petranovskaja.jpg
 socials:
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2018
+  - Berlin 2019
 
 ---
