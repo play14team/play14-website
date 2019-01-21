@@ -12,5 +12,6 @@ socials:
 
 events:
   - Vienna 2019
+  - Berlin 2019
 
 ---

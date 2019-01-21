@@ -12,5 +12,6 @@ socials:
 
 events:
   - Basel 2018
+  - Berlin 2019
 
 ---
