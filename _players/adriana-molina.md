@@ -3,7 +3,7 @@ layout: player
 
 name: Adriana Molina
 position: Mexico host
-company: PALO IT
+company: 
 bio: "Agile Coach"
 avatar: /images/players/adriana-molina.jpg
 socials:

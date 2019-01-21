@@ -3,7 +3,7 @@ layout: player
 
 name: Mario Méndez López
 position: Mexico host
-company: sINNplify
+company: 
 bio: "Agile Coach & Co-Founder"
 avatar: /images/players/mario-mendez-lopez.jpg
 socials:
