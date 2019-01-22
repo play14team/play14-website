@@ -22,5 +22,6 @@ events:
   - Luxembourg 2016
   - Luxembourg 2018
   - Hamburg 2018
+  - Luxembourg 2019
 
 ---

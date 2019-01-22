@@ -12,5 +12,6 @@ socials:
 
 events:
   - Porto 2018
+  - Luxembourg 2019
 
 ---
