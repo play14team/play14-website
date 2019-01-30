@@ -27,6 +27,8 @@
       path: events/timisoara/2019-05
     - name: Mexico 2019
       path: events/mexico/2019-05
+    - name: Bologna 2019
+      path: events/bologna/2019-06
     - name: Brussels 2019
       path: events/brussels/2019-06
     - name: Berlin 2019
