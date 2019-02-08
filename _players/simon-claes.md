@@ -11,5 +11,6 @@ socials:
     url : in/simon-claes-98189654/
 
 events:
+  - Brussels 2019
 
 ---

@@ -18,5 +18,6 @@ events:
   - Luxembourg 2014
   - Beirut 2015
   - Luxembourg 2017
+  - Brussels 2019
   
 ---
