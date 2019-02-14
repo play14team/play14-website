@@ -450,3 +450,30 @@
   socials:
     - name: email
       url: enquiry@inscm.com.au
+
+- name: Tyro
+  url: https://www.tyro.com/
+  logo: /images/sponsors/sydney/tyro.png
+  socials:
+    - name: linkedin
+      url: company/tyro-payments/
+    - name: twitter
+      url: tyro
+    - name: facebook
+      url: tyrolimited
+
+- name: DIUS
+  url: https://dius.com.au/
+  logo: /images/sponsors/sydney/DIUS.png
+  socials:
+    - name: linkedin
+      url: company/dius-computing/
+    - name: twitter
+      url: dius_au
+
+- name: TheWorkshopper
+  url: https://theworkshopper.com/
+  logo: /images/sponsors/sydney/the-workshopper.jpg
+  socials:
+    - name: instagram
+      url: the_workshopper/
