@@ -51,6 +51,17 @@
     - name: twitter
       url: agilereloaded
 
+- name: Nokia
+  url: https://www.nokia.com
+  logo: /images/sponsors/nokia_white_logo.png
+  socials:
+    - name: twitter
+      url: nokia
+    - name: linkedin
+      url: company/nokia/
+    - name: facebook
+      url: nokia/
+
 - name: Nokia Romania
   url: http://www.nokia.com/ro_ro
   logo: /images/sponsors/timisoara/nokia.png
@@ -477,3 +488,14 @@
   socials:
     - name: instagram
       url: the_workshopper/
+
+- name: Talkdesk
+  url: https://www.talkdesk.com
+  logo: /images/sponsors/lisbon/talkdesk_logo.png
+  socials:
+    - name: twitter
+      url: talkdesk
+    - name: linkedin
+      url: company/talkdesk/
+    - name: facebook
+      url: talkdesk
