@@ -1,7 +1,7 @@
 {% assign author = site.players | where:"name",include.variable-param | first %}
 
 <div class='author'>
-    {% if author %}
+    {% if include.variable-param && author %}
         <p class='author-avatar'>
             <img alt="" src="{{author.avatar}}" width="80px" />
         </p>
