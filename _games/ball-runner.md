@@ -21,7 +21,7 @@ firstplayed: London 2015
 scale: Min 4, Max 20
 timebox: 30 - 45 mins
 
-excerpt: In this game teams are challenged to achieve a series of simple tasks as quickly as possible. The game will quickly introduce bottlenecks, which in turn will generate a high amount of work in progress. Teams are given the opportunity to make several attempts, each time taking the opportunity to inspect and adapt.
+excerpt: In this game teams are challenged to achieve a series of simple tasks as quickly as possible. The game will quickly introduce bottlenecks, which in turn will generate a high amount of work in progress. Teams are given the opportunity to make several attempts, each time taking the opportunity to inspect and adapt. This game was created during ##play14 London 2015
 
 materials:
   - 100 balls

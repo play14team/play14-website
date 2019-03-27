@@ -14,7 +14,7 @@ originators:
   - Mo-Ling Chui
 firstplayed: London 2017
 scale: Min 6, Max depends on the number of games you have
-timebox: 2 mnins of play, 20 minutes of cleanup
+timebox: 2 mins of play, 20 minutes of cleanup
 
 excerpt: "Happy Salmon at scale"
 
