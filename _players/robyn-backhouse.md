@@ -3,9 +3,9 @@ layout: player
 
 name: Robyn Backhouse
 position: Player
-company: Trinity Mirror plc
-bio: "Scrum Master and Project Manager"
-avatar: /images/players/RobynBackhouse.jpg
+company: DAZN
+bio: "Scrum master and Agile coach"
+avatar: /images/players/robyn-backhouse.jpg
 socials:
   - name: linkedin
     url : in/robynbackhouse/

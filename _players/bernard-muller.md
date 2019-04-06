@@ -15,5 +15,6 @@ events:
   - Luxembourg 2015
   - Luxembourg 2016
   - Luxembourg 2018
+  - Luxembourg 2019
 
 ---

@@ -9,6 +9,8 @@ avatar: /images/players/frederik-vannieuwenhuyse.jpg
 socials:
   - name: linkedin
     url : in/frederikvannieuwenhuyse/
+  - name: twitter
+    url: vfrederik
 
 events:
   - Brussels 2019

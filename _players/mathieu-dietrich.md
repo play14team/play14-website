@@ -3,8 +3,8 @@ layout: player
 
 name: Mathieu Dietrich
 position: Player
-company: Agile Coach
-bio: "BGL BNP Paribas"
+company: Agile Partner
+bio: "Agile Coach"
 avatar: /images/players/mathieu-dietrich.jpg
 socials:
   - name: linkedin
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2018
+  - Luxembourg 2019
 
 ---

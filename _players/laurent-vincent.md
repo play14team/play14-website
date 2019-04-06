@@ -3,7 +3,7 @@ layout: player
 
 name: Laurent Vincent
 position: Player
-company: q-leap
+company: Swipe
 bio: "UX specialist"
 avatar: /images/players/LaurentVincent.jpg
 socials:
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2017
+  - Luxembourg 2019
 
 ---
