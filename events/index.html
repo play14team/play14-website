@@ -16,7 +16,7 @@ section_id: events
           {% assign categories = site.events | sort:"category" | group_by:"category" %}
           {% for category in categories %}
             <li>
-              <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }}</a>
+              <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }} ({{category.items.size}})</a>
             </li>
           {% endfor %}
         </ul>
