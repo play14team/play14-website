@@ -4,15 +4,35 @@ layout: default
 
 {% assign location = site.data.locations[page.location] %}
 
+<!-- Media -->
+{% assign mediaList = site.emptyArray %}
+{% for media in site.data.media %}
+  {% if media.name contains page.title %}
+    {% assign mediaList = mediaList | push: media %}
+  {% endif %}
+{% endfor %}
+
 <div class='full no-padding alternate-background'>
   <div class='spacing'></div>
   <div class='row'>
-    <div class='large-10 columns'>
+    <div class='large-7 columns'>
       <!-- Title & date -->
       <h1 class="fadeinright"><a href="{{page.url}}">{{page.title}}</a></h1>
       <h2 class="fadeinleft">{{page.schedule.dates}}</h2>
       {% if page.schedule.isCancelled %}
         <h2 class="fadeinright"><a href="#EventCancelled">CANCELLED</a></h2>
+      {% endif %}
+    </div>
+
+    <!-- Media -->
+    <div class='large-3 columns'>
+      {% if mediaList.size > 0 %}
+      <div class='spacing'></div>
+      <div>
+          {% for media in mediaList %}
+            {% include medium.html variable-param=media %} 
+          {% endfor %}
+      </div>
       {% endif %}
     </div>
 
@@ -136,26 +156,6 @@ layout: default
 
   </div>
 </div>
-
-<!-- Media -->
-{% assign mediaList = site.emptyArray %}
-{% for media in site.data.media %}
-  {% if media.name contains page.title %}
-    {% assign mediaList = mediaList | push: media %}
-  {% endif %}
-{% endfor %}
-
-{% if mediaList.size > 0 %}
-<div class='full'>
-  <div class='row'>
-    <h2>Photos & Videos</h2>
-    {% for media in mediaList %}
-      {% include medium.html variable-param=media %} 
-    {% endfor %}
-    </div>
-</div>
-{% endif %}
-
 
 <!--Time table-->
 {% if page.timetable %}
