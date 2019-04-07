@@ -17,5 +17,6 @@ socials:
 events:
   - Madrid 2017
   - Madrid 2018
+  - Madrid 2019
   
 ---

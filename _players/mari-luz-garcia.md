@@ -19,5 +19,6 @@ events:
   - Madrid 2017
   - Madrid 2018
   - Luxembourg 2019
+  - Madrid 2019
   
 ---
