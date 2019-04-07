@@ -13,5 +13,6 @@ socials:
 events:
   - Luxembourg 2018
   - Amsterdam 2018
+  - Amsterdam 2019
 
 ---

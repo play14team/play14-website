@@ -37,6 +37,7 @@ events:
   - Amsterdam 2018
   - Sydney 2019
   - Luxembourg 2019
+  - Madrid 2019
 
 ---
 

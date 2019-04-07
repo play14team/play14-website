@@ -26,6 +26,7 @@ events:
   - Timisoara 2017
   - Luxembourg 2018
   - Hamburg 2018
+  - Luxembourg 2019
   - Berlin 2019
   - Vienna 2019
 
