@@ -499,3 +499,14 @@
       url: company/talkdesk/
     - name: facebook
       url: talkdesk
+
+- name: SessionLab
+  url: https://www.sessionlab.com/
+  logo: /images/sponsors/madrid/sessionlab.png
+  socials:
+    - name: twitter
+      url: SessionLab
+    - name: facebook
+      url: SessionLab
+    - name: linkedin
+      url: company/trainedon/
