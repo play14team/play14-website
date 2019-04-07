@@ -15,28 +15,7 @@ section_id: media
     {% for media in site.data.media %}
         <div class='two spacing'></div>
         <h3>{{media.name}}</h3>
-        <div class='mod modClients' data-slides_to_show='4' data-speed='2000'>
-            <div class='clients'>
-                {% if media.photos %}
-                <a class="btn btn-default" href="{{media.photos}}" target="_blank">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle fa-stack-2x"></i>
-                        <i class="fa fa-photo fa-stack-1x fa-inverse"></i>
-                    </span>
-                    Photos
-                </a>
-                {% endif %}
-                {% if media.videos %}
-                <a class="btn btn-default btn-sm" href="{{media.videos}}" target="_blank">
-                    <span class="fa-stack fa-lg">
-                        <i class="fa fa-circle  fa-stack-2x"></i>
-                        <i class="fa fa-video-camera fa-stack-1x fa-inverse"></i>
-                    </span>
-                    Videos
-                </a>
-                {% endif %}
-            </div>
-        </div>
+        {% include medium.html variable-param=media %} 
     {% endfor %}
   </div>
 </div>

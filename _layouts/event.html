@@ -137,6 +137,26 @@ layout: default
   </div>
 </div>
 
+<!-- Media -->
+{% assign mediaList = site.emptyArray %}
+{% for media in site.data.media %}
+  {% if media.name contains page.title %}
+    {% assign mediaList = mediaList | push: media %}
+  {% endif %}
+{% endfor %}
+
+{% if mediaList.size > 0 %}
+<div class='full'>
+  <div class='row'>
+    <h2>Photos & Videos</h2>
+    {% for media in mediaList %}
+      {% include medium.html variable-param=media %} 
+    {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+
 <!--Time table-->
 {% if page.timetable %}
   <div class='full'>
