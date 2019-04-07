@@ -38,6 +38,7 @@ events:
   - Sydney 2019
   - Luxembourg 2019
   - Madrid 2019
+  - Kuala Lumpur 2019
 
 ---
 

@@ -14,5 +14,7 @@ events:
   - Madrid 2018
   - Hamburg 2018
   - Sydney 2019
+  - Lisbon 2019
+  - Kuala Lumpur 2019
 
 ---
