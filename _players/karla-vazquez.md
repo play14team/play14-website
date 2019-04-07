@@ -2,7 +2,7 @@
 layout: player
 
 name: Karla Vázquez
-position: Mexico host
+position: Player
 company: 
 bio: "PMP, Thinker y Diseñadora de experiencias de aprendizaje"
 avatar: /images/players/karla-vazquez.jpg
