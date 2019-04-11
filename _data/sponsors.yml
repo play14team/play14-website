@@ -510,3 +510,10 @@
       url: SessionLab
     - name: linkedin
       url: company/trainedon/
+  
+- name: Markhof
+  url: https://markhof.wien/
+  logo: /images/sponsors/vienna/markhof.png
+  socials:
+    - name: facebook
+      url: markhof.wien
