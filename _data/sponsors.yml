@@ -517,3 +517,32 @@
   socials:
     - name: facebook
       url: markhof.wien
+
+- name: Business Agility Mexico
+  url: https://businessagility.institute/bam/business-agility-mx/
+  logo: /images/sponsors/mexico/BAMX.png
+  socials:
+    - name: facebook
+      url: pages/category/Community/Business-Agility-México-2534210283471312/
+
+- name: Palo IT
+  url: https://www.palo-it.com/
+  logo: /images/sponsors/mexico/PaloIT.png
+  socials:
+    - name: twitter
+      url: Palo_IT
+
+- name: Proyectum
+  url: https://www.proyectum.com/mx/
+  logo: /images/sponsors/mexico/Proyectum.png
+  socials:
+    - name: twitter
+      url: proyectummx
+
+- name: Yunikon Academy
+  url: https://yunikon.academy/
+  logo: /images/sponsors/mexico/Yunikon.png
+  socials:
+    - name: email
+      url: info@yunikon.academy
+      
