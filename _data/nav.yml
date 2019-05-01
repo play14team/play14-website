@@ -35,6 +35,8 @@
       path: events/basel/2019-08
     - name: Vienna 2019
       path: events/vienna/2019-09
+    - name: Hamburg 2019
+      path: events/hamburg/2019-09
     - name: Brussels 2019
       path: events/brussels/2019-09
     - name: Kuala Lumpur 2019
