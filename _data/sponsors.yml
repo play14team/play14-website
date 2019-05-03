@@ -549,3 +549,13 @@
 - name: The Debriefing Cube
   url: http://thedebriefingcube.com/
   logo: /images/sponsors/thedebriefingcube.png
+
+- name: 'oose'
+  url: http://www.oose.de
+  logo: /images/sponsors/hamburg/oose.png
+  socials:
+    - name: email
+      url: info@oose.de
+    - name: twitter
+      url: ooseNews
+
