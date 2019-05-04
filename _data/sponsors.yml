@@ -519,11 +519,13 @@
       url: markhof.wien
 
 - name: Business Agility Mexico
-  url: https://businessagility.institute/bam/business-agility-mx/
+  url: Agil_BAMEX
   logo: /images/sponsors/mexico/BAMX.png
   socials:
     - name: facebook
       url: pages/category/Community/Business-Agility-México-2534210283471312/
+    - name: twitter
+      url: Agil_BAMEX
 
 - name: Palo IT
   url: https://www.palo-it.com/
@@ -533,11 +535,11 @@
       url: Palo_IT
 
 - name: Proyectum
-  url: https://twitter.com/Agil_BAMEX
+  url: https://www.proyectum.com/mx/
   logo: /images/sponsors/mexico/Proyectum.png
   socials:
     - name: twitter
-      url: Agil_BAMEX
+      url: proyectummx
 
 - name: Yunikon Academy
   url: https://yunikon.academy/
