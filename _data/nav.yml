@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Timisoara 2019
-      path: events/timisoara/2019-05
     - name: Mexico 2019
       path: events/mexico/2019-05
     - name: Madrid 2019
@@ -39,6 +37,8 @@
       path: events/hamburg/2019-09
     - name: Brussels 2019
       path: events/brussels/2019-09
+    - name: London 2019
+      path: events/london/2019-09
     - name: Kuala Lumpur 2019
       path: events/kuala-lumpur/2019-10
 - name: Players

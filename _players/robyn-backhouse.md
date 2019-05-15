@@ -14,5 +14,6 @@ events:
   - London 2016
   - London 2017
   - London 2018
+  - London 2019
 
 ---

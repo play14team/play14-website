@@ -13,5 +13,6 @@ socials:
 events:
   - London 2017
   - London 2018
+  - London 2019
 
 ---
