@@ -7,7 +7,9 @@
             <div class='small-8 columns' style="text-align: left; font-weight: bold">
             {{event.schedule.dates}}
             </div>
-            {% if event.schedule.isOver == false %}
+            {% if event.schedule.isCancelled %}
+                <strong style="color: #FF5200" >Cancelled</strong>
+            {% elsif event.schedule.isOver == false %}
                 <div class='small-4 columns' style="text-align: right; font-weight: bold">
                 {% if  event.regisrtration.type == "link" %}
                     <a href="{{event.regisrtration.url}}" target="_blank">Register</a>
