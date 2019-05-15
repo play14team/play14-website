@@ -15,5 +15,6 @@ socials:
     url: danidieguez
 events:
   - Porto 2018
+  - Lisbon 2019
 
 ---

@@ -17,5 +17,6 @@ events:
   - Luxembourg 2015
   - Luxembourg 2018
   - Luxembourg 2019
+  - Lisbon 2019
 
 ---

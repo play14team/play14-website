@@ -15,5 +15,6 @@ events:
   - Barcelona 2017
   - Madrid 2018
   - Porto 2018
+  - Lisbon 2019
 
 ---
