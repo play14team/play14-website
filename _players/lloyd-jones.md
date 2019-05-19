@@ -2,7 +2,7 @@
 layout: player
 
 name: Lloyd Jones
-position: Player
+position: London host
 company: Adventures With Agile
 bio: "Agile Coach"
 avatar: /images/players/LloydJones.jpg

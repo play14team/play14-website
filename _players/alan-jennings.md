@@ -2,7 +2,7 @@
 layout: player
 
 name: Alan Jennings
-position: Player
+position: London host
 company: Worth Internet Systems
 bio: "Contract Scrum Master"
 avatar: /images/players/alan-jennings.jpg
