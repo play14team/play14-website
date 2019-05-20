@@ -3,8 +3,8 @@ layout: player
 
 name: Alan Jennings
 position: London host
-company: Worth Internet Systems
-bio: "Contract Scrum Master"
+company: Blue Jay Agility
+bio: "Agile Coach"
 avatar: /images/players/alan-jennings.jpg
 socials:
   - name: linkedin
