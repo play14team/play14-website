@@ -415,7 +415,7 @@
     - name: instagram
       url: micromarche/
 
-- name: DarkHorse
+- name: Dark Horse
   url: https://www.thedarkhorse.de/
   logo: /images/sponsors/berlin/dark-horse.png
   socials:
@@ -561,3 +561,11 @@
     - name: twitter
       url: ooseNews
 
+- name: More Shiny Eyes
+  url: https://www.kickstarter.com/projects/wondercards/wondercards-amazing-workshops-trainings-and-sessio
+  logo: /images/sponsors/berlin/2019/MSE.png
+  socials:
+    - name: linkedin
+      url: in/petranovskaja/
+    - name: youtube
+      url: c/more-shiny-eyes
