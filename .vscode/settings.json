@@ -6,5 +6,8 @@
         "**/.hg": true,
         "**/.DS_Store": true,
         "**/_site/**": true
-    }
+    },
+    "cSpell.words": [
+        "Wemanity"
+    ]
 }

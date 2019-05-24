@@ -3,8 +3,8 @@ layout: player
 
 name: Beatriz Gortazar
 position: Madrid host
-company: Hewlett-Packard Enterprise
-bio: "Project Manager & Marketing Specialist"
+company: Altitude
+bio: "Marketing Manager"
 avatar: /images/players/BeatrizGortazar.jpg
 socials:
   - name: email

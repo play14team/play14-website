@@ -569,3 +569,34 @@
       url: in/petranovskaja/
     - name: youtube
       url: c/more-shiny-eyes
+
+- name: Wemanity
+  url: https://wemanity.com/
+  logo: /images/sponsors/madrid/wemanity.png
+  socials:
+  - name: facebook
+    url: Wemanity
+  - name: twitter
+    url: wemanity
+  - name: instagram
+    url: wemanity
+  - name: youtube
+    url: channel/UC6OtUOYvbMIjs1RX0sXhffg
+
+- name: Meeting Spicers
+  url: https://www.indiegogo.com/projects/the-meeting-spicer#/
+  logo: /images/sponsors/meeting-spicers.png
+  socials:
+  - name: facebook
+    url: MeetingSpicer
+  
+- name: Altitude
+  url: https://www.altitude.com/
+  logo: /images/sponsors/madrid/altitude.png
+  socials:
+  - name: facebook
+    url: altitudesoftware?fref=ts
+  - name: twitter
+    url: AltitudeSoft
+  - name: linkedin
+    url: user/AltitudeSoftware
