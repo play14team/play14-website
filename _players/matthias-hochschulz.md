@@ -5,7 +5,7 @@ name: Matthias Hochschulz
 position: Player
 company: Agile Coach Matthias
 bio: "Experienced Information Technology Specialist"
-avatar: /images/players/nora-dietrich.jpg
+avatar: /images/players/matthias-hochschulz.jpg
 socials:
   - name: linkedin
     url: in/matthias-hochschulz-026b615/
