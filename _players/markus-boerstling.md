@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2018
+  - Hamburg 2019
 
 ---
