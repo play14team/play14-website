@@ -3,7 +3,7 @@ layout: player
 
 name: Beatriz Gortazar
 position: Madrid host
-company: Altitude
+company: Altitude Software
 bio: "Marketing Manager"
 avatar: /images/players/BeatrizGortazar.jpg
 socials:

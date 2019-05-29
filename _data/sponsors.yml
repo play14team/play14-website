@@ -590,7 +590,7 @@
   - name: facebook
     url: MeetingSpicer
   
-- name: Altitude
+- name: Altitude Software
   url: https://www.altitude.com/
   logo: /images/sponsors/madrid/altitude.png
   socials:
@@ -600,3 +600,12 @@
     url: AltitudeSoft
   - name: linkedin
     url: user/AltitudeSoftware
+
+- name: La Cuina
+  url: http://www.lacuinarestaurante.es/
+  logo: /images/sponsors/madrid/lacuina.png
+  socials:
+  - name: facebook
+    url: la.restaurante
+  - name: twitter
+    url: lacuinamadrid
