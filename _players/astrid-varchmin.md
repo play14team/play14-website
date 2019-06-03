@@ -7,9 +7,10 @@ company: "Varchmin Consulting"
 bio: "Success Needs Diversity"
 avatar: /images/players/astrid-varchmin.jpg
 socials:
-- name: linkedin
+ - name: linkedin
    url: in/astrid-varchmin-88042946/
+
 events:
-    - Berlin 2019
+ - Berlin 2019
 
 ---
