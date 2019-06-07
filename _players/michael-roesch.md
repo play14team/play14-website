@@ -3,7 +3,7 @@ layout: player
 
 name: Michael Rösch
 position: Player
-company: TOMINO GbR
+company: wirDesign
 bio: "Vorstand, Berater, Partner"
 avatar: /images/players/michael-roesch.jpg
 socials:
