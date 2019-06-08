@@ -14,7 +14,7 @@ originators:
   - Stanislava Potupchik
 firstplayed: Amsterdam 2017
 scale: Min 15, Max unlimited
-timebox: 10 mnins
+timebox: 10 mins
 
 excerpt: "Find you flock makes you use your ears. Careful, it can be pretty loud."
 
