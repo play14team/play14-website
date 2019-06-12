@@ -4,7 +4,7 @@ layout: player
 name: Sarah Banasiak
 position: Player
 company: Sarah Banasiak - Training | Facilitation | Mediation
-bio: "um empathisches Verständnis zu fördern. Für erfolgreichere Unternehmen. Und mit Weltverbesserer-Gen"
+bio: "Für erfolgreichere Unternehmen. Und mit Weltverbesserer-Gen"
 avatar: /images/players/sarah-banasiak.jpg
 socials:
   - name: linkedin
