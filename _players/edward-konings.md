@@ -15,5 +15,6 @@ events:
   - Hamburg 2018
   - Luxembourg 2019
   - Berlin 2019
+  - Hamburg 2019
 
 ---
