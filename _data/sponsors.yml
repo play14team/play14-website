@@ -570,6 +570,10 @@
     - name: youtube
       url: c/more-shiny-eyes
 
+- name: Kaffee Form
+  url: http://www.kaffeeform.com
+  logo: /images/sponsors/berlin/kaffeeformlogo_schwarz.png
+
 - name: Wemanity
   url: https://wemanity.com/
   logo: /images/sponsors/madrid/wemanity.png
