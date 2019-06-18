@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Bologna 2019
-      path: events/bologna/2019-06
     - name: Berlin 2019
       path: events/berlin/2019-06
     - name: Lisbon 2019
