@@ -5,7 +5,7 @@ name: Manuela Guderian
 position: Player
 company: Berliner Verkehrsbetriebe (BVG)
 bio: "Agile Coach"
-avatar: /images/players/wmanuela-guderian.jpg
+avatar: /images/players/manuela-guderian.jpg
 socials:
   - name: linkedin
     url: /in/manuela-guderian-201515158/
