@@ -4,7 +4,7 @@ layout: player
 name: Nadja Petranovskaja
 position: Player
 company: Nadja Petranovskaja
-bio: "Endlich Montag!"
+bio: "More Shiny Eyes"
 avatar: /images/players/nadja-petranovskaja.jpg
 socials:
   - name: linkedin
@@ -13,5 +13,6 @@ socials:
 events:
   - Hamburg 2018
   - Berlin 2019
+  - Hamburg 2019
 
 ---
