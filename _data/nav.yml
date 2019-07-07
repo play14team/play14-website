@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Lisbon 2019
-      path: events/lisbon/2019-06
     - name: Basel 2019
       path: events/basel/2019-08
     - name: Vienna 2019
