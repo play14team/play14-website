@@ -31,6 +31,10 @@
       path: events/london/2019-09
     - name: Kuala Lumpur 2019
       path: events/kuala-lumpur/2019-10
+    - name: Luxembourg 2020
+      path: events/luxembourg/2020-03
+    - name: Porto 2020
+      path: events/porto/2020-07
 - name: Players
   path: players/
   section_id: players
