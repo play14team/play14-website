@@ -2,7 +2,7 @@
 layout: player
 
 name: Mioara Petre
-position: Player
+position: Luxembourg host
 company: 
 bio: "Looking for a new challenge"
 avatar: /images/players/MioaraPetre.jpg
