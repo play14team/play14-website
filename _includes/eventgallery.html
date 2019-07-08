@@ -22,22 +22,25 @@
         <a href='{{event.url}}'>
             <img alt="" src="{{event.images.first}}" />
             <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-            <div class='thumb-info'>
-                <h3>{{event.schedule.dates}}</h3>
-                <h3>{{site.data.locations[event.location].name | default: event.location}}</h3>
-                <h4>
-                {% if event.schedule.isOver %}
-                    Event over
-                {% elsif event.registration %}
-                    Registration Open
-                {% else %}
-                    Coming soon
-                {% endif %}
-                </h4>
-            </div>
+                <div class='thumb-info'>
+                    <h3>{{event.schedule.dates}}</h3>
+                    <h3>{{site.data.locations[event.location].name | default: event.location}}</h3>
+                    <h4>
+                    {% if event.schedule.isOver %}
+                        Event over
+                    {% elsif event.registration %}
+                        Registration Open
+                    {% else %}
+                        Coming soon
+                    {% endif %}
+                    </h4>
+                </div>
             </div>
         </a>
         <h3>{{event.title}}</h3>
+        <div style="position: relative; top: -60px; left:5px; z-index: 1;">
+            <h3 class="fadeinright" style="color: #FF5200">{{event.subtitle}}</h3>
+        </div>
     </li>
 {% endfor %}
 </ul>
