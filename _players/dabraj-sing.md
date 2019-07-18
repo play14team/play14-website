@@ -2,7 +2,7 @@
 layout: player
 
 name: Dabraj Sing
-position: Malaysia host
+position: Player
 company: AirAsia
 bio: "Regional Head of Transformation | Change Management | Business Turnaround | Agile and Lean Practitioner"
 avatar: /images/players/dabraj-sing.jpg

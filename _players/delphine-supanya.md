@@ -2,7 +2,7 @@
 layout: player
 
 name: Delphine Supanya
-position: Malaysia host
+position: Player
 company: Well To Work
 bio: "Entrepreneur ★ Facilitator ★ Corporate Well-Being"
 avatar: /images/players/delphine-supanya.jpg
