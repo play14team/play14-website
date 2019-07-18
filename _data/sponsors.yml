@@ -613,3 +613,17 @@
     url: la.restaurante
   - name: twitter
     url: lacuinamadrid
+
+- name: loco-motiv
+  url: http://www.loco-motiv.ch
+  logo: /images/sponsors/emmental/loco-motiv.png
+  socials:
+  - name: twitter
+    url: hoststarhosting
+
+- name: Elbuna
+  url: http://www.elbuna.ch/
+  logo: /images/sponsors/emmental/elbuna.png
+  socials:
+  - name: facebook
+    url: elbunawerk
