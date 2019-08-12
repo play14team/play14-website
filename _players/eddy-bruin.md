@@ -2,7 +2,7 @@
 layout: player
 
 name: Eddy Bruin
-position: Player
+position: Amsterdam host
 company: Rabobank
 bio: "Quality engineer, Agile - Test coach, Trainer, Speaker"
 avatar: /images/players/eddy-bruin.jpg
@@ -14,5 +14,6 @@ events:
   - Amsterdam 2017
   - Luxembourg 2018
   - Amsterdam 2018
+  - Amsterdam 2019
 
 ---
