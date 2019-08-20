@@ -627,3 +627,7 @@
   socials:
   - name: facebook
     url: elbunawerk
+
+- name: AgentEx
+  url: https://www.agentex.at/
+  logo: /images/sponsors/vienna/agentex.png
