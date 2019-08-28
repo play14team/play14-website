@@ -3,8 +3,10 @@ layout: game
 title: Silent retrospective
 category: facilitation
 tags:
-  - silence
-  - introspection
+  - collaboration
+  - focus
+  - engagement
+  - better meetings
 
 publishdate: 2019-04-06 00:00:00
 
@@ -12,11 +14,11 @@ authors:
   - Ricardo Fernandes
 originators: 
   - Ricardo Fernandes
-firstplayed: Luxembourg 2018
+firstplayed: Luxembourg 2019
 scale: Min 4, Max 10
 timebox: 60 mnins
 
-excerpt: "The silence retrospective allow your team to engage their energy and focus only for the meeting. If you have the problem on 80/20 meetings, you should try this technique. At the end of the meeting everyone will be suppressed on the result."
+excerpt: "The silence retrospective allow your team to engage their energy and focus only for the meeting. If you have the problem on 80/20 meetings, you should try this technique. At the end of the meeting everyone will be suppressed on the result. "
 
 materials:
     - Post-its notes
