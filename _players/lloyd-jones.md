@@ -3,16 +3,14 @@ layout: player
 
 name: Lloyd Jones
 position: London host
-company: Adventures With Agile
-bio: "Agile Coach"
+company: Motability Operations
+bio: "An agile coach and team lead with 11 years industry experience"
 avatar: /images/players/LloydJones.jpg
 socials:
-  - name: email
-    url: lloyd.t.jones@gmail.com
   - name: twitter
     url : l0p3zj0n3s
-  - name: google-plus
-    url : +LloydJones1983
+  - name: instagram
+    url : l0p3zj0n3s
   - name: linkedin
     url : in/lloyd-jones-a82ab721
 

@@ -3,8 +3,8 @@ layout: player
 
 name: Dörte Müller
 position: Player
-company: Otto
-bio: "Agiler Organisationsentwickler"
+company: 55BirchStreet.com
+bio: "Managerin & Agile Transition Consultant"
 avatar: /images/players/DorteMuller.jpg
 socials:
   - name: linkedin
