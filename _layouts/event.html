@@ -186,17 +186,15 @@ layout: default
   <div class='spacing'></div>
   <div class='row'>
     <h2>Register</h2>
-    {% if page.registration.tickets-widget %}
+    {% if page.registration.eventid %}
     <div class='large-10 columns'>
       <div style="width:100%; text-align:left;">
-        <iframe src="{{page.registration.tickets-widget}}" frameborder="0" height="475" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+        <iframe src="https://www.eventbrite.com/tickets-external?eid={{page.registration.eventid}}&ref=etckt" frameborder="0" height="475" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
       </div>
     </div>
-    {% endif %}
-    {% if page.registration.countdown-widget %}
     <div class='large-2 columns'>
       <div style="width:195px; text-align:center;" >
-        <iframe  src="{{page.registration.countdown-widget}}" frameborder="0" height="475" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
+        <iframe  src="https://www.eventbrite.com/countdown-widget?eid={{page.registration.eventid}}" frameborder="0" height="475" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
       </div>
     </div>
     {% endif %}
