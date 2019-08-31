@@ -3,9 +3,9 @@ layout: player
 
 name: Koen van der Pasch
 position: Netherlands host
-company: Cegeka
-bio: "Management consultant"
-avatar: /images/players/KoenVanDerPasch.jpg
+company: Agilista.me
+bio: "Agile Coach"
+avatar: /images/players/koen-van-der-pasch.jpg
 socials:
   - name: linkedin
     url : in/agilista/
