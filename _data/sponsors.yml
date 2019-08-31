@@ -631,3 +631,16 @@
 - name: AgentEx
   url: https://www.agentex.at/
   logo: /images/sponsors/vienna/agentex.png
+
+- name: Strategiefabriek
+  url: https://www.strategiefabriek.nl/
+  logo: /images/sponsors/amsterdam/strategiefabriek.png
+  socials:
+  - name: twitter
+    url: strategiefab
+  - name: linkedin
+    url: company/strategiefabriek
+  - name: facebook
+    url: strategiefabriek
+  - name: instagram
+    url: strategiefabriek
