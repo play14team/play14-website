@@ -13,5 +13,6 @@ socials:
 events:
   - Hamburg 2018
   - Lisbon 2019
+  - Vienna 2019
 
 ---
