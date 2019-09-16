@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Hamburg 2019
-      path: events/hamburg/2019-09
     - name: London 2019
       path: events/london/2019-09
     - name: Emmental 2019
