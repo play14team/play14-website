@@ -644,3 +644,16 @@
     url: strategiefabriek
   - name: instagram
     url: strategiefabriek
+
+- name: ABN-Amro
+  url: https://www.abnamro.com
+  logo: /images/sponsors/amsterdam/abn-amro.png
+  socials:
+  - name: twitter
+    url: abnamro
+  - name: linkedin
+    url: company/abn-amro
+  - name: facebook
+    url: abnamro
+
+    
