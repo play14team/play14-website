@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: London 2019
-      path: events/london/2019-09
     - name: Emmental 2019
       path: events/emmental/2019-10
     - name: Kuala Lumpur 2019
