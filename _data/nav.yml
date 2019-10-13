@@ -29,6 +29,8 @@
       path: events/luxembourg/2020-03
     - name: Porto 2020
       path: events/porto/2020-07
+    - name: Basel 2020
+      path: events/basel/2020-09
 - name: Players
   path: players/
   section_id: players
