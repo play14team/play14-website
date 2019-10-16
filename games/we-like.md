@@ -16,6 +16,8 @@ The [Debriefing Cube](http://thedebriefingcube.com/) will help you improve your 
 * Emotions
 * Take-away
 
+You can order the wooden version of the cube [here](http://fazilitation.de/Produkt/tdc-ew/).
+
 ## Rory's Story Cubes®
 
 Imagine telling stories that are dynamic, interactive, fun and randomly generated. Imagine never being stuck for an idea ever again.
@@ -57,3 +59,13 @@ Looking for a great way to improve the quality of your meetings ? Try the Meetin
 </a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9GKoj-NMfY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class='four spacing'></div>
+
+## Xtrem Reading
+
+<a href="https://www.xtrem-reading.com/">
+![Xtrem Reading](https://www.xtrem-reading.com/images/xtrem-reading-logo.png)
+</a>
+
+[Xtrem Reading](https://www.xtrem-reading.com/) is a technique that allows you to read 2 books in 1 hour in a collaborative way, using collective intelligence to process and retain more information. Created by 2 agile coaches from [Agile Partner](http://agilepartner.net) this technique has made it's way to **#play14** with a huge success.
