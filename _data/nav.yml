@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Kuala Lumpur 2019
-      path: events/kuala-lumpur/2019-10
     - name: Amsterdam 2019
       path: events/amsterdam/2019-11
     - name: Luxembourg 2020
