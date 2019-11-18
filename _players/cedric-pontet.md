@@ -4,7 +4,7 @@ layout: player
 name: Cédric Pontet
 position: Founder
 company: Agile Partner
-bio: "Software architect | Agile coach"
+bio: "CTO | Software architect | Agile coach | EventStormer | Sketchnoter | Happy Salmon guru"
 avatar: /images/players/CedricPontet.jpg
 socials:
   - name: email
