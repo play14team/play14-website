@@ -23,6 +23,8 @@
       path: events/amsterdam/2019-11
     - name: Luxembourg 2020
       path: events/luxembourg/2020-03
+    - name: Prague 2020
+      path: events/prague/2020-03
     - name: Porto 2020
       path: events/porto/2020-07
     - name: Basel 2020
