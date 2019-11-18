@@ -17,5 +17,6 @@ events:
   - Amsterdam 2018
   - Luxembourg 2019
   - Bologna 2019
+  - Amsterdam 2019
 
 ---
