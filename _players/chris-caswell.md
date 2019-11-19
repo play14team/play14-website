@@ -27,7 +27,5 @@ events:
   - Amsterdam 2018
   - Luxembourg 2019
   - London 2019
-  - Amsterdam 2019
-  - Prague 2020
 
 ---
