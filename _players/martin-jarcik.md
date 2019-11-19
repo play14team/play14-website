@@ -12,5 +12,6 @@ socials:
 
 events:
   - London 2019
+  - Prague 2020
 
 ---
