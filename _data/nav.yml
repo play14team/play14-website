@@ -19,8 +19,6 @@
       path: events/
     - name: Photos & videos
       path: media/
-    - name: Amsterdam 2019
-      path: events/amsterdam/2019-11
     - name: Luxembourg 2020
       path: events/luxembourg/2020-03
     - name: Prague 2020
