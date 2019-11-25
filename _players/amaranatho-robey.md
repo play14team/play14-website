@@ -14,5 +14,7 @@ socials:
 
 events:
   - Amsterdam 2018
+  - London 2019
+  - Amsterdam 2019
 
 ---

@@ -12,6 +12,5 @@ socials:
 
 events:
   - Sydney 2019
-  - Kuala Lumpur 2019
 
 ---

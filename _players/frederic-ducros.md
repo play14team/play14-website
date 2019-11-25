@@ -3,8 +3,8 @@ layout: player
 
 name: Frederic Ducros
 position: Malaysia host
-company: AirAsia
-bio: "Chief Transformation Officer"
+company: 
+bio: ""
 avatar: /images/players/frederic-ducros.jpg
 socials:
   - name: linkedin

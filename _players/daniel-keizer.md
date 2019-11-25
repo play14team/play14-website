@@ -3,7 +3,7 @@ layout: player
 
 name: Daniel Keizer
 position: Player
-company: Vacanceselect
+company: Betty Blocks
 bio: "Scrum Master"
 avatar: /images/players/daniel-keizer.jpg
 socials:
