@@ -2,7 +2,7 @@
 layout: player
 
 name: Patrik Kämpf
-position: Emmental host
+position: Host
 company: www.loco-motiv.ch
 bio: "Social worker FH, mediator SDM, systemic experiential educator iA"
 avatar: /images/players/patrik-kampf.jpg

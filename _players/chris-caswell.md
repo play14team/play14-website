@@ -2,7 +2,7 @@
 layout: player
 
 name: Chris Caswell
-position: London host
+position: Mentor
 bio: "Agile Coach | LEGO® SERIOUS PLAY facilitator"
 avatar: /images/players/ChrisCaswell.jpg
 socials:

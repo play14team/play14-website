@@ -2,7 +2,7 @@
 layout: player
 
 name: Lloyd Jones
-position: London host
+position: Host
 company: Motability Operations
 bio: "An agile coach and team lead with 11 years industry experience"
 avatar: /images/players/LloydJones.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Ulises Aguila
-position: Mexico host
+position: Host
 company: 
 bio: "Agile coach"
 avatar: /images/players/ulises-aguila.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Matthias Kuchem
-position: player
+position: Player
 company: TU-Dortmund
 bio: "Leadership, Agilität und Informatik. Gastdozent IT-Management TU-Dortmund"
 avatar: /images/players/MatthiasKuchem.jpg

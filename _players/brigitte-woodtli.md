@@ -2,7 +2,7 @@
 layout: player
 
 name: Brigitte Woodtli
-position: Emmental host
+position: Host
 company: www.loco-motiv.ch
 bio: "Playful, authentic, pleasurable and with humor she sets things in motion"
 avatar: /images/players/brigitte-woodtli.jpg

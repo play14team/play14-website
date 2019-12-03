@@ -2,7 +2,7 @@
 layout: player
 
 name: Nathalie Aladenise
-position: Paris host
+position: Player
 company: Nokia
 bio: "Innovation Officier"
 avatar: /images/players/nathalie-aladenise.jpg
@@ -12,6 +12,5 @@ socials:
 
 events:
   - Luxembourg 2018
-  - Paris-Saclay 2018
 
 ---

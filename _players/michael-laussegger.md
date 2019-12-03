@@ -2,7 +2,7 @@
 layout: player
 
 name: Michael Laussegger
-position: Vienna host
+position: Host
 company: Die Projektur GmbH
 bio: "Founder, Agile Coach & Practitioner"
 avatar: /images/players/michael-laussegger.jpg

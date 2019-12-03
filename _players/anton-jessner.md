@@ -2,7 +2,7 @@
 layout: player
 
 name: Anton Jessner
-position: Vienna host
+position: Host
 company: 
 bio: "Natural Scrum Enabling"
 avatar: /images/players/anton-jessner.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Martin Kuchař
-position: Prague host
+position: Host
 company: Deutsche Börse
 bio: "Agile Coach"
 avatar: /images/players/martin-kuchar.jpg

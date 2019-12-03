@@ -2,7 +2,7 @@
 layout: player
 
 name: Frederic Ducros
-position: Malaysia host
+position: Host
 company: 
 bio: ""
 avatar: /images/players/frederic-ducros.jpg

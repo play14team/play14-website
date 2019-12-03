@@ -2,7 +2,7 @@
 layout: player
 
 name: Andrew Lau
-position: Malaysia host
+position: Host
 company: Think Codex
 bio: "Founder & CEO | Vice Chair - International Gamification Confederation (GamFed)"
 avatar: /images/players/andrew-lau.jpg

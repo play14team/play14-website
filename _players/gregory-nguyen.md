@@ -2,7 +2,7 @@
 layout: player
 
 name: Gregory Nguyen
-position: Player
+position: Host
 company: Agile Partner
 bio: "Agile Coach"
 avatar: /images/players/GregoryNguyen.jpg

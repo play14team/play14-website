@@ -2,7 +2,7 @@
 layout: player
 
 name: Inge Gorgon
-position: Brussels host
+position: Player
 company: 
 bio: "Agile Coach at Swift at Cegeka"
 avatar: /images/players/inge-gorgon.jpg
@@ -11,6 +11,5 @@ socials:
     url : in/inge-gorgon-9189658/
 
 events:
-  - Brussels 2019
 
 ---

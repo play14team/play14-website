@@ -2,7 +2,7 @@
 layout: player
 
 name: Raquel Pedrouso
-position: Portugal host
+position: Host
 company: Evolutia Consulting
 bio: "Facilitadora de procesos de aprendizaje. Coaching & Gamificacion & Linkedin"
 avatar: /images/players/RaquelPedrouso.jpg

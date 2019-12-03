@@ -2,7 +2,7 @@
 layout: player
 
 name: Benoit Fortemps
-position: Luxembourg host
+position: Host
 company: Lycée des Arts et Métiers
 bio: "Enseignant"
 avatar: /images/players/benoit-fortemps.jpg

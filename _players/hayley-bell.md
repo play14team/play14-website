@@ -2,7 +2,7 @@
 layout: player
 
 name: Hayley Bell
-position: Sydney host
+position: Host
 company: 
 bio: "Coach (Organisations, Teams, Individuals)"
 avatar: /images/players/hayley-bell.jpg

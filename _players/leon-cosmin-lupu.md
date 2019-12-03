@@ -2,7 +2,7 @@
 layout: player
 
 name: Leon-Cosmin Lupu
-position: Timisoara host
+position: Host
 company: Nokia
 bio: "Innovation Program Manager"
 avatar: /images/players/LeonCosminLupu.jpg

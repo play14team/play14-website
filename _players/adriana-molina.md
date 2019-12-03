@@ -2,7 +2,7 @@
 layout: player
 
 name: Adriana Molina
-position: Mexico host
+position: Host
 company: 
 bio: "Agile Coach"
 avatar: /images/players/adriana-molina.jpg

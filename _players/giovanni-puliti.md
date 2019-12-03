@@ -2,7 +2,7 @@
 layout: player
 
 name: Giovanni Puliti
-position: Milano host
+position: Mentor
 company: AgileReloaded
 bio: "Agile Coach"
 avatar: /images/players/GiovanniPuliti.jpg

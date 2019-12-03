@@ -2,7 +2,7 @@
 layout: player
 
 name: Stanislava Potupchik
-position: Netherlands host
+position: Host
 company: Quby
 bio: "Scrum master | Soft skills Serious Games"
 avatar: /images/players/StanislavaPotupchik.jpg

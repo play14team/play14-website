@@ -2,7 +2,7 @@
 layout: player
 
 name: Ralph Warta
-position: Sydney host
+position: Host
 company: nbn™ Australia
 bio: "Agile Coach"
 avatar: /images/players/ralph-warta.jpg

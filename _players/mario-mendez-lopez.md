@@ -2,7 +2,7 @@
 layout: player
 
 name: Mario Méndez López
-position: Mexico host
+position: Host
 company: 
 bio: "Agile Coach & Co-Founder"
 avatar: /images/players/mario-mendez-lopez.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Bernhard Sterchi
-position: Basel host
+position: Mentor
 company: Palladio Trusted Advisers
 bio: "Chief Brainwave Oscillator"
 avatar: /images/players/BernhardSterchi.jpg

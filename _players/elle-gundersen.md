@@ -2,7 +2,7 @@
 layout: player
 
 name: Elle Gundersen
-position: London host
+position: Host
 company: Talan
 bio: "Change Management | Enablement | Transformation"
 avatar: /images/players/ElleGundersen.jpg

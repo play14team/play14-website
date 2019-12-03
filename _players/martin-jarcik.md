@@ -2,7 +2,7 @@
 layout: player
 
 name: Martin Jarcik
-position: Prague host
+position: Host
 company: 
 bio: "Agile Coach"
 avatar: /images/players/martin-jarcik.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Francesc Mas 
-position: Barcelona host
+position: Host
 company: TraiCo Projects
 bio: "Consultant, Coach & Speaker"
 avatar: /images/players/FrancescMas.jpg

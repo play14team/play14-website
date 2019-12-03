@@ -2,7 +2,7 @@
 layout: player
 
 name: Eddy Bruin
-position: Amsterdam host
+position: Host
 company: Rabobank
 bio: "Quality engineer, Agile - Test coach, Trainer, Speaker"
 avatar: /images/players/eddy-bruin.jpg

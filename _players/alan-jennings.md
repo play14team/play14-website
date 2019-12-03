@@ -2,7 +2,7 @@
 layout: player
 
 name: Alan Jennings
-position: London host
+position: Host
 company: Blue Jay Agility
 bio: "Agile Coach"
 avatar: /images/players/alan-jennings.jpg

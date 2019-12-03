@@ -2,7 +2,7 @@
 layout: player
 
 name: Karina Herman
-position: Timisoara host
+position: Host
 company: Haufe-Lexware
 bio: "Scrum Master"
 avatar: /images/players/KarinaHerman.jpg

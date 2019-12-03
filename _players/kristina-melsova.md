@@ -2,7 +2,7 @@
 layout: player
 
 name: Kristina Melsova
-position: Prague host
+position: Host
 company: Česká spořitelna
 bio: "Agile Coach"
 avatar: /images/players/kristina-melsova.jpg

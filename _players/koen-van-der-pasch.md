@@ -2,7 +2,7 @@
 layout: player
 
 name: Koen van der Pasch
-position: Netherlands host
+position: Mentor
 company: Agilista.me
 bio: "Agile Coach"
 avatar: /images/players/koen-van-der-pasch.jpg

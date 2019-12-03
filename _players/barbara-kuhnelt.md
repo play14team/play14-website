@@ -2,7 +2,7 @@
 layout: player
 
 name: Barbara Kühnelt
-position: Vienna host
+position: Host
 company: Hutchison Drei Austria GmbH
 bio: "Scrum Master"
 avatar: /images/players/barbara-kuhnelt.jpg

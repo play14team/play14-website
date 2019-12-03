@@ -2,7 +2,7 @@
 layout: player
 
 name: Sonja Uittenboogaard
-position: Netherlands host
+position: Host
 company: Capgemini
 bio: "Change Consultant"
 avatar: /images/players/SonjaUittenboogaard.jpg

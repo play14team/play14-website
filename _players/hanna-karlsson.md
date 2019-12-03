@@ -2,7 +2,7 @@
 layout: player
 
 name: Hanna Karlsson
-position: Sydney host
+position: Mentor
 company: 
 bio: "Agilista and Skillseeker"
 avatar: /images/players/hanna-karlsson.jpg

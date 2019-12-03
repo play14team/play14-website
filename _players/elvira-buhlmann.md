@@ -2,7 +2,7 @@
 layout: player
 
 name: Elvira Bühlmann
-position: Emmental host
+position: Host
 company: www.loco-motiv.ch
 bio: "Socio-cultural animator FH, organization developer WILOP iA"
 avatar: /images/players/elvira-buhlmann.jpg

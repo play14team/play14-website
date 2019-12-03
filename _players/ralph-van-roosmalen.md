@@ -2,7 +2,7 @@
 layout: player
 
 name: Ralph van Roosmalen
-position: Netherlands host
+position: Host
 company: Happy Melly
 bio: "Innovative Agile Enabler | Management 3.0 Facilitator | Management Coach | Agile Coach | Scrum Master"
 avatar: /images/players/RalphVanRoosmalen.jpg

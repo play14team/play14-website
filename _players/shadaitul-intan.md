@@ -2,7 +2,7 @@
 layout: player
 
 name: Shadaitul Intan
-position: Malaysia host
+position: Host
 company: Profound Learning Solutions
 bio: "Communication Coach | NLP Practitioner | Founding Member Top Voices Malaysia"
 avatar: /images/players/shadaitul-intan.jpg

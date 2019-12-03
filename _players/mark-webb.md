@@ -2,7 +2,7 @@
 layout: player
 
 name: Mark Webb
-position: London host
+position: Host
 bio: "Agile Coach"
 avatar: /images/players/MarkWebb.jpg
 socials:

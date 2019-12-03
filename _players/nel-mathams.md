@@ -2,7 +2,7 @@
 layout: player
 
 name: Nel Mathams
-position: London host
+position: Host
 company: 
 bio: "Service Designer, enterprise agile coach, user research practitioner and trainer, visual and serious play facilitator."
 avatar: /images/players/nel-mathams.jpg

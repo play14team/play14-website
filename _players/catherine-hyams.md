@@ -2,7 +2,7 @@
 layout: player
 
 name: Catherine Hyams
-position: Sydney host
+position: Host
 company: 
 bio: "Certified Scrum Master : CSM: PSM 1: PSPO 1: CSP"
 avatar: /images/players/catherine-hyams.jpg

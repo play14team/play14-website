@@ -2,7 +2,7 @@
 layout: player
 
 name: Karsten Mueller
-position: Germany host
+position: Mentor
 company: emetriq GmbH
 bio: "Agilist"
 avatar: /images/players/KarstenMueller.jpg

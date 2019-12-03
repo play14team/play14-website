@@ -2,7 +2,7 @@
 layout: player
 
 name: Pierre Hervouet
-position: Brussels host
+position: Player
 company: Upward Consulting
 bio: "Agile Catalyst"
 avatar: /images/players/PierreHervouet.jpg
@@ -18,6 +18,5 @@ events:
   - Luxembourg 2014
   - Beirut 2015
   - Luxembourg 2017
-  - Brussels 2019
   
 ---

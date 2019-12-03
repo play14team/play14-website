@@ -2,7 +2,7 @@
 layout: player
 
 name: Anko Tijman
-position: Netherlands host
+position: Host
 company: 
 bio: "Delivering Agile results ✪ Empowering digital teams ✪ DevOps visionary ✪ Seasoned Agile trainer"
 avatar: /images/players/AnkoTijman.jpg

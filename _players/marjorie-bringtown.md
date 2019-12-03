@@ -2,7 +2,7 @@
 layout: player
 
 name: Marjorie Bringtown
-position: Luxembourg host
+position: Host
 company: Innovative projects
 bio: "Learning to source kids talents/Volunteering"
 avatar: /images/players/marjorie-bringtown.jpg

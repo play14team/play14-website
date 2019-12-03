@@ -2,7 +2,7 @@
 layout: player
 
 name: Barbara Pauer-Faulmann
-position: Vienna host
+position: Host
 company: Hutchison Drei Austria
 bio: "Coach & Scrum Master"
 avatar: /images/players/barbara-pauer-faulmann.png

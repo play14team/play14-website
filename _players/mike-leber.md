@@ -2,7 +2,7 @@
 layout: player
 
 name: Mike Leber
-position: Vienna host
+position: Host
 company: "Agile Experts e.U."
 bio: "Executive Consultant | Enterprise Agile Coach | Trainer | Entrepreneur - Inspiring your Agile and Digital Transformation"
 avatar: /images/players/mike-leber.jpg

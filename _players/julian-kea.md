@@ -2,7 +2,7 @@
 layout: player
 
 name: Julian Kea
-position: Germany host
+position: Mentor
 company: "[ki:]®Learning"
 bio: "Business Skills Trainer. Trained facilitator of LEGO® SERIOUS PLAY®"
 avatar: /images/players/JulianKea.jpg

@@ -2,7 +2,7 @@
 layout: player
 
 name: Peter Stevens
-position: Basel host
+position: Player
 company: Saat Network GmbH
 bio: "Mr. Do More That Matters"
 avatar: /images/players/peter-stevens.jpg

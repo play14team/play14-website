@@ -2,7 +2,7 @@
 layout: player
 
 name: Robyn Backhouse
-position: London host
+position: Host
 company: DAZN
 bio: "Scrum master and Agile coach"
 avatar: /images/players/robyn-backhouse.jpg
