@@ -25,6 +25,8 @@
       path: events/prague/2020-03
     - name: Hamburg 2020
       path: events/hamburg/2020-04
+    - name: Berlin 2020
+      path: events/berlin/2020-06
     - name: Porto 2020
       path: events/porto/2020-07
     - name: Basel 2020
