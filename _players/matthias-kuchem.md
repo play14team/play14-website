@@ -12,5 +12,6 @@ socials:
 
 events:
   - Berlin 2019
+  - Berlin 2020
 
 ---
