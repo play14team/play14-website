@@ -25,5 +25,7 @@ events:
   - Berlin 2019
   - Hamburg 2019
   - London 2019
+  - Hamburg 2020
+  - Berlin 2020
 
 ---

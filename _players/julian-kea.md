@@ -30,5 +30,6 @@ events:
   - Berlin 2019
   - Hamburg 2019
   - Vienna 2019
+  - Berlin 2020
 
 ---
