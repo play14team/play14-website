@@ -5,7 +5,7 @@ name: Johannes Starke
 position: Player
 company: 
 bio: ""
-avatar: /images/players/JohannesSchartau.jpg
+avatar: /images/players/Johannesstarke.jpg
 socials:
   - name: linkedin
     url : in/johannes-starke/
