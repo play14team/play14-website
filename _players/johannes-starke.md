@@ -3,9 +3,9 @@ layout: player
 
 name: Johannes Starke
 position: Player
-company: 
-bio: ""
-avatar: /images/players/Johannesstarke.jpg
+company: Johannes Starke
+bio: "Product Manager Learning / E-Learning Expert"
+avatar: /images/players/Johannes-starke.jpg
 socials:
   - name: linkedin
     url : in/johannes-starke/
