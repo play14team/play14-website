@@ -97,8 +97,8 @@ layout: default
             <a class='button small'>Event over</a>
           {% elsif page.schedule.isCancelled %}
             <a class='button small'>Event cancelled</a>
-          {% elsif page.regisrtration.type == "link" %}
-            <a class='button small' href={{page.regisrtration.url}} target="_blank">Register</a>
+          {% elsif page.registration.type == "link" %}
+            <a class='button small' href={{page.registration.url}} target="_blank">Register</a>
           {% elsif page.registration %}
             <a class='button small' href='#register'>Register</a>
           {% else %}

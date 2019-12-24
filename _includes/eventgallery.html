@@ -11,8 +11,8 @@
                 <strong style="color: #FF5200" >Cancelled</strong>
             {% elsif event.schedule.isOver == false %}
                 <div class='small-4 columns' style="text-align: right; font-weight: bold">
-                {% if  event.regisrtration.type == "link" %}
-                    <a href="{{event.regisrtration.url}}" target="_blank">Register</a>
+                {% if  event.registration.type == "link" %}
+                    <a href="{{event.registration.url}}" target="_blank">Register</a>
                 {% elsif event.registration %}
                     <a href="{{event.url}}#register">Register</a>
                 {% endif %}

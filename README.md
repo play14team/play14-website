@@ -105,7 +105,7 @@ There are different way to integrate a registration form on the website, dependi
 The simplest way to integrate registration is to provide the URL to any external system that will handle registration. When clicking the  _Register_ button on the event web page, it will open a new tab pointing to the given URL.
 
 ```yaml
-regisrtration:
+registration:
   type: link
   url: https://play14-luxembourg2017.eventbrite.com
 ```
