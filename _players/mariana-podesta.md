@@ -2,10 +2,10 @@
 layout: player
 
 name: Mariana Podesta
-position: Player
+position: Host
 company: Robert Bosch GmbH
 bio: "LEAN Management"
-
+avatar: /images/players/default.png
 events:
   - Basel 2019
 
