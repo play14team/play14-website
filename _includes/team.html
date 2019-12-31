@@ -14,7 +14,7 @@
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember style-2'>
           <div class='member'>
-            <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+            <img class="avatar" alt="{{member.name}}" src="{{member.avatar | default:'/images/players/default.png'}}" />
             <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
               {% include socialmedia.html variable-param=member.socials %} 
             </div>
@@ -50,7 +50,7 @@
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember style-2'>
             <div class='member'>
-              <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+              <img class="avatar" alt="{{member.name}}" src="{{member.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 {% include socialmedia.html variable-param=member.socials %} 
               </div>
