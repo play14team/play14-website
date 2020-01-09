@@ -30,8 +30,7 @@
     - name: Stuttgart 2020
       path: events/stuttgart/2020-05
     - name: Bologna 2020
-#      path: events/bologna/2020-06
-      path: events/bologna/
+      path: events/bologna/2020-06
     - name: Berlin 2020
       path: events/berlin/2020-06
     - name: Porto 2020
