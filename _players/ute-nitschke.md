@@ -5,7 +5,6 @@ name: Ute Nitschke
 position: player
 company: 
 bio: ""
-avatar: /images/players/ute-nitschke.jpg
 socials:
   - name: email
     url: ute-nitschke@gmail.com
