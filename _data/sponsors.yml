@@ -656,4 +656,8 @@
   - name: facebook
     url: abnamro
 
+- name: #seriousgamespodcast
+  url: http://seriousgamespodcast.com/
+  logo: /images/sponsors/SeriousGamesPodcast_Logo.jpg
+
     
