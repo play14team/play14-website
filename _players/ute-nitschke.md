@@ -2,16 +2,12 @@
 layout: player
 
 name: Ute Nitschke
-position: player
-company: 
-bio: ""
+position: host
+company: "nitschke consulting"
+bio: "Consultant, facilitator, coach"
 socials:
-  - name: email
-    url: ute-nitschke@gmail.com
   - name: linkedin
-    url : in/ute-nitschke
-  - name: xing
-    url : profile/ute-nitschke
+    url : in/ute-nitschke-297a132
 
 events:
   - Berlin 2019
