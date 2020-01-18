@@ -11,6 +11,5 @@ socials:
     url : in/benoitfortemps/
 
 events:
-  - Luxembourg 2020
   
 ---
