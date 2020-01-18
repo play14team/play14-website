@@ -2,7 +2,13 @@
 layout: default
 ---
 
-{% assign location = site.data.locations[page.location] %}
+{% assign location = "TO BE CONFIRMED" %}
+
+{% if page.location.name %}
+  {% assign location = page.location %}
+{% else %}
+  {% assign location = site.data.locations[page.location] %}
+{% endif %}
 
 <!-- Media -->
 {% assign mediaList = site.emptyArray %}
