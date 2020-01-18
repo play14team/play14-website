@@ -33,6 +33,8 @@
       path: events/bologna/2020-06
     - name: Berlin 2020
       path: events/berlin/2020-06
+    - name: München 2020
+      path: events/muenchen/2020-06
     - name: Porto 2020
       path: events/porto/2020-07
     - name: Basel 2020
