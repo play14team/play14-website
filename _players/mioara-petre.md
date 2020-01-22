@@ -2,7 +2,7 @@
 layout: player
 
 name: Mioara Petre
-position: Host
+position: Player
 company: 
 bio: "Looking for a new challenge"
 avatar: /images/players/MioaraPetre.jpg
@@ -12,6 +12,5 @@ socials:
 
 events:
   - Luxembourg 2014
-  - Luxembourg 2020
 
 ---

@@ -3,7 +3,7 @@ layout: player
 
 name: Dianna Verlaan
 position: Host
-company: Australian Institute of Training & Development
+company: 
 bio: "Instructional Designer | Facilitator | Training Wizard"
 avatar: /images/players/dianna-verlaan.jpg
 socials:

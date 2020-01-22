@@ -16,5 +16,6 @@ events:
   - Basel 2018
   - Basel 2019
   - Emmental 2019
+  - Basel 2020
 
 ---
