@@ -3,9 +3,9 @@ layout: player
 
 name: Jürgen Rambo
 position: Host
-company: Mercedes Benz AG
-avatar: /images/players/juergen_rambo.png
-bio: "coachING"
+company: Daimler AG
+avatar: /images/players/default.png
+bio: "Systeme einfach entwickeln"
 socials:
   - name: linkedin
     url : in/juergenrambo
@@ -14,5 +14,3 @@ events:
   - Berlin 2019
 
 ---
-
-
