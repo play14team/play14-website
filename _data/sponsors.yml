@@ -656,6 +656,15 @@
   - name: facebook
     url: abnamro
 
+
+- name: brainspire
+  url: https://brainspire.de/
+  logo: /images/sponsors/stuttgart/brainspire.jpg
+  socials:
+  - name: twitter
+    url: 1077c43n 
+
 - name: seriousgamespodcast
   url: http://seriousgamespodcast.com/
   logo: /images/sponsors/SeriousGamesPodcast_Logo.jpg
+
