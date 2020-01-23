@@ -27,12 +27,16 @@
       path: events/sydney/2020-04
     - name: Hamburg 2020
       path: events/hamburg/2020-04
+    - name: Bangkok 2020
+      path: events/bangkok/2020-05
     - name: Stuttgart 2020
       path: events/stuttgart/2020-05
     - name: Bologna 2020
       path: events/bologna/2020-06
     - name: Berlin 2020
       path: events/berlin/2020-06
+    - name: München 2020
+      path: events/muenchen/2020-06
     - name: Porto 2020
       path: events/porto/2020-07
     - name: Basel 2020

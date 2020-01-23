@@ -2,7 +2,7 @@
 layout: player
 
 name: Rudi Bringtown
-position: Player
+position: Host
 company: cx-first.com
 bio: "Customer Experience and Co-innovation specialist with 10+ years experience leading and working among international teams globally."
 avatar: /images/players/RudiBringtown.jpg
@@ -21,6 +21,7 @@ events:
   - Luxembourg 2017
   - Luxembourg 2018
   - Luxembourg 2019
+  - Luxembourg 2020
 
 ---
 

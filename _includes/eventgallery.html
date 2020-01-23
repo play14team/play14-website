@@ -2,6 +2,14 @@
 
 <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
 {% for event in events %}
+
+    {% assign location = "TO BE CONFIRMED" %}
+    {% if event.location.name %}
+        {% assign location = event.location.name %}
+    {% else %}
+        {% assign location = site.data.locations[event.location].name %}
+    {% endif %}
+
     <li class='{{event.category}}'>
         <div class='row'>
             <div class='small-8 columns' style="text-align: left; font-weight: bold">
@@ -24,7 +32,7 @@
             <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
                     <h3>{{event.schedule.dates}}</h3>
-                    <h3>{{site.data.locations[event.location].name | default: event.location}}</h3>
+                    <h3>{{location | default: event.location}}</h3>
                     <h4>
                     {% if event.schedule.isOver %}
                         Event over

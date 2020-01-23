@@ -16,7 +16,7 @@ The [Debriefing Cube](http://thedebriefingcube.com/) will help you improve your 
 * Emotions
 * Take-away
 
-You can order the wooden version of the cube [here](http://fazilitation.de/Produkt/tdc-ew/).
+You can order the wooden version of the cube [here](http://shop.kilearning.net/).
 
 ## Rory's Story Cubes®
 

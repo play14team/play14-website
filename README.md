@@ -41,7 +41,7 @@ Directory structure
   - Post images should be placed into the `images/posts` sub-directory. Their size should be 800x533.
 
 You might need to add extra data in one of the following YAML files in the [_data](_data) directory.
-- [location.yml](_data/locations.yml) contains the list of all event locations
+- [location.yml](_data/locations.yml) contains the list of recurring event locations
 - [sponsors.yml](_data/sponsors.yml) contains the list of all sponsors
 
 You should NOT have to modify any other directory or file.
@@ -64,7 +64,16 @@ schedule:
   finish: 2017-03-25 17:00:00 # actual finish date and time
   isOver: false # indicator whether the event is over or not (true/false), ideally this will be computed from finish date at some point
 
-location: Technoport # location of the event, should match the name of a location in _data/locations.yml (if your location does not exist, you need to add it in the yaml file)
+
+location:
+    name: Technoport # name of the location
+    area: Esch/Belval # area of the location
+    address: > # address of the location
+        9, avenue des Hauts-Fourneaux
+        L-4362 Esch-sur-Alzette  
+    url: http://www.technoport.lu # website of the location
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20723.71349371132!2d5.964228003547424!3d49.51351172884244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe8b8bed0e26f33a!2sTechnoport+S.a.!5e0!3m2!1sen!2slu!4v1480793868583 # embedded URL from Google Maps (needs to be copied without the iframe HTML code, only the URL)
+
 
 images: # images of the location or any other image of the event (size 600x500)
   - /images/events/luxembourg/01.jpg
