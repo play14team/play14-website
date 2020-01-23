@@ -14,5 +14,6 @@ events:
   - Hamburg 2018
   - Berlin 2019
   - Hamburg 2019
+  - Hamburg 2020
 
 ---

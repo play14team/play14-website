@@ -2,7 +2,7 @@
 layout: player
 
 name: Nicole Helmerich
-position: Host
+position: player
 company: 
 bio: "Consultant, trainer and coach / geek for conceptual and strategic planning"
 avatar: /images/players/nicole-helmerich.jfif
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Basel 2020
+  - Hamburg 2020
 
 ---
