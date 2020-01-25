@@ -6,33 +6,23 @@
     <div class='spacing'></div>
   </div>
 </div>
-<div class='row'>
-  {% assign members = page.members | sort %}
-  {% for m in members %}
+{% assign members = page.members | sort %}
+  <div class='row'>
+  {% for m in members  limit:4 offset:0 %}
     {% assign member = site.players | where:"name",m | first %}
-      {% if member %}
-      <div class='small-6 medium-3 large-3 columns'>
-        <div class='mod modTeamMember style-2'>
-          <div class='member'>
-            <img class="avatar" alt="{{member.name}}" src="{{member.avatar | default:'/images/players/default.png'}}" />
-            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-              {% include socialmedia.html variable-param=member.socials %} 
-            </div>
-          </div>
-          <h3><a href="{{member.url}}">{{m}}</a></h3>
-          <p class='position'>{{member.position}}</p>
-          <p>
-            {{member.bio}}
-            {%if member.company %}
-              <br>at {{member.company}}
-            {% endif %}
-          </p>
-          <div class='two spacing'></div>
-        </div>
-      </div>
+    {% if member %}
+      {% include teammember.html variable-param=member %} 
     {% endif %}
   {% endfor %}
-</div>
+  </div>
+  <div class='row'>
+  {% for m in members  limit:4 offset:4 %}
+    {% assign member = site.players | where:"name",m | first %}
+    {% if member %}
+      {% include teammember.html variable-param=member %} 
+    {% endif %}
+  {% endfor %}
+  </div>
 
   {% if page.mentors %}
 
@@ -47,25 +37,7 @@
     {% for m in mentors %}
     {% assign member = site.players | where:"name",m | first %}
       {% if member %}
-      <div class='small-6 medium-3 large-3 columns'>
-        <div class='mod modTeamMember style-2'>
-            <div class='member'>
-              <img class="avatar" alt="{{member.name}}" src="{{member.avatar | default:'/images/players/default.png'}}" />
-              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-                {% include socialmedia.html variable-param=member.socials %} 
-              </div>
-            </div>
-            <h3><a href="{{member.url}}">{{m}}</a></h3>
-            <p class='position'>{{member.position}}</p>
-            <p>
-              {{member.bio}}
-              {%if member.company %}
-                <br>at {{member.company}}
-              {% endif %}
-            </p>
-            <div class='two spacing'></div>
-          </div>
-        </div>
+        {% include teammember.html variable-param=member %} 
       {% endif %}
     {% endfor %}
   </div>

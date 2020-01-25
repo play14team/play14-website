@@ -1,0 +1,21 @@
+{% assign member = include.variable-param %}
+
+<div class='small-6 medium-3 large-3 columns'>
+    <div class='mod modTeamMember style-2'>
+      <div class='member'>
+        <img class="avatar" alt="{{member.name}}" src="{{member.avatar | default:'/images/players/default.png'}}" />
+        <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+          {% include socialmedia.html variable-param=member.socials %} 
+        </div>
+      </div>
+      <h3><a href="{{member.url}}">{{m}}</a></h3>
+      <p class='position'>{{member.position}}</p>
+      <p>
+        {{member.bio}}
+        {%if member.company %}
+          <br>at {{member.company}}
+        {% endif %}
+      </p>
+      <div class='two spacing'></div>
+    </div>
+  </div>
