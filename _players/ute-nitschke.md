@@ -2,7 +2,7 @@
 layout: player
 
 name: Ute Nitschke
-position: host
+position: Host
 company: "nitschke consulting"
 bio: "Consultant, facilitator, coach"
 avatar: /images/players/ute-nitschke.jpg
