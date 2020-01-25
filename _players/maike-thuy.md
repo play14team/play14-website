@@ -2,7 +2,7 @@
 layout: player
 
 name: Maike Thuy
-position: Organizer
+position: Host
 company: oose innovative Informatik eG
 bio: "Veranstaltungsfachwirtin"
 avatar: /images/players/maike-thuy.jpg
