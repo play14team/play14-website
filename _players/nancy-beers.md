@@ -2,7 +2,7 @@
 layout: player
 
 name: Nancy Beers
-position: Player
+position: Mentor
 company: Happy Scrum Master
 bio: "Happy Scrum Master"
 avatar: /images/players/nancy-beers.jpg
