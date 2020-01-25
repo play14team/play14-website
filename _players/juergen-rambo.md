@@ -9,7 +9,8 @@ bio: "coachING"
 socials:
   - name: linkedin
     url : in/juergenrambo
-
+  - name: xing
+    url: profile/Juergen_Rambo2
 events:
   - Berlin 2019
 
