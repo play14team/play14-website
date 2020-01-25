@@ -8,5 +8,4 @@ bio: "Scrum Master"
 avatar: /images/players/Ulrike_Morgenstern.jpg
 - name: xing
     url:profile/Ulrike_Morgenstern5
-
 ---
