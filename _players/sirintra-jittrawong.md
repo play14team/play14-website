@@ -12,5 +12,6 @@ socials:
 
 events:
   - Kuala Lumpur 2019
+  - Bangkok 2020
 
 ---
