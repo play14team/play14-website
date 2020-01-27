@@ -666,3 +666,7 @@
   socials:
   - name: linkedin
     url: company/brainspire-gbr
+    
+- name: strempelConsult
+  url: https://www.strempel.info
+  logo: /images/sponsors/stuttgart/Strempel.png
