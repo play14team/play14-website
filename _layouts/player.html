@@ -48,16 +48,17 @@ layout: default
     </div>
     <div class='medium-6 columns'>
       <h3>
-        {% if page.position == 'Player' %}
+        {% assign position = page.position | downcase %}
+        {% if position == 'player' %}
           {% if page.events.size > 4 %}
             Unicorn player
           {% elsif page.events.size > 2 %}
             Serial player
           {% else %}
-            {{page.position}}  
+            {{page.position | capitalize}}  
           {% endif %}
         {% else %}
-          {{page.position}}
+          {{page.position | capitalize}}
         {% endif %}
       </h3>
       <p>{{page.bio}}

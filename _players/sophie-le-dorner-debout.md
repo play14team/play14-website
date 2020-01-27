@@ -1,7 +1,7 @@
 ---
 layout: player
 
-name: Sohpie Le Dorner-Debout
+name: Sophie Le Dorner-Debout
 position: Host
 company: Mindgility
 bio: "Pedagogical Designer"

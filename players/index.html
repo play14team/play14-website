@@ -15,37 +15,32 @@ section_id: players
               <a data-cat='all' href='#'>All</a>
           </li>
           <li>
-            <a data-cat='Unicorn player' href='#'>Unicorn player</a>
+            <a data-cat='founder' href='#'>Founder</a>
           </li>
           <li>
-            <a data-cat='Serial player' href='#'>Serial player</a>
+            <a data-cat='host' href='#'>Host</a>
           </li>
           <li>
-            <a data-cat='Player' href='#'>Player</a>
+            <a data-cat='unicorn player' href='#'>Unicorn player</a>
           </li>
           <li>
-            <a data-cat='Founder' href='#'>Founder</a>
+            <a data-cat='serial player' href='#'>Serial player</a>
           </li>
-          {% assign positions = site.players | sort:'position' | group_by:'position' %}
-          {% for position in positions %}
-            {% if position.name != 'Player' and position.name != 'Founder' %}
-              <li>
-                <a data-cat='{{position.name}}' href='#'>{{position.name}}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
+          <li>
+            <a data-cat='player' href='#'>Player</a>
+          </li>
         </ul>
       </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
           {% assign players = site.players %}
           {% for player in players %}
-            {% assign position = player.position %}
-            {% if player.position == 'Player' %}
+            {% assign position = player.position | downcase %}
+            {% if position == 'player' %}
               {% if player.events.size > 4 %}
-                {% assign position = 'Unicorn player' %}
+                {% assign position = 'unicorn player' %}
               {% elsif player.events.size > 2 %}
-                {% assign position = 'Serial player' %}
+                {% assign position = 'serial player' %}
               {% endif %}
           {% endif %}
 
@@ -54,13 +49,13 @@ section_id: players
               <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
               <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
                 <div class='thumb-info'>
-                    <h3>{{position}}</h3>
+                    <h3>{{position | capitalize}}</h3>
                     <h4>{{player.company}}</h4>
                   <h4>{{player.bio}}</h4>
                 </div>
               </div>
             </a>
-            <h3>{{player.name | truncate: 26}}</h3>
+            <h3>{{player.name | truncate: 25}}</h3>
           </li>
         {% endfor %}
       </ul>
