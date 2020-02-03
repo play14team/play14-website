@@ -13,6 +13,6 @@ socials:
 events:
   - Berlin 2019
   - Hamburg 2020
-  - Muenchen 2020
+  - München 2020
 
 ---

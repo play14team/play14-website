@@ -27,5 +27,6 @@ events:
   - London 2019
   - Hamburg 2020
   - Berlin 2020
+  - München 2020
 
 ---
