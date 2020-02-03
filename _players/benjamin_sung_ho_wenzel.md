@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2019
+  - Munich 2020
 
 ---
