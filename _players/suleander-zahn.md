@@ -13,5 +13,7 @@ socials:
 events:
   - Porto 2018
   - Berlin 2019
+  - London 2019
+  - München 2020
 
 ---
