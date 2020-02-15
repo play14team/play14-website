@@ -51,6 +51,8 @@
       path: players/
     - name: Update your profile
       path: profile/
+    - name: Player handbook
+      path: players/handbook/
 - name: Games
   path: games/
   section_id: games
