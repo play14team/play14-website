@@ -9,12 +9,14 @@ avatar: /images/players/KarstenMueller.jpg
 socials:
   - name: email
     url: hhkarsten@gmail.com
-  - name: twitter
-    url : HHKarsten
   - name: linkedin
     url : in/karsten-mueller-269b186b 
   - name: xing
     url : profile/Karsten_Mueller36
+  - name: twitter
+    url : HHKarsten
+  - name: instagram
+    url : hhkarsten
 
 events:
   - London 2015
