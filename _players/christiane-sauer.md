@@ -8,7 +8,4 @@ socials:
   - name: email
     url : reception-krefeld@aoe.com
 
-events:
-  - Hamburg 2020
-
 ---
