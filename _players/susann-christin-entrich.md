@@ -3,8 +3,8 @@ layout: player
 
 name: Susann-Christin Entrich
 position: Player
-company: HanseCollege
-bio: "In Fortbildung"
+company: Fraam Services GmbH
+bio: "Business Analyst"
 avatar: /images/players/susann-christin-entrich.jpg
 socials:
   - name: xing
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2019
+  - Hamburg 2020
 
 ---
