@@ -41,6 +41,8 @@
       path: events/muenchen/2020-06
     - name: Porto 2020
       path: events/porto/2020-07
+    - name: Leeds 2020
+      path: events/leeds/2020-07
     - name: Basel 2020
       path: events/basel/2020-09
 - name: Players
