@@ -10,7 +10,7 @@ socials:
   - name: xing
     url : /profile/Carolin_Goydke/cv
   - name: twitter
-    url : @CaGoy
+    url : CaGoy
   - name: facebook
     url : /carolin.goydke.7
 events:
