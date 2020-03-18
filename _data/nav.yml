@@ -21,10 +21,6 @@
       path: media/
     - name: Prague 2020
       path: events/prague/2020-03
-    - name: Sydney 2020
-      path: events/sydney/2020-04
-    - name: Hamburg 2020
-      path: events/hamburg/2020-04
     - name: Bangkok 2020
       path: events/bangkok/2020-05
     - name: Stuttgart 2020
