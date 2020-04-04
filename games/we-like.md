@@ -69,3 +69,17 @@ Looking for a great way to improve the quality of your meetings ? Try the Meetin
 </a>
 
 [Xtrem Reading](https://www.xtrem-reading.com/) is a technique that allows you to read 2 books in 1 hour in a collaborative way, using collective intelligence to process and retain more information. Created by 2 agile coaches from [Agile Partner](http://agilepartner.net) this technique has made it's way to **#play14** with a huge success.
+
+## Oblique Strategies for leaders
+
+Our friend and organizer of #play14 Basel, [Bernhard Sterchi](../_players/bernhard-sterchi.md) edits great boxes of [Oblique Trategies for Leaders](https://www.palladio.net/product/oblique-strategies-for-leaders/)
+
+![Oblique Strategies](https://www.palladio.net/wp-content/uploads/2019/09/IMG_3237-scaled.jpg)
+
+A good idea is only good at the right time and place. If you read a book, listen to a speaker, or watch a video, you may get new ideas that are very useful – somewhere, sometime. But they most certainly are not adapted to your context, and may come at the wrong moment. 
+
+This is why the best leaders take such ideas and weave them into their regular self-reflection. The problem with this: you tend to forget good ideas before you find the first instance to actually practice their application. 
+
+Now imagine you get one hundred teasers that trigger off your reflection in novel ways. That’s what Oblique Strategies for Leaders do.
+
+[Buy Them Here](https://www.palladio.net/product/oblique-strategies-for-leaders/)
