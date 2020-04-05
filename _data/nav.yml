@@ -17,10 +17,10 @@
   children:
     - name: All events
       path: events/
-    - name: Photos & videos
-      path: media/
     - name: Calendar
       path: events/calendar/
+    - name: Photos & videos
+      path: media/
     - name: Bologna 2020
       path: events/bologna/2020-06
     - name: Berlin 2020
