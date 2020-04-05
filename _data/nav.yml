@@ -19,6 +19,8 @@
       path: events/
     - name: Photos & videos
       path: media/
+    - name: Calendar
+      path: events/calendar/
     - name: Stuttgart 2020
       path: events/stuttgart/2020-05
     - name: Madrid 2020
