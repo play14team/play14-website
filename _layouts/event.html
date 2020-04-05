@@ -18,6 +18,12 @@ layout: default
   {% endif %}
 {% endfor %}
 
+<!-- isOver -->
+{% assign isOver = false %}
+{% if page.schedule.finish < site.time %}
+  {% assign isOver = true %}
+{% endif %}
+
 <div class='full no-padding alternate-background'>
   <div class='spacing'></div>
   <div class='row'>
@@ -99,7 +105,7 @@ layout: default
     <div class='large-3 columns'>
       <ul class='info'>
         <li>
-          {% if page.schedule.isOver %}
+          {% if isOver %}
             <a class='button small'>Event over</a>
           {% elsif page.schedule.isCancelled %}
             <a class='button small'>Event cancelled</a>
@@ -186,7 +192,7 @@ layout: default
 </div>
 
 <!-- Register -->
-{% if page.schedule.isOver == false and page.registration.type == "eventbrite" %}
+{% if isOver == false and page.schedule.isCancelled == false and page.registration.type == "eventbrite" %}
 <div class='full no-padding'>
   <a name="register"></a>
   <div class='spacing'></div>
@@ -207,7 +213,7 @@ layout: default
   </div>
 </div>
 {% endif %}
-{% if page.schedule.isOver == false and page.registration.type == "weezevent" %}
+{% if isOver == false and page.schedule.isCancelled == false and page.registration.type == "weezevent" %}
 <div class='full no-padding'>
   <div class='two spacing'></div>
   <div class='row'>

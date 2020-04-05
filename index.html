@@ -179,8 +179,7 @@ sponsors:
       <div class='spacing'></div>
     </div>
     <div class='mod modGallery'>
-      {% assign events = site.events | where_exp:"event","event.schedule.isOver == false" %}
-      {% include eventgallery.html variable-param=events %} 
+      {% include eventgallery.html filter="upcoming" %} 
     </div>
   </div>
   <div class='row'>

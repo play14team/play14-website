@@ -1,54 +1,71 @@
-{% assign events = include.variable-param %}
+{% assign events = site.events %}
+{% if include.filter == "past" %}
+    {% assign events = site.events | reverse %}
+{% endif %}
+
 
 <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
 {% for event in events %}
 
-    {% assign location = "TO BE CONFIRMED" %}
-    {% if event.location.name %}
-        {% assign location = event.location.name %}
-    {% else %}
-        {% assign location = site.data.locations[event.location].name %}
+    {% assign display = false %}
+    {% if include.filter == "upcoming" and event.schedule.finish > site.time %}
+        {% assign display = true %}
+    {% elsif include.filter == "past" and event.schedule.finish < site.time %}
+        {% assign display = true %}
+    {% elsif include.filter == "all" %}
+        {% assign display = true %}
     {% endif %}
 
-    <li class='{{event.category}}'>
-        <div class='row'>
-            <div class='small-8 columns' style="text-align: left; font-weight: bold">
-            {{event.schedule.dates}}
-            </div>
-            {% if event.schedule.isCancelled %}
-                <strong style="color: #FF5200" >Cancelled</strong>
-            {% elsif event.schedule.isOver == false %}
-                <div class='small-4 columns' style="text-align: right; font-weight: bold">
-                {% if  event.registration.type == "link" %}
-                    <a href="{{event.registration.url}}" target="_blank">Register</a>
-                {% elsif event.registration %}
-                    <a href="{{event.url}}#register">Register</a>
-                {% endif %}
+    {% if display %}
+
+        {% assign location = "TO BE CONFIRMED" %}
+        {% if event.location.name %}
+            {% assign location = event.location.name %}
+        {% else %}
+            {% assign location = site.data.locations[event.location].name %}
+        {% endif %}
+
+        <li class='{{event.category}}'>
+            <div class='row'>
+                <div class='small-8 columns' style="text-align: left; font-weight: bold">
+                {{event.schedule.dates}}
                 </div>
-            {% endif %}
-        </div>
-        <a href='{{event.url}}'>
-            <img alt="" src="{{event.images.first}}" />
-            <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-                <div class='thumb-info'>
-                    <h3>{{event.schedule.dates}}</h3>
-                    <h3>{{location | default: event.location}}</h3>
-                    <h4>
-                    {% if event.schedule.isOver %}
-                        Event over
+                {% if event.schedule.isCancelled %}
+                    <strong style="color: #FF5200" >Cancelled</strong>
+                {% elsif event.schedule.finish > site.time %}
+                    <div class='small-4 columns' style="text-align: right; font-weight: bold">
+                    {% if  event.registration.type == "link" %}
+                        <a href="{{event.registration.url}}" target="_blank">Register</a>
                     {% elsif event.registration %}
-                        Registration Open
-                    {% else %}
-                        Coming soon
+                        <a href="{{event.url}}#register">Register</a>
                     {% endif %}
-                    </h4>
-                </div>
+                    </div>
+                {% endif %}
             </div>
-        </a>
-        <h3>{{event.title}}</h3>
-        <div style="position: relative; top: -60px; left:5px; z-index: 1;">
-            <h3 class="fadeinright" style="color: #FF5200">{{event.subtitle}}</h3>
-        </div>
-    </li>
+            <a href='{{event.url}}'>
+                <img alt="" src="{{event.images.first}}" />
+                <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                    <div class='thumb-info'>
+                        <h3>{{event.schedule.dates}}</h3>
+                        <h3>{{location | default: event.location}}</h3>
+                        <h4>
+                        {% if event.schedule.finish < site.time %}
+                            Event over
+                        {% elsif event.registration %}
+                            Registration Open
+                        {% else %}
+                            Coming soon
+                        {% endif %}
+                        </h4>
+                    </div>
+                </div>
+            </a>
+            <h3>{{event.title}}</h3>
+            <div style="position: relative; top: -60px; left:5px; z-index: 1;">
+                <h3 class="fadeinright" style="color: #FF5200">{{event.subtitle}}</h3>
+            </div>
+        </li>
+
+    {% endif %}
 {% endfor %}
 </ul>

@@ -8,6 +8,7 @@ section_id: events
 <div class='full'>
   <div class='row'>
     <div class='mod modGallery'>
+
       <div class='gallery-nav'>
         <ul>
           <li class='current'>
@@ -22,14 +23,15 @@ section_id: events
         </ul>
       </div>
 
-      {% assign events = site.events | where_exp:"event","event.schedule.isOver == false"  %}
-      <h2>Upcoming events ({{events.size}})</h2>
-      {% include eventgallery.html variable-param=events %} 
+      {% assign cancelledEvents = site.events | where_exp:"event","event.schedule.isCancelled == true"  %}
+      <h3>Total: {{site.events.size}} | Occurring: {{ site.events.size | minus: cancelledEvents.size }} | Cancelled: {{cancelledEvents.size}} </h3>
+
+      <h2>Upcoming events</h2>
+      {% include eventgallery.html filter="upcoming" %} 
 
       <div class='two spacing'></div>
-      {% assign events = site.events | where_exp:"event","event.schedule.isOver == true" | reverse  %}
-      <h2>Past events ({{events.size}})</h2>
-      {% include eventgallery.html variable-param=events %} 
+      <h2>Past events</h2>
+      {% include eventgallery.html  filter="past" %} 
     </div>
   </div>
 </div>

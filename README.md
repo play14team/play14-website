@@ -62,8 +62,7 @@ schedule:
   dates: March 23-25 2017 # dates that are displayed on the site
   start: 2017-03-23 18:30:00 # actual start date and time
   finish: 2017-03-25 17:00:00 # actual finish date and time
-  isOver: false # indicator whether the event is over or not (true/false), ideally this will be computed from finish date at some point
-
+  isCancelled: false # indicator whether the event is cancelled (true/false)
 
 location:
     name: Technoport # name of the location
