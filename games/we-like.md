@@ -72,7 +72,7 @@ Looking for a great way to improve the quality of your meetings ? Try the Meetin
 
 ## Oblique Strategies for leaders
 
-Our friend and organizer of #play14 Basel, [Bernhard Sterchi](../_players/bernhard-sterchi.md) edits great boxes of [Oblique Trategies for Leaders](https://www.palladio.net/product/oblique-strategies-for-leaders/)
+Our friend and organizer of #play14 Basel, [Bernhard Sterchi](../_players/bernhard-sterchi.md) edits great boxes of [Oblique Strategies for Leaders](https://www.palladio.net/product/oblique-strategies-for-leaders/)
 
 ![Oblique Strategies](https://www.palladio.net/wp-content/uploads/2019/09/IMG_3237-scaled.jpg)
 
