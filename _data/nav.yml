@@ -51,6 +51,8 @@
   children:
     - name: Our games
       path: games/
+    - name: Remote-friendly games
+      path: games/remote-friendly/
     - name: Stuff we like
       path: games/we-like/
     - name: Document your game
