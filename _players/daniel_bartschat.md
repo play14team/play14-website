@@ -11,4 +11,6 @@ socials:
     url: in/daniel-bartschat-4909241a0 
   - name: xing
     url: profile/Daniel_Bartschat
+events:
+  - Stuttgart 2020
 ---

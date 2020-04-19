@@ -9,4 +9,6 @@ avatar: /images/players/Sebastian_Schwaegele.jpg
 socials:
   - name: xing
     url: profile/Sebastian_Schwaegele2
+events:
+  - Stuttgart 2020
 ---

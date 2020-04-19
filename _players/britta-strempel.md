@@ -11,6 +11,8 @@ socials:
     url : in/britta-strempel-8156a591
   - name: xing
     url: profile/Britta_Strempel
+events:
+  - Stuttgart 2020
 ---
 
 
