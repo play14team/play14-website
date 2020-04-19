@@ -36,5 +36,6 @@ events:
   - Basel 2019
   - Vienna 2019
   - Luxembourg 2020
+  - Stuttgart 2020
 
 ---

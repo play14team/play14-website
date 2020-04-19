@@ -12,4 +12,5 @@ socials:
 events:
   - Berlin 2019
   - Hamburg 2019
+  - Stuttgart 2020
 ---

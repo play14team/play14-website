@@ -11,5 +11,6 @@ socials:
     url: in/mariana-podestá-6332558
 events:
   - Basel 2019
+  - Stuttgart 2020
 
 ---

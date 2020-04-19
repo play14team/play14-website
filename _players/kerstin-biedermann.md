@@ -9,4 +9,6 @@ avatar: /images/players/KerstinBiedermann.jpg
 socials:
   - name: xing
     url: profile/Kerstin_Biedermann2
+events:
+  - Stuttgart 2020
 ---

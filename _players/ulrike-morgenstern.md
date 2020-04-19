@@ -9,6 +9,8 @@ avatar: /images/players/Ulrike_Morgenstern.jpg
 socials:
   - name: xing
     url: profile/Ulrike_Morgenstern5
+events:
+  - Stuttgart 2020
 ---
 
 
