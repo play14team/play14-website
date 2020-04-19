@@ -11,5 +11,5 @@ socials:
     url : profile/Cornelia_Vonhof
 
 events:
-  - Stuttgart 2019
+  - Stuttgart 2020
 ---
