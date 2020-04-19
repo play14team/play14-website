@@ -1,7 +1,7 @@
 ---
 layout: player
 
-name: Ulrike Morgenstern
+name: Uli Morgenstern
 position: Host
 company: KNV Zeitfracht
 bio: "Scrum Master"
