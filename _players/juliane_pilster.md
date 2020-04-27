@@ -13,4 +13,6 @@ socials:
     url : 1077c43n 
   - name: linkedin
     url : in/juliane-pilster
+events:
+  - Stuttgart 2020
 ---
