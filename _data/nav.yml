@@ -23,8 +23,6 @@
       path: media/
     - name: Online May 2020
       path: events/online/2020-05
-    - name: Bologna 2020
-      path: events/bologna/2020-06
     - name: Berlin 2020
       path: events/berlin/2020-06
     - name: München 2020
