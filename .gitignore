@@ -8,3 +8,5 @@ _asset_bundler_cache
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+.fake
+.ionide
