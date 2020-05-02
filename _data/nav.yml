@@ -35,6 +35,8 @@
       path: events/basel/2020-09
     - name: Sydney 2020
       path: events/sydney/2020-10
+    - name: Stuttgart 2020
+      path: events/stuttgart/2020-11
 - name: Players
   path: players/
   section_id: players
