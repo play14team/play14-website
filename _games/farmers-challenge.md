@@ -28,8 +28,10 @@ materials:
   - TV or Projector or handout of the solution
 
 resources:
-  - name: Game cards
+  - name: Game cards (PDF)
     url: /files/farmers-challenge/farmers-challenge-cards.pdf
+  - name: Game cards (PNG)
+    url: /files/farmers-challenge/farmers-challenge-cards.zip
   - name: Solution
     url: /files/farmers-challenge/farmers-challenge-solution.xlsx
 
@@ -99,3 +101,21 @@ Was anyone leading? How did it go?
 
 ### TAKEAWAYS
 Visualization is powerful  
+
+### CARDS
+
+| Card 1 ![Card 1](/images/games/farmers-challenge/cards/Card-01.png) | Card 2 ![Card 2](/images/games/farmers-challenge/cards/Card-02.png) |
+| Card 3 ![Card 3](/images/games/farmers-challenge/cards/Card-03.png) | Card 4 ![Card 4](/images/games/farmers-challenge/cards/Card-04.png) |
+| Card 5 ![Card 5](/images/games/farmers-challenge/cards/Card-05.png) | Card 6 ![Card 6](/images/games/farmers-challenge/cards/Card-06.png) |
+| Card 7 ![Card 7](/images/games/farmers-challenge/cards/Card-07.png) | Card 8 ![Card 8](/images/games/farmers-challenge/cards/Card-08.png) |
+| Card 9 ![Card 9](/images/games/farmers-challenge/cards/Card-09.png) | Card 10 ![Card 10](/images/games/farmers-challenge/cards/Card-10.png) |
+| Card 11 ![Card 11](/images/games/farmers-challenge/cards/Card-11.png) | Card 12 ![Card 12](/images/games/farmers-challenge/cards/Card-12.png) |
+| Card 13 ![Card 13](/images/games/farmers-challenge/cards/Card-13.png) | Card 14 ![Card 14](/images/games/farmers-challenge/cards/Card-14.png) |
+| Card 15 ![Card 15](/images/games/farmers-challenge/cards/Card-15.png) | Card 16 ![Card 16](/images/games/farmers-challenge/cards/Card-16.png) |
+| Card 17 ![Card 17](/images/games/farmers-challenge/cards/Card-17.png) | Card 18 ![Card 18](/images/games/farmers-challenge/cards/Card-18.png) |
+| Card 19 ![Card 19](/images/games/farmers-challenge/cards/Card-19.png) | Card 20 ![Card 20](/images/games/farmers-challenge/cards/Card-20.png) |
+| Card 21 ![Card 21](/images/games/farmers-challenge/cards/Card-21.png) | Card 22 ![Card 22](/images/games/farmers-challenge/cards/Card-22.png) |
+| Card 23 ![Card 23](/images/games/farmers-challenge/cards/Card-23.png) | Card 24 ![Card 24](/images/games/farmers-challenge/cards/Card-24.png) |
+| Card 25 ![Card 25](/images/games/farmers-challenge/cards/Card-25.png) | Card 26 ![Card 26](/images/games/farmers-challenge/cards/Card-26.png) |
+| Card 27 ![Card 27](/images/games/farmers-challenge/cards/Card-27.png) | Card 28 ![Card 28](/images/games/farmers-challenge/cards/Card-28.png) |
+| Card 29 ![Card 29](/images/games/farmers-challenge/cards/Card-29.png) | Card 30 ![Card 30](/images/games/farmers-challenge/cards/Card-30.png) |
