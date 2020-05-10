@@ -12,5 +12,6 @@ socials:
 
 events:
   - Hamburg 2016
+  - Online May 2020
 
 ---

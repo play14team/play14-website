@@ -39,16 +39,14 @@ events:
   - Luxembourg 2019
   - Madrid 2019
   - Kuala Lumpur 2019
-  - Luxembourg 2020
+  - Online May 2020
 
 ---
 
-I am @cpontet
-
-I am very proud of being one of the original **#play14** founders.  
+I am very proud of being one of the founders of **#play14** .  
 
 Since it started, it has been nothing but joy and an extraordinary human adventure. 
-I am so happy to see all the local organizers and participants getting so involved.
+I am so happy to see all the organizers and participants around the world getting so involved.
 
 #play14 belongs to them now. 
 It's out in the world and that's a great feeling.

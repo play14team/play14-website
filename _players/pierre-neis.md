@@ -3,7 +3,7 @@ layout: player
 
 name: Pierre Neis
 position: Founder
-company: agile² l yunikon l agile revolution group
+company: agile² | yunikon | agile revolution group
 bio: "Senior Agile Coach"
 avatar: /images/players/PierreNeis.jpg
 socials:
@@ -35,7 +35,7 @@ events:
   - Luxembourg 2019
   - Basel 2019
   - Vienna 2019
-  - Luxembourg 2020
+  - Online May 2020
   - Stuttgart 2020
 
 ---

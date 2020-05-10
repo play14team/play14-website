@@ -10,6 +10,7 @@ socials:
   - name: xing
     url: profile/Ulrike_Morgenstern5
 events:
+  - Online May 2020
   - Stuttgart 2020
 ---
 
