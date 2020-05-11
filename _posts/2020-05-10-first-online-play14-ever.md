@@ -12,7 +12,10 @@ excerpt: >
     On May 9th 2020, we had our very first online #play14 ever. It's been in the pipe for quite some time, and now it's done. Here is my on the spot feedback
 
 images:
-    - /images/events/online.jpg
+    - /images/events/online/2020-05/01.png
+    - /images/events/online/2020-05/02.png
+    - /images/events/online/2020-05/03.png
+    - /images/events/online/2020-05/04.png
 
 enableComments: true
 ---
