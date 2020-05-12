@@ -21,8 +21,6 @@
       path: events/calendar/
     - name: Photos & videos
       path: media/
-    - name: Online May 2020
-      path: events/online/2020-05
     - name: Berlin 2020
       path: events/berlin/2020-06
     - name: München 2020
@@ -37,6 +35,8 @@
       path: events/sydney/2020-10
     - name: Stuttgart 2020
       path: events/stuttgart/2020-11
+    - name: Prague 2021
+      path: events/prague/2021-04
 - name: Players
   path: players/
   section_id: players
