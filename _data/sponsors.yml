@@ -7,6 +7,19 @@
     - name: twitter
       url: aiglu
 
+- name: Miro
+  url: http://miro.com/
+  logo: /images/sponsors/miro.png
+  socials:
+    - name: twitter
+      url: mirohq
+    - name: linkedin
+      url: company/mirohq/
+    - name: youtube
+      url: user/RealtimeBoardEng/
+    - name: facebook
+      url: TryMiro/
+
 - name: Technoport
   url: http://www.technoport.lu
   logo: /images/sponsors/Technoport.jpg
