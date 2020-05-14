@@ -21,10 +21,8 @@
       path: events/calendar/
     - name: Photos & videos
       path: media/
-    - name: Berlin 2020
-      path: events/berlin/2020-06
-    - name: München 2020
-      path: events/muenchen/2020-06
+    - name: Host an event
+      path: hosting/
     - name: Porto 2020
       path: events/porto/2020-07
     - name: Leeds 2020
@@ -35,8 +33,12 @@
       path: events/sydney/2020-10
     - name: Stuttgart 2020
       path: events/stuttgart/2020-11
+    - name: München 2021
+      path: events/muenchen/2021-03
     - name: Prague 2021
       path: events/prague/2021-04
+    - name: Berlin 2021
+      path: events/berlin/2021-06
 - name: Players
   path: players/
   section_id: players
@@ -59,14 +61,12 @@
       path: games/documenting/
     - name: Stuff we like
       path: games/we-like/
-    - name: Miro
-      path: games/miro/
-- name: Hosting
-  path: hosting/
-  section_id: hosting
+- name: Sponsors
+  path: sponsors/
+  section_id: sponsors
   children:
-  - name: Host an event
-    path: hosting/
+  - name: Miro
+    path: sponsors/miro/
 - name: Blog
   path: blog/
   section_id: blog
