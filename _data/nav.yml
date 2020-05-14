@@ -55,10 +55,12 @@
       path: games/
     - name: Remote-friendly games
       path: games/remote-friendly/
-    - name: Stuff we like
-      path: games/we-like/
     - name: Document your game
       path: games/documenting/
+    - name: Stuff we like
+      path: games/we-like/
+    - name: Miro
+      path: games/miro/
 - name: Hosting
   path: hosting/
   section_id: hosting
