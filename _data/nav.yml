@@ -33,6 +33,8 @@
       path: events/sydney/2020-10
     - name: Stuttgart 2020
       path: events/stuttgart/2020-11
+    - name: Amsterdam 2020
+      path: events/amsterdam/2020-11
     - name: München 2021
       path: events/muenchen/2021-03
     - name: Prague 2021
