@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Porto 2020
-      path: events/porto/2020-07
     - name: Leeds 2020
       path: events/leeds/2020-07
     - name: Basel 2020
