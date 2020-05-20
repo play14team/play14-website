@@ -8,7 +8,7 @@
       url: aiglu
 
 - name: Miro
-  url: http://miro.com/
+  url: https://miro.com/?utm_source=play14.org&utm_medium=referral&utm_campaign=play14
   logo: /images/sponsors/miro.png
   socials:
     - name: twitter
@@ -19,6 +19,22 @@
       url: user/RealtimeBoardEng/
     - name: facebook
       url: TryMiro/
+
+- name: Mural
+  url: https://www.mural.co/
+  logo: /images/sponsors/mural.png
+  socials:
+    - name: twitter
+      url: mural/
+    - name: linkedin
+      url: company/mural.co
+    - name: youtube
+      url: channel/UCUcf9nFefdwgOoKMQ6qiHeA
+    - name: facebook
+      url: mural.co
+    - name: instagram
+      url: mural_app/
+    
 
 - name: Technoport
   url: http://www.technoport.lu

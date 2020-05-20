@@ -67,6 +67,8 @@
   children:
   - name: Miro
     path: sponsors/miro/
+  - name: Mural
+    path: sponsors/mural/
 - name: Blog
   path: blog/
   section_id: blog
