@@ -25,8 +25,6 @@
       path: hosting/
     - name: Leeds 2020
       path: events/leeds/2020-07
-    - name: Basel 2020
-      path: events/basel/2020-09
     - name: Sydney 2020
       path: events/sydney/2020-10
     - name: Stuttgart 2020
@@ -39,6 +37,8 @@
       path: events/prague/2021-04
     - name: Berlin 2021
       path: events/berlin/2021-06
+    - name: Basel 2021
+      path: events/basel/2021-09
 - name: Players
   path: players/
   section_id: players
