@@ -25,6 +25,8 @@
       path: hosting/
     - name: Leeds 2020
       path: events/leeds/2020-07
+    - name: Vienna 2020
+      path: events/vienna/2020-09
     - name: Sydney 2020
       path: events/sydney/2020-10
     - name: Stuttgart 2020
