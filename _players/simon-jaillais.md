@@ -2,7 +2,7 @@
 layout: player
 
 name: Simon Jaillais
-position: Player
+position: Host
 company: Palo IT
 bio: "Culture, Change and Consciouness Hive Master"
 avatar: /images/players/simon-jaillais.jpg

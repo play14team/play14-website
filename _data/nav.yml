@@ -23,8 +23,8 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Leeds 2020
-      path: events/leeds/2020-07
+    - name: The Big One 2020
+      path: events/bigone/2020-07
     - name: Vienna 2020
       path: events/vienna/2020-09
     - name: Sydney 2020

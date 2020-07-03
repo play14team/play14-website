@@ -2,7 +2,7 @@
 layout: player
 
 name: Elsa Wormeck
-position: Player
+position: Host
 company: www.corecreate.de
 bio: "corecreate | communications"
 avatar: /images/players/ElsaWormeck.jpg

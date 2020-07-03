@@ -31,7 +31,23 @@
     {% endif %}
   {% endfor %}
   </div>
-
+  <div class='row'>
+  {% for m in members  limit:4 offset:12 %}
+    {% assign member = site.players | where:"name",m | first %}
+    {% if member %}
+      {% include teammember.html variable-param=member %} 
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class='row'>
+  {% for m in members  limit:4 offset:16 %}
+    {% assign member = site.players | where:"name",m | first %}
+    {% if member %}
+      {% include teammember.html variable-param=member %} 
+    {% endif %}
+  {% endfor %}
+  </div>
+    
   {% if page.mentors %}
 
   <div class='row'>
