@@ -3,8 +3,8 @@ layout: player
 
 name: Jordann Gross
 position: Host
-company: Xebia Group International
-bio: "Agile Athlete - are your people fit for the future?"
+company: Self-organization Chefs
+bio: "Agile Transformation & Self-organization Coach"
 avatar: /images/players/JordannGross.jpg
 socials:
   - name: linkedin
