@@ -3,8 +3,8 @@ layout: player
 
 name: Maxine Razavi
 position: Player
-company: River Island
-bio: "Agile Delivery Lead/Scrum Master"
+company: 
+bio: "Agile Team Coach"
 avatar: /images/players/maxine-razavi.jpg
 socials:
   - name: linkedin

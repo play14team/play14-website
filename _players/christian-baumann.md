@@ -3,8 +3,8 @@ layout: player
 
 name: Christian Baumann
 position: Player
-company: q-leap
-bio: "Senior Test Consultant"
+company: Finologee
+bio: "Senior Software Tester"
 avatar: /images/players/christian-baumann.jpg
 socials:
   - name: linkedin

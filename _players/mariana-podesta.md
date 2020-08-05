@@ -1,11 +1,11 @@
 ---
 layout: player
 
-name: Mariana Podesta
+name: Mariana Podestá
 position: Host
 company: Robert Bosch GmbH
-bio: "LEAN Management"
-avatar: /images/players/Mariana_Podesta.jpg
+bio: "Lean Management Director"
+avatar: /images/players/mariana-podesta.jpg
 socials:
   - name: linkedin
     url: in/mariana-podestá-6332558

@@ -4,7 +4,7 @@ layout: player
 name: Suleander Zahn
 position: Player
 company: 
-bio: "Project Manager / PMO / Agility Enthusiast"
+bio: "Agile Coach & Facilitator"
 avatar: /images/players/suleander-zahn.jpg
 socials:
   - name: linkedin

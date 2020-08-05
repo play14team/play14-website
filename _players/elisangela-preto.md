@@ -3,7 +3,7 @@ layout: player
 
 name: Elisângela Preto
 position: Player
-company: 
+company: Natixis
 bio: "Project & Program Manager | Scrum Master"
 avatar: /images/players/elisangela-preto.jpg
 socials:

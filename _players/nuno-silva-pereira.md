@@ -4,7 +4,7 @@ layout: player
 name: Nuno Silva Pereira
 position: Player
 company: Equal Experts
-bio: "Agile Coach | Delivery Manager"
+bio: "Delivery Lead / Agile Coach"
 avatar: /images/players/nuno-silva-pereira.jpg
 socials:
   - name: linkedin
@@ -12,5 +12,5 @@ socials:
 
 events:
   - Lisbon 2019
-
+  - Online May 2020
 ---
