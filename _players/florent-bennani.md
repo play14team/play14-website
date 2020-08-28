@@ -3,8 +3,8 @@ layout: player
 
 name: Florent Bennani
 position: Player
-company: Agile Partner
-bio: "Consultant"
+company: TadaWeb
+bio: "Software developer"
 avatar: /images/players/FlorentBennani.jpg
 socials:
   - name: linkedin

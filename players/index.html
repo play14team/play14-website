@@ -8,7 +8,8 @@ section_id: players
 <div class='full'>
   <div class='row'>
     <h2>Players ({{site.players.size}})</h2>
-    <div class='mod modMasonryGallery'>
+    <div class='mod modGallery'>
+
       <div class='gallery-nav'>
         <ul>
           <li class='current'>
@@ -16,6 +17,9 @@ section_id: players
           </li>
           <li>
             <a data-cat='founder' href='#'>Founder</a>
+          </li>
+          <li>
+            <a data-cat='mentor' href='#'>Mentor</a>
           </li>
           <li>
             <a data-cat='host' href='#'>Host</a>
@@ -45,18 +49,23 @@ section_id: players
           {% endif %}
 
           <li class='{{position}}'>
-            <a href='{{player.id}}'>
-              <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
-              <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
-                <div class='thumb-info'>
-                    <h3>{{position | capitalize}}</h3>
-                    <h4>{{player.company}}</h4>
-                  <h4>{{player.bio}}</h4>
-                </div>
+            <div class='row'>
+              <div class='small-8 columns fadeinright' style="text-align: left; font-weight: bold; color: #FF5200">
+                {{position | capitalize }}
               </div>
+            </div>
+            <a href='{{player.url}}'>
+                <img alt="" src="{{player.avatar | default:'/images/players/default.png'}}" />
+                <div class='overlay' style='background: rgba(0, 152, 221, 0.8);'>
+                  <div class='thumb-info'>
+                    <h4>{{player.bio}}</h4>
+                    <h3>{{player.company}}</h3>
+                 </div>
+                </div>
             </a>
-            <h3>{{player.name | truncate: 25}}</h3>
-          </li>
+            <h3>{{player.name}}</h3>
+        </li>
+          
         {% endfor %}
       </ul>
 

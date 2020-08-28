@@ -2,7 +2,7 @@
 layout: player
 
 name: Jordann Gross
-position: Host
+position: Mentor
 company: Self-organization Chefs
 bio: "Agile Transformation & Self-organization Coach"
 avatar: /images/players/JordannGross.jpg
