@@ -5,16 +5,22 @@ section_id: events
 
 ---
 
+{% assign events = site.events | concat: site.archivedevents %}
+
 <div class='full'>
   <div class='row'>
+    <h1>Events</h1>
     <div class='mod modGallery'>
+
+      {% assign cancelledEvents = events | where_exp:"event","event.schedule.isCancelled == true"  %}
+      <h3>Total: {{events.size }} | Occurred: {{ events.size | minus: cancelledEvents.size }} | Cancelled: {{cancelledEvents.size}} </h3>
 
       <div class='gallery-nav'>
         <ul>
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          {% assign categories = site.events | sort:"category" | group_by:"category" %}
+          {% assign categories = events | sort:"category" | group_by:"category" %}
           {% for category in categories %}
             <li>
               <a data-cat='{{category.name}}' href='#'>{{category.name | capitalize }} ({{category.items.size}})</a>
@@ -22,16 +28,27 @@ section_id: events
           {% endfor %}
         </ul>
       </div>
-
-      {% assign cancelledEvents = site.events | where_exp:"event","event.schedule.isCancelled == true"  %}
-      <h3>Total: {{site.events.size}} | Occurring: {{ site.events.size | minus: cancelledEvents.size }} | Cancelled: {{cancelledEvents.size}} </h3>
+  
+      {% assign upcomingEvents = site.emptyArray %}
+      {% assign archivedevents = site.archivedevents %}
+      {% for event in site.events %}
+        {% if event.schedule.finish > site.time %}
+          {% assign upcomingEvents = upcomingEvents | push: event %}
+        {% else %}
+          {% assign archivedevents = archivedevents | push: event %}
+        {% endif %}
+      {% endfor %}
 
       <h2>Upcoming events</h2>
-      {% include eventgallery.html filter="upcoming" %} 
+      {% assign cancelledEvents = upcomingEvents | where_exp:"event","event.schedule.isCancelled == true"  %}
+      <h3>Total: {{upcomingEvents.size }} | Occurring: {{ upcomingEvents.size | minus: cancelledEvents.size }} | Cancelled: {{cancelledEvents.size}} </h3>
+      {% include eventgallery.html events=upcomingEvents %} 
 
       <div class='two spacing'></div>
-      <h2>Past events</h2>
-      {% include eventgallery.html  filter="past" %} 
+      <h2>Previous events</h2>
+      {% assign cancelledEvents = site.archivedevents | where_exp:"event","event.schedule.isCancelled == true"  %}
+      <h3>Total: {{archivedevents.size }} | Occurred: {{ archivedevents.size | minus: cancelledEvents.size }} | Cancelled: {{cancelledEvents.size}} </h3>
+      {% include eventgallery.html events=archivedevents order="reverse" %} 
     </div>
   </div>
 </div>

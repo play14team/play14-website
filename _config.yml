@@ -32,6 +32,9 @@ jekyll-mentions:
 collections:
   events:
     output: true
+  archivedevents:
+    sort_by: schedule.start
+    output: true
   games:
     output: true
     permalink: :collection/:path

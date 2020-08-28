@@ -79,8 +79,9 @@ layout: default
 
 
 {% assign events = site.emptyArray %}
+{% assign allEvents = site.events | concat: site.archivedevents %}
 {% for eventTitle in page.events %}
-  {% assign event = site.events | where:"title", eventTitle | first %}
+  {% assign event = allEvents | where:"title", eventTitle | first %}
   {% assign events = events | push: event %}
 {% endfor %}
 
@@ -88,7 +89,7 @@ layout: default
   <div class='row'>
     <div class='mod modGallery'>
       <h2>Events attended ({{events.size}})</h2>
-      {% include eventgallery.html variable-param=events %} 
+      {% include eventgallery.html events=events %} 
     </div>
   </div>
 </div>
