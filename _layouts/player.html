@@ -82,7 +82,15 @@ layout: default
 {% assign allEvents = site.events | concat: site.archivedevents %}
 {% for eventTitle in page.events %}
   {% assign event = allEvents | where:"title", eventTitle | first %}
-  {% assign events = events | push: event %}
+  {% assign isCancelled = false %}
+  {% if event.schedule.isCancelled %}
+    {% assign attended = false %}
+  {% else %}
+    {% assign attended = true %}
+  {% endif %}
+  {% if attended %}
+    {% assign events = events | push: event %}
+  {% endif %}
 {% endfor %}
 
 <div class='full no-padding'>
