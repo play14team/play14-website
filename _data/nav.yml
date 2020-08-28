@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Mexico Online 2020
-      path: events/online/2020-08
     - name: Vienna 2020
       path: events/vienna/2020-09
     - name: Sydney 2020

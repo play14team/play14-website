@@ -193,22 +193,33 @@ layout: default
 
 <!-- Register -->
 {% if isOver == false and page.schedule.isCancelled == false and page.registration.type == "eventbrite" %}
+
 <div class='full no-padding'>
   <a name="register"></a>
   <div class='spacing'></div>
   <div class='row'>
     <h2>Register</h2>
     {% if page.registration.eventid %}
-    <div class='large-10 columns'>
-      <div style="width:100%; text-align:left;">
-        <iframe src="https://www.eventbrite.com/tickets-external?eid={{page.registration.eventid}}&ref=etckt" frameborder="0" height="475" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-      </div>
-    </div>
-    <div class='large-2 columns'>
-      <div style="width:195px; text-align:center;" >
-        <iframe  src="https://www.eventbrite.com/countdown-widget?eid={{page.registration.eventid}}" frameborder="0" height="475" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
-      </div>
-    </div>
+      <div id="eventbrite-widget-container-{{page.registration.eventid}}"></div>
+
+      <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+      <script type="text/javascript">
+          var exampleCallback = function() {
+              console.log('Order complete!');
+          };
+
+          window.EBWidgets.createWidget({
+              // Required
+              widgetType: 'checkout',
+              eventId: '{{page.registration.eventid}}',
+              iframeContainerId: 'eventbrite-widget-container-{{page.registration.eventid}}',
+
+              // Optional
+              iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+          });
+      </script>
     {% endif %}
   </div>
 </div>
