@@ -33,6 +33,7 @@ collections:
   events:
     output: true
   archivedevents:
+    permalink: events/:path
     sort_by: schedule.start
     output: true
   games:

@@ -23,14 +23,10 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Vienna 2020
-      path: events/vienna/2020-09
-    - name: Sydney 2020
-      path: events/sydney/2020-10
     - name: Stuttgart 2020
       path: events/stuttgart/2020-11
-    - name: Amsterdam 2020
-      path: events/amsterdam/2020-11
+    - name: Utrecht 2020
+      path: events/utrecht/2020-11
     - name: München 2021
       path: events/muenchen/2021-03
     - name: Prague 2021
