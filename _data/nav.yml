@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Stuttgart 2020
-      path: events/stuttgart/2020-11
     - name: München 2021
       path: events/muenchen/2021-03
     - name: Prague 2021
