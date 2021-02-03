@@ -24,7 +24,7 @@
     - name: Host an event
       path: hosting/
     - name: München 2021
-      path: events/muenchen/2021-03
+      path: events/muenchen/2021-09
     - name: Prague 2021
       path: events/prague/2021-04
     - name: Berlin 2021
