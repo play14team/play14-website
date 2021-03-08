@@ -25,7 +25,7 @@ resources:
   - name: Game instructions
     url: /files/barnga/barnga.pdf
   - name: 5 ticks
-    url: /files/barnga/BARNGA-Five-tricks-10-Versions.pdf
+    url: /files/barnga/barnga-5-tricks.pdf
 
 preparations:
   - Large space
@@ -97,5 +97,5 @@ Players move like this at the end of each Round:
 ### More
 
 * [PDF](/files/barnga/barnga.pdf)
-* [Five Tricks](/files/barnga/BARNGA-Five-tricks-10-Versions.pdf)
+* [Five Tricks](/files/barnga/barnga-5-tricks.pdf)
 * [Book](https://www.amazon.com/Barnga-Simulation-Cultural-Clashes-Anniversary/dp/1931930309)
