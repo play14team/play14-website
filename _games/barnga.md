@@ -23,7 +23,7 @@ materials:
 
 resources:
   - name: Game instructions
-    url: http://www.acphd.org/media/271383/barnga_instructions.pdf
+    url: /files/barnga/barnga.pdf
 
 preparations:
   - Large space
