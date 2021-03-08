@@ -24,6 +24,8 @@ materials:
 resources:
   - name: Game instructions
     url: /files/barnga/barnga.pdf
+  - name: 5 ticks
+    url: /files/barnga/BARNGA-Five-tricks-10-Versions.pdf
 
 preparations:
   - Large space
