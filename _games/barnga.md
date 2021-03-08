@@ -94,5 +94,5 @@ Players move like this at the end of each Round:
 
 ### More
 
-* [PDF](http://www.acphd.org/media/271383/barnga_instructions.pdf)
+* [PDF](/files/barnga/barnga.pdf)
 * [Book](https://www.amazon.com/Barnga-Simulation-Cultural-Clashes-Anniversary/dp/1931930309)
