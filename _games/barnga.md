@@ -95,4 +95,5 @@ Players move like this at the end of each Round:
 ### More
 
 * [PDF](/files/barnga/barnga.pdf)
+* [Five Tricks](/files/barnga/BARNGA-Five-tricks-10-Versions.pdf)
 * [Book](https://www.amazon.com/Barnga-Simulation-Cultural-Clashes-Anniversary/dp/1931930309)
