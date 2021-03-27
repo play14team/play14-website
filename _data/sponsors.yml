@@ -733,3 +733,6 @@
 - name: The Sam Loyd Company
   url: http://samloyd.com/
   logo: /images/sponsors/berlin/sam-loyd.jpg
+  socials:
+    - name: instagram
+      url: samloydco/
