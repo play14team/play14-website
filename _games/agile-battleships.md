@@ -14,6 +14,7 @@ publishdate: 2018-01-13 00:00:00
 authors: 
     - Chris Caswell
 originators: 
+    - James Scrimshire
     - Chris Caswell
 
 firstplayed: Timisoara 2017
@@ -46,6 +47,8 @@ enableComments: true
 ---
 
 ## OVERVIEW
+
+This game was created by [James Scrimshire](https://www.linkedin.com/in/jamesscrimshire/)
 
 - **Goal**: This game is designed to allow participants to experience and reflect on different on the importance of “Responding the change over following a plan”. They will feel the effects of different sized feedback loops, from big bang to empirical. 
 
