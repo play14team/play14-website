@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: München 2021
-      path: events/muenchen/2021-09
     - name: Prague 2021
       path: events/prague/2021-04
     - name: Berlin 2021
@@ -33,6 +31,8 @@
       path: events/basel/2021-09
     - name: Berlin 2022
       path: events/berlin/2022-06
+    - name: München 2022
+      path: events/muenchen/2022-09
 - name: Players
   path: players/
   section_id: players
