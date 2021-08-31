@@ -23,12 +23,8 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Prague 2021
-      path: events/prague/2021-04
-    - name: Berlin 2021
-      path: events/berlin/2021-06
-    - name: Basel 2021
-      path: events/basel/2021-09
+    - name: Utrecht 2021
+      path: events/utrecht/2021-11
     - name: Berlin 2022
       path: events/berlin/2022-06
     - name: München 2022
