@@ -2,7 +2,7 @@
 layout: player
 
 name: Birgit Rüdesheim
-position: Player
+position: Host
 company: RÜDESHEIM|Personalentwicklung
 bio: "Change Management und Personalentwicklung"
 avatar: /images/players/birgit-ruedesheim.jpg
