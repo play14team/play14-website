@@ -2,7 +2,7 @@
 layout: player
 
 name: Barbara Hallama
-position: Player
+position: Host
 company: Hallama.org
 bio: "Product- / Projectmanagement - with a strong background in the Musicbiz | Organization Wizzard"
 avatar: /images/players/BarbaraHallama.jpg
