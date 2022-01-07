@@ -3,8 +3,8 @@ layout: player
 
 name: Ricardo Fernandes
 position: Mentor
-company: Nokia
-bio: "R&D Line Manager at Nokia/Scrum Master/Agile Coach/Management 3.0"
+company: Mercedes io
+bio: "Agile Coach"
 avatar: /images/players/ricardo-fernandes.jpg
 socials:
   - name: linkedin
