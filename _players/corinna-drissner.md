@@ -4,7 +4,7 @@ layout: player
 name: Corinna Drißner
 position: player
 company: Beaufort 8 GmbH
-bio: "Leitung Beratung und Agency Board Mitglied"
+bio: "Beraterin, Strategin, Coach, Kinesiologin"
 avatar: /images/players/corinna-drissner.jpg
 socials:
   - name: xing
