@@ -12,5 +12,7 @@ socials:
 
 events:
   - Mexico 2019
+  - The Big One 2020 
+  - Mexico 2020
 
 ---
