@@ -4,7 +4,7 @@ layout: player
 name: Barbara Hallama
 position: Host
 company:  https://barbara.hallama.org
-bio: "ScrumMaster for the people / Facilitator / DJ / Agile Enthusiast with a long history in the international MusicBiz"
+bio: "ScrumMaster for the people"
 avatar: /images/players/BarbaraHallama.jpg
 socials:
   - name: linkedin
