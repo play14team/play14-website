@@ -3,14 +3,14 @@ layout: player
 
 name: Joseángel Domínguez
 position: Host
-company: Saxum Young Professionals
-bio: "Academic & Cultural Advisor | Humanities & Management | Learning Rebel | Pilgrim"
+company: Narratrix Consulting
+bio: "Academic & Cultural Advisor"
 avatar: /images/players/joseangel-dominguez.jpg
 socials:
   - name: linkedin
     url : in/jose2angel/
 
 events:
-
+  - Madrid 2019
 
 ---
