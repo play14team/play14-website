@@ -14,5 +14,6 @@ events:
   - Luxembourg 2018
   - Amsterdam 2018
   - Luxembourg 2019
+  - Amsterdam 2019
 
 ---
