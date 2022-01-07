@@ -4,7 +4,7 @@ layout: player
 name: Aude Itting
 position: Player
 company: Aude Itting - Culture & Communication
-bio: ""
+bio: "Consultant in communication and training"
 avatar: /images/players/aude-iting.jpg
 socials:
   - name: linkedin
