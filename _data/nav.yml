@@ -23,10 +23,12 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Berlin 2022
+    - name: Luxembourg 2022
       path: events/luxembourg/2022-05
     - name: Berlin 2022
       path: events/berlin/2022-06
+    - name: Viseu 2022
+      path: events/viseu/2022-06
     - name: München 2022
       path: events/muenchen/2022-09
 - name: Players
