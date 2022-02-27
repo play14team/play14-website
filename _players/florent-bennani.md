@@ -2,7 +2,7 @@
 layout: player
 
 name: Florent Bennani
-position: Player
+position: Host
 company: TadaWeb
 bio: "Software developer"
 avatar: /images/players/FlorentBennani.jpg

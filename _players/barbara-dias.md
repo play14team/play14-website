@@ -2,8 +2,8 @@
 layout: player
 
 name: Bárbara Dias
-position: Player
-company: Talkdesk
+position: Host
+company: Tadaweb
 bio: "Talent Development Manager"
 avatar: /images/players/barbara-dias.jpg
 socials:
