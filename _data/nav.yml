@@ -1,5 +1,5 @@
 - name: Home
-  path: 
+  path:
   section_id: home
 - name: About us
   path: history/
@@ -33,6 +33,8 @@
       path: events/viseu/2022-06
     - name: München 2022
       path: events/muenchen/2022-09
+    - name: Bologna 2022
+      path: events/bologna/2022-09
 - name: Players
   path: players/
   section_id: players
@@ -59,10 +61,10 @@
   path: sponsors/
   section_id: sponsors
   children:
-  - name: Miro
-    path: sponsors/miro/
-  - name: Mural
-    path: sponsors/mural/
+    - name: Miro
+      path: sponsors/miro/
+    - name: Mural
+      path: sponsors/mural/
 - name: Blog
   path: blog/
   section_id: blog
