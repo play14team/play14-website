@@ -31,6 +31,8 @@
       path: events/berlin/2022-06
     - name: Viseu 2022
       path: events/viseu/2022-06
+    - name: Basel 2022
+      path: events/basel/2022-08
     - name: München 2022
       path: events/muenchen/2022-09
     - name: Bologna 2022
