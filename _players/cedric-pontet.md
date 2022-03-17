@@ -10,7 +10,7 @@ socials:
   - name: email
     url: cedric.pontet@gmail.com
   - name: twitter
-    url : cpontet
+    url: cpontet
   - name: google-plus
     url: +CédricPontet
   - name: linkedin
@@ -41,13 +41,12 @@ events:
   - Kuala Lumpur 2019
   - Luxembourg 2020
   - Online May 2020
-
 ---
 
-I am very proud of being one of the founders of **#play14** .  
+I am very proud of being one of the founders of **#play14** .
 
-Since it started, it has been nothing but joy and an extraordinary human adventure. 
+Since it started, it has been nothing but joy and an extraordinary human adventure.
 I am so happy to see all the organizers and participants around the world getting so involved.
 
-#play14 belongs to them now. 
+#play14 belongs to them now.
 It's out in the world and that's a great feeling.

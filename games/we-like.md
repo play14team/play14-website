@@ -1,7 +1,6 @@
 ---
 layout: page
 section_id: games
-
 ---
 
 ## The Debriefing Cube
@@ -11,12 +10,13 @@ The most important part of a game, except the fun of playing, is the debrief. Un
 ![The Debriefing Cube](/images/we-like/the-debriefing-cube.jpg)
 
 The [Debriefing Cube](http://thedebriefingcube.com/) will help you improve your debriefs by using the six lenses
-* Goal
-* Process
-* Group dynamics
-* Communication
-* Emotions
-* Take-away
+
+- Goal
+- Process
+- Group dynamics
+- Communication
+- Emotions
+- Take-away
 
 You can order the wooden version of the cube [here](http://shop.kilearning.net/).
 
@@ -29,10 +29,10 @@ Rory's Story Cubes® is the iconic storytelling game that fosters imagination an
 ![Rory's Story Cubes®](/images/we-like/story-cubes.png)
 </a>
 
-
 ## The Extraordinaires® Design Studio
 
 Designing for The Extraordinaires® is a cinch. In 3 simple steps you can start your design journey, creating great and amazing inventions, gadgets and buildings.
+
 1. Chose your character
 2. Pick a project
 3. Create your design
@@ -41,10 +41,9 @@ Designing for The Extraordinaires® is a cinch. In 3 simple steps you can start 
 ![The Extraordinaires Design Studio](/images/we-like/the-extraordinaires.jpg)
 </a>
 
-
 ## Happy Salmon®
 
-Happy Salmon is the simple, fast-paced card game packed to the gills with high-fivin’, fin-flappin’ fun. 
+Happy Salmon is the simple, fast-paced card game packed to the gills with high-fivin’, fin-flappin’ fun.
 
 Actions including the classic "High 5", the unifying "Pound It", the frantic "Switcheroo", and the delightful “Happy Salmon” will leave players doubled over in laughter. With so many mini-celebrations built into the play, it’s the happiest game ever!
 
@@ -78,9 +77,9 @@ Our friend and organizer of #play14 Basel, [Bernhard Sterchi](../_players/bernha
 
 ![Oblique Strategies](https://www.palladio.net/wp-content/uploads/2019/09/IMG_3237-scaled.jpg)
 
-A good idea is only good at the right time and place. If you read a book, listen to a speaker, or watch a video, you may get new ideas that are very useful – somewhere, sometime. But they most certainly are not adapted to your context, and may come at the wrong moment. 
+A good idea is only good at the right time and place. If you read a book, listen to a speaker, or watch a video, you may get new ideas that are very useful – somewhere, sometime. But they most certainly are not adapted to your context, and may come at the wrong moment.
 
-This is why the best leaders take such ideas and weave them into their regular self-reflection. The problem with this: you tend to forget good ideas before you find the first instance to actually practice their application. 
+This is why the best leaders take such ideas and weave them into their regular self-reflection. The problem with this: you tend to forget good ideas before you find the first instance to actually practice their application.
 
 Now imagine you get one hundred teasers that trigger off your reflection in novel ways. That’s what Oblique Strategies for Leaders do.
 

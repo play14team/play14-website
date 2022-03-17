@@ -8,7 +8,7 @@ tags:
 
 publishdate: 2018-01-14 00:00:00
 
-authors: 
+authors:
   - Cédric Pontet
 originators:
   - Giovanni Puliti
@@ -39,22 +39,22 @@ enableComments: true
 
 Turn around with a bag of multi-color plastic ball.  
 Give all participant one plastic ball each.  
-Once everyone has a ball, start a speech, very seriously.  
+Once everyone has a ball, start a speech, very seriously.
 
 > Now that you all have a ball, take some time to look at it.
 > This ball represent your knowledge and skills.
 > We are all professionals, we are all serious people.
 > #play14 is serious business.
-> Your boss paid good money so you could come here. 
+> Your boss paid good money so you could come here.
 > We have make sure that he is not disappointed when you go back to work next week.
 
-... build up you speech like that for a while.  
+... build up you speech like that for a while.
 
-Then suddenly just say  
+Then suddenly just say
 
-> Nahhh... we are not here to be serious. 
+> Nahhh... we are not here to be serious.
 > Now BAAAAAAAL FIIIIIGHT
 
-... and throw your ball at anyone.  
+... and throw your ball at anyone.
 
 The ball fight can last for a moment, until people get tired.

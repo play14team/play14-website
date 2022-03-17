@@ -1,12 +1,12 @@
 ---
 layout: game
 
-title:  "Six thinking hats"
+title: "Six thinking hats"
 category: facilitation
 
 publishdate: 2017-07-01 00:00:00
 
-excerpt: 
+excerpt:
 
 published: false
 

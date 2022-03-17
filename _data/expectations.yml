@@ -7,7 +7,7 @@ main:
     desc: "Get new ideas for games and activities that you will be able to try out right away with your teams when you go back home. Play games that you already know and learn about variations, or discover completely new activities and learn how to facilitate them."
   - icon_class: fa fa-comments-o
     title: Conversations
-    desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR." 
+    desc: "You get to meet new interesting people from multiple backgrounds and with different experiences : serial gamers, learning-by-doing practitioners, games designers, facilitators, agile coaches, teachers, product or service designer, actors, improvisers, therapists, brainstormers, HR."
   - icon_class: fa fa-flask
     title: Experiments
     desc: "It's a safe place where you can experiment new games or any idea that you have, with open minded people, who will be happy to provide feedback. You can come with an idea of something you want to teach, and find people to help you design a game that will reach your particular educational objective."
@@ -22,7 +22,7 @@ other:
       <p>Anyone who wants to initiate a topic can claim a time slot in the agenda.</p>
   - icon_class: fa fa-calendar
     title: Schedule
-    desc: 
+    desc:
       "#play14 usually takes course over two and a half days. It starts at 6 P.M. on the first day with some ice breakers and warm up games, and then a nice get-to-know-each-other dinner.
       <p>On the second day, we start at 9 A.M. with the marketplace. Then, the sessions start. Lunch is usually served around 1 P.M. and a short debrief will take place at the end of the day, around 6 P.M.. Then it's pizza & beer time.</p>
       <p>On the third day, the rhythm is almost the same except that we finish a little bit earlier because some people need to catch a flight and get back home.</p>"
@@ -34,11 +34,11 @@ other:
   - icon_class: fa fa-image
     title: Photography
     desc:
-      "We usually try to take a lot of pictures and videos during the event. We usually publish them on Twitter, Google Photo, Youtube, and our website. 
-      <p>By participating to a #play14 event you tacitly agree to appear in any photo or video. However, if you find any one of them inconvenient or degrading, feel free to ask us, and we will remove the photo or video when possible.</p>" 
+      "We usually try to take a lot of pictures and videos during the event. We usually publish them on Twitter, Google Photo, Youtube, and our website.
+      <p>By participating to a #play14 event you tacitly agree to appear in any photo or video. However, if you find any one of them inconvenient or degrading, feel free to ask us, and we will remove the photo or video when possible.</p>"
   - icon_class: fa fa-dot-circle-o
     title: Sessions
     desc:
-      "Gather with like-minded people on the unconference format. This means no slideshows, no rockstar sessions in push mode, but collaborative sessions where people get the opportunity to learn and practice but also discuss and challenge. 
+      "Gather with like-minded people on the unconference format. This means no slideshows, no rockstar sessions in push mode, but collaborative sessions where people get the opportunity to learn and practice but also discuss and challenge.
       <p>So, bring the materials you need to organize and facilitate the learning activities you already know in order to share them actively with your peers in a learning-by-doing and collaborative mindset.</p>
       <p>English will be used in all general communications, but we would like to let the session leaders decide which language to use in their session.</p>"
