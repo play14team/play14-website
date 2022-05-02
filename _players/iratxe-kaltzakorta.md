@@ -1,10 +1,10 @@
 ---
 layout: player
 
-name: Iratxe Kaltzakorta
+name: Iratxe Kaltzakorta Zendagortagalartza
 position: Player
-company: DiaGroup
-bio: "Agile coach"
+company: Netmind
+bio: "Change Agent"
 avatar: /images/players/iratxe-kaltzakorta.jpg
 socials:
   - name: linkedin

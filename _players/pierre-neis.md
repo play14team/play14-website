@@ -3,8 +3,8 @@ layout: player
 
 name: Pierre Neis
 position: Founder
-company: agile² | yunikon | agile revolution group
-bio: "Senior Agile Coach"
+company:  Cognizant Digital Solutions - Open Eyes Consulting - Sustainable Leaderships
+bio: "Agile Coach"
 avatar: /images/players/PierreNeis.jpg
 socials:
   - name: email
@@ -36,6 +36,5 @@ events:
   - Basel 2019
   - Vienna 2019
   - Online May 2020
-  - Stuttgart 2020
-
+  - The Big One 2020
 ---

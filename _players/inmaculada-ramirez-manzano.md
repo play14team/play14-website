@@ -3,8 +3,8 @@ layout: player
 
 name: Inmaculada Ramírez Manzano
 position: Host
-company: DIA Group
-bio: "Agente de cambio-Scrum Master-Desarrollo de personas"
+company: UST
+bio: "Agile Coach"
 avatar: /images/players/inmaculada-ramirez-manzano.jfif
 socials:
   - name: linkedin
@@ -12,5 +12,7 @@ socials:
 
 events:
   - Madrid 2019
+  - Madrid 2020
+  - Madrid 2022
 
 ---
