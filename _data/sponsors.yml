@@ -736,3 +736,21 @@
   socials:
     - name: instagram
       url: samloydco/
+
+- name: Agile Classrooms
+  url: 
+  logo: /images/sponsors/madrid/agile-classrooms.png
+  socials:
+
+- name: Netmind
+  url: https://netmind.net/
+  logo: /images/sponsors/madrid/netmind.jpg
+  socials:
+    - name: linkedin
+      url: company/netmind
+    - name: twitter
+      url: netmind_es
+    - name: facebook
+      url: netmindtraining
+    - name: instagram
+      url: netmind_group
