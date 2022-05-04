@@ -14,5 +14,6 @@ events:
   - Porto 2018
   - Luxembourg 2019
   - Lisbon 2019
+  - Luxembourg 2022
 
 ---
