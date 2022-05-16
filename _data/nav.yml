@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Luxembourg 2022
-      path: events/luxembourg/2022-05
     - name: Madrid 2022
       path: events/madrid/2022-06
     - name: Berlin 2022
