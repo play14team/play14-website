@@ -3,8 +3,8 @@ layout: player
 
 name: Mo-Ling Chui
 position: Player
-company: 
-bio: "Creative Director, Course Leader, Design Management & Cultures at LCC, UAL, Consultant, Strategist, R&D, facilitator"
+company: Current.Works and University of the Arts London
+bio: "Strategist, Creative Director, Facilitator, Senior Lecturer for Design Management & Cultures at LCC, UAL, cultural intelligence, coach"
 avatar: /images/players/mo-ling-chui.jpg
 socials:
   - name: linkedin
@@ -13,5 +13,6 @@ socials:
 events:
   - London 2017
   - London 2018
+  - London 2019
 
 ---
