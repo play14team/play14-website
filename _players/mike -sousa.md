@@ -12,5 +12,6 @@ socials:
 
 events:
   - Porto 2018
+  - Viseu 2022
 
 ---

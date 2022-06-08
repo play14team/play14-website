@@ -17,5 +17,6 @@ events:
   - Lisbon 2019
   - Kuala Lumpur 2019
   - Sydney 2020
+  - Viseu 2022
 
 ---

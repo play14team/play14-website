@@ -3,7 +3,7 @@ layout: player
 
 name: Jérémy Rousset
 position: Player
-company: Agile Partner
+company: Pictet Technologies
 bio: "Agile Coach"
 avatar: /images/players/JeremyRousset.jpg
 socials:

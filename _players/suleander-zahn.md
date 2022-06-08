@@ -16,5 +16,6 @@ events:
   - London 2019
   - München 2020
   - Luxembourg 2022
+  - Viseu 2022
 
 ---

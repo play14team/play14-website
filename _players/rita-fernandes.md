@@ -1,17 +1,16 @@
 ---
 layout: player
 
-name: Pedro Almeida
+name: Rita Fernandes
 position: Player
 company: kununu
 bio: "Agile Coach"
-avatar: /images/players/pedro-almeida.jpg
+avatar: /images/players/rita-fernandes.jpg
 socials:
   - name: linkedin
-    url : in/pfsalmeida/
+    url : in/rita-fernandes-64914168/
 
 events:
-  - Porto 2018
   - Viseu 2022
 
 ---

@@ -3,7 +3,7 @@ layout: player
 
 name: Samuel Leroy
 position: Player
-company: Agile Partner
+company: Pictet Technologies
 bio: "Facilitator"
 avatar: /images/players/samuel-leroy.jpg
 socials:

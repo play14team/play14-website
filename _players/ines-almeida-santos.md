@@ -11,5 +11,6 @@ socials:
     url : in/inês-almeida-santos-ab08982/
 events:
   - Porto 2018
+  - Viseu 2022
 
 ---
