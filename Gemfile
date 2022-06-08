@@ -20,3 +20,4 @@ gem "sdbm", "~> 1.0"
 gem "webrick", "~> 1.7"
 gem "net-telnet", "~> 0.2.0"
 gem "xmlrpc", "~> 0.3.2"
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
