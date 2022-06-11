@@ -2,7 +2,7 @@
 layout: player
 
 name: Benjamin Sung Ho Wenzel
-position: Player
+position: Host
 company: Horváth & Partners Management Consultants
 bio: "Managing Consultant Change Management"
 avatar: /images/players/benjamin_sung_ho_wenzel.jpg
