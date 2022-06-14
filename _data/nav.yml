@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Berlin 2022
-      path: events/berlin/2022-06
     - name: Viseu 2022
       path: events/viseu/2022-06
     - name: Basel 2022
