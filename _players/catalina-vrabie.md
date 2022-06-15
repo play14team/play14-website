@@ -12,5 +12,6 @@ socials:
 
 events:
   - Madrid 2019
+  - Iași 2022
 
 ---
