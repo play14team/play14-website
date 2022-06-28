@@ -14,5 +14,6 @@ events:
   - Luxembourg 2019
   - Madrid 2019
   - Lisbon 2019
+  - Viseu 2022
 
 ---
