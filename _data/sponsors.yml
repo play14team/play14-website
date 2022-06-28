@@ -754,3 +754,12 @@
       url: netmindtraining
     - name: instagram
       url: netmind_group
+
+- name: Fab Lab Iași
+  url: https://fablabiasi.spaces.nexudus.com/
+  logo: /images/sponsors/iasi/fablabiasi.png
+  socials:
+    - name: facebook
+      url: fablabiasi
+    - name: instagram
+      url: fablabiasi
