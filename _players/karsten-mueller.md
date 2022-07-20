@@ -30,5 +30,6 @@ events:
   - Hamburg 2020
   - Berlin 2020
   - München 2020
+  - München 2022
 
 ---
