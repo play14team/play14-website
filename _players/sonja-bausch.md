@@ -11,6 +11,6 @@ socials:
     url : in/dr-sonja-bausch-73813111
 
 events:
-  - Muenchen 2022
+  - Munich 2022
 
 ---
