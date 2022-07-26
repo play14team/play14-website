@@ -4,7 +4,7 @@ layout: player
 name: Karsten Mueller
 position: Mentor
 company: emetriq GmbH
-bio: "Agilist"
+bio: "Agilist & Overhead of everything ;)"
 avatar: /images/players/KarstenMueller.jpg
 socials:
   - name: email
@@ -30,5 +30,6 @@ events:
   - Hamburg 2020
   - Berlin 2020
   - München 2020
+  - München 2022
 
 ---
