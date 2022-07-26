@@ -23,10 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Viseu 2022
-      path: events/viseu/2022-06
-    - name: Basel 2022
-      path: events/basel/2022-08
     - name: Iași 2022
       path: events/iasi/2022-09
     - name: München 2022
