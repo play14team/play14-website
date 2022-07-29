@@ -18,5 +18,6 @@ events:
   - Luxembourg 2019
   - Bologna 2019
   - Amsterdam 2019
+  - München 2022
 
 ---
