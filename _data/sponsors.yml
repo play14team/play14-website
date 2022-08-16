@@ -763,3 +763,12 @@
       url: fablabiasi
     - name: instagram
       url: fablabiasi
+
+- name: Hindawi
+  url: https://hindawi.ro/
+  logo: /images/sponsors/iasi/hindawi.jpg
+  socials:
+    - name: facebook
+      url: HindawiIasi
+    - name: linkedin
+      url: company/hindawilimited/
