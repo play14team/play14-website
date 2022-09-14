@@ -23,8 +23,6 @@
       path: media/
     - name: Host an event
       path: hosting/
-    - name: Iași 2022
-      path: events/iasi/2022-09
     - name: Bologna 2022
       path: events/bologna/2022-09
     - name: München 2022
