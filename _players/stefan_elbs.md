@@ -13,6 +13,6 @@ socials:
     url: /profile/Stefan_Elbs
 
 events:
-  - München 2020
+  - München 2022
 
 ---
