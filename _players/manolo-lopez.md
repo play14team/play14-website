@@ -18,5 +18,6 @@ events:
   - Barcelona 2018
   - Madrid 2019
   - Bologna 2019
+  - Berlin 2023
   
 ---
