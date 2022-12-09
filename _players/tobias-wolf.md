@@ -3,7 +3,7 @@ layout: player
 
 name: Tobias Wolf
 position: Player
-company: 
+company: Mediaan Deutschland GmbH
 bio: "Senior Consultant"
 avatar: /images/players/tobias-wolf.jpg
 socials:
@@ -12,5 +12,6 @@ socials:
 
 events:
   - Luxembourg 2019
+  - Berlin 2022
 
 ---

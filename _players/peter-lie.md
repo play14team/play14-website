@@ -3,8 +3,8 @@ layout: player
 
 name: Peter Lie
 position: Player
-company: AXA
-bio: "International Agile Coach, Trainer, Speaker, Visual Facilitator (Transformation, SAFe)"
+company: CGI
+bio: "Director Consulting at CGI Deutschland & IC Agile Authorized Instructor"
 avatar: /images/players/PeterLie.jpg
 socials:
   - name: linkedin
@@ -15,5 +15,6 @@ events:
   - Berlin 2017
   - Hamburg 2018
   - Luxembourg 2019
+  - Berlin 2022
 
 ---

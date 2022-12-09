@@ -3,8 +3,8 @@ layout: player
 
 name: Tony Bruce
 position: Player
-company: Equal Experts
-bio: "Associate"
+company: Ada Health
+bio: "Headline"
 avatar: /images/players/tony-bruce.jpg
 socials:
   - name: linkedin
@@ -13,5 +13,6 @@ socials:
 events:
   - Luxembourg 2018
   - London 2018
+  - Berlin 2022
 
 ---
