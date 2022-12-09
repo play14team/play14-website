@@ -32,5 +32,7 @@ events:
   - Vienna 2019
   - Hamburg 2020
   - Berlin 2020
+  - Berlin 2022
+  - Berlin 2023
 
 ---
