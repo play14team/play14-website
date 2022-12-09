@@ -12,5 +12,6 @@ socials:
     
 events:
   - Berlin 2022
+  - Berlin 2023
 
 ---
