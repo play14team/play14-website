@@ -2,7 +2,7 @@
 layout: player
 
 name: Lucija Pilić
-position: Player
+position: Host
 company: Gamechuck
 bio: "Public Relations / Business Development / Level Design"
 avatar: /images/players/lucija-pilic.jpg
@@ -12,5 +12,6 @@ socials:
 
 events:
   - München 2022
+  - Zagreb 2023
 
 ---

@@ -2,7 +2,7 @@
 layout: player
 
 name: Kristijan Zimmer
-position: Player
+position: Host
 company: Croatian Information Technology Association
 bio: "IT, E-learning & Gamification Consultant"
 avatar: /images/players/kristijan-zimmer.jpg
@@ -14,5 +14,6 @@ socials:
 
 events:
   - München 2022
+  - Zagreb 2023
 
 ---
