@@ -25,6 +25,8 @@
       path: hosting/
     - name: Zagreb 2023
       path: events/zagreb/2023-03
+    - name: Iași 2023
+      path: events/iasi/2023-05
     - name: Berlin 2023
       path: events/berlin/2023-06
 - name: Players
