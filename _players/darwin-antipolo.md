@@ -12,5 +12,6 @@ socials:
 
 events:
   - Kuala Lumpur 2019
+  - Manila 2023
 
 ---
