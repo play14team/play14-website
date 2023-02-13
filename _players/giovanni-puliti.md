@@ -22,5 +22,10 @@ events:
   - Luxembourg 2016
   - Milano 2016
   - Milano 2017
+  - Milano 2018
+  - Bari 2018
+  - Bologna 2019
+  - Bologna 2022
+  - Bologna 2023
 
 ---
