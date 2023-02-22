@@ -772,3 +772,20 @@
       url: HindawiIasi
     - name: linkedin
       url: company/hindawilimited/
+
+- name: Netokracija
+  url: https://www.netokracija.com/
+  logo: /images/sponsors/zagreb/Netokracija_Logo_Black.png
+  socials:
+    - name: facebook
+      url: netokracija
+    - name: twitter
+      url: netokracija
+    - name: instagram
+      url: netokracija
+    - name: linkedin
+      url: company/netokracija
+    - name: youtube
+      url: user/netokracijatv
+
+  
