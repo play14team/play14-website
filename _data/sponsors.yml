@@ -788,4 +788,9 @@
     - name: youtube
       url: user/netokracijatv
 
-  
+- name: Kaufland
+  logo: /images/sponsors/zagreb/kaufland.png
+
+- name: Prismo
+  logo: /images/sponsors/zagreb/pismo.png
+    
