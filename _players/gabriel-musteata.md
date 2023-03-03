@@ -12,5 +12,6 @@ socials:
 
 events:
   - Iași 2022
+  - Zagreb 2023
 
 ---
